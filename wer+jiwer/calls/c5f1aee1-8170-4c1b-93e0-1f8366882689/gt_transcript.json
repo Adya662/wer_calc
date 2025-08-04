@@ -1,0 +1,377 @@
+[
+  {
+    "timestamp": "0:00:00.160250",
+    "speaker": "Agent",
+    "content": "Hey, I'm Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.709381",
+    "speaker": "Customer",
+    "content": "Yeah, let's proceed in English."
+  },
+  {
+    "timestamp": "0:00:10.945548",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:14.157762",
+    "speaker": "Customer",
+    "content": "I want to know the status of an order that I placed on 8th July."
+  },
+  {
+    "timestamp": "0:00:22.650807",
+    "speaker": "Agent",
+    "content": "I can help you with tracking your order. Could you please provide me the product name?"
+  },
+  {
+    "timestamp": "0:00:29.171392",
+    "speaker": "Customer",
+    "content": "Yeah, I don't recall it, but I placed the order yesterday."
+  },
+  {
+    "timestamp": "0:00:34.476613",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:38.953970",
+    "speaker": "Agent",
+    "content": "Your Crocs Unisex Navy Blue Bayaband Clogs will be delivered on or before 12th July. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:00:48.785315",
+    "speaker": "Customer",
+    "content": "Can I get this order faster?"
+  },
+  {
+    "timestamp": "0:00:52.853773",
+    "speaker": "Agent",
+    "content": "We currently cannot accommodate changes to the delivery time. The fastest available delivery option is always chosen for your order. If you have any more questions, feel free to ask."
+  },
+  {
+    "timestamp": "0:01:05.140040",
+    "speaker": "Customer",
+    "content": "If I want to cancel the order, can you help me with cancellation?"
+  },
+  {
+    "timestamp": "0:01:11.126817",
+    "speaker": "Agent",
+    "content": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the Myntra app by going to the orders section and selecting the order you wish to cancel. If you need further assistance, feel free to ask."
+  },
+  {
+    "timestamp": "0:01:26.908295",
+    "speaker": "Customer",
+    "content": "If the order, if I have more than one order, more than item in the order, is it possible for me to cancel just one item?"
+  },
+  {
+    "timestamp": "0:01:36.770868",
+    "speaker": "Agent",
+    "content": "Yes, you can cancel individual items within an order through the Myntra app. Just go to the order section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know."
+  },
+  {
+    "timestamp": "0:01:51.858998",
+    "speaker": "Customer",
+    "content": "Okay, tell me the delivery address?"
+  },
+  {
+    "timestamp": "0:01:55.766817",
+    "speaker": "Agent",
+    "content": "I'm sorry, but I'm unable to share delivery address details. You can check the delivery address in the order section of the Myntra app. If there's anything else, you need help with."
+  },
+  {
+    "timestamp": "0:02:06.568808",
+    "speaker": "Customer",
+    "content": "My question is, can I change the delivery address for this order?"
+  },
+  {
+    "timestamp": "0:02:12.431862",
+    "speaker": "Agent",
+    "content": "We are currently unable to support changes to the delivery address once an order is placed. If you have any other questions or need further assistance, feel free to ask."
+  },
+  {
+    "timestamp": "0:02:22.967702",
+    "speaker": "Customer",
+    "content": "But I placed the wrong address, I need to change it."
+  },
+  {
+    "timestamp": "0:02:29.542535",
+    "speaker": "Agent",
+    "content": "I really apologize for the inconvenience. I'm unable to make changes to the delivery address at this time. If there's anything else I can help with, or if you want to speak with another agent for further assistance, just let me know."
+  },
+  {
+    "timestamp": "0:02:43.749876",
+    "speaker": "Customer",
+    "content": "Sure. Uh, once an order is placed, how do I return this item?"
+  },
+  {
+    "timestamp": "0:02:49.390155",
+    "speaker": "Agent",
+    "content": "To initiate a return on the Myntra app, open the Myntra app and go to the order section, then select the item you want to return, tap on return, choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know."
+  },
+  {
+    "timestamp": "0:03:09.084379",
+    "speaker": "Customer",
+    "content": "Can you help me creating a return?"
+  },
+  {
+    "timestamp": "0:03:20.002538",
+    "speaker": "Agent",
+    "content": "I'm experiencing technical difficulties. Please try again later."
+  },
+  {
+    "timestamp": "0:03:21.012975",
+    "speaker": "Customer",
+    "content": "Hello"
+  },
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Hey, I'm Rey from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.623682",
+    "speaker": "Customer",
+    "content": "Yeah, let's proceed in English."
+  },
+  {
+    "timestamp": "0:00:10.944117",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:14.094663",
+    "speaker": "Customer",
+    "content": "I want to know the status of an order that I placed on 8th July."
+  },
+  {
+    "timestamp": "0:00:22.590622",
+    "speaker": "Agent",
+    "content": "I can help you with tracking your order. Could you please provide me the product name?"
+  },
+  {
+    "timestamp": "0:00:29.117257",
+    "speaker": "Customer",
+    "content": "Yeah, I don't recall it, but I placed the order yesterday."
+  },
+  {
+    "timestamp": "0:00:34.474280",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:38.783267",
+    "speaker": "Agent",
+    "content": "Your Crocs Unisex Navy Blue Bayaband Clogs will be delivered on or before 12th July. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:00:48.671962",
+    "speaker": "Customer",
+    "content": "Can I get this order faster?"
+  },
+  {
+    "timestamp": "0:00:52.812490",
+    "speaker": "Agent",
+    "content": "We currently cannot accommodate changes to the delivery time. The fastest available delivery option is always chosen for your order. If you have any more questions, feel free to ask."
+  },
+  {
+    "timestamp": "0:01:04.999564",
+    "speaker": "Customer",
+    "content": "If I want to cancel the order, can you help me with cancellation?"
+  },
+  {
+    "timestamp": "0:01:11.130609",
+    "speaker": "Agent",
+    "content": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the Myntra app by going to the orders section and selecting the order you wish to cancel. If you need further assistance, feel free to ask."
+  },
+  {
+    "timestamp": "0:01:26.836792",
+    "speaker": "Customer",
+    "content": "If the order, if I have more than one order, more than item in the order, is it possible for me to cancel just one item"
+  },
+  {
+    "timestamp": "0:01:36.741677",
+    "speaker": "Agent",
+    "content": "Yes, you can cancel individual items within an order through the Myntra app. Just go to the order section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know."
+  },
+  {
+    "timestamp": "0:01:51.607757",
+    "speaker": "Customer",
+    "content": "Can you tell me the delivery address?\""
+  },
+  {
+    "timestamp": "0:01:55.705300",
+    "speaker": "Agent",
+    "content": "I'm sorry, but I'm unable to share delivery address details. If there's anything else, you need help with"
+  },
+  {
+    "timestamp": "0:02:06.385083",
+    "speaker": "Customer",
+    "content": "My question is, can I change the delivery address for this order?"
+  },
+  {
+    "timestamp": "0:02:12.400528",
+    "speaker": "Agent",
+    "content": "We are currently unable to support changes to the delivery address once an order is placed. If you have any other questions or need further assistance, feel free to ask.\""
+  },
+  {
+    "timestamp": "0:02:22.880712",
+    "speaker": "Customer",
+    "content": "But I placed the wrong address, I need to change it."
+  },
+  {
+    "timestamp": "0:02:29.412899",
+    "speaker": "Agent",
+    "content": "I really apologize for the inconvenience. I'm unable to make changes to the delivery address at this time. If there's anything else I can help with, or if you want to speak with another agent for further assistance, just let me know."
+  },
+  {
+    "timestamp": "0:02:43.592629",
+    "speaker": "Customer",
+    "content": "Sure. Uh, once an order is placed, how do I return this item?"
+  },
+  {
+    "timestamp": "0:02:49.347148",
+    "speaker": "Agent",
+    "content": "To initiate a return on the Myntra app, open the Myntra app and go to the order section, then select the item you want to return, tap on return, choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know."
+  },
+  {
+    "timestamp": "0:03:09.068832",
+    "speaker": "Customer",
+    "content": "Can you help me creating a return?"
+  },
+  {
+    "timestamp": "0:03:19.975373",
+    "speaker": "Agent",
+    "content": "I'm experiencing technical difficulties. Please try again later."
+  },
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Hey, I'm Rey from Myntra, here to assist you. Shall we proceed further in Hindi or English?\""
+  },
+  {
+    "timestamp": "0:00:05.599538",
+    "speaker": "Customer",
+    "content": "Yeah, let's proceed in English."
+  },
+  {
+    "timestamp": "0:00:10.912383",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:14.085929",
+    "speaker": "Customer",
+    "content": "I want to know the status of an order that I placed on 8th July."
+  },
+  {
+    "timestamp": "0:00:22.618222",
+    "speaker": "Agent",
+    "content": "I can help you with tracking your order. Could you please provide me the product name?"
+  },
+  {
+    "timestamp": "0:00:29.040749",
+    "speaker": "Customer",
+    "content": "Yeah, I don't recall it, but I placed the order yesterday."
+  },
+  {
+    "timestamp": "0:00:34.458834",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:38.869958",
+    "speaker": "Agent",
+    "content": "Your Crocs Unisex Navy blue Bioband clogs will be delivered on or before 12th July. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:00:48.684068",
+    "speaker": "Customer",
+    "content": "Can I get this order faster?"
+  },
+  {
+    "timestamp": "0:00:52.813824",
+    "speaker": "Agent",
+    "content": "We currently cannot accommodate changes to the delivery time. The fastest available delivery option is always chosen for your order. If you have any more questions, feel free to ask."
+  },
+  {
+    "timestamp": "0:01:05.074906",
+    "speaker": "Customer",
+    "content": "If I want to cancel the order, can you help me with cancellation?"
+  },
+  {
+    "timestamp": "0:01:11.084800",
+    "speaker": "Agent",
+    "content": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the Myntra app by going to the orders section and selecting the order you wish to cancel. If you need further assistance, feel free to ask."
+  },
+  {
+    "timestamp": "0:01:26.851436",
+    "speaker": "Customer",
+    "content": "If the order if I have more than one order more than one item in the order, is it possible for me to cancel just one item?"
+  },
+  {
+    "timestamp": "0:01:36.744884",
+    "speaker": "Agent",
+    "content": "Yes, you can cancel individual items within an order through the Myntra app. Just go to the orders section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know."
+  },
+  {
+    "timestamp": "0:01:51.780364",
+    "speaker": "Customer",
+    "content": "Can you change my delivery address?"
+  },
+  {
+    "timestamp": "0:01:55.741734",
+    "speaker": "Agent",
+    "content": "I'm sorry, but I'm unable to share delivery address details. If there's anything else you need help with"
+  },
+  {
+    "timestamp": "0:02:03.299913",
+    "speaker": "Customer",
+    "content": "Not my question Rey."
+  },
+  {
+    "timestamp": "0:02:06.539563",
+    "speaker": "Customer",
+    "content": "My question is, can I change the delivery address for this order?"
+  },
+  {
+    "timestamp": "0:02:12.409509",
+    "speaker": "Agent",
+    "content": "We are currently unable to support changes to the delivery address once an order is placed. If you have any other questions or need further assistance, feel free to ask."
+  },
+  {
+    "timestamp": "0:02:22.849704",
+    "speaker": "Customer",
+    "content": "But I placed the wrong address. I need to change it."
+  },
+  {
+    "timestamp": "0:02:29.535188",
+    "speaker": "Agent",
+    "content": "I really apologize for the inconvenience. I am unable to make changes to the delivery address at this time. If there's anything else I can help with, or if you want to speak with another agent for further assistance, just let me know."
+  },
+  {
+    "timestamp": "0:02:43.741017",
+    "speaker": "Customer",
+    "content": "Sure, once an order is placed, how do I return this item?"
+  },
+  {
+    "timestamp": "0:02:49.376814",
+    "speaker": "Agent",
+    "content": "To initiate a return on the Myntra app,"
+  },
+  {
+    "timestamp": "0:02:52.419539",
+    "speaker": "Agent",
+    "content": "open the Myntra app and go to the orders section. Then select the item you want to return, tap on return. choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know."
+  },
+  {
+    "timestamp": "0:03:09.029629",
+    "speaker": "Customer",
+    "content": "Can you help me creating a return?"
+  },
+  {
+    "timestamp": "0:03:19.969027",
+    "speaker": "Agent",
+    "content": "I'm experiencing technical difficulties. Please try again later."
+  }
+]

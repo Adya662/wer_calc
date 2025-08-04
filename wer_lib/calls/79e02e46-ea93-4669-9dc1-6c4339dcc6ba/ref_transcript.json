@@ -1,0 +1,152 @@
+[
+  {
+    "timestamp": "2025-06-18 11:35:50",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-06-18 11:35:53",
+    "speaker": "user",
+    "content": "English can we speak?"
+  },
+  {
+    "timestamp": "2025-06-18 11:35:57",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-06-18 11:36:04",
+    "speaker": "user",
+    "content": "Yeah, I just wanted to check if my when will my return be picked up, I created a return for 1 product just now."
+  },
+  {
+    "timestamp": "2025-06-18 11:36:05",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-18 11:36:06",
+    "speaker": "user",
+    "content": "Can you check it?"
+  },
+  {
+    "timestamp": "2025-06-18 11:36:12",
+    "speaker": "assistant",
+    "content": "Could you please tell me the product name or brand for which you created the return?"
+  },
+  {
+    "timestamp": "2025-06-18 11:36:18",
+    "speaker": "user",
+    "content": "It is some queue can teach, cube can teach."
+  },
+  {
+    "timestamp": "2025-06-18 11:36:33",
+    "speaker": "assistant",
+    "content": "I found a product in your order list that sounds similar to what you mentioned, the \"Kook N Keech Urban Edge Printed Relaxed T-Shirt,\" ordered on June eighteenth at five five PM. Is this the item you created a return for?"
+  },
+  {
+    "timestamp": "2025-06-18 11:36:36",
+    "speaker": "user",
+    "content": "Yes right right."
+  },
+  {
+    "timestamp": "2025-06-18 11:36:48",
+    "speaker": "assistant",
+    "content": "Your कुक एंड कीच Urban Edge Printed Relaxed T-Shirt is expected to be picked up by 21 June (subject to quality check). \n Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-06-18 11:36:52",
+    "speaker": "user",
+    "content": "Freekins का भी एक था उसका क्या status है?"
+  },
+  {
+    "timestamp": "2025-06-18 11:36:59",
+    "speaker": "assistant",
+    "content": "I couldn't find a Freekins product in your orders. Can you please tell me the exact product name or brand again?"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:04",
+    "speaker": "user",
+    "content": "Crkins prod, brand name is Crkins"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:09",
+    "speaker": "assistant",
+    "content": "I couldn't locate any Crkins product in your order list either. Could you"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:09",
+    "speaker": "user",
+    "content": "एक short"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:10",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-18 11:37:12",
+    "speaker": "user",
+    "content": "एक shirt है ना frricks का."
+  },
+  {
+    "timestamp": "2025-06-18 11:37:22",
+    "speaker": "assistant",
+    "content": "I couldn't find a product with the brand name Freekins or Crkins in your order list. Would you like me to connect you to another agent who can assist you better?"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:27",
+    "speaker": "user",
+    "content": "No, मुझे फिर उसका चाहिए एक और मेरा product है."
+  },
+  {
+    "timestamp": "2025-06-18 11:37:28",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-18 11:37:29",
+    "speaker": "user",
+    "content": "Masculincaline सासा फ़रस का."
+  },
+  {
+    "timestamp": "2025-06-18 11:37:40",
+    "speaker": "assistant",
+    "content": "I couldn't find a product matching \"Masculincaline सासा फ़रस\" in your order list either. Could you please provide more details, like the product type or color, so I can assist you better?"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:44",
+    "speaker": "user",
+    "content": "यह सासा per us का product है brand."
+  },
+  {
+    "timestamp": "2025-06-18 11:37:51",
+    "speaker": "assistant",
+    "content": "I understand you're having difficulty with the product name. Do you want to speak with another agent who can assist you better?"
+  },
+  {
+    "timestamp": "2025-06-18 11:37:57",
+    "speaker": "user",
+    "content": "नहीं तो मैं brand name बताता हूं एक बार FREAKINS."
+  },
+  {
+    "timestamp": "2025-06-18 11:38:07",
+    "speaker": "assistant",
+    "content": "I couldn't locate any product under the brand name Freekins in your order list. Do you want to speak with another agent who can assist you better?"
+  },
+  {
+    "timestamp": "2025-06-18 11:38:13",
+    "speaker": "user",
+    "content": "But मैंने तो किया है ना एक और product है जो UN RL का है वह भी नहीं दिख रहा है आपको."
+  },
+  {
+    "timestamp": "2025-06-18 11:38:22",
+    "speaker": "assistant",
+    "content": "I couldn't find products matching \"UN RL\" in your order list either. Would you like me to connect you to another agent who can assist you better?"
+  },
+  {
+    "timestamp": "2025-06-18 11:38:26",
+    "speaker": "user",
+    "content": "ठीक है कर लो ना."
+  }
+]

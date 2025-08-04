@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "0:00:24.200934",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate now. Am I speaking with Yogesh Deshmukh? I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:35.302440",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:00:37.227404",
+    "speaker": "Agent",
+    "content": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "0:00:53.509903",
+    "speaker": "Customer",
+    "content": "metabolism."
+  },
+  {
+    "timestamp": "0:00:55.743403",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:59.436118",
+    "speaker": "Customer",
+    "content": "Metabolism, body metabolism."
+  },
+  {
+    "timestamp": "0:01:04.843773",
+    "speaker": "Agent",
+    "content": "Based on your BMI of 25, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals and the nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?"
+  },
+  {
+    "timestamp": "0:01:28.240739",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:01:31.090105",
+    "speaker": "Agent",
+    "content": "Great, have you had any past experiences with other weight loss programs? f yes, did they work for you?"
+  },
+  {
+    "timestamp": "0:01:40.209144",
+    "speaker": "Customer",
+    "content": "No."
+  },
+  {
+    "timestamp": "0:01:42.888823",
+    "speaker": "Agent",
+    "content": "You're in the right place. Let me give you a quick intro to what we offer. The Nano plan includes a blood test, a consultation with a doctor specialized in obesity, and a session with a senior health coach. These are designed to help you achieve your weight loss goals. Unless you have any specific questions related to these offerings, can I explain how they can benefit your journey?"
+  },
+  {
+    "timestamp": "0:02:09.383802",
+    "speaker": "Customer",
+    "content": "No."
+  },
+  {
+    "timestamp": "0:02:11.633952",
+    "speaker": "Agent",
+    "content": "Sure, here's a brief overview of how the Nano plan works for you. \"It starts with a comprehensive blood test to identify key metabolic issues like insulin resistance and hormonal imbalances. Then, a senior obesity specialist will review your results and discuss how they impact your health. Finally, a health coach will create a personalized plan tailored to your needs. \"Now that we've covered the offerings, would you like to know about the pricing?"
+  },
+  {
+    "timestamp": "0:02:40.506060",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:02:42.717722",
+    "speaker": "Agent",
+    "content": "The Nano plan is designed to be affordable at Rs 1,799, including the blood test, metabolic report, and doctor consultation. This is a one-time payment giving you access to premium services at a fraction of the typical cost, which can be around Rs 6,000 otherwise. What do you think about the pricing?"
+  },
+  {
+    "timestamp": "0:03:03.594932",
+    "speaker": "Customer",
+    "content": "It's okay."
+  },
+  {
+    "timestamp": "0:03:06.531628",
+    "speaker": "Agent",
+    "content": "Now that we've talked about the offerings and pricing, I really think the nano plan can be a great starting point for you to achieve your weight loss goals. Would you like to proceed with the payment?"
+  },
+  {
+    "timestamp": "0:03:17.933901",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:03:20.529630",
+    "speaker": "Agent",
+    "content": "You can choose between two payment options, a partial payment of rupees 499 now and the remaining rupees 1,399 at the time of blood sample collection or a full payment of rupees 1,799 upfront. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more questions before we proceed?\""
+  },
+  {
+    "timestamp": "0:03:43.556787",
+    "speaker": "Customer",
+    "content": "No."
+  },
+  {
+    "timestamp": "0:03:45.985150",
+    "speaker": "Agent",
+    "content": "Perfect, I'll send the payment links to your registered mobile number. If you have any more questions in the future, feel free to reach out. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:04:06.356181",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  }
+]

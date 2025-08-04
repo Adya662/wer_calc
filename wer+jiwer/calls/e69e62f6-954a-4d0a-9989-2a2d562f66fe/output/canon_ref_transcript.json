@@ -1,0 +1,85 @@
+{
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english thik hai main aapki kaise madad kar sakti hun main aapki help karne ke liye yahan hun kya aap mujhe apne product ka naam ya brand bata sakte hain taki main aapke order ka status check kar sakun aapne hinglish mein baat karne ka chunaav kiya hai kripya mujhe bataen ki aap kis product ya brand ke bare mein puch rahe hain taki main aapki madad kar sakun thoda intazar kijiye main aapke products la rahi hun aapke order list mein do items hain jo us polo kids se jude hain ek hai us polo kids girls drop shoulder sleeves pure cotton applique tshirt aur dusra hai us polo kids girls embroidered pure cotton straight skirt kripya bataen inmein se kis item ke bare mein aap puch rahe hain aapka us polo kids girls drop shoulder sleeves pure cotton applique tshirt 21 june ya usse pahle deliver kar diya jaega kripya bataiye kya main aapki kisi aur chiz mein madad kar sakti hun is order ke liye refund policy ke bare mein jankari pane ke liye main aapko mintra app par jane ki salah dungi aap wahan se apne order ke details mein jakar refund policy ko check kar sakte hain kripya bataiye kya main aapki kisi aur chiz mein madad kar sakti hun maaf kijiye main keval aapke mintra order ya return se judi queries mein madad kar sakti hun kya main aapki kisi aur chiz mein madad kar sakti hun aapke us polo kids girls drop shoulder sleeves pure cotton applique tshirt ke liye return policy aapke order ke liye refund policy yah hai ki agar aap return raise karte hain aur refund ke liye eligible hote hain to return pickup ke baad 5 se 7 kamkaji dinon ke andar refund process kar diya jaega kripya bataiye kya main aapki kisi aur chiz mein madad kar sakti hun hum aapko ek quick feedback form sms",
+  "entities": [
+    {
+      "index": 4,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 20,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 23,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 44,
+      "value": "hinglish",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 102,
+      "value": "us polo kids",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 110,
+      "value": "us polo kids girls drop shoulder sleeves pure cotton applique tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 125,
+      "value": "us polo kids girls embroidered pure cotton straight skirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 147,
+      "value": "us polo kids girls drop shoulder sleeves pure cotton applique tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 162,
+      "value": "21 june",
+      "type": "DATE"
+    },
+    {
+      "index": 188,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 220,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 248,
+      "value": "us polo kids girls drop shoulder sleeves pure cotton applique tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 288,
+      "value": "5 se 7",
+      "type": "DATE"
+    },
+    {
+      "index": 290,
+      "value": "kamkaji dinon",
+      "type": "DATE"
+    },
+    {
+      "index": 309,
+      "value": "sms",
+      "type": "OTHER"
+    }
+  ]
+}

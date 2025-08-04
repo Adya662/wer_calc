@@ -1,0 +1,167 @@
+[
+  {
+    "timestamp": "2025-07-25 09:16:33",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-07-25 09:16:35",
+    "speaker": "user",
+    "content": "English."
+  },
+  {
+    "timestamp": "2025-07-25 09:16:35",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-07-25 09:16:44",
+    "speaker": "user",
+    "content": "I want to know when the delivery date is."
+  },
+  {
+    "timestamp": "2025-07-25 09:16:44",
+    "speaker": "assistant",
+    "content": "Could you please tell me the product name or brand for which you'd like to check the delivery date?"
+  },
+  {
+    "timestamp": "2025-07-25 09:16:54",
+    "speaker": "user",
+    "content": "The recent most recent product in my order place."
+  },
+  {
+    "timestamp": "2025-07-25 09:16:58",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:00",
+    "speaker": "assistant",
+    "content": "Your स्टाइलकास्ट एक्स रिवॉल्ट Men Opaque Casual Shirt is being processed and will be delivered by 21 August.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:00",
+    "speaker": "user",
+    "content": "Yeah,"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:00",
+    "speaker": "assistant",
+    "content": "Sure! How else can I assist you today?"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:09",
+    "speaker": "user",
+    "content": "और You haven't closed my previous request yet?"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:09",
+    "speaker": "assistant",
+    "content": "Your previous request about the delivery date has been addressed. Could you please tell me what you'd like assistance with next?"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:21",
+    "speaker": "user",
+    "content": "I couldn't hear your response by the previous request."
+  },
+  {
+    "timestamp": "2025-07-25 09:17:21",
+    "speaker": "assistant",
+    "content": "No problem, let me repeat that for you. Your स्टाइलकास्ट एक्स रिवॉल्ट Men Opaque Casual Shirt is scheduled for delivery by twenty-first August. Let me know if you need any further assistance."
+  },
+  {
+    "timestamp": "2025-07-25 09:17:38",
+    "speaker": "user",
+    "content": "I would like to change my delivery date."
+  },
+  {
+    "timestamp": "2025-07-25 09:17:38",
+    "speaker": "assistant",
+    "content": "I’m sorry, we are currently unable to accommodate changes to the delivery date. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "2025-07-25 09:17:54",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:00",
+    "speaker": "user",
+    "content": "Yeah, I'm still there."
+  },
+  {
+    "timestamp": "2025-07-25 09:18:00",
+    "speaker": "assistant",
+    "content": "Alright! Please let me know how else I can"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:05",
+    "speaker": "user",
+    "content": "I will I would like to know who the"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:05",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-25 09:18:07",
+    "speaker": "user",
+    "content": "I would like to know who the delivery partner is?"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:07",
+    "speaker": "assistant",
+    "content": "Once your item is out for delivery, the delivery partner will call you when they are near your location. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:22",
+    "speaker": "user",
+    "content": "I would like to change the size of the product."
+  },
+  {
+    "timestamp": "2025-07-25 09:18:22",
+    "speaker": "assistant",
+    "content": "To change the size of your product, you'll need to initiate an exchange request. You can do this in the मिंत्रा app by going to the 'Orders' section, selecting the item, and choosing 'Exchange.' Let me know if you need help with the process or anything else!"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:39",
+    "speaker": "user",
+    "content": "I would like to do it online."
+  },
+  {
+    "timestamp": "2025-07-25 09:18:39",
+    "speaker": "assistant",
+    "content": "You can easily do this online through the मिंत्रा app. Simply open the app, go to the 'Orders' section, select the"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:49",
+    "speaker": "user",
+    "content": "I like to do this on the call."
+  },
+  {
+    "timestamp": "2025-07-25 09:18:49",
+    "speaker": "assistant",
+    "content": "Currently, exchanges can only be initiated through the मिंत्रा app or website. I recommend opening the app, navigating to the 'Orders' section,"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:59",
+    "speaker": "user",
+    "content": "What else can you do?"
+  },
+  {
+    "timestamp": "2025-07-25 09:18:59",
+    "speaker": "assistant",
+    "content": "I can help you track your orders, assist with delivery-related queries, and provide information about returns or exchanges. Let me know what specific help you need!"
+  },
+  {
+    "timestamp": "2025-07-25 09:19:13",
+    "speaker": "user",
+    "content": "Ok, thank you, bye."
+  },
+  {
+    "timestamp": "2025-07-25 09:19:13",
+    "speaker": "assistant",
+    "content": "We'll be sending you a quick feedback form via SMS—your input would really help us improve! Thank you for choosing मिंत्रा. Have a great day!"
+  }
+]

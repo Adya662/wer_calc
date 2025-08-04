@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 18743,
+    "annotations": [
+      {
+        "id": 7999,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 1.2364608481948651,
+              "end": 2.623709604706177,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ZnzKt",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 1.2364608481948651,
+              "end": 2.623709604706177,
+              "channel": 0,
+              "text": [
+                "Hello this is priya"
+              ]
+            },
+            "id": "ZnzKt",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 1.2364608481948651,
+              "end": 2.623709604706177,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "ZnzKt",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 2.648139523738227,
+              "end": 5.040756812729783,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "E0Mrj",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 5.062000583118707,
+              "end": 6.924475069983781,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ZzD_I",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 5.062000583118707,
+              "end": 6.924475069983781,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "ZzD_I",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 5.062000583118707,
+              "end": 6.924475069983781,
+              "channel": 0,
+              "text": [
+                "Hello, this is Priya from Elevate Now."
+              ]
+            },
+            "id": "ZzD_I",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 6.907975318094867,
+              "end": 8.620250249567594,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "f3sMN",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 8.630294154911125,
+              "end": 12.271657769151068,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "fM8Pc",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 8.630294154911125,
+              "end": 12.271657769151068,
+              "channel": 0,
+              "text": [
+                "Hello, this is Priya from Elevate Now. Am I speaking with Atul Sinha?"
+              ]
+            },
+            "id": "fM8Pc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 14.186084392451678,
+              "end": 15.128637921797663,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dcUPN",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 14.186084392451678,
+              "end": 15.128637921797663,
+              "channel": 0,
+              "text": [
+                "Yes, this is Atul Sinha."
+              ]
+            },
+            "id": "dcUPN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 15.118441782053148,
+              "end": 15.215326812527051,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "kI7ER",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 18.733207960223577,
+              "end": 20.314188473812735,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Jif8z",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 18.733207960223577,
+              "end": 20.314188473812735,
+              "channel": 0,
+              "text": [
+                "Hello, this is Atul Sinha.\""
+              ]
+            },
+            "id": "Jif8z",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 20.316155350226328,
+              "end": 20.43746546721547,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "IVu7Y",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 23.43434961235754,
+              "end": 25.163546247595328,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "GiLti",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 23.43434961235754,
+              "end": 25.163546247595328,
+              "channel": 0,
+              "text": [
+                "Hello, this is Atul Sinha. Tell me."
+              ]
+            },
+            "id": "GiLti",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 25.16025742234551,
+              "end": 28.780736184415417,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "-QHBr",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 28.818743374308447,
+              "end": 32.87126235701548,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "SX9Kf",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 28.818743374308447,
+              "end": 32.87126235701548,
+              "channel": 0,
+              "text": [
+                "Hello, this is Priya from Elevate now. Am I speaking with Atul Sinha?"
+              ]
+            },
+            "id": "SX9Kf",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 33.76645450666643,
+              "end": 35.147123434528766,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "NtGYz",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 33.76645450666643,
+              "end": 35.147123434528766,
+              "channel": 0,
+              "text": [
+                "Yes, you are speaking."
+              ]
+            },
+            "id": "NtGYz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 35.16901771760886,
+              "end": 37.31672493872806,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "ZKhmk",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 37.32597930602617,
+              "end": 46.78729934410045,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "zDm0I",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 37.32597930602617,
+              "end": 46.78729934410045,
+              "channel": 0,
+              "text": [
+                "Great, I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.\""
+              ]
+            },
+            "id": "zDm0I",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 48.60835902376275,
+              "end": 56.58223534846761,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "8PAxs",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 48.60835902376275,
+              "end": 56.58223534846761,
+              "channel": 0,
+              "text": [
+                "See, it looked like a very lucrative program, but I just wanted to know is it available in Patna?"
+              ]
+            },
+            "id": "8PAxs",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 56.593096463598656,
+              "end": 60.370195775300964,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "H0P3K",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 60.386365678391705,
+              "end": 72.99493450181792,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "cD7Va",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 74.14226022804634,
+              "end": 80.30100701178874,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "_VAxm",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 74.14226022804634,
+              "end": 80.30100701178874,
+              "channel": 0,
+              "text": [
+                "Yeah, I also want to know is this, you know, like, safe for kidney transplant patient?"
+              ]
+            },
+            "id": "_VAxm",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 80.30154778059023,
+              "end": 82.42099353913824,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "2Qdte",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 82.44307656752122,
+              "end": 102.91429978662818,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "hBFQn",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 82.44307656752122,
+              "end": 102.91429978662818,
+              "channel": 0,
+              "text": [
+                "he Nano plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano plan can support your health journey?"
+              ]
+            },
+            "id": "hBFQn",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 104.32093256976829,
+              "end": 106.11427599039497,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "-9f4F",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 104.32093256976829,
+              "end": 106.11427599039497,
+              "channel": 0,
+              "text": [
+                "Yes, I would like to explore."
+              ]
+            },
+            "id": "-9f4F",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 106.11141565968526,
+              "end": 108.10642313566923,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "uovWH",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 108.13932658902277,
+              "end": 135.19920680337216,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "YzSIi",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 108.13932658902277,
+              "end": 135.19920680337216,
+              "channel": 0,
+              "text": [
+                "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this obesity stage category Y, most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences with other weight loss programs?"
+              ]
+            },
+            "id": "YzSIi",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 135.79398532054935,
+              "end": 143.6650118476575,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "eFbl2",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 135.79398532054935,
+              "end": 143.6650118476575,
+              "channel": 0,
+              "text": [
+                "Yeah, I had a weight loss program experience and I've lost weight during my transplant as well as with Healthify me."
+              ]
+            },
+            "id": "eFbl2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 143.7704267211807,
+              "end": 145.91328820109268,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "FhcYB",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 145.93143264723193,
+              "end": 169.50417100463088,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "4tQXv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 145.93143264723193,
+              "end": 169.50417100463088,
+              "channel": 0,
+              "text": [
+                "I'm glad to hear that you had some success with Healthify.  nano plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?"
+              ]
+            },
+            "id": "4tQXv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 170.9279979121732,
+              "end": 178.57740362033132,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "6ckuo",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 170.9279979121732,
+              "end": 178.57740362033132,
+              "channel": 0,
+              "text": [
+                "kind of I understand. If they are specialist obesity MBBS. Have they have they finished their MBBS?"
+              ]
+            },
+            "id": "6ckuo",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 178.6157175540727,
+              "end": 181.08930255209123,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "RiEnn",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 181.12268178802864,
+              "end": 192.99393866651343,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "bi6fA",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 181.12268178802864,
+              "end": 192.99393866651343,
+              "channel": 0,
+              "text": [
+                "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like"
+              ]
+            },
+            "id": "bi6fA",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 181.12268178802864,
+              "end": 192.99393866651343,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "bi6fA",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 192.3296983759486,
+              "end": 198.98234012201436,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "NbB-Z",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 192.3296983759486,
+              "end": 198.98234012201436,
+              "channel": 0,
+              "text": [
+                "Okay. Then, then I will go up with the program. I'll go ahead with the program. That is all I wanted to know."
+              ]
+            },
+            "id": "NbB-Z",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 198.99745610089215,
+              "end": 203.97801561853817,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "1jlkA",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 204.02899997517002,
+              "end": 206.43312775179737,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "iRyae",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 204.02899997517002,
+              "end": 206.43312775179737,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "iRyae",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 204.02899997517002,
+              "end": 206.43312775179737,
+              "channel": 0,
+              "text": [
+                "That's great to hear.You can choose between"
+              ]
+            },
+            "id": "iRyae",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 206.1968692294067,
+              "end": 208.24744880358884,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "tV-cZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 206.1968692294067,
+              "end": 208.24744880358884,
+              "channel": 0,
+              "text": [
+                "Can I get the link over my mobile number?"
+              ]
+            },
+            "id": "tV-cZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 208.26823968194256,
+              "end": 212.32225906998087,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "KDB6C",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 212.3411811470418,
+              "end": 222.35225112631113,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "hFF9e",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 212.3411811470418,
+              "end": 222.35225112631113,
+              "channel": 0,
+              "text": [
+                "Yes, I'll send both the payment links to you over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we can proceed with the payment process."
+              ]
+            },
+            "id": "hFF9e",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 222.9113471204181,
+              "end": 224.80464750817757,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "xZ8-g",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 222.9113471204181,
+              "end": 224.80464750817757,
+              "channel": 0,
+              "text": [
+                "You, I'll proceed with the payment process.\""
+              ]
+            },
+            "id": "xZ8-g",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 224.84523075799592,
+              "end": 227.13522265557168,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "FGsOg",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 227.15814634825387,
+              "end": 238.15933405388407,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "J8m5Z",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 227.15814634825387,
+              "end": 238.15933405388407,
+              "channel": 0,
+              "text": [
+                "Perfect, I'll send the payment links to your registered mobile number right away. If you have any more doubts later, feel free to reach out. Goodbye and have a great day."
+              ]
+            },
+            "id": "J8m5Z",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 238.41771516278115,
+              "end": 239.01265630345776,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "oai5I",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 238.41771516278115,
+              "end": 239.01265630345776,
+              "channel": 0,
+              "text": [
+                "Thank you."
+              ]
+            },
+            "id": "oai5I",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 239.00390130854748,
+              "end": 239.15729594337776,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "a2NhC",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 246.5107144101928,
+              "end": 256.1784955708086,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_Nnjv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 266.40254,
+            "value": {
+              "start": 246.5107144101928,
+              "end": 256.1784955708086,
+              "channel": 0,
+              "text": [
+                "I am Elevate now's AI assisted health expert here to guide you on your health and wellness journey. If you have any more questions or need further assistance, feel free to ask."
+              ]
+            },
+            "id": "_Nnjv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "1kJ5X9FCdz",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-24T12:20:41.002059Z",
+        "updated_at": "2025-07-24T12:21:10.803227Z",
+        "draft_created_at": "2025-07-24T11:47:12.880673Z",
+        "lead_time": 2067.58,
+        "prediction": {},
+        "result_count": 43,
+        "unique_id": "49f63a70-a2e0-4577-a7e8-b5a165d1c8ce",
+        "import_id": null,
+        "last_action": null,
+        "task": 18743,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "ElevateNow_DM",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/12/03856e6b-6925-4012-8eb8-0a0289019b7e/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.542758Z",
+    "updated_at": "2025-07-24T12:21:10.896639Z",
+    "inner_id": 6,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]

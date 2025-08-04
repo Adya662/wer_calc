@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "0:00:00.146800",
+    "speaker": "Agent",
+    "content": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.238477",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:08.381746",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:12.882772",
+    "speaker": "Customer",
+    "content": "I've just placed an order. I was wondering when will it be delivered?"
+  },
+  {
+    "timestamp": "0:00:19.214482",
+    "speaker": "Agent",
+    "content": "Got it. I can help you track your order. Could you please tell me the product name or the brand name of the item you ordered?"
+  },
+  {
+    "timestamp": "0:00:26.584719",
+    "speaker": "Customer",
+    "content": "I don't remember it. Can you fetch it for me?"
+  },
+  {
+    "timestamp": "0:00:32.383047",
+    "speaker": "Agent",
+    "content": "I'm sorry, but we currently don't offer a packing service for your order. I'm sorry, but we currently don't offer a packing service for your order. How else can I assist you with your order?"
+  },
+  {
+    "timestamp": "0:00:41.238907",
+    "speaker": "Customer",
+    "content": "No No No No, I didn't ask for, Can you please listen to me? I didn't ask for a packing service. I said I don't remember the brand name of my order. Could you maybe tell me the last placed order?"
+  },
+  {
+    "timestamp": "0:00:54.256356",
+    "speaker": "Agent",
+    "content": "Your most recent order was placed today, July 17th at 10:24 a.m. It includes two items, Mango extended sleeves high neck top and Forever new women top. Could you confirm which one you'd like to track?"
+  },
+  {
+    "timestamp": "0:01:08.177551",
+    "speaker": "Customer",
+    "content": "The second one."
+  },
+  {
+    "timestamp": "0:01:11.289278",
+    "speaker": "Agent",
+    "content": "Your Forever new women top is being processed and will be delivered by 28th July. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:20.373806",
+    "speaker": "Customer",
+    "content": "Uh, just wanted to check."
+  },
+  {
+    "timestamp": "0:01:22.879132",
+    "speaker": "Agent",
+    "content": "I'm here to help."
+  },
+  {
+    "timestamp": "0:01:26.476315",
+    "speaker": "Agent",
+    "content": "I believe you're asking about"
+  },
+  {
+    "timestamp": "0:01:26.461673",
+    "speaker": "Customer",
+    "content": "Just want to check if you can expedite the delivery"
+  },
+  {
+    "timestamp": "0:01:30.741514",
+    "speaker": "Agent",
+    "content": "Could you clarify what you mean by excite to lipid?"
+  },
+  {
+    "timestamp": "0:01:33.495258",
+    "speaker": "Agent",
+    "content": "If it's related to your order or delivery, I'm happy to assist."
+  },
+  {
+    "timestamp": "0:01:36.987134",
+    "speaker": "Customer",
+    "content": "Expedite, expedite the delivery speed."
+  },
+  {
+    "timestamp": "0:01:41.610952",
+    "speaker": "Agent",
+    "content": "I understand you'd like to expedite the delivery. Currently, we are unable to accommodate changes to the delivery speed. The fastest available option has already been chosen for your order. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "0:01:52.800276",
+    "speaker": "Customer",
+    "content": "In that case, in that case is there anything else you could cancel the order?"
+  },
+  {
+    "timestamp": "0:01:55.421132",
+    "speaker": "Agent",
+    "content": "Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "0:01:59.859334",
+    "speaker": "Agent",
+    "content": "Currently, I cannot assist with cancellation directly over the call. To cancel your order, please visit the Myntra app or website. Go to your order section, select the Forever new women top."
+  },
+  {
+    "timestamp": "0:02:09.363001",
+    "speaker": "Customer",
+    "content": "No, I know the flow. Can you please, Yeah, I'm just saying can, I know the flow. what you do on the Myntra app? Could you do it from the back end? could you just cancel the order for me, please?"
+  },
+  {
+    "timestamp": "0:02:26.835728",
+    "speaker": "Agent",
+    "content": "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the Myntra app or website, selecting the specific item."
+  },
+  {
+    "timestamp": "0:02:33.917028",
+    "speaker": "Customer",
+    "content": "Okay got it got it, Yeah, yeah. I don't need any other help. Thank you."
+  },
+  {
+    "timestamp": "0:02:37.157366",
+    "speaker": "Agent",
+    "content": "Alright, Please"
+  },
+  {
+    "timestamp": "0:02:39.739989",
+    "speaker": "Customer",
+    "content": "Thanks for the help, thanks"
+  },
+  {
+    "timestamp": "0:02:40.672690",
+    "speaker": "Agent",
+    "content": "You're"
+  }
+]

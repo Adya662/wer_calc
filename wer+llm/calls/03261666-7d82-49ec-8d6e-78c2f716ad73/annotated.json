@@ -1,0 +1,2122 @@
+[
+  {
+    "id": 18761,
+    "annotations": [
+      {
+        "id": 8021,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 0,
+              "end": 1.4913434948601532,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "bTJ0j",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 0,
+              "end": 1.4913434948601532,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "bTJ0j",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 0,
+              "end": 1.4913434948601532,
+              "channel": 0,
+              "text": [
+                "Hey, I am Rey from"
+              ]
+            },
+            "id": "bTJ0j",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 9.588046422125949,
+              "end": 10.983522598111431,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "3g1jI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 9.588046422125949,
+              "end": 10.983522598111431,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "3g1jI",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 9.588046422125949,
+              "end": 10.983522598111431,
+              "channel": 0,
+              "text": [
+                "\u0920\u0940\u0915 \u0939\u0948, \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u0948\u0938\u0947 \u092e\u0926\u0926"
+              ]
+            },
+            "id": "3g1jI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 12.577589030416926,
+              "end": 16.368783408959576,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "u0LzS",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 12.577589030416926,
+              "end": 16.368783408959576,
+              "channel": 0,
+              "text": [
+                "\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0948\u0938\u0947 \u0906\u0917\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "u0LzS",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 17.261082134979578,
+              "end": 18.66578762184996,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "zwwfI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 17.261082134979578,
+              "end": 18.66578762184996,
+              "channel": 0,
+              "text": [
+                "\u092e\u0941\u091d\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u0939\u0948\u0964"
+              ]
+            },
+            "id": "zwwfI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 18.6853073094757,
+              "end": 22.15931012646697,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "10g4e",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 22.18832289783602,
+              "end": 28.04881460649956,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "MLPAn",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 22.18832289783602,
+              "end": 28.04881460649956,
+              "channel": 0,
+              "text": [
+                "\u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091a\u0947\u0915 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0939\u0947\u0932\u094d\u092a \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0915\u0943\u092a\u092f\u093e \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0928\u093e\u092e \u092f\u093e \u092c\u094d\u0930\u093e\u0902\u0921 \u0928\u0947\u092e \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?"
+              ]
+            },
+            "id": "MLPAn",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 30.03301255637388,
+              "end": 31.70694167803216,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "IRK61",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 31.709886354420252,
+              "end": 31.877949424251604,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "6jP0w",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 47.52623251106614,
+              "end": 47.886177274576625,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "qcPeB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 47.52623251106614,
+              "end": 47.886177274576625,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "qcPeB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 47.88683039222482,
+              "end": 50.12474783492044,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "T8wKe",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 50.15834686912282,
+              "end": 53.641115251922564,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "8a_BV",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 50.15834686912282,
+              "end": 53.641115251922564,
+              "channel": 0,
+              "text": [
+                "\"\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0948\u0938\u0947 \u0906\u0917\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "8a_BV",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 55.107415819046636,
+              "end": 56.30408776609086,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "VoiqL",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 55.107415819046636,
+              "end": 56.30408776609086,
+              "channel": 0,
+              "text": [
+                "\u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091c\u093e\u0928\u0928\u093e \u0939\u0948\u0964"
+              ]
+            },
+            "id": "VoiqL",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 56.298572913719056,
+              "end": 58.84150080118805,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "7CICW",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 58.85125230343905,
+              "end": 65.77540367575304,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "0dgnM",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 58.85125230343905,
+              "end": 65.77540367575304,
+              "channel": 0,
+              "text": [
+                "\u092c\u093f\u0932\u094d\u0915\u0941\u0932, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091a\u0947\u0915 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0915\u0943\u092a\u092f\u093e \u092e\u0941\u091d\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0928\u093e\u092e \u092f\u093e \u092c\u094d\u0930\u093e\u0902\u0921 \u0928\u0947\u092e \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?"
+              ]
+            },
+            "id": "0dgnM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 67.63177933283642,
+              "end": 69.46711705267853,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "4PG-4",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 67.63177933283642,
+              "end": 69.46711705267853,
+              "channel": 0,
+              "text": [
+                "ATUN black net dress."
+              ]
+            },
+            "id": "4PG-4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 69.45259023746802,
+              "end": 69.60616420232881,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "-1mV1",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 102.94763802349894,
+              "end": 103.27268626770812,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "wiyuD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 102.94763802349894,
+              "end": 103.27268626770812,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "wiyuD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 103.2911084100718,
+              "end": 105.50549957374677,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "RoDIf",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 105.52781125164864,
+              "end": 108.79766763472436,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "BbIAe",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 105.52781125164864,
+              "end": 108.79766763472436,
+              "channel": 0,
+              "text": [
+                "\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0948\u0938\u0947 \u0906\u0917\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "BbIAe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 110.17694005606182,
+              "end": 111.67331501102868,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Xi35d",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 110.17694005606182,
+              "end": 111.67331501102868,
+              "channel": 0,
+              "text": [
+                "\u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0921\u093f\u091f\u0947\u0932 \u091c\u093e\u0928\u0928\u093e \u0939\u0948 \u092e\u0941\u091d\u0947"
+              ]
+            },
+            "id": "Xi35d",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 111.69783233983306,
+              "end": 114.96563658200621,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "bKJ-r",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 114.98673942288931,
+              "end": 116.7617666188584,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "1hujI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 114.98673942288931,
+              "end": 116.7617666188584,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "1hujI",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 114.98673942288931,
+              "end": 116.7617666188584,
+              "channel": 0,
+              "text": [
+                "\u092c\u093f\u0932\u094d\u0915\u0941\u0932, \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940"
+              ]
+            },
+            "id": "1hujI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 116.78921932892209,
+              "end": 123.43232941790971,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "ALhPw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 116.78921932892209,
+              "end": 123.43232941790971,
+              "channel": 0,
+              "text": [
+                "\u092e\u0948\u0902\u0928\u0947 \u092c\u094d\u0930\u093e\u0902\u0921 \u0915\u093e \u0928\u0947\u092e \u092d\u0940 \u092c\u0924\u093e \u0926\u093f\u092f\u093e \u0906\u092a\u0915\u094b ATUN black net dress."
+              ]
+            },
+            "id": "ALhPw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 116.78921932892209,
+              "end": 123.43232941790971,
+              "channel": 0,
+              "labels": [
+                "Bot Interrupts User"
+              ]
+            },
+            "id": "ALhPw",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 123.45377191716763,
+              "end": 126.10121447440245,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Y74jD",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 126.12758841405685,
+              "end": 128.82498271765456,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "jppFM",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 126.12758841405685,
+              "end": 128.82498271765456,
+              "channel": 0,
+              "text": [
+                "\"\u0925\u094b\u0921\u093c\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0915\u0940\u091c\u093f\u090f, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f\u094d\u0938 \u0932\u093e \u0930\u0939\u0940 \u0939\u0942\u0902\u0964"
+              ]
+            },
+            "id": "jppFM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 130.7043061975958,
+              "end": 134.3030467316625,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "3sYxv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 130.7043061975958,
+              "end": 134.3030467316625,
+              "channel": 0,
+              "text": [
+                "\u0915\u094d\u092f\u093e \u0906\u092a ATUN \u092c\u094d\u0930\u093e\u0902\u0921 \u0915\u0947 \u092c\u094d\u0932\u0948\u0915 \u0928\u0947\u091f \u0921\u094d\u0930\u0947\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092a\u0942\u091b \u0930\u0939\u0947 \u0939\u0948\u0902?"
+              ]
+            },
+            "id": "3sYxv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 135.42375057677484,
+              "end": 136.47902035744102,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "giQiP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 135.42375057677484,
+              "end": 136.47902035744102,
+              "channel": 0,
+              "text": [
+                "\u091c\u0940 \u0939\u093e\u0902, \u091c\u0940 \u0939\u093e\u0902\u0964"
+              ]
+            },
+            "id": "giQiP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 136.49233432466147,
+              "end": 139.25736435523945,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "7z24v",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 139.306569743581,
+              "end": 148.50450829241407,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_PXJq",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 139.306569743581,
+              "end": 148.50450829241407,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0915\u093e ATUN \u092c\u094d\u0932\u0948\u0915 \u0928\u0947\u091f \u0921\u094d\u0930\u0947\u0938 8 \u091c\u0941\u0932\u093e\u0908 \u092f\u093e \u0909\u0938\u0938\u0947 \u092a\u0939\u0932\u0947 \u0921\u093f\u0932\u0940\u0935\u0930 \u0915\u0930 \u0926\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e\u0964 \u0915\u0943\u092a\u092f\u093e \u092c\u0924\u093e\u0907\u090f \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938\u0940 \u0914\u0930 \u091a\u0940\u091c \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "_PXJq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 149.57086791812227,
+              "end": 152.2931659722199,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dN1A0",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 149.57086791812227,
+              "end": 152.2931659722199,
+              "channel": 0,
+              "text": [
+                "\u0939\u093e\u0902 \u092e\u0941\u091d\u0947 agent \u0939\u094d\u092f\u0942\u092e\u0928 \u090f\u091c\u0947\u0902\u091f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u093e \u0939\u0948\u0964"
+              ]
+            },
+            "id": "dN1A0",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 152.32755375072972,
+              "end": 154.68874672201304,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "O9lMm",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 154.71933104245107,
+              "end": 159.0371035934288,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "RcLqw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 154.71933104245107,
+              "end": 159.0371035934288,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "RcLqw",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 154.71933104245107,
+              "end": 159.0371035934288,
+              "channel": 0,
+              "text": [
+                "\u0915\u094d\u092f\u093e \u0906\u092a \u0915\u093f\u0938\u0940 \u0905\u0928\u094d\u092f \u090f\u091c\u0947\u0902\u091f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0940 \u092c\u0947\u0939\u0924\u0930 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0947?"
+              ]
+            },
+            "id": "RcLqw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 160.2476540126934,
+              "end": 161.06778958103556,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "8aftZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 160.2476540126934,
+              "end": 161.06778958103556,
+              "channel": 0,
+              "text": [
+                "\u091c\u0940 \u092c\u093f\u0932\u094d\u0915\u0941\u0932\u0964"
+              ]
+            },
+            "id": "8aftZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 163.72875393425454,
+              "end": 167.95003994778025,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "NEWuD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 163.72875393425454,
+              "end": 167.95003994778025,
+              "channel": 0,
+              "text": [
+                "\u0938\u093f\u092e\u0932\u0947\u091f\u093f\u0902\u0917 \u0939\u094d\u092f\u0942\u092e\u0928 \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930 \u0938\u093f\u092e\u0932\u0947\u091f\u093f\u0902\u0917 \u0939\u094d\u092f\u0942\u092e\u0928 \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930"
+              ]
+            },
+            "id": "NEWuD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 163.72875393425454,
+              "end": 167.95003994778025,
+              "channel": 0,
+              "labels": [
+                "Inappropriate Switch"
+              ]
+            },
+            "id": "NEWuD",
+            "from_name": "language_memory_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Medium"
+              ]
+            },
+            "id": "V3oimow90N",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T13:26:50.867664Z",
+        "updated_at": "2025-07-25T13:33:03.979103Z",
+        "draft_created_at": "2025-07-25T13:05:41.534701Z",
+        "lead_time": 1363.6770000000001,
+        "prediction": {},
+        "result_count": 35,
+        "unique_id": "e8c5cb87-9f79-442f-9825-874dc91272a7",
+        "import_id": null,
+        "last_action": null,
+        "task": 18761,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [
+      {
+        "id": 2306,
+        "user": "sailesh.medijala@nurix.ai",
+        "created_username": "Sailesh Medijala sailesh.medijala@nurix.ai, 2",
+        "created_ago": "2\u00a0days, 2\u00a0hours",
+        "result": [
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 0,
+              "end": 1.4913434948601532,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "bTJ0j",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 0,
+              "end": 1.4913434948601532,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "bTJ0j",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 0,
+              "end": 1.4913434948601532,
+              "channel": 0,
+              "text": [
+                "Hey, I am Rey from"
+              ]
+            },
+            "id": "bTJ0j",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 9.588046422125949,
+              "end": 10.983522598111431,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "3g1jI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 9.588046422125949,
+              "end": 10.983522598111431,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "3g1jI",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 9.588046422125949,
+              "end": 10.983522598111431,
+              "channel": 0,
+              "text": [
+                "\u0920\u0940\u0915 \u0939\u0948, \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u0948\u0938\u0947 \u092e\u0926\u0926"
+              ]
+            },
+            "id": "3g1jI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 12.577589030416926,
+              "end": 16.368783408959576,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "u0LzS",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 12.577589030416926,
+              "end": 16.368783408959576,
+              "channel": 0,
+              "text": [
+                "\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0948\u0938\u0947 \u0906\u0917\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "u0LzS",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 17.261082134979578,
+              "end": 18.66578762184996,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "zwwfI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 17.261082134979578,
+              "end": 18.66578762184996,
+              "channel": 0,
+              "text": [
+                "\u092e\u0941\u091d\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u0939\u0948\u0964"
+              ]
+            },
+            "id": "zwwfI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 18.6853073094757,
+              "end": 22.15931012646697,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "10g4e",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 22.18832289783602,
+              "end": 28.04881460649956,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "MLPAn",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 22.18832289783602,
+              "end": 28.04881460649956,
+              "channel": 0,
+              "text": [
+                "\u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091a\u0947\u0915 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0939\u0947\u0932\u094d\u092a \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0915\u0943\u092a\u092f\u093e \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0928\u093e\u092e \u092f\u093e \u092c\u094d\u0930\u093e\u0902\u0921 \u0928\u0947\u092e \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?"
+              ]
+            },
+            "id": "MLPAn",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 30.03301255637388,
+              "end": 31.70694167803216,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "IRK61",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 31.709886354420252,
+              "end": 31.877949424251604,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "6jP0w",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 47.52623251106614,
+              "end": 47.886177274576625,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "qcPeB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 47.52623251106614,
+              "end": 47.886177274576625,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "qcPeB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 47.88683039222482,
+              "end": 50.12474783492044,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "T8wKe",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 50.15834686912282,
+              "end": 53.641115251922564,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "8a_BV",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 50.15834686912282,
+              "end": 53.641115251922564,
+              "channel": 0,
+              "text": [
+                "\"\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0948\u0938\u0947 \u0906\u0917\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "8a_BV",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 55.107415819046636,
+              "end": 56.30408776609086,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "VoiqL",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 55.107415819046636,
+              "end": 56.30408776609086,
+              "channel": 0,
+              "text": [
+                "\u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091c\u093e\u0928\u0928\u093e \u0939\u0948\u0964"
+              ]
+            },
+            "id": "VoiqL",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 56.298572913719056,
+              "end": 58.84150080118805,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "7CICW",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 58.85125230343905,
+              "end": 65.77540367575304,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "0dgnM",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 58.85125230343905,
+              "end": 65.77540367575304,
+              "channel": 0,
+              "text": [
+                "\u092c\u093f\u0932\u094d\u0915\u0941\u0932, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091a\u0947\u0915 \u0915\u0930\u0928\u0947 \u092e\u0947\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0915\u0943\u092a\u092f\u093e \u092e\u0941\u091d\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0928\u093e\u092e \u092f\u093e \u092c\u094d\u0930\u093e\u0902\u0921 \u0928\u0947\u092e \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902?"
+              ]
+            },
+            "id": "0dgnM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 67.63177933283642,
+              "end": 69.46711705267853,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "4PG-4",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 67.63177933283642,
+              "end": 69.46711705267853,
+              "channel": 0,
+              "text": [
+                "ATUN black net dress."
+              ]
+            },
+            "id": "4PG-4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 69.45259023746802,
+              "end": 70.22976209324777,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "-1mV1",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 102.94763802349894,
+              "end": 103.27268626770812,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "wiyuD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 102.94763802349894,
+              "end": 103.27268626770812,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "wiyuD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 103.2911084100718,
+              "end": 105.50549957374677,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "RoDIf",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 105.52781125164864,
+              "end": 108.79766763472436,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "BbIAe",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 105.52781125164864,
+              "end": 108.79766763472436,
+              "channel": 0,
+              "text": [
+                "\u0928\u092e\u0938\u094d\u0924\u0947, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0938\u093e\u0925 \u0915\u0948\u0938\u0947 \u0906\u0917\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "BbIAe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 110.17694005606182,
+              "end": 111.67331501102868,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Xi35d",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 110.17694005606182,
+              "end": 111.67331501102868,
+              "channel": 0,
+              "text": [
+                "\u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0921\u093f\u091f\u0947\u0932 \u091c\u093e\u0928\u0928\u093e \u0939\u0948 \u092e\u0941\u091d\u0947"
+              ]
+            },
+            "id": "Xi35d",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 111.69783233983306,
+              "end": 114.96563658200621,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "bKJ-r",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 114.98673942288931,
+              "end": 116.7617666188584,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "1hujI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 114.98673942288931,
+              "end": 116.7617666188584,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "1hujI",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 114.98673942288931,
+              "end": 116.7617666188584,
+              "channel": 0,
+              "text": [
+                "\u092c\u093f\u0932\u094d\u0915\u0941\u0932, \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940"
+              ]
+            },
+            "id": "1hujI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 121.07586006613667,
+              "end": 127.7189701551243,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "ALhPw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 121.07586006613667,
+              "end": 127.7189701551243,
+              "channel": 0,
+              "text": [
+                "\u092e\u0948\u0902\u0928\u0947 \u092c\u094d\u0930\u093e\u0902\u0921 \u0915\u093e \u0928\u0947\u092e \u092d\u0940 \u092c\u0924\u093e \u0926\u093f\u092f\u093e \u0906\u092a\u0915\u094b ATUN black net dress."
+              ]
+            },
+            "id": "ALhPw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 121.07586006613667,
+              "end": 127.7189701551243,
+              "channel": 0,
+              "labels": [
+                "Bot Interrupts User"
+              ]
+            },
+            "id": "ALhPw",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 123.45377191716763,
+              "end": 126.10121447440245,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Y74jD",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 126.12758841405685,
+              "end": 128.82498271765456,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "jppFM",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 126.12758841405685,
+              "end": 128.82498271765456,
+              "channel": 0,
+              "text": [
+                "\"\u0925\u094b\u0921\u093c\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0915\u0940\u091c\u093f\u090f, \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f\u094d\u0938 \u0932\u093e \u0930\u0939\u0940 \u0939\u0942\u0902\u0964"
+              ]
+            },
+            "id": "jppFM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 130.7043061975958,
+              "end": 134.3030467316625,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "3sYxv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 130.7043061975958,
+              "end": 134.3030467316625,
+              "channel": 0,
+              "text": [
+                "\u0915\u094d\u092f\u093e \u0906\u092a ATUN \u092c\u094d\u0930\u093e\u0902\u0921 \u0915\u0947 \u092c\u094d\u0932\u0948\u0915 \u0928\u0947\u091f \u0921\u094d\u0930\u0947\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092a\u0942\u091b \u0930\u0939\u0947 \u0939\u0948\u0902?"
+              ]
+            },
+            "id": "3sYxv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 135.42375057677484,
+              "end": 136.47902035744102,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "giQiP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 135.42375057677484,
+              "end": 136.47902035744102,
+              "channel": 0,
+              "text": [
+                "\u091c\u0940 \u0939\u093e\u0902, \u091c\u0940 \u0939\u093e\u0902\u0964"
+              ]
+            },
+            "id": "giQiP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 136.49233432466147,
+              "end": 139.25736435523945,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "7z24v",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 139.306569743581,
+              "end": 148.50450829241407,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_PXJq",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 139.306569743581,
+              "end": 148.50450829241407,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0915\u093e ATUN \u092c\u094d\u0932\u0948\u0915 \u0928\u0947\u091f \u0921\u094d\u0930\u0947\u0938 8 \u091c\u0941\u0932\u093e\u0908 \u092f\u093e \u0909\u0938\u0938\u0947 \u092a\u0939\u0932\u0947 \u0921\u093f\u0932\u0940\u0935\u0930 \u0915\u0930 \u0926\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e\u0964 \u0915\u0943\u092a\u092f\u093e \u092c\u0924\u093e\u0907\u090f \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938\u0940 \u0914\u0930 \u091a\u0940\u091c \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "_PXJq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 149.57086791812227,
+              "end": 152.2931659722199,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dN1A0",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 149.57086791812227,
+              "end": 152.2931659722199,
+              "channel": 0,
+              "text": [
+                "\u0939\u093e\u0902 \u092e\u0941\u091d\u0947 agent \u0939\u094d\u092f\u0942\u092e\u0928 \u090f\u091c\u0947\u0902\u091f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u093e \u0939\u0948\u0964"
+              ]
+            },
+            "id": "dN1A0",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 152.32755375072972,
+              "end": 154.68874672201304,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "O9lMm",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 154.71933104245107,
+              "end": 159.0371035934288,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "RcLqw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 154.71933104245107,
+              "end": 159.0371035934288,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "RcLqw",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 154.71933104245107,
+              "end": 159.0371035934288,
+              "channel": 0,
+              "text": [
+                "\u0915\u094d\u092f\u093e \u0906\u092a \u0915\u093f\u0938\u0940 \u0905\u0928\u094d\u092f \u090f\u091c\u0947\u0902\u091f \u0938\u0947 \u092c\u093e\u0924 \u0915\u0930\u0928\u093e \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0940 \u092c\u0947\u0939\u0924\u0930 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0947?"
+              ]
+            },
+            "id": "RcLqw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 160.2476540126934,
+              "end": 161.06778958103556,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "8aftZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 160.2476540126934,
+              "end": 161.06778958103556,
+              "channel": 0,
+              "text": [
+                "\u091c\u0940 \u092c\u093f\u0932\u094d\u0915\u0941\u0932\u0964"
+              ]
+            },
+            "id": "8aftZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 163.72875393425454,
+              "end": 167.95003994778025,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "NEWuD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 163.72875393425454,
+              "end": 167.95003994778025,
+              "channel": 0,
+              "text": [
+                "\u0938\u093f\u092e\u0932\u0947\u091f\u093f\u0902\u0917 \u0939\u094d\u092f\u0942\u092e\u0928 \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930 \u0938\u093f\u092e\u0932\u0947\u091f\u093f\u0902\u0917 \u0939\u094d\u092f\u0942\u092e\u0928 \u091f\u094d\u0930\u093e\u0902\u0938\u092b\u0930"
+              ]
+            },
+            "id": "NEWuD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 163.72875393425454,
+              "end": 167.95003994778025,
+              "channel": 0,
+              "labels": [
+                "Inappropriate Switch"
+              ]
+            },
+            "id": "NEWuD",
+            "from_name": "language_memory_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Medium"
+              ]
+            },
+            "id": "V3oimow90N",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          },
+          {
+            "original_length": 168.460567,
+            "value": {
+              "start": 119.47661591861196,
+              "end": 121.94304991062737,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "KkYnB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          }
+        ],
+        "lead_time": 202.408,
+        "was_postponed": false,
+        "import_id": null,
+        "created_at": "2025-07-28T11:00:04.864104Z",
+        "updated_at": "2025-07-29T07:53:46.462776Z",
+        "task": 18761,
+        "annotation": 8021
+      }
+    ],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/04/03261666-7d82-49ec-8d6e-78c2f716ad73/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543819Z",
+    "updated_at": "2025-07-25T13:33:04.080811Z",
+    "inner_id": 24,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]

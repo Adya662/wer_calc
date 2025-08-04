@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:04.855546",
+    "speaker": "Customer",
+    "content": "Can you repeat that?"
+  },
+  {
+    "timestamp": "0:00:08.814254",
+    "speaker": "Agent",
+    "content": "Hey, this is Rey from Myntra. To provide you with the best experience, would you prefer to continue in English or would you like to speak in Hindi?"
+  },
+  {
+    "timestamp": "0:00:16.787556",
+    "speaker": "Customer",
+    "content": "In english please."
+  },
+  {
+    "timestamp": "0:00:19.867520",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:22.624672",
+    "speaker": "Customer",
+    "content": "I wanted to inquire about one of my orders."
+  },
+  {
+    "timestamp": "0:00:27.648837",
+    "speaker": "Agent",
+    "content": "All right. Could you please tell me the product name or the brand you are referring to?"
+  },
+  {
+    "timestamp": "0:00:32.340412",
+    "speaker": "Customer",
+    "content": "It's an H&M shirt."
+  },
+  {
+    "timestamp": "0:00:36.683166",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:41.059707",
+    "speaker": "Agent",
+    "content": "Your H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I can help you with?\""
+  },
+  {
+    "timestamp": "0:00:53.165458",
+    "speaker": "Customer",
+    "content": "But I wanted sooner. Is it possible?"
+  },
+  {
+    "timestamp": "0:00:58.765139",
+    "speaker": "Agent",
+    "content": "I'm sorry, but we are currently unable to expedite the delivery or change the delivery time. Delivery speeds depend on multiple factors, and the fastest available delivery option has already been chosen for your order. If you have any other questions or need assistance, let me know."
+  },
+  {
+    "timestamp": "0:01:15.567856",
+    "speaker": "Customer",
+    "content": "Yeah, but I actually need it quite urgently. Is it possible that I get it soon?"
+  },
+  {
+    "timestamp": "0:01:22.678542",
+    "speaker": "Agent",
+    "content": "I understand the urgency and I really apologize for the situation. Unfortunately, we are unable to expedite the delivery or make changes to the current schedule. Your order has already been processed with the fastest delivery option available. Would you like me to connect you to another agent who might assist you further regarding this?"
+  },
+  {
+    "timestamp": "0:01:41.532879",
+    "speaker": "Customer",
+    "content": "No, I think it's okay. I wanted to inquire about another order of mine."
+  },
+  {
+    "timestamp": "0:01:47.384414",
+    "speaker": "Agent",
+    "content": "All right. I can definitely help you with that. Could you please tell me the product name or the"
+  },
+  {
+    "timestamp": "0:01:53.773781",
+    "speaker": "Customer",
+    "content": "Yeah, the product is H&M short. I had actually placed for a return, but the delivery guy has not yet come to pick up my return order. Please give me a moment to fetch the details of your return order."
+  },
+  {
+    "timestamp": "0:02:06.584640",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch the details of your return. Please give me a moment to fetch our products. Your H&M cotton dungaree shorts is expected to be picked up by 22 June, subject to quality check. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:25.003258",
+    "speaker": "Customer",
+    "content": "Actually, I won't be available at my home during that time. We will need to prepone that pickup."
+  },
+  {
+    "timestamp": "0:02:32.769953",
+    "speaker": "Agent",
+    "content": "I understand your concern, but unfortunately, we are currently unable to accommodate changes to the return pickup date or time. Once the pickup is scheduled, it will proceed as planned. If there's anything else you'd like assistance with, let me know."
+  },
+  {
+    "timestamp": "0:02:47.506517",
+    "speaker": "Customer",
+    "content": "Yeah, actually I wanted to be picked up sooner. I can't rearrange it myself because I won't be available on 22nd in India itself."
+  },
+  {
+    "timestamp": "0:02:58.005571",
+    "speaker": "Agent",
+    "content": "I understand the inconvenience this might cause and I truly apologize. Unfortunately, we are unable to prepone the return pickup. The pickup schedule is fixed based on various logistical factors. Would you like me to connect you to another agent who might assist you further with this?"
+  },
+  {
+    "timestamp": "0:03:14.042265",
+    "speaker": "Customer",
+    "content": "Yes, please do that."
+  }
+]

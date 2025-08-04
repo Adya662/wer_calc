@@ -1,0 +1,345 @@
+{
+  "call_id": "eacbcb92-6172-41f7-b2a9-0c4df5a3a597",
+  "mismatches": [
+    {
+      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
+      "hypothesis_sentence": "Hey, I am Ray from Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Got it! How can I help you today?",
+      "hypothesis_sentence": "English please.",
+      "word_differences": [
+        [
+          "Got it! How can I help you today?",
+          "English please."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can help you track your order. Could you please tell me the product name or brand you're referring to?",
+      "hypothesis_sentence": "Got it. How can I help you today?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Got it. How can"
+        ],
+        [
+          "can",
+          "[missing]"
+        ],
+        [
+          "track your order. Could you please tell me the product name or brand you're referring to?",
+          "today?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products",
+      "hypothesis_sentence": "I can help you track your order. Could you please tell me the product name or brand you're referring to?",
+      "word_differences": [
+        [
+          "[missing]",
+          "I can help you track your order. Could you"
+        ],
+        [
+          "give",
+          "tell"
+        ],
+        [
+          "a moment",
+          "the product name or brand you're referring"
+        ],
+        [
+          "fetch your products",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can see that your order GAP Boys Camouflage Printed Relaxed-Fit Mid-Rise Joggers has already been delivered on yesterday Do you need any further assistance regarding this order",
+      "hypothesis_sentence": "Please give me a moment to fetch your products.",
+      "word_differences": [
+        [
+          "I can see that",
+          "Please give me a moment to fetch"
+        ],
+        [
+          "order GAP Boys Camouflage Printed Relaxed-Fit Mid-Rise Joggers has already been delivered on yesterday Do you need any further assistance regarding this order",
+          "products."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your order for the GAP Boys Camouflage Printed Relaxed-Fit Mid-Rise Joggers has already been delivered. Please let me know if there's anything else you'd like assistance with!",
+      "hypothesis_sentence": "I can see that your order gap boys camouflage printed relaxed fit mid rise joggers has already been delivered on yesterday.",
+      "word_differences": [
+        [
+          "[missing]",
+          "I can see that"
+        ],
+        [
+          "for the",
+          "[missing]"
+        ],
+        [
+          "Relaxed-Fit Mid-Rise",
+          "relaxed fit mid rise"
+        ],
+        [
+          "Please let me know if there's anything else you'd like assistance with!",
+          "on yesterday."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can help you with the remaining items, but let's address them one by one to ensure we don't miss anything. Could you tell me the name or brand of the next product you'd like to check?",
+      "hypothesis_sentence": "Do you need any further assistance regarding this order?",
+      "word_differences": [
+        [
+          "I can help",
+          "Do"
+        ],
+        [
+          "with the remaining items, but let's address them one by one to ensure we don't miss anything. Could you tell me the name or brand of the next product you'd like to check?",
+          "need any further assistance regarding this order?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Talking about Jack & Jones Junior products? Please give me a moment to check.",
+      "hypothesis_sentence": "Your order for the Gap Boys camouflage printed relaxed fit midrise joggers has already been delivered. Please let me know if there's anything else you'd like assistance with.",
+      "word_differences": [
+        [
+          "Talking about Jack & Jones Junior",
+          "Your order for the Gap Boys camouflage printed relaxed fit midrise joggers has already been delivered."
+        ],
+        [
+          "Please",
+          "let"
+        ],
+        [
+          "me a moment to",
+          "know if there's anything else you'd like assistance with."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Pure Cotton Relaxed-Fit Joggers is scheduled to arrive by end of day today.\nPlease tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "I can help you with the remaining items, but let's address them one by one to ensure we don't miss anything. Could you tell me the name or brand of the next product you'd like to check?",
+      "word_differences": [
+        [
+          "Your \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Pure Cotton Relaxed-Fit Joggers is scheduled to arrive by end of day today. Please tell me, is",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "the remaining items, but let's address them one by one to ensure we don't miss anything. Could you tell me the name or brand of the next product you'd like to check?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I was referring to one of the \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Pure Cotton Relaxed-Fit Joggers. Let me check the status of the second one for you. Please hold on a moment.",
+      "hypothesis_sentence": "Talking about Jack and Jones junior products. Please give me a moment to check.",
+      "word_differences": [
+        [
+          "I was referring to one of the",
+          "Talking about Jack and Jones"
+        ],
+        [
+          "\u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Pure Cotton",
+          "products. Please give"
+        ],
+        [
+          "Joggers. Let me check the status of the second one for you.",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "to check."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Relaxed-Fit Mid-Rise Joggers is scheduled to arrive by end of day today.\nPlease tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your Jack and Jones junior boys pure cotton relaxed fit joggers is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Jack and Jones"
+        ],
+        [
+          "\u091c\u094b\u0928\u094d\u0938 Junior",
+          "pure cotton relaxed fit"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Yes, that's correct! Both your \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Pure Cotton Relaxed-Fit Joggers and \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Relaxed-Fit Mid-Rise Joggers are scheduled to arrive by the end of today. Please let me know if you need any further assistance!",
+      "hypothesis_sentence": "I was referring to one of the Jack and Jones junior boys pure cotton relaxed fit joggers. Let me check the status of the second one for you. Please hold on a moment. Your Jack and Jones junior boys relaxed fit mid rise joggers is scheduled to arrive by end of day today. Please tell me is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "Yes, that's correct! Both your",
+          "I was referring to one of the Jack and Jones"
+        ],
+        [
+          "Boys",
+          "relaxed fit"
+        ],
+        [
+          "[missing]",
+          "Let me check the status of the second one for you. Please hold on a moment. Your Jack"
+        ],
+        [
+          "[missing]",
+          "Jones"
+        ],
+        [
+          "and \u091c\u0948\u0915",
+          "relaxed fit mid rise"
+        ],
+        [
+          "\u091c\u094b\u0928\u094d\u0938",
+          "is"
+        ],
+        [
+          "Joggers",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "day"
+        ],
+        [
+          "by",
+          "tell"
+        ],
+        [
+          "end of",
+          "is there anything else I can help"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can check the other items in your order. Let\u2019s go through them one by one. Could you tell me which item or brand you\u2019d like to start with?",
+      "hypothesis_sentence": "Yes, that's correct. Both your Jack and Jones junior boys pure cotton relaxed fit joggers and Jack and Jones junior boys relaxed fit mid rise joggers are scheduled to arrive by the end of today. Please let me know if you need any further assistance.",
+      "word_differences": [
+        [
+          "I can check",
+          "Yes, that's correct. Both your Jack and Jones junior boys pure cotton relaxed fit joggers and Jack and Jones junior boys relaxed fit mid rise joggers are scheduled to arrive by"
+        ],
+        [
+          "other items in your order. Let\u2019s go through them one by one. Could",
+          "end of today. Please let me know if"
+        ],
+        [
+          "tell me which item or brand you\u2019d like to start with?",
+          "need any further assistance."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Alright, let me check for the remaining items in your order list. Please hold on.",
+      "hypothesis_sentence": "I can check the other items in your order. Let's go through them one by one. Could you tell me which item or brand you'd like to start with?",
+      "word_differences": [
+        [
+          "Alright, let me",
+          "I can"
+        ],
+        [
+          "for",
+          "[missing]"
+        ],
+        [
+          "remaining",
+          "other"
+        ],
+        [
+          "list. Please hold on.",
+          "Let's go through them one by one. Could you tell me which item or brand you'd like to start with?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products",
+      "hypothesis_sentence": "All right, let me check for the remaining items in your order list. Please hold on.",
+      "word_differences": [
+        [
+          "[missing]",
+          "All right, let me check for the remaining items in your order list."
+        ],
+        [
+          "give me a moment to fetch your products",
+          "hold on."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I see there are additional items in your order list from Jack & Jones Junior. Let me confirm one of the items\u2014Jack & Jones Junior Boys Jogger Mid-Rise Pure Cotton Stretchable Jeans. Would you like me to check the status of this item?",
+      "hypothesis_sentence": "Please give me a moment to fetch your products.",
+      "word_differences": [
+        [
+          "I see there are additional items in",
+          "Please give me a moment to fetch"
+        ],
+        [
+          "order list from Jack & Jones Junior. Let me confirm one of the items\u2014Jack & Jones Junior Boys Jogger Mid-Rise Pure Cotton Stretchable Jeans. Would you like me to check the status of",
+          "products."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can see that your order \u091c\u0948\u0915 \u090f\u0902\u0921 \u091c\u094b\u0928\u094d\u0938 Junior Boys Jogger Mid-Rise Pure Cotton Stretchable Jeans has already been delivered on 25 June Do you need any further assistance regarding this order",
+      "hypothesis_sentence": "I see there are additional items in your order list from Jack and Jones junior. Let me confirm one of the items, Jack and Jones junior boys jogger mid rice, pure cotton stretchable jeans. Would you like me to check the status of this item?",
+      "word_differences": [
+        [
+          "can",
+          "[missing]"
+        ],
+        [
+          "that",
+          "there are additional items in"
+        ],
+        [
+          "[missing]",
+          "list from Jack and Jones junior. Let me confirm one of the items, Jack and Jones"
+        ],
+        [
+          "Junior",
+          "mid rice,"
+        ],
+        [
+          "Cotton Stretchable Jeans has already been delivered on",
+          "Would"
+        ],
+        [
+          "June Do you need any",
+          "like me to check the status of"
+        ],
+        [
+          "assistance",
+          "item?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "You're most welcome! We'll be sending you a quick feedback form via SMS\u2014your input would really help us improve. Thank you for choosing \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Have a great day!",
+      "hypothesis_sentence": "I can see that your order Jack and Jones junior boys jogger mid rice pure cotton stretchable jeans has already been delivered on 25th June. Do you need any further assistance regarding this order?",
+      "word_differences": [
+        [
+          "You're most welcome! We'll be sending",
+          "I can see that your order Jack and Jones junior boys jogger mid rice pure cotton stretchable jeans has already been delivered on 25th June. Do"
+        ],
+        [
+          "a quick feedback form via SMS\u2014your input would really help us improve. Thank you for choosing \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Have a great",
+          "need any further assistance regarding this order?"
+        ]
+      ]
+    }
+  ]
+}

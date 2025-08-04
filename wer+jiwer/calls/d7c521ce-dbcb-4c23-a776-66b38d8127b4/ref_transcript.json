@@ -1,0 +1,112 @@
+[
+  {
+    "timestamp": "2025-07-23 05:19:58",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-07-23 05:20:08",
+    "speaker": "user",
+    "content": "Hello,"
+  },
+  {
+    "timestamp": "2025-07-23 05:20:08",
+    "speaker": "assistant",
+    "content": "Hi there! How can I assist you with your मिंत्रा order today?"
+  },
+  {
+    "timestamp": "2025-07-23 05:20:21",
+    "speaker": "user",
+    "content": "I like to know when will be receiving the orders because were supposed to arrive in 30 minutes"
+  },
+  {
+    "timestamp": "2025-07-23 05:20:21",
+    "speaker": "assistant",
+    "content": "Alright, I can check the status of your order for you. Could you please tell me the product name or the brand name of the item you're referring to?"
+  },
+  {
+    "timestamp": "2025-07-23 05:20:35",
+    "speaker": "user",
+    "content": "Savina lift, and Biocccccccct."
+  },
+  {
+    "timestamp": "2025-07-23 05:20:39",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-23 05:20:42",
+    "speaker": "assistant",
+    "content": "थोड़ा इंतजार कीजिए, मैं आपके products ला रही हूँ।"
+  },
+  {
+    "timestamp": "2025-07-23 05:20:42",
+    "speaker": "assistant",
+    "content": "I see two orders in your list related to your input. One is the Biotique Morning Nectar Nourish & Hydrate Skin Moisturizer, and the other is the FABINALIV Kids Silver-Toned Umbrella. Which one would you like me to check the delivery status for first?"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:02",
+    "speaker": "user",
+    "content": "तो both of them and umbrella."
+  },
+  {
+    "timestamp": "2025-07-23 05:21:02",
+    "speaker": "assistant",
+    "content": "Alright, I will check the delivery status for both items, starting with the umbrella."
+  },
+  {
+    "timestamp": "2025-07-23 05:21:21",
+    "speaker": "assistant",
+    "content": "Your FABINALIV Kids Silver-Toned & Brown Cartoon Character Printed Automatic 3 Fold Umbrella is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:23",
+    "speaker": "assistant",
+    "content": "Your बायोटिक Morning Nectar Nourish & Hydrate Visibly Flawless Skin Moisturizer - 120ml is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:23",
+    "speaker": "user",
+    "content": "Yes, but"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:23",
+    "speaker": "assistant",
+    "content": "Got it! Please let me know what you need help with further."
+  },
+  {
+    "timestamp": "2025-07-23 05:21:32",
+    "speaker": "user",
+    "content": "so what time will it be delivered?"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:32",
+    "speaker": "assistant",
+    "content": "Delivery times can depend on various factors, but your orders are scheduled for delivery today. The delivery agent will call you once they are close to your location. If you have any specific concerns, I can assist you further!"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:55",
+    "speaker": "user",
+    "content": "तो when does my bio tech mosurizer and we construct are delivered"
+  },
+  {
+    "timestamp": "2025-07-23 05:21:55",
+    "speaker": "assistant",
+    "content": "Your Biotique Moisturizer is already scheduled for delivery today. Regarding \"We Construct,\" I believe you may be referring to \"Deconstruct Vitamin C & Ferulic Acid Serum.\" Let me check its delivery status for you."
+  },
+  {
+    "timestamp": "2025-07-23 05:22:21",
+    "speaker": "assistant",
+    "content": "Your डीकंस्ट्रक्ट Vitamin C & Ferulic Acid Serum For Brighten Skin - 20ml is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-23 05:22:25",
+    "speaker": "user",
+    "content": "So absolutely nothing. You are great. Thank you so much."
+  },
+  {
+    "timestamp": "2025-07-23 05:22:25",
+    "speaker": "assistant",
+    "content": "Thank you for your kind words! We'll be sending you a quick feedback form via SMS—your input would really help us improve. Thank you for choosing मिंत्रा. Have a great day!"
+  }
+]

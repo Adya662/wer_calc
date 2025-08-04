@@ -1,0 +1,157 @@
+[
+  {
+    "timestamp": "0:00:00.066778",
+    "speaker": "Agent",
+    "content": "Hey, I am Ray from Myntra here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.892997",
+    "speaker": "Agent",
+    "content": "English please."
+  },
+  {
+    "timestamp": "0:00:08.929420",
+    "speaker": "Agent",
+    "content": "Got it. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:13.227825",
+    "speaker": "Customer",
+    "content": "Calling regarding my order. I just want to know when will my shipments reach me."
+  },
+  {
+    "timestamp": "0:00:20.704456",
+    "speaker": "Agent",
+    "content": "I can help you track your order. Could you please tell me the product name or brand you're referring to?"
+  },
+  {
+    "timestamp": "0:00:27.471251",
+    "speaker": "Customer",
+    "content": "talking about the gap."
+  },
+  {
+    "timestamp": "0:00:31.352816",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:35.691827",
+    "speaker": "Agent",
+    "content": "I can see that your order gap boys camouflage printed relaxed fit mid rise joggers has already been delivered on yesterday."
+  },
+  {
+    "timestamp": "0:00:43.243735",
+    "speaker": "Agent",
+    "content": "Do you need any further assistance regarding this order?"
+  },
+  {
+    "timestamp": "0:00:48.599023",
+    "speaker": "Customer",
+    "content": "What is the current status of the order?"
+  },
+  {
+    "timestamp": "0:00:52.243672",
+    "speaker": "Agent",
+    "content": "Your order for the Gap Boys camouflage printed relaxed fit midrise joggers has already been delivered. Please let me know if there's anything else you'd like assistance with."
+  },
+  {
+    "timestamp": "0:01:02.811091",
+    "speaker": "Customer",
+    "content": "What about the remaining items as part of my order?"
+  },
+  {
+    "timestamp": "0:01:07.519062",
+    "speaker": "Agent",
+    "content": "I can help you with the remaining items, but let's address them one by one to ensure we don't miss anything. Could you tell me the name or brand of the next product you'd like to check?"
+  },
+  {
+    "timestamp": "0:01:19.160250",
+    "speaker": "Customer",
+    "content": "uhhh... Jack and Jones thing."
+  },
+  {
+    "timestamp": "0:01:24.380769",
+    "speaker": "Agent",
+    "content": "Talking about Jack and Jones junior products. Please give me a moment to check."
+  },
+  {
+    "timestamp": "0:01:29.382771",
+    "speaker": "Agent",
+    "content": "Your Jack and Jones junior boys pure cotton relaxed fit joggers is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:40.904462",
+    "speaker": "Customer",
+    "content": "Actually I ordered two of those. \"Are you talking about both of them or just one of them?"
+  },
+  {
+    "timestamp": "0:01:48.469534",
+    "speaker": "Agent",
+    "content": "I was referring to one of the Jack and Jones junior boys pure cotton relaxed fit joggers. Let me check the status of the second one for you. Please hold on a moment. Your Jack and Jones junior boys relaxed fit mid rise joggers is scheduled to arrive by end of day today. Please tell me is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:09.624998",
+    "speaker": "Customer",
+    "content": "So both of these shipments are coming today."
+  },
+  {
+    "timestamp": "0:02:13.976142",
+    "speaker": "Agent",
+    "content": "Yes, that's correct. Both your Jack and Jones junior boys pure cotton relaxed fit joggers and Jack and Jones junior boys relaxed fit mid rise joggers are scheduled to arrive by the end of today. Please let me know if you need any further assistance."
+  },
+  {
+    "timestamp": "0:02:31.701702",
+    "speaker": "Customer",
+    "content": "Understood. Uh, got it. I think that pretty much sums. Are there any other items in my order? I'm not sure about."
+  },
+  {
+    "timestamp": "0:02:40.357221",
+    "speaker": "Agent",
+    "content": "I can check the other items in your order. Let's go through them one by one. Could you tell me which item or brand you'd like to start with?"
+  },
+  {
+    "timestamp": "0:02:48.779320",
+    "speaker": "Customer",
+    "content": "I think I ordered one more item. I'm actually not sure about it."
+  },
+  {
+    "timestamp": "0:02:52.005623",
+    "speaker": "Customer",
+    "content": "Uh, can you just check from your side?"
+  },
+  {
+    "timestamp": "0:02:57.095363",
+    "speaker": "Agent",
+    "content": "All right, let me check for the remaining items in your order list. Please hold on."
+  },
+  {
+    "timestamp": "0:03:03.191629",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:03:07.126204",
+    "speaker": "Agent",
+    "content": "I see there are additional items in your order list from Jack and Jones junior. Let me confirm one of the items, Jack and Jones junior boys jogger mid rice, pure cotton stretchable jeans. Would you like me to check the status of this item?"
+  },
+  {
+    "timestamp": "0:03:22.302483",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:03:25.606331",
+    "speaker": "Agent",
+    "content": "I can see that your order Jack and Jones junior boys jogger mid rice pure cotton stretchable jeans has already been delivered on 25th June. Do you need any further assistance regarding this order?"
+  },
+  {
+    "timestamp": "0:03:38.860639",
+    "speaker": "Customer",
+    "content": "No, I think that would be all good. Thank you."
+  },
+  {
+    "timestamp": "0:03:44.394718",
+    "speaker": "Agent",
+    "content": "You're most welcome. We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day."
+  }
+]

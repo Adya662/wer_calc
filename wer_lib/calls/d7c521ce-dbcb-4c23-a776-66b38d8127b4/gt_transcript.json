@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "0:00:00.256250",
+    "speaker": "Agent",
+    "content": "Hey, I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:07.416773",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:14.590409",
+    "speaker": "Customer",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "0:00:16.920206",
+    "speaker": "Agent",
+    "content": "Hi there. How can I assist you with your Myntra order today?"
+  },
+  {
+    "timestamp": "0:00:22.126284",
+    "speaker": "Customer",
+    "content": "Yeah, I'd like to know when I'll be receiving the orders because they were supposed to arrive in 30 minutes."
+  },
+  {
+    "timestamp": "0:00:29.458298",
+    "speaker": "Agent",
+    "content": "Alright, I can check the status of your order for you. Could you please tell me the product name or the brand name of the item you're referring to?"
+  },
+  {
+    "timestamp": "0:00:38.460448",
+    "speaker": "Customer",
+    "content": "FABINALIV and Biotique, and Deconstruct."
+  },
+  {
+    "timestamp": "0:00:44.174905",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:46.997358",
+    "speaker": "Agent",
+    "content": "थोड़ा इंतजार कीजिए, मैं आपके products ला रही हूं।"
+  },
+  {
+    "timestamp": "0:00:51.031189",
+    "speaker": "Agent",
+    "content": "I see two orders in your list related to your input. One is the Biotique Morning nectar nourish and hydrate skin moisturizer, and the other is the FABINALIV kids silver toned umbrella. Which one would you like me to check the delivery status for first?"
+  },
+  {
+    "timestamp": "0:01:05.664295",
+    "speaker": "Customer",
+    "content": "for both of them and umbrella first."
+  },
+  {
+    "timestamp": "0:01:10.922618",
+    "speaker": "Agent",
+    "content": "Alright, I will check the delivery status for both items, starting with the umbrella."
+  },
+  {
+    "timestamp": "0:01:16.013786",
+    "speaker": "Agent",
+    "content": "Your FABINALIV kids' silver-toned and brown cartoon character printed automatic threefold umbrella is being processed and will be delivered by today."
+  },
+  {
+    "timestamp": "0:01:28.603928",
+    "speaker": "Agent",
+    "content": "Your biotech Morning nectar."
+  },
+  {
+    "timestamp": "0:01:29.554537",
+    "speaker": "Customer",
+    "content": "Yes, but"
+  },
+  {
+    "timestamp": "0:01:32.037249",
+    "speaker": "Agent",
+    "content": "Got it. Please let me know what you need help with further."
+  },
+  {
+    "timestamp": "0:01:36.955519",
+    "speaker": "Customer",
+    "content": "So what time will it be delivered?"
+  },
+  {
+    "timestamp": "0:01:41.622734",
+    "speaker": "Agent",
+    "content": "Delivery times can depend on various factors, but your orders are scheduled for delivery today. The delivery agent will call you once they're close to your location. If you have any specific concerns, I can assist you further."
+  },
+  {
+    "timestamp": "0:01:55.673582",
+    "speaker": "Customer",
+    "content": "So when is my uh Biotique uh moisturizer and deconstruct serum are delivered?"
+  },
+  {
+    "timestamp": "0:02:04.735826",
+    "speaker": "Agent",
+    "content": "Your biotech moisturizer is already scheduled for delivery today. Regarding V Construct, I believe you may be referring to deconstruct Vitamin C and ferulic acid serum. Let me check its delivery status for you."
+  },
+  {
+    "timestamp": "0:02:17.254186",
+    "speaker": "Agent",
+    "content": "Your deconstruct vitamin C and and ferulic acid serum for Brighton skin, 20 ML is being processed and will be delivered by today. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:29.474306",
+    "speaker": "Customer",
+    "content": "No, absolutely nothing. You were great. Thank you so much."
+  },
+  {
+    "timestamp": "0:02:34.118504",
+    "speaker": "Agent",
+    "content": "Thank you for your kind words. We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day."
+  }
+]

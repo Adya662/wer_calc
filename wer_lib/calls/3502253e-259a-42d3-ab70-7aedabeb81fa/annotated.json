@@ -1,0 +1,878 @@
+[
+  {
+    "id": 18739,
+    "annotations": [
+      {
+        "id": 7995,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 14.258474019604323,
+              "end": 21.624607370767205,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "lyXtu",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 14.258474019604323,
+              "end": 21.624607370767205,
+              "channel": 0,
+              "text": [
+                "Hello, this is Priya from Elevate now. Am I speaking with Taruna Yadav? I noticed you've been quiet. Are you still there?\""
+              ]
+            },
+            "id": "lyXtu",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 23.273423156072216,
+              "end": 23.885630247801284,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "wsKvB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 23.273423156072216,
+              "end": 23.885630247801284,
+              "channel": 0,
+              "text": [
+                "Yes, ma'am."
+              ]
+            },
+            "id": "wsKvB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 23.893042720933156,
+              "end": 27.537588063882772,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "AWMOa",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 27.57416609914003,
+              "end": 38.30102219957591,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "9b6Gs",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 27.57416609914003,
+              "end": 38.30102219957591,
+              "channel": 0,
+              "text": [
+                "I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+              ]
+            },
+            "id": "9b6Gs",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 41.17110279165108,
+              "end": 41.61386233050585,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "uxWSP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 41.17110279165108,
+              "end": 41.61386233050585,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "uxWSP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 41.62341119263913,
+              "end": 43.55588824747728,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "0sLf8",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 43.592911760731326,
+              "end": 65.85744624519444,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "9iO9o",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 43.592911760731326,
+              "end": 65.85744624519444,
+              "channel": 0,
+              "text": [
+                "Hi. Based on your BMI of 32.03, it's clear your body is sending signals about how it's handling weight and metabolism right now.We are genuinely excited to support your goals, and the Nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?"
+              ]
+            },
+            "id": "9iO9o",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 66.88732165810178,
+              "end": 67.51630657410668,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Aece2",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 66.88732165810178,
+              "end": 67.51630657410668,
+              "channel": 0,
+              "text": [
+                "Yes, ma'am."
+              ]
+            },
+            "id": "Aece2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 67.52984106491063,
+              "end": 70.10527930206578,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "aBIDr",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 70.12777308934578,
+              "end": 76.05248215743609,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ikkTX",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 70.12777308934578,
+              "end": 76.05248215743609,
+              "channel": 0,
+              "text": [
+                "Perfect. Have you had any past experiences with other weight loss programs? If so, did they work for you?"
+              ]
+            },
+            "id": "ikkTX",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 77.73472989871456,
+              "end": 85.9033676998957,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "kd8qI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 77.73472989871456,
+              "end": 85.9033676998957,
+              "channel": 0,
+              "text": [
+                "\u092e\u0948\u0902\u0928\u0947 \u0918\u0930 \u0938\u0947 \u0939\u0940 \u0905\u092a\u0928\u0947 \u0939\u094b\u092e \u0930\u0947\u092e\u0947\u0921\u0940\u091c \u0915\u0930-\u0915\u0930 \u0915\u0947 \u091f\u094d\u0930\u093e\u0908 \u0915\u093f\u092f\u093e \u0939\u0948 \u0915\u0908 \u092c\u093e\u0930\u0964 \u0915\u094b\u0908 \u090f\u0915\u094d\u091f \u0915\u0941\u091b \u092a\u094d\u0932\u093e\u0928 \u0928\u0939\u0940\u0902 \u0932\u093f\u092f\u093e\u0964 \u0924\u094b \u0932\u0947\u0915\u093f\u0928 \u092e\u0941\u091d\u0947 \u0915\u092d\u0940 \u0915\u094b\u0908 \u092b\u0930\u094d\u0915 \u092a\u0921\u093c\u093e \u0928\u0939\u0940\u0902\u0964\""
+              ]
+            },
+            "id": "kd8qI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 85.96269142156054,
+              "end": 91.70540205684493,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "P9s6f",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 91.69246943666616,
+              "end": 128.23191458704778,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "AYFfr",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 91.69246943666616,
+              "end": 128.23191458704778,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902\u0964 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u092a\u0930\u092b\u0947\u0915\u094d\u091f \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u092a\u0930\u094d\u0938\u0928\u0932\u093e\u0907\u091c\u094d\u0921 \u0914\u0930 \u0938\u093e\u0907\u0902\u091f\u093f\u092b\u093f\u0915\u0932\u0940 \u092c\u0948\u0915\u094d\u0921 \u0905\u092a\u094d\u0930\u094b\u091a \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u0939\u0948\u0964 \u091a\u0932\u093f\u090f, \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0911\u092b\u0930\u093f\u0902\u0917\u094d\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0938\u0940\u0928\u093f\u092f\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964\u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u0915\u093f\u0938\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947 \u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092c\u0924\u093e\u090a\u0902 \u0915\u093f \u092f\u0939 \u0915\u0948\u0938\u0947 \u0906\u092a\u0915\u0947 \u0935\u0947\u091f \u0932\u0949\u0938 \u0917\u094b\u0932\u094d\u0938 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948? \u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0906\u092a\u0915\u0940 \u0938\u094d\u092a\u0947\u0938\u093f\u092b\u093f\u0915 \u0928\u0940\u0921\u094d\u0938 \u0915\u094b \u090f\u0921\u094d\u0930\u0947\u0938 \u0915\u0930 \u0938\u0915\u0947\u0964 \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964\""
+              ]
+            },
+            "id": "AYFfr",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 91.69246943666616,
+              "end": 128.23191458704778,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "AYFfr",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 128.24281354934584,
+              "end": 129.68310886990596,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "ZwYM9",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 129.70452304209283,
+              "end": 130.1402426348673,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "FiG_4",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 129.70452304209283,
+              "end": 130.1402426348673,
+              "channel": 0,
+              "text": [
+                "\u091c\u0940"
+              ]
+            },
+            "id": "FiG_4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 130.16234867167785,
+              "end": 135.4515003950793,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "aEkxp",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 135.47030627450502,
+              "end": 160.4377558616261,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "z3ZnZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 135.47030627450502,
+              "end": 160.4377558616261,
+              "channel": 0,
+              "text": [
+                "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0924\u0939\u0924 \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 \u092e\u0947\u091f\u093e\u092c\u0949\u0932\u093f\u091c\u094d\u092e \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u0938\u094d\u092a\u0947\u0938\u093f\u092b\u093f\u0915 \u092a\u0948\u0930\u093e\u092e\u0940\u091f\u0930\u094d\u0938 \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u090f\u0915 \u0938\u0940\u0928\u093f\u092f\u0930 \u0913\u092c\u0947\u0938\u093f\u091f\u0940 \u0938\u094d\u092a\u0947\u0936\u0932\u093f\u0938\u094d\u091f \u0921\u0949\u0915\u094d\u091f\u0930 \u0906\u092a\u0915\u0947 \u0930\u093f\u091c\u0932\u094d\u091f\u094d\u0938 \u0915\u094b \u0921\u093f\u091f\u0947\u0932 \u092e\u0947\u0902 \u0938\u092e\u091d\u093e\u090f\u0902\u0917\u0947 \u0914\u0930 \u0909\u0928\u0915\u0940 \u0939\u0947\u0932\u094d\u0925 \u092a\u0930 \u0907\u0902\u092a\u0948\u0915\u094d\u091f \u0915\u094b \u0921\u093f\u0938\u094d\u0915\u0938 \u0915\u0930\u0947\u0902\u0917\u0947\u0964\u0905\u0902\u0924 \u092e\u0947\u0902, \u0939\u092e\u093e\u0930\u093e \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u090f\u0915 \u092a\u0930\u094d\u0938\u0928\u0932\u093e\u0907\u091c\u094d\u0921 \u0935\u0947\u091f \u0932\u0949\u0938 \u092a\u094d\u0932\u093e\u0928 \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0947\u0917\u093e \u091c\u094b \u0906\u092a\u0915\u0940 \u0928\u0940\u0921\u094d\u0938 \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915 \u0939\u094b\u0917\u093e\u0964\u0905\u092c \u091c\u092c \u0939\u092e\u0928\u0947 \u0907\u0928 \u0911\u092b\u0930\u093f\u0902\u0917\u094d\u0938 \u0915\u094b \u0915\u0935\u0930 \u0915\u0930 \u0932\u093f\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u093e \u0906\u092a \u092a\u094d\u0930\u093e\u0907\u0938\u093f\u0902\u0917 \u0907\u0902\u092b\u0949\u0930\u094d\u092e\u0947\u0936\u0928 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?\""
+              ]
+            },
+            "id": "z3ZnZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 161.54647271635383,
+              "end": 162.3676928739396,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "C9Jt8",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 161.54647271635383,
+              "end": 162.3676928739396,
+              "channel": 0,
+              "text": [
+                "\u091c\u0940\u0964"
+              ]
+            },
+            "id": "C9Jt8",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 162.37982005719584,
+              "end": 167.11762865865214,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "3Cgib",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 167.13856545787723,
+              "end": 185.72264596357996,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "bNNFz",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 167.13856545787723,
+              "end": 185.72264596357996,
+              "channel": 0,
+              "text": [
+                "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0940 \u0915\u0940\u092e\u0924 1799 \u0939\u0948 \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 \u092a\u094d\u0930\u0940\u092e\u093f\u092f\u092e \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u0915\u094b \u0905\u092b\u094b\u0930\u094d\u0921\u0947\u092c\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 \u092a\u094d\u0930\u093e\u0907\u0938 \u092a\u0949\u0907\u0902\u091f \u092a\u0930 \u092f\u0939 \u0915\u0949\u092e\u094d\u092a\u094d\u0930\u093f\u0939\u0947\u0902\u0938\u093f\u0935 \u0938\u0930\u094d\u0935\u093f\u0938 \u092e\u093f\u0932\u0928\u093e \u0930\u0947\u092f\u0930 \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092c \u092a\u0947\u092e\u0947\u0902\u091f \u0911\u092a\u094d\u0936\u0902\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?"
+              ]
+            },
+            "id": "bNNFz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 186.8183654434379,
+              "end": 187.3507426833467,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "loX5b",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 186.8183654434379,
+              "end": 187.3507426833467,
+              "channel": 0,
+              "text": [
+                "Yes ma'am. "
+              ]
+            },
+            "id": "loX5b",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 187.36181716546113,
+              "end": 189.24561355283078,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "uB5Qk",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 189.26504570360552,
+              "end": 217.90363248960114,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "OnwQN",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 189.26504570360552,
+              "end": 217.90363248960114,
+              "channel": 0,
+              "text": [
+                "Great. You have two payment options for the Nano plan. You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of blood sample collection, which totals rupees 1,898. Or you can make a full payment of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?"
+              ]
+            },
+            "id": "OnwQN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 219.26199874444671,
+              "end": 231.20813644882784,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "868QQ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 219.26199874444671,
+              "end": 231.20813644882784,
+              "channel": 0,
+              "text": [
+                "Okay, I have another doubt. \u092e\u0941\u091d\u0947 \u092f\u0939 \u092c\u0924\u093e\u0907\u090f \u0915\u093f \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u092e\u0902\u0925\u0932\u0940 \u091a\u093e\u0930\u094d\u091c\u0947\u0938 \u0915\u094d\u092f\u093e \u0939\u094b\u0902\u0917\u0947? \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0909\u0938\u0947 \u0906\u0917\u0947 \u0915\u0902\u091f\u093f\u0928\u094d\u092f\u0942 \u0915\u0930 \u092a\u093e\u090a\u0902\u0917\u0940 \u092f\u093e \u0935\u0939 \u091c\u094d\u092f\u093e\u0926\u093e \u0939\u094b \u091c\u093e\u090f\u0917\u093e \u0924\u094b \u092e\u0947\u0930\u0947 \u0915\u094b \u092c\u0940\u091a \u092e\u0947\u0902 \u091b\u094b\u0921\u093c\u0928\u093e \u092a\u0921\u093c\u0947\u0917\u093e?"
+              ]
+            },
+            "id": "868QQ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 231.2473059518595,
+              "end": 234.8405183007126,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "CI84H",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 234.8670615469525,
+              "end": 263.00672428466027,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "8zQRL",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 234.8670615469525,
+              "end": 263.00672428466027,
+              "channel": 0,
+              "text": [
+                "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0915\u0902\u092a\u094d\u0932\u0940\u091f \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926, \u0906\u092a\u0915\u0947 \u092a\u093e\u0938 \u0939\u092e\u093e\u0930\u0947 \u092b\u094d\u0932\u0948\u0917\u0936\u093f\u092a \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u092e\u0947\u0902 \u0905\u092a\u0917\u094d\u0930\u0947\u0921 \u0915\u0930\u0928\u0947 \u0915\u093e \u0911\u092a\u094d\u0936\u0928 \u0939\u094b\u0917\u093e, \u091c\u093f\u0938\u092e\u0947\u0902 \u0924\u0940\u0928, \u091b\u0939 \u092f\u093e 12 \u092e\u0939\u0940\u0928\u0947 \u0915\u0947 \u0938\u092c\u094d\u0938\u094d\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964\u092f\u0939 \u092a\u094d\u0932\u093e\u0928\u094d\u0938 \u0906\u092a\u0915\u0947 \u092f\u0942\u0928\u093f\u0915 \u092e\u0947\u091f\u093e\u092c\u0949\u0932\u093f\u0915 \u0915\u0902\u0921\u0940\u0936\u0928 \u0915\u0947 \u0939\u093f\u0938\u093e\u092c \u0938\u0947 \u091f\u0947\u0932\u0930\u094d\u0921 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964\u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0915\u0902\u091f\u093f\u0928\u094d\u092f\u0942 \u0915\u0930\u0928\u0947 \u0915\u093e \u0921\u093f\u0938\u0940\u091c\u0928 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0906\u092a\u0915\u093e \u0939\u094b\u0917\u093e\u0964\u0939\u092e\u093e\u0930\u0947 \u0932\u0949\u0928\u094d\u0917\u0930 \u091f\u0930\u094d\u092e \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u094d\u0938 \u092e\u0947\u0902 100% \u092e\u0928\u0940 \u092c\u0948\u0915 \u0917\u093e\u0930\u0902\u091f\u0940 \u0911\u0928 \u0935\u0947\u091f \u0932\u0949\u0938 \u092d\u0940 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948, \u091c\u093f\u0938\u0938\u0947 \u0906\u092a\u0915\u094b \u0905\u092a\u0928\u0947 \u0939\u0947\u0932\u094d\u0925 \u0917\u094b\u0932\u094d\u0938 \u0905\u091a\u0940\u0935 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u0942\u0930\u093e \u0938\u092a\u094b\u0930\u094d\u091f \u092e\u093f\u0932\u0947\u0917\u093e\u0964 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0914\u0930 \u0915\u093f\u0938\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "8zQRL",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 266.9664877850377,
+              "end": 268.20033339990766,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "kCt02",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 266.9664877850377,
+              "end": 268.20033339990766,
+              "channel": 0,
+              "text": [
+                "\u0928\u0939\u0940\u0902, \u0925\u0948\u0902\u0915 \u092f\u0942\u0964"
+              ]
+            },
+            "id": "kCt02",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 268.2301845034932,
+              "end": 272.23023238395854,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "dqTXa",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 272.260664105654,
+              "end": 282.4403688444103,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "uIk1C",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 272.260664105654,
+              "end": 282.4403688444103,
+              "channel": 0,
+              "text": [
+                "I'll send you the payment links on your registered mobile number via WhatsApp. If you have any more doubts in the future, feel free to reach out.Goodbye and have a great day."
+              ]
+            },
+            "id": "uIk1C",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 291.0658389858241,
+              "end": 301.3282619031694,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "6daTg",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 308.709297,
+            "value": {
+              "start": 291.0658389858241,
+              "end": 301.3282619031694,
+              "channel": 0,
+              "text": [
+                "I'll send you the payment links on your registered mobile number via WhatsApp. If you have any more doubts in the future, feel free to reach out. Goodbye and have a great day."
+              ]
+            },
+            "id": "6daTg",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "2TxFZ8OwLo",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-24T09:59:41.708454Z",
+        "updated_at": "2025-07-25T13:30:35.336498Z",
+        "draft_created_at": "2025-07-24T09:06:48.872717Z",
+        "lead_time": 2837.4489999999996,
+        "prediction": {},
+        "result_count": 31,
+        "unique_id": "c952fc8f-ea33-431b-a6f7-6cf8db3759d4",
+        "import_id": null,
+        "last_action": null,
+        "task": 18739,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "ElevateNow_DM",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/19/3502253e-259a-42d3-ab70-7aedabeb81fa/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.542514Z",
+    "updated_at": "2025-07-25T13:30:35.429926Z",
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]

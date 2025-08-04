@@ -1,0 +1,203 @@
+{
+  "call_id": "09f69426-e7e6-4f2a-a20a-75416d945306",
+  "mismatches": [
+    {
+      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Purba Sahu?",
+      "hypothesis_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Purba Sahu?",
+      "word_differences": [
+        [
+          "ElevateNow.",
+          "Elevate Now."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I noticed",
+      "hypothesis_sentence": "I noticed you",
+      "word_differences": [
+        [
+          "[missing]",
+          "you"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+      "hypothesis_sentence": "I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+      "word_differences": [
+        [
+          "Great!",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0941\u091d\u0947 \u092e\u093e\u092b \u0915\u0930\u0928\u093e, \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092c\u093e\u0924 \u0938\u092e\u091d \u0928\u0939\u0940\u0902 \u092a\u093e\u092f\u093e\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0943\u092a\u092f\u093e \u0938\u094d\u092a\u0937\u094d\u091f \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902? \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 weight",
+      "hypothesis_sentence": "\u092e\u0941\u091d\u0947 \u092e\u093e\u092b \u0915\u0930\u0928\u093e, \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092c\u093e\u0924 \u0938\u092e\u091d \u0928\u0939\u0940\u0902 \u092a\u093e\u092f\u093e\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0943\u092a\u092f\u093e \u0938\u094d\u092a\u0937\u094d\u091f \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902? \u092e\u0948\u0902 \u0906\u092a\u0915\u0947",
+      "word_differences": [
+        [
+          "\u092e\u0941\u091d\u0947",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0948\u0902 \u0938\u092e\u091d\u0924\u0940 \u0939\u0942\u0901 \u0915\u093f \u0915\u0940\u092e\u0924 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u090f\u0915 \u091a\u093f\u0902\u0924\u093e \u0915\u093e \u0935\u093f\u0937\u092f \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u092e\u0948\u0902 Nano Plan \u0915\u0940",
+      "hypothesis_sentence": "\u092e\u0948\u0902 \u0938\u092e\u091d\u0924\u0940 \u0939\u0942\u0902 \u0915\u093f \u0915\u0940\u092e\u0924 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u090f\u0915 \u091a\u093f\u0902\u0924\u093e \u0915\u093e \u0935\u093f\u0937\u092f \u0939\u094b \u0938\u0915\u0924\u0940 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u092e\u0948\u0902 \u0928\u0928\u094b \u092a\u094d\u0932\u0948\u0928",
+      "word_differences": [
+        [
+          "\u092e\u0948\u0902 \u0938\u092e\u091d\u0924\u0940",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The Nano Plan is designed to be affordable, allowing you to experience our services without a significant upfront",
+      "hypothesis_sentence": "The Nano plan is designed to be affordable, allowing you to experience our services without a significant.",
+      "word_differences": [
+        [
+          "upfront",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I understand that you're concerned about the cost. Let me explain why the Nano Plan is such a great value. Individually, the services",
+      "hypothesis_sentence": "I understand that you're concerned about the cost. Let me explain why the Nano plan is such a great value.",
+      "word_differences": [
+        [
+          "Individually, the services",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0941\u091d\u0947 \u0932\u0917\u0924\u093e \u0939\u0948 \u0915\u093f \u0906\u092a\u0928\u0947 \u0926\u0942\u0938\u0930\u0947 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0940 \u0939\u094b\u0917\u0940\u0964 Nano Plan \u0915\u0947 \u0924\u0939\u0924, \u0906\u092a Rupees one thousand seven hundred ninety-nine \u092e\u0947\u0902 \u090f\u0915 comprehensive package \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902, \u091c\u093f\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u092f\u0939 \u092f\u094b\u091c\u0928\u093e \u0907\u0938 \u0915\u0940\u092e\u0924 \u092a\u0930 \u0909\u092a\u0932\u092c\u094d\u0927 \u0938\u0947\u0935\u093e\u0913\u0902 \u0915\u093e \u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u093e \u092e\u0942\u0932\u094d\u092f \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0938\u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "hypothesis_sentence": "\u092e\u0941\u091d\u0947 \u0932\u0917\u0924\u093e \u0939\u0948 \u0915\u093f \u0906\u092a\u0928\u0947 \u0926\u0942\u0938\u0930\u0947 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0940 \u0939\u094b\u0917\u0940\u0964 \u0928\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0924\u0939\u0924 \u0906\u092a 1,799 \u092e\u0947\u0902 \u090f\u0915 \u0915\u0949\u092e\u094d\u092a\u094d\u0930\u093f\u0939\u0947\u0902\u0938\u093f\u0935 \u092a\u0948\u0915\u0947\u091c \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u093f\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964 \u092f\u0939 \u092f\u094b\u091c\u0928\u093e \u0907\u0938 \u0915\u0940\u092e\u0924 \u092a\u0930 \u0909\u092a\u0932\u092c\u094d\u0927 \u0938\u0947\u0935\u093e\u0913\u0902 \u0915\u093e \u0938\u092c\u0938\u0947 \u0905\u091a\u094d\u091b\u093e \u092e\u0942\u0932\u094d\u092f \u092a\u094d\u0930\u0926\u093e\u0928 \u0915\u0930\u0924\u0940 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0938\u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "word_differences": [
+        [
+          "\u092e\u0941\u091d\u0947 \u0932\u0917\u0924\u093e \u0939\u0948 \u0915\u093f \u0906\u092a\u0928\u0947 \u0926\u0942\u0938\u0930\u0947 \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0940 \u0939\u094b\u0917\u0940\u0964 Nano Plan \u0915\u0947 \u0924\u0939\u0924,",
+          "\u092e\u0941\u091d\u0947"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Nano Plan \u0915\u0940 \u0915\u0940\u092e\u0924 Rupees one thousand seven hundred ninety-nine \u0939\u0948, \u091c\u094b \u0915\u093f comprehensive package \u0915\u0947 \u0932\u093f\u090f \u092c\u0939\u0941\u0924 \u0939\u0940 affordable \u0939\u0948\u0964 \u0907\u0938 \u0915\u0940\u092e\u0924 \u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u092c\u093e\u091c\u093c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0928 \u0938\u0947\u0935\u093e\u0913\u0902 \u0915\u0940 \u0915\u0941\u0932 \u0915\u0940\u092e\u0924 \u0932\u0917\u092d\u0917 Rupees six thousand \u0939\u094b\u0924\u0940 \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u0939\u092e\u093e\u0930\u0947 Plan \u0915\u0947 \u0938\u093e\u0925 \u0906\u092a \u0907\u0938\u0947 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0915\u092e \u0915\u0940\u092e\u0924 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0941\u091b \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "hypothesis_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0940 \u0915\u0940\u092e\u0924 1,799 \u0930\u0941\u092a\u092f\u0947 \u0939\u0948, \u091c\u094b \u0915\u093f \u0915\u0949\u092e\u094d\u092a\u094d\u0930\u093f\u0939\u0947\u0902\u0938\u093f\u0935  \u092a\u0948\u0915\u0947\u091c \u0915\u0947 \u0932\u093f\u090f \u092c\u0939\u0941\u0924 \u0939\u0940 \u0905\u092b\u094b\u0930\u094d\u0921\u0947\u092c\u0932 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0915\u0940\u092e\u0924 \u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u092f\u093e \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0928 \u0938\u0947\u0935\u093e\u0913\u0902 \u0915\u0940 \u0915\u0941\u0932 \u0915\u0940\u092e\u0924 6,000 \u0930\u0941\u092a\u092f\u0947 \u0939\u094b\u0924\u0940 \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u0939\u092e\u093e\u0930\u0947 \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0938\u093e\u0925 \u0906\u092a \u0907\u0938\u0947 \u092c\u0939\u0941\u0924 \u0939\u0940 \u0915\u092e \u0915\u0940\u092e\u0924 \u092e\u0947\u0902 \u092a\u094d\u0930\u093e\u092a\u094d\u0924 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0941\u091b \u091c\u093e\u0928\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "word_differences": [
+        [
+          "Nano Plan \u0915\u0940 \u0915\u0940\u092e\u0924 Rupees one thousand seven hundred ninety-nine \u0939\u0948, \u091c\u094b \u0915\u093f comprehensive package \u0915\u0947 \u0932\u093f\u090f \u092c\u0939\u0941\u0924 \u0939\u0940 affordable \u0939\u0948\u0964 \u0907\u0938",
+          "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0938\u0947 Nano Plan \u092f\u093e \u0909\u0938\u0915\u0947 \u0915\u093f\u0938\u0940 specific feature \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947? \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926",
+      "hypothesis_sentence": "\u092e\u0941\u091d\u0947 \u092e\u093e\u092b \u0915\u0940\u091c\u093f\u090f, \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092c\u093e\u0924 \u0938\u092e\u091d \u0928\u0939\u0940\u0902 \u092a\u093e\u0908\u0964\u0915\u094d\u092f\u093e \u0906\u092a",
+      "word_differences": [
+        [
+          "\u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0938\u0947 Nano",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0905\u092c",
+      "hypothesis_sentence": "Nano plan primarily offers a comprehensive initial assessment and personalized plan to kick start your weight loss journey. Once you complete the Nano plan, you have the option to upgrade to our flagship program, which includes three, six or 12 month subscription plans. This gives you continued support and guidance tailored to your specific needs.",
+      "word_differences": [
+        [
+          "[missing]",
+          "Nano plan primarily offers a comprehensive initial assessment and personalized plan to kick start your weight loss journey. Once you complete the Nano plan, you have the option to upgrade to our flagship program, which includes three, six or 12 month subscription plans. This gives you continued support and guidance tailored to your specific needs."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0941\u091d\u0947 \u092e\u093e\u092b \u0915\u0940\u091c\u093f\u090f, \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092c\u093e\u0924 \u0938\u092e\u091d \u0928\u0939\u0940\u0902 \u092a\u093e\u0908\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0915\u0943\u092a\u092f\u093e \u0938\u094d\u092a\u0937\u094d\u091f",
+      "hypothesis_sentence": "After completing the Nano plan, which provides a personalized road map to weight loss, you can choose to upgrade to our flagship program with options for 3, 6 or 12 month subscriptions. These longer-term plans offer a 100% money back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to discuss how to get started with the Nano plan?",
+      "word_differences": [
+        [
+          "[missing]",
+          "After completing the Nano plan, which provides a personalized road map to weight loss, you can choose to upgrade to our flagship program with options for 3, 6 or 12 month subscriptions. These longer-term plans offer a 100% money back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to discuss how to get started with the Nano plan?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Nano Plan primarily offers a comprehensive initial assessment and personalized plan to kickstart your weight loss journey. Once you complete the Nano Plan, you have the option to upgrade to our flagship program, which includes 3, 6, or 12-month subscription plans. This gives you continued support and guidance tailored to your specific needs. Would you like more information on this?",
+      "hypothesis_sentence": "The pricing for the three months.",
+      "word_differences": [
+        [
+          "Nano Plan primarily offers a comprehensive initial assessment and personalized plan to kickstart your weight loss journey. Once you complete",
+          "[missing]"
+        ],
+        [
+          "Nano Plan, you have",
+          "pricing for"
+        ],
+        [
+          "option to upgrade to our flagship program, which includes 3, 6, or 12-month subscription plans. This gives you continued support and guidance tailored to your specific needs. Would you like more information on this?",
+          "three months."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "After completing the Nano Plan, which provides a personalized roadmap to weight loss, you can choose to upgrade to our flagship program with options for 3, 6, or 12-month subscriptions. These longer-term plans offer a 100% money-back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to discuss how to get started with the Nano Plan?",
+      "hypothesis_sentence": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948 \u092f\u0926\u093f \u0906\u092a\u0915\u094b \u0910\u0938\u093e \u0932\u0917\u093e \u0939\u094b\u0964 \u092e\u0948\u0902 \u092f\u0939\u093e\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u0942\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0938\u0939\u093e\u092f\u0924\u093e \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?",
+      "word_differences": [
+        [
+          "After completing the Nano Plan, which provides a personalized roadmap to weight loss, you can choose to upgrade to our flagship program with options for 3, 6, or 12-month subscriptions. These longer-term plans offer a 100% money-back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to discuss how to get started with the Nano Plan?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The pricing for",
+      "hypothesis_sentence": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948 \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092e\u0939\u0940\u0928\u0947 \u0915\u0940 \u092f\u094b\u091c\u0928\u093e \u0915\u0947 \u092e\u0942\u0932\u094d\u092f \u0935\u093f\u0935\u0930\u0923 \u092a\u094d\u0930\u0926\u093e\u0928 \u0928\u0939\u0940\u0902 \u0915\u0930 \u0938\u0915\u0924\u0940\u0964 \u0928\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u092a\u0942\u0930\u093e \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926 \u0939\u092e \u0906\u092a\u0915\u094b \u0905\u092a\u0928\u0947 \u092b\u094d\u0932\u0948\u0917\u0936\u093f\u092a \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u0915\u0947 \u0932\u093f\u090f \u0935\u093f\u092d\u093f\u0928\u094d\u0928 \u0935\u093f\u0915\u0932\u094d\u092a\u0964",
+      "word_differences": [
+        [
+          "The pricing for",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948 \u092f\u0926\u093f \u0906\u092a\u0915\u094b \u0910\u0938\u093e \u0932\u0917\u093e \u0939\u094b\u0964 \u092e\u0948\u0902 \u092f\u0939\u093e\u0901 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u0939\u0942\u0901\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0938\u0939\u093e\u092f\u0924\u093e \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901?",
+      "hypothesis_sentence": "\u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0938\u0947 nano plan \u092f\u093e \u0909\u0938\u0915\u0947 \u0915\u093f\u0938\u0940 \u092b\u0940\u091a\u0930\u094d\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "word_differences": [
+        [
+          "[missing]",
+          "\u0915\u094d\u092f\u093e \u0906\u092a"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948, \u0932\u0947\u0915\u093f\u0928 \u092e\u0948\u0902 \u0935\u0930\u094d\u0924\u092e\u093e\u0928 \u092e\u0947\u0902 \u0924\u0940\u0928 \u092e\u0939\u0940\u0928\u0947 \u0915\u0940 \u092f\u094b\u091c\u0928\u093e \u0915\u0947 \u092e\u0942\u0932\u094d\u092f \u0935\u093f\u0935\u0930\u0923 \u092a\u094d\u0930\u0926\u093e\u0928 \u0928\u0939\u0940\u0902 \u0915\u0930 \u0938\u0915\u0924\u0940\u0964 Nano Plan \u0915\u0947 \u092a\u0942\u0930\u093e \u0939\u094b\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926, \u0939\u092e \u0906\u092a\u0915\u094b \u0905\u092a\u0928\u0947 \u092b\u094d\u0932\u0948\u0917\u0936\u093f\u092a \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u0915\u0947 \u0932\u093f\u090f",
+      "hypothesis_sentence": "\u0927\u0928\u094d\u092f\u0935\u093e\u0926\u0964 \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u0947 \u092a\u093e\u0938 \u0928\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u092f\u093e \u0907\u0938\u0938\u0947 \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u0915\u0941\u091b \u0914\u0930 \u0938\u0935\u093e\u0932 \u0939\u0948\u0902 \u091c\u093f\u0928\u092e\u0947\u0902 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926\"",
+      "word_differences": [
+        [
+          "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0927\u0928\u094d\u092f\u0935\u093e\u0926! \u0915\u094d\u092f\u093e \u0906\u092a\u0915\u0947 \u092a\u093e\u0938 Nano Plan \u092f\u093e \u0907\u0938\u0938\u0947 \u0938\u0902\u092c\u0902\u0927\u093f\u0924 \u0915\u0941\u091b \u0914\u0930 \u0938\u0935\u093e\u0932 \u0939\u0948\u0902 \u091c\u093f\u0928\u092e\u0947\u0902 \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926",
+      "hypothesis_sentence": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u0938\u0939\u093e\u092f\u0924\u093e \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?",
+      "word_differences": [
+        [
+          "\u0927\u0928\u094d\u092f\u0935\u093e\u0926! \u0915\u094d\u092f\u093e",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u092e\u0941\u091d\u0947 \u0916\u0947\u0926 \u0939\u0948 \u0915\u093f \u0906\u092a\u0915\u094b \u0905\u0938\u0941\u0935\u093f\u0927\u093e \u0939\u094b \u0930\u0939\u0940 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0915\u093f \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938 \u092a\u094d\u0930\u0915\u093e\u0930 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901?",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
+      "word_differences": [
+        [
+          "[missing]",
+          "I noticed you've been quiet. Are you still there?"
+        ]
+      ]
+    }
+  ]
+}

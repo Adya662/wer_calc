@@ -1,0 +1,3050 @@
+[
+  {
+    "id": 18754,
+    "annotations": [
+      {
+        "id": 8011,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 0,
+              "end": 4.336772446704797,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "TBqre",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 0,
+              "end": 4.336772446704797,
+              "channel": 0,
+              "text": [
+                "Hey, I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?"
+              ]
+            },
+            "id": "TBqre",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 6.536691751182591,
+              "end": 8.06417179575554,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "MFiwV",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 6.536691751182591,
+              "end": 8.06417179575554,
+              "channel": 0,
+              "text": [
+                "I think English is okay."
+              ]
+            },
+            "id": "MFiwV",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 8.08338891480378,
+              "end": 10.0253015296097,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "A_s3v",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 10.069913087523652,
+              "end": 11.526347548628092,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Tn-Tw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 10.069913087523652,
+              "end": 11.526347548628092,
+              "channel": 0,
+              "text": [
+                "Great. How can I help you today?"
+              ]
+            },
+            "id": "Tn-Tw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 13.343897540902015,
+              "end": 23.103514914301925,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "2fDJU",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 13.343897540902015,
+              "end": 23.103514914301925,
+              "channel": 0,
+              "text": [
+                "I just wanted to know the status of my order. I ordered one, I returned one product from story or something. It's story correct, there is a brand."
+              ]
+            },
+            "id": "2fDJU",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 23.134447199605876,
+              "end": 25.510119205743518,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "uxmH6",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 25.582689211102522,
+              "end": 31.270596225797455,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "lP6VR",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 25.582689211102522,
+              "end": 31.270596225797455,
+              "channel": 0,
+              "text": [
+                "I apologize, but I'm here to assist you with your Myntra orders and returns. How can I help you with those today?"
+              ]
+            },
+            "id": "lP6VR",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 32.67113070166492,
+              "end": 34.9554307075665,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Hocte",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 32.67113070166492,
+              "end": 34.9554307075665,
+              "channel": 0,
+              "text": [
+                "No, no, it is with Myntra only. I return one product."
+              ]
+            },
+            "id": "Hocte",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 34.99048258751458,
+              "end": 37.42975563827596,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "A09a7",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 37.44091035425322,
+              "end": 43.04280391642227,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Pcj1O",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 37.44091035425322,
+              "end": 43.04280391642227,
+              "channel": 0,
+              "text": [
+                "Could you please tell me the product name or brand name that you returned so I can check the status for you?\""
+              ]
+            },
+            "id": "Pcj1O",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 44.55902759488402,
+              "end": 51.77503151567794,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "6pRk_",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 44.55902759488402,
+              "end": 51.77503151567794,
+              "channel": 0,
+              "text": [
+                "Slightly difficult to pronounce it is something called story. I think it's a shirt."
+              ]
+            },
+            "id": "6pRk_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.74415908810633,
+              "end": 68.26309746171354,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "jy_Hp",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.74415908810633,
+              "end": 68.26309746171354,
+              "channel": 0,
+              "labels": [
+                "Bot Repeats Info"
+              ]
+            },
+            "id": "jy_Hp",
+            "from_name": "language_memory_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.74415908810633,
+              "end": 68.26309746171354,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "jy_Hp",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.74415908810633,
+              "end": 68.26309746171354,
+              "channel": 0,
+              "text": [
+                "Please give me a moment to fetch your products. Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story"
+              ]
+            },
+            "id": "jy_Hp",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 69.88293448678543,
+              "end": 70.9908878503917,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Nqx4u",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 69.88293448678543,
+              "end": 70.9908878503917,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "Nqx4u",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 69.88293448678543,
+              "end": 70.9908878503917,
+              "channel": 0,
+              "text": [
+                "Great"
+              ]
+            },
+            "id": "Nqx4u",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 70.98868913991085,
+              "end": 73.06892810831444,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Ix_0Q",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 73.10446065202,
+              "end": 74.82795435848612,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "qaCrG",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 73.10446065202,
+              "end": 74.82795435848612,
+              "channel": 0,
+              "text": [
+                "Is there anything else I can help you with?"
+              ]
+            },
+            "id": "qaCrG",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 76.90042355463247,
+              "end": 80.2330663917619,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "oDzR6",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 76.90042355463247,
+              "end": 80.2330663917619,
+              "channel": 0,
+              "text": [
+                "No, but you didn't tell me the status of the product."
+              ]
+            },
+            "id": "oDzR6",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 80.2620936541235,
+              "end": 83.45470948128951,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "qi87M",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 83.5305168712766,
+              "end": 92.32719948087228,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "wWmOx",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 83.5305168712766,
+              "end": 92.32719948087228,
+              "channel": 0,
+              "text": [
+                "our story plus size reflective detail t-shirt is expected to be picked up by 7 July subject to quality check. Please tell me is there anything else I can help you with?"
+              ]
+            },
+            "id": "wWmOx",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 93.97454288401629,
+              "end": 101.5101112369299,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "VYDkd",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 93.97454288401629,
+              "end": 101.5101112369299,
+              "channel": 0,
+              "text": [
+                "\"Uh yeah, I have one more product which is I think out for delivery today. Can you tell me the status like can you share the delivery agent number for that?"
+              ]
+            },
+            "id": "VYDkd",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 101.57310024299277,
+              "end": 103.84809268846095,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Wy_yP",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 103.86429211641044,
+              "end": 108.84083809087207,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "OhbX0",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 103.86429211641044,
+              "end": 108.84083809087207,
+              "channel": 0,
+              "text": [
+                "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?"
+              ]
+            },
+            "id": "OhbX0",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 109.41454879813811,
+              "end": 116.41725991934483,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dGwQN",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 109.41454879813811,
+              "end": 116.41725991934483,
+              "channel": 0,
+              "text": [
+                "I don't remember. The status is out for delivery. It is I think let's just open order for me. You can check last five orders for it."
+              ]
+            },
+            "id": "dGwQN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 116.47734733829297,
+              "end": 118.93007356856333,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "379dE",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 118.94888079130898,
+              "end": 124.31341244793619,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "bDAg4",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 118.94888079130898,
+              "end": 124.31341244793619,
+              "channel": 0,
+              "text": [
+                "I see a few recent orders. Are you referring to the Puma women royal cat comfort soft ride sliders?"
+              ]
+            },
+            "id": "bDAg4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 126.0538071104988,
+              "end": 130.64990028058608,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "LllrZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 126.0538071104988,
+              "end": 130.64990028058608,
+              "channel": 0,
+              "text": [
+                "No, no, not this one. It is already delivered, no? There is one more which is out for delivery."
+              ]
+            },
+            "id": "LllrZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 130.7040733279007,
+              "end": 132.66906968322786,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "41JOa",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 132.73952121274957,
+              "end": 139.85876424674746,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "cPZ4M",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 132.73952121274957,
+              "end": 139.85876424674746,
+              "channel": 0,
+              "text": [
+                "I understand. Could you check if it might be the Agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery?"
+              ]
+            },
+            "id": "cPZ4M",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 141.85494404769244,
+              "end": 145.52105425585316,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "eSQPW",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 141.85494404769244,
+              "end": 145.52105425585316,
+              "channel": 0,
+              "text": [
+                "Yeah, correct. I think I think that's one, yeah. And there was one more along with it."
+              ]
+            },
+            "id": "eSQPW",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 145.57403272706938,
+              "end": 148.43487017274393,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "n5_i-",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 148.44687069306937,
+              "end": 157.6139414574267,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "m5tsT",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 148.44687069306937,
+              "end": 157.6139414574267,
+              "channel": 0,
+              "text": [
+                "Your Agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?"
+              ]
+            },
+            "id": "m5tsT",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 158.22130088867593,
+              "end": 162.37596727359184,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "IRMbG",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 158.22130088867593,
+              "end": 162.37596727359184,
+              "channel": 0,
+              "text": [
+                "No, no, there was one more product along with it I ordered. Which is also out for delivery."
+              ]
+            },
+            "id": "IRMbG",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 162.4394375132849,
+              "end": 164.8453883114643,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "bqdIU",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 164.8732812240908,
+              "end": 174.47183850760086,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "jnbNb",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 164.8732812240908,
+              "end": 174.47183850760086,
+              "channel": 0,
+              "text": [
+                "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the I style can top?"
+              ]
+            },
+            "id": "jnbNb",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 175.74702558154146,
+              "end": 177.43657993458908,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "2YltO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 175.74702558154146,
+              "end": 177.43657993458908,
+              "channel": 0,
+              "text": [
+                "Correct, yeah, that's one, that's the one, yeah."
+              ]
+            },
+            "id": "2YltO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 177.48686429033452,
+              "end": 180.52403937736057,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "qKZ76",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 180.56914190915984,
+              "end": 182.2778007187052,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Ddlv9",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 180.56914190915984,
+              "end": 182.2778007187052,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "Ddlv9",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 180.56914190915984,
+              "end": 182.2778007187052,
+              "channel": 0,
+              "text": [
+                "Your Istyle can top is out for"
+              ]
+            },
+            "id": "Ddlv9",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "2pmUTWy2tp",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 182.2866614928016,
+              "end": 184.69146565638223,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "F6oQ2",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 184.73685874032623,
+              "end": 192.5421300690808,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "U12pG",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 184.73685874032623,
+              "end": 192.5421300690808,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "U12pG",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 184.73685874032623,
+              "end": 192.5421300690808,
+              "channel": 0,
+              "text": [
+                "Your Istyle can top is out for delivery today. The delivery attempt started at 10:44 a.m. You can expect it by end of day."
+              ]
+            },
+            "id": "U12pG",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 193.7122927849839,
+              "end": 194.5511583710534,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "UFyVf",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 193.7122927849839,
+              "end": 194.5511583710534,
+              "channel": 0,
+              "text": [
+                "\u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u0924\u093e\u0913\u0917\u0947?"
+              ]
+            },
+            "id": "UFyVf",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 196.99287167805178,
+              "end": 209.0618482570809,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "OskgN",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 196.99287167805178,
+              "end": 209.0618482570809,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "OskgN",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 196.99287167805178,
+              "end": 209.0618482570809,
+              "channel": 0,
+              "text": [
+                "\u091c\u093c\u0930\u0942\u0930, \u092e\u0948\u0902 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u0924\u093e \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 \u0906\u092a\u0915\u093e \u0906\u0908 \u0938\u094d\u091f\u093e\u0907\u0932 \u0915\u0948\u0928 \u091f\u0949\u092a \u0906\u091c \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 \u0932\u093f\u090f \u092c\u093e\u0939\u0930 \u0939\u0948\u0964"
+              ]
+            },
+            "id": "OskgN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 215.98927259493954,
+              "end": 216.40161001409132,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "nrFcC",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 215.98927259493954,
+              "end": 216.40161001409132,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "nrFcC",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 216.42009051559708,
+              "end": 218.66090189201526,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "DwHjt",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 218.6680652734173,
+              "end": 219.6443523876244,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "46J1v",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 218.6680652734173,
+              "end": 219.6443523876244,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "46J1v",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 218.6680652734173,
+              "end": 219.6443523876244,
+              "channel": 0,
+              "text": [
+                "Hi there, how can I "
+              ]
+            },
+            "id": "46J1v",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 219.6663923653891,
+              "end": 221.45771759171987,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "WK_Bo",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 221.48740102155608,
+              "end": 223.98808464676398,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "YzKq7",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 221.48740102155608,
+              "end": 223.98808464676398,
+              "channel": 0,
+              "text": [
+                "Hi there. How can I continue to help you with your order?"
+              ]
+            },
+            "id": "YzKq7",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 231.81104645230516,
+              "end": 234.48196663172632,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "g_JVI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 231.81104645230516,
+              "end": 234.48196663172632,
+              "channel": 0,
+              "text": [
+                "I think you explaining me one order status already, right?"
+              ]
+            },
+            "id": "g_JVI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 234.49419440880254,
+              "end": 236.72632055874737,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Tc3F2",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 236.74348333381226,
+              "end": 246.94929761549795,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "8TRgo",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 236.74348333381226,
+              "end": 246.94929761549795,
+              "channel": 0,
+              "text": [
+                "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know."
+              ]
+            },
+            "id": "8TRgo",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 258.7159717526709,
+              "end": 267.702789,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "l0z02",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 258.7159717526709,
+              "end": 267.702789,
+              "channel": 0,
+              "text": [
+                "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to"
+              ]
+            },
+            "id": "l0z02",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T10:26:46.457618Z",
+        "updated_at": "2025-07-25T10:26:46.457658Z",
+        "draft_created_at": "2025-07-25T09:55:26.257206Z",
+        "lead_time": 1951.865,
+        "prediction": {},
+        "result_count": 50,
+        "unique_id": "cebb3fcd-9224-454e-b4ae-dcfe9cab2e5c",
+        "import_id": null,
+        "last_action": null,
+        "task": 18754,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/04/429ac8a5-6f19-46b3-97bb-8e55feec389e/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543409Z",
+    "updated_at": "2025-07-25T10:26:46.517154Z",
+    "inner_id": 17,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  },
+  {
+    "id": 18757,
+    "annotations": [
+      {
+        "id": 8016,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 0,
+              "end": 4.364284936267085,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "VqQ_O",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 0,
+              "end": 4.364284936267085,
+              "channel": 0,
+              "text": [
+                "Hey, I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?\""
+              ]
+            },
+            "id": "VqQ_O",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 6.505598339866714,
+              "end": 8.095833491619379,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "APkKI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 6.505598339866714,
+              "end": 8.095833491619379,
+              "channel": 0,
+              "text": [
+                "I think English is okay."
+              ]
+            },
+            "id": "APkKI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 8.099460064473929,
+              "end": 10.015897298637396,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "uFHes",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 10.03334230295843,
+              "end": 11.532525734962777,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "cCH19",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 10.03334230295843,
+              "end": 11.532525734962777,
+              "channel": 0,
+              "text": [
+                "Great. How can I help you today?\""
+              ]
+            },
+            "id": "cCH19",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 13.449112845916293,
+              "end": 23.061760997009046,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "TcdcJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 13.449112845916293,
+              "end": 23.061760997009046,
+              "channel": 0,
+              "text": [
+                "I just wanted to know the status of my order. I ordered one, I returned one product from story or something. It's Story correct, there is a brand."
+              ]
+            },
+            "id": "TcdcJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 23.086598253947173,
+              "end": 25.587309247081308,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "jbPaG",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 25.595237582867867,
+              "end": 31.363748830833714,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ejQQf",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 25.595237582867867,
+              "end": 31.363748830833714,
+              "channel": 0,
+              "text": [
+                "I apologize, but I'm here to assist you with your Myntra orders and returns. How can I help you with those today?"
+              ]
+            },
+            "id": "ejQQf",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 32.66413638020874,
+              "end": 34.976439022253096,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "D14E7",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 32.66413638020874,
+              "end": 34.976439022253096,
+              "channel": 0,
+              "text": [
+                "No, no, it is with Myntra only. I return one product."
+              ]
+            },
+            "id": "D14E7",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 35.010270547800076,
+              "end": 37.32257318984444,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "hF4cB",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 37.35213015934434,
+              "end": 43.06744423685022,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ekL_Y",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 37.35213015934434,
+              "end": 43.06744423685022,
+              "channel": 0,
+              "text": [
+                "Got it. Could you please tell me the product name or brand name that you returned so I can check the status for you?"
+              ]
+            },
+            "id": "ekL_Y",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 44.529010265794696,
+              "end": 51.793130829952936,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "MQ83g",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 44.529010265794696,
+              "end": 51.793130829952936,
+              "channel": 0,
+              "text": [
+                "Slightly difficult to pronounce it is something called story, I think it's it's a shirt."
+              ]
+            },
+            "id": "MQ83g",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 51.81152487525814,
+              "end": 54.84369532095782,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "akpfk",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.870739504361815,
+              "end": 68.34846383880517,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "-ziXO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.870739504361815,
+              "end": 68.34846383880517,
+              "channel": 0,
+              "text": [
+                "Please give me a moment to fetch your products. Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story\""
+              ]
+            },
+            "id": "-ziXO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.870739504361815,
+              "end": 68.34846383880517,
+              "channel": 0,
+              "labels": [
+                "Bot Repeats Info"
+              ]
+            },
+            "id": "-ziXO",
+            "from_name": "language_memory_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 54.870739504361815,
+              "end": 68.34846383880517,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "-ziXO",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 69.942820139023,
+              "end": 70.90590037027883,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "17VBW",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 69.942820139023,
+              "end": 70.90590037027883,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "17VBW",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 69.942820139023,
+              "end": 70.90590037027883,
+              "channel": 0,
+              "text": [
+                "Great."
+              ]
+            },
+            "id": "17VBW",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 70.91434844248285,
+              "end": 73.06015878229849,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "s5U5C",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 73.10556302945892,
+              "end": 74.84541305841869,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "YAiMR",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 73.10556302945892,
+              "end": 74.84541305841869,
+              "channel": 0,
+              "text": [
+                "Is there anything else I can help you with?"
+              ]
+            },
+            "id": "YAiMR",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 76.97244569242389,
+              "end": 80.15297328048291,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dcVxb",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 76.97244569242389,
+              "end": 80.15297328048291,
+              "channel": 0,
+              "text": [
+                "No, but you didn't tell me the status of the product."
+              ]
+            },
+            "id": "dcVxb",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 80.2075296942068,
+              "end": 83.49233687531694,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Sl6ZA",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 83.52878826374074,
+              "end": 92.14923462263297,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "4hOP5",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 83.52878826374074,
+              "end": 92.14923462263297,
+              "channel": 0,
+              "text": [
+                "our story plus size reflective detail t-shirt is expected to be picked up by 7 July subject to quality check. Please tell me is there anything else I can help you with?"
+              ]
+            },
+            "id": "4hOP5",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 94.0942092778237,
+              "end": 101.47074043091118,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "NfPbZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 94.0942092778237,
+              "end": 101.47074043091118,
+              "channel": 0,
+              "text": [
+                "Uh yeah, I have one more product which is I think out for delivery today. Can you tell me the status like can you share the delivery agent number for that?"
+              ]
+            },
+            "id": "NfPbZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 101.48463258867343,
+              "end": 103.80505306841124,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "kkzx1",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 103.85136636686894,
+              "end": 108.88724657027018,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "mS7QL",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 103.85136636686894,
+              "end": 108.88724657027018,
+              "channel": 0,
+              "text": [
+                "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?"
+              ]
+            },
+            "id": "mS7QL",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 109.36719333893573,
+              "end": 116.41753123996044,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Cp3TM",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 109.36719333893573,
+              "end": 116.41753123996044,
+              "channel": 0,
+              "text": [
+                "I don't remember. The status is out for delivery. It is I think let's just open order for me. You can check last five orders for it."
+              ]
+            },
+            "id": "Cp3TM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 116.46036423715954,
+              "end": 118.92495227132864,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "LjBRn",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 118.9390657775522,
+              "end": 124.52046378413444,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "4rM1g",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 118.9390657775522,
+              "end": 124.52046378413444,
+              "channel": 0,
+              "text": [
+                "I see a few recent orders. Are you referring to the Puma women royal cat comfort soft ride sliders?"
+              ]
+            },
+            "id": "4rM1g",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 126.02229852648462,
+              "end": 130.59974069305895,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "lDrnJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 126.02229852648462,
+              "end": 130.59974069305895,
+              "channel": 0,
+              "text": [
+                "No, no, not this one. It is already delivered, no? There is one more which is out for delivery."
+              ]
+            },
+            "id": "lDrnJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 130.6582117304297,
+              "end": 132.74583179803057,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Hz8L4",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 132.78701184511687,
+              "end": 139.89619003069853,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Enf5n",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 132.78701184511687,
+              "end": 139.89619003069853,
+              "channel": 0,
+              "text": [
+                "I understand. Could you check if it might be the Agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery?"
+              ]
+            },
+            "id": "Enf5n",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 141.82641816253056,
+              "end": 145.59849278253427,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "NAfAP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 141.82641816253056,
+              "end": 145.59849278253427,
+              "channel": 0,
+              "text": [
+                "Yeah, correct. I think I think that's one, yeah. And there was one more along with it."
+              ]
+            },
+            "id": "NAfAP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 145.65375611952533,
+              "end": 148.3443268275,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "huXaA",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 148.41771344243668,
+              "end": 157.5181731899981,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Wr_Nh",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 148.41771344243668,
+              "end": 157.5181731899981,
+              "channel": 0,
+              "text": [
+                "Your Agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?"
+              ]
+            },
+            "id": "Wr_Nh",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 158.33642209569865,
+              "end": 162.35371753586364,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "QgCGV",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 158.33642209569865,
+              "end": 162.35371753586364,
+              "channel": 0,
+              "text": [
+                "No, no, there was one more product along with it I ordered, which is also out for delivery."
+              ]
+            },
+            "id": "QgCGV",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 162.42052419940595,
+              "end": 164.83954080853755,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "aAx3t",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 164.86637914997573,
+              "end": 174.49829897339822,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "l8HjJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 164.86637914997573,
+              "end": 174.49829897339822,
+              "channel": 0,
+              "text": [
+                "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the I style can top?"
+              ]
+            },
+            "id": "l8HjJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 175.7008873873917,
+              "end": 177.43431947662935,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "_lGbI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 175.7008873873917,
+              "end": 177.43431947662935,
+              "channel": 0,
+              "text": [
+                "Correct, yeah, that's one, that's the one, yeah."
+              ]
+            },
+            "id": "_lGbI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 177.46099865459348,
+              "end": 180.54568882914242,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "q9wvs",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 180.56553195204168,
+              "end": 182.28531496971056,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Kw2c6",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 180.56553195204168,
+              "end": 182.28531496971056,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "Kw2c6",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 180.56553195204168,
+              "end": 182.28531496971056,
+              "channel": 0,
+              "text": [
+                "Your Istyle can top is out for"
+              ]
+            },
+            "id": "Kw2c6",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 182.30470092659172,
+              "end": 184.67583672700167,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "FI4PZ",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 184.7203575366647,
+              "end": 192.56878730070846,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "HNb6H",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 184.7203575366647,
+              "end": 192.56878730070846,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "HNb6H",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 184.7203575366647,
+              "end": 192.56878730070846,
+              "channel": 0,
+              "text": [
+                "Your Istyle can top is out for delivery today. The delivery attempt started at 10:44 a.m. You can expect it by end of day. Please tell me"
+              ]
+            },
+            "id": "HNb6H",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 193.72107442181618,
+              "end": 194.59076528756157,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "djwX8",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 193.72107442181618,
+              "end": 194.59076528756157,
+              "channel": 0,
+              "text": [
+                "\u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u0924\u093e\u0913\u0917\u0947?"
+              ]
+            },
+            "id": "djwX8",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 194.64660274940883,
+              "end": 196.9640140588573,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "dk9Xj",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 196.99988341767332,
+              "end": 209.16845728933862,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "kFezf",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 196.99988341767332,
+              "end": 209.16845728933862,
+              "channel": 0,
+              "text": [
+                "\u091c\u093c\u0930\u0942\u0930, \u092e\u0948\u0902 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u0924\u093e \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 \u0906\u092a\u0915\u093e \u0906\u0908 \u0938\u094d\u091f\u093e\u0907\u0932 \u0915\u0948\u0928 \u091f\u0949\u092a \u0906\u091c \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 \u0932\u093f\u090f \u092c\u093e\u0939\u0930 \u0939\u0948\u0964 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u093e \u092a\u094d\u0930\u092f\u093e\u0938 \u0938\u0941\u092c\u0939 10:44 minute \u092a\u0930 \u0936\u0941\u0930\u0942 \u0939\u0941\u0906\u0964 \u0907\u0938\u0947 \u0906\u091c \u0915\u0947 \u0905\u0902\u0924 \u0924\u0915 \u0906\u092a \u0924\u0915"
+              ]
+            },
+            "id": "kFezf",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 196.99988341767332,
+              "end": 209.16845728933862,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "kFezf",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 215.97459107128157,
+              "end": 216.43300163112215,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "1mCkc",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 215.97459107128157,
+              "end": 216.43300163112215,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "1mCkc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 216.45576910633037,
+              "end": 218.5841038484473,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "6OSG-",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 218.61409746470179,
+              "end": 219.68750411427504,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "62XEd",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 218.61409746470179,
+              "end": 219.68750411427504,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "62XEd",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 218.61409746470179,
+              "end": 219.68750411427504,
+              "channel": 0,
+              "text": [
+                "Hi there, how can I"
+              ]
+            },
+            "id": "62XEd",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 219.68032389925634,
+              "end": 221.51779362287218,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "UHGZn",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 221.52688578981858,
+              "end": 223.99248750581796,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "VcrI5",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 221.52688578981858,
+              "end": 223.99248750581796,
+              "channel": 0,
+              "text": [
+                "Hi there. How can I continue to help you with your order?"
+              ]
+            },
+            "id": "VcrI5",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 231.87215553181287,
+              "end": 234.49166701944932,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Y3RDS",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 231.87215553181287,
+              "end": 234.49166701944932,
+              "channel": 0,
+              "text": [
+                "I think you explaining me one order status already, right?"
+              ]
+            },
+            "id": "Y3RDS",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 234.5009137861708,
+              "end": 236.69668076845434,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "dKspA",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 234.5009137861708,
+              "end": 236.69668076845434,
+              "channel": 0,
+              "text": [
+                "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know.\"\n      },"
+              ]
+            },
+            "id": "dKspA",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 236.6824745608185,
+              "end": 247.0808609874726,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "kwXGx",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 236.6824745608185,
+              "end": 247.0808609874726,
+              "channel": 0,
+              "text": [
+                "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know."
+              ]
+            },
+            "id": "kwXGx",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 258.63331108963774,
+              "end": 267.702789,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "gbzLu",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 267.702789,
+            "value": {
+              "start": 258.63331108963774,
+              "end": 267.702789,
+              "channel": 0,
+              "text": [
+                "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top, and your Istyle can top. If there's anything more you'd like to"
+              ]
+            },
+            "id": "gbzLu",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "0KAH1aXVgZ",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T12:01:35.732031Z",
+        "updated_at": "2025-07-25T12:01:35.732076Z",
+        "draft_created_at": "2025-07-25T11:29:12.608824Z",
+        "lead_time": 2012.469,
+        "prediction": {},
+        "result_count": 52,
+        "unique_id": "0196dc64-4164-43bd-92da-7470e7c25ef1",
+        "import_id": null,
+        "last_action": null,
+        "task": 18757,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/04/429ac8a5-6f19-46b3-97bb-8e55feec389e/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543586Z",
+    "updated_at": "2025-07-25T12:01:35.789200Z",
+    "inner_id": 20,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]

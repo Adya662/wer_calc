@@ -1,0 +1,127 @@
+[
+  {
+    "timestamp": "0:00:17.085463",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate Now. Am I speaking with Nupur? I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:27.306989",
+    "speaker": "Customer",
+    "content": "Yeah I am."
+  },
+  {
+    "timestamp": "0:00:30.078539",
+    "speaker": "Agent",
+    "content": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "0:00:41.878979",
+    "speaker": "Customer",
+    "content": "I'd like to reduce 10 kg in two to three months."
+  },
+  {
+    "timestamp": "0:00:47.737081",
+    "speaker": "Agent",
+    "content": "Absolutely, Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this pre-obesity stage, many individuals experience low energy levels and slow metabolism due to iron and vitamin D deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?"
+  },
+  {
+    "timestamp": "0:01:16.897177",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:01:19.708698",
+    "speaker": "Agent",
+    "content": "Have you had any past experiences with other weight loss programs? If so"
+  },
+  {
+    "timestamp": "0:01:26.211756",
+    "speaker": "Agent",
+    "content": "You're in the right place. Our Nano plan includes a blood test, doctor consultation, and a session with a senior health coach. Unless you have any specific questions related to any of these offerings, can I explain how these can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:01:40.861246",
+    "speaker": "Customer",
+    "content": "Yeah, sure."
+  },
+  {
+    "timestamp": "0:01:43.845493",
+    "speaker": "Agent",
+    "content": "Our Nano plan starts with a comprehensive blood test to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have a consultation with an obesity specialist doctor who will explain your results in detail. \"Lastly, a senior health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?"
+  },
+  {
+    "timestamp": "0:02:11.666759",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:02:14.437910",
+    "speaker": "Agent",
+    "content": "The Nano plan is priced at Rs 1,799, which includes the blood test, metabolic report, and doctor consultation. This is quite affordable compared to the market price of similar services, which can total up to Rs 6,000. This makes our plan a cost-effective option for personalized weight loss management. Would you like to proceed with the payment options?"
+  },
+  {
+    "timestamp": "0:02:36.667966",
+    "speaker": "Customer",
+    "content": "Not now."
+  },
+  {
+    "timestamp": "0:02:40.018142",
+    "speaker": "Agent",
+    "content": "No worries, if you have anymore questions or need further information about the nano plan, feel free to reach out. I'm here to help whenever you are ready. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:02:59.132581",
+    "speaker": "Customer",
+    "content": "I I have read some adverse comments about the plan that after taking the payment you don't do the test. I'm quite worried about that."
+  },
+  {
+    "timestamp": "0:03:11.628403",
+    "speaker": "Agent",
+    "content": "I understand your concern. Rest assured, once the payment is made, the blood test is scheduled promptly. We partner with reliable labs to ensure everything is carried out smoothly. If you have any other worries or questions, feel free to ask."
+  },
+  {
+    "timestamp": "0:03:26.303004",
+    "speaker": "Customer",
+    "content": "How how can I be sure that you after getting the payment I will you will do the test and again my you know one to one call."
+  },
+  {
+    "timestamp": "0:03:37.584960",
+    "speaker": "Agent",
+    "content": "I understand your concern. Once the payment is completed, we promptly schedule your blood test and ensure you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed to be transparent and efficient and our team is committed to supporting you every step of the way. If you have any more questions or need further details, feel free to ask."
+  },
+  {
+    "timestamp": "0:04:03.347942",
+    "speaker": "Customer",
+    "content": "\"I'd like to talk to somebody in person.\""
+  },
+  {
+    "timestamp": "0:04:07.775836",
+    "speaker": "Agent",
+    "content": "I understand, I'll connect you to an agent from our team who can assist you further. Could you please let me know your preferred time for a call?"
+  },
+  {
+    "timestamp": "0:04:15.847689",
+    "speaker": "Customer",
+    "content": "Right now would be suitable."
+  },
+  {
+    "timestamp": "0:04:19.732621",
+    "speaker": "Agent",
+    "content": "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:04:27.635984",
+    "speaker": "Customer",
+    "content": "Thank you."
+  },
+  {
+    "timestamp": "0:04:30.230966",
+    "speaker": "Agent",
+    "content": "You're welcome. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:04:44.398189",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  }
+]

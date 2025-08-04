@@ -1,0 +1,132 @@
+[
+  {
+    "timestamp": "0:00:01.236461",
+    "speaker": "Agent",
+    "content": "Hello this is priya"
+  },
+  {
+    "timestamp": "0:00:05.062001",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate Now."
+  },
+  {
+    "timestamp": "0:00:08.630294",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate Now. Am I speaking with Atul Sinha?"
+  },
+  {
+    "timestamp": "0:00:14.186084",
+    "speaker": "Customer",
+    "content": "Yes, this is Atul Sinha."
+  },
+  {
+    "timestamp": "0:00:18.733208",
+    "speaker": "Customer",
+    "content": "Hello, this is Atul Sinha.\""
+  },
+  {
+    "timestamp": "0:00:23.434350",
+    "speaker": "Customer",
+    "content": "Hello, this is Atul Sinha. Tell me."
+  },
+  {
+    "timestamp": "0:00:28.818743",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate now. Am I speaking with Atul Sinha?"
+  },
+  {
+    "timestamp": "0:00:33.766455",
+    "speaker": "Customer",
+    "content": "Yes, you are speaking."
+  },
+  {
+    "timestamp": "0:00:37.325979",
+    "speaker": "Agent",
+    "content": "Great, I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.\""
+  },
+  {
+    "timestamp": "0:00:48.608359",
+    "speaker": "Customer",
+    "content": "See, it looked like a very lucrative program, but I just wanted to know is it available in Patna?"
+  },
+  {
+    "timestamp": "0:01:14.142260",
+    "speaker": "Customer",
+    "content": "Yeah, I also want to know is this, you know, like, safe for kidney transplant patient?"
+  },
+  {
+    "timestamp": "0:01:22.443077",
+    "speaker": "Agent",
+    "content": "he Nano plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano plan can support your health journey?"
+  },
+  {
+    "timestamp": "0:01:44.320933",
+    "speaker": "Customer",
+    "content": "Yes, I would like to explore."
+  },
+  {
+    "timestamp": "0:01:48.139327",
+    "speaker": "Agent",
+    "content": "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this obesity stage category Y, most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences with other weight loss programs?"
+  },
+  {
+    "timestamp": "0:02:15.793985",
+    "speaker": "Customer",
+    "content": "Yeah, I had a weight loss program experience and I've lost weight during my transplant as well as with Healthify me."
+  },
+  {
+    "timestamp": "0:02:25.931433",
+    "speaker": "Agent",
+    "content": "I'm glad to hear that you had some success with Healthify.  nano plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:02:50.927998",
+    "speaker": "Customer",
+    "content": "kind of I understand. If they are specialist obesity MBBS. Have they have they finished their MBBS?"
+  },
+  {
+    "timestamp": "0:03:01.122682",
+    "speaker": "Agent",
+    "content": "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like"
+  },
+  {
+    "timestamp": "0:03:12.329698",
+    "speaker": "Customer",
+    "content": "Okay. Then, then I will go up with the program. I'll go ahead with the program. That is all I wanted to know."
+  },
+  {
+    "timestamp": "0:03:24.029000",
+    "speaker": "Agent",
+    "content": "That's great to hear.You can choose between"
+  },
+  {
+    "timestamp": "0:03:26.196869",
+    "speaker": "Customer",
+    "content": "Can I get the link over my mobile number?"
+  },
+  {
+    "timestamp": "0:03:32.341181",
+    "speaker": "Agent",
+    "content": "Yes, I'll send both the payment links to you over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we can proceed with the payment process."
+  },
+  {
+    "timestamp": "0:03:42.911347",
+    "speaker": "Customer",
+    "content": "You, I'll proceed with the payment process.\""
+  },
+  {
+    "timestamp": "0:03:47.158146",
+    "speaker": "Agent",
+    "content": "Perfect, I'll send the payment links to your registered mobile number right away. If you have any more doubts later, feel free to reach out. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:03:58.417715",
+    "speaker": "Customer",
+    "content": "Thank you."
+  },
+  {
+    "timestamp": "0:04:06.510714",
+    "speaker": "Agent",
+    "content": "I am Elevate now's AI assisted health expert here to guide you on your health and wellness journey. If you have any more questions or need further assistance, feel free to ask."
+  }
+]

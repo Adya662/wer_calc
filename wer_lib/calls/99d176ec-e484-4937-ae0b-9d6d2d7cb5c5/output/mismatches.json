@@ -1,0 +1,131 @@
+{
+  "call_id": "99d176ec-e484-4937-ae0b-9d6d2d7cb5c5",
+  "mismatches": [
+    {
+      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
+      "hypothesis_sentence": "I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "word_differences": [
+        [
+          "Hey,",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "Myntra"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hey, This is Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e. To provide you with the best experience, would you prefer to continue in English, or would you like to speak in Hindi?",
+      "hypothesis_sentence": "Hey, this is Rey from Myntra. To provide you with the best experience, would you prefer to continue in English or would you like to speak in Hindi?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Alright! Could you please tell me the product name or the brand you're referring to?",
+      "hypothesis_sentence": "All right. Could you please tell me the product name or the brand you are referring to?",
+      "word_differences": [
+        [
+          "Alright!",
+          "All right."
+        ],
+        [
+          "you're",
+          "you are"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u090f\u091a \u090f\u0902\u0921 \u090f\u092e Regular Fit Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20 June.\nPlease tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I can help you with?\"",
+      "word_differences": [
+        [
+          "[missing]",
+          "H&M"
+        ],
+        [
+          "\u090f\u092e",
+          "round neck"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I am sorry, but we are currently unable to expedite the delivery or change the delivery time. Delivery speeds depend on multiple factors, and the fastest available delivery option has already been chosen for your order. \n\nIf you have any other questions or need assistance, let me know!",
+      "hypothesis_sentence": "I'm sorry, but we are currently unable to expedite the delivery or change the delivery time. Delivery speeds depend on multiple factors, and the fastest available delivery option has already been chosen for your order. If you have any other questions or need assistance, let me know.",
+      "word_differences": [
+        [
+          "I am",
+          "I'm"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Alright! I can definitely help you with that. Could you please tell me the product name or the",
+      "hypothesis_sentence": "All right. I can definitely help you with that. Could you please tell me the product name or the",
+      "word_differences": [
+        [
+          "Alright!",
+          "All right."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch the details of your return.",
+      "hypothesis_sentence": "Please give me a moment to fetch the details of your return. Please give me a moment to fetch our products. Your H&M cotton dungaree shorts is expected to be picked up by 22 June, subject to quality check. Please tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Please give me a moment to fetch our products. Your H&M cotton dungaree shorts is expected to be picked up by 22 June, subject to quality check. Please tell me, is there anything else I can help you with?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products",
+      "hypothesis_sentence": "I understand your concern, but unfortunately, we are currently unable to accommodate changes to the return pickup date or time. Once the pickup is scheduled, it will proceed as planned. If there's anything else you'd like assistance with, let me know.",
+      "word_differences": [
+        [
+          "Please give",
+          "I understand your concern, but unfortunately, we are currently unable to accommodate changes to the return pickup date or time. Once the pickup is scheduled, it will proceed as planned. If there's anything else you'd like assistance with, let"
+        ],
+        [
+          "a moment to fetch your products",
+          "know."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u090f\u091a \u090f\u0902\u0921 \u090f\u092e Cotton Dungaree Shorts is expected to be picked up by 22 June (subject to quality check). \n Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "I understand the inconvenience this might cause and I truly apologize. Unfortunately, we are unable to prepone the return pickup. The pickup schedule is fixed based on various logistical factors. Would you like me to connect you to another agent who might assist you further with this?",
+      "word_differences": [
+        [
+          "Your \u090f\u091a \u090f\u0902\u0921 \u090f\u092e",
+          "I understand the inconvenience this might cause and I truly apologize. Unfortunately, we are unable to prepone the return pickup. The pickup schedule"
+        ],
+        [
+          "Dungaree",
+          "fixed based on various logistical factors. Would you like me"
+        ],
+        [
+          "is expected to be picked up by",
+          "connect you"
+        ],
+        [
+          "June (subject to quality check). Please tell me, is there anything else",
+          "another agent who might assist"
+        ],
+        [
+          "[missing]",
+          "further"
+        ],
+        [
+          "[missing]",
+          "this?"
+        ]
+      ]
+    }
+  ]
+}

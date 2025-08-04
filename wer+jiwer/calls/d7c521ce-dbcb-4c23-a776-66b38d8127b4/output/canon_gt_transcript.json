@@ -1,0 +1,110 @@
+{
+  "canonical_transcript": "hey i am ray from myntra here to assist you shall we proceed further in hindi or english hi there how can i assist you with your myntra order today alright i can check the status of your order for you could you please tell me the product name or the brand name of the item youre referring to please give me a moment to fetch your products thoda intazar kijiye main aapke products la rahi hun i see 2 orders in your list related to your input one is the biotique morning nectar nourish and hydrate skin moisturizer and the other is the fabinaliv kids silver toned umbrella which one would you like me to check the delivery status for first alright i will check the delivery status for both items starting with the umbrella your fabinaliv kids silver toned and brown cartoon character printed automatic threefold umbrella is being processed and will be delivered by today your biotech morning nectar got it please let me know what you need help with further delivery times can depend on various factors but your orders are scheduled for delivery today the delivery agent will call you once theyre close to your location if you have any specific concerns i can assist you further your biotech moisturizer is already scheduled for delivery today regarding v construct i believe you may be referring to deconstruct vitamin c and ferulic acid serum let me check its delivery status for you your deconstruct vitamin c and and ferulic acid serum for brighton skin 20 ml is being processed and will be delivered by today please tell me is there anything else i can help you with thank you for your kind words well be sending you a quick feedback form via sms your input would really help us improve thank you for choosing myntra have a great day",
+  "entities": [
+    {
+      "index": 4,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 8,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 24,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 30,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 34,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 98,
+      "value": "biotique morning nectar nourish and hydrate skin moisturizer",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 112,
+      "value": "fabinaliv kids silver toned umbrella",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 148,
+      "value": "fabinaliv kids silver toned and brown cartoon character printed automatic threefold umbrella",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 159,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 164,
+      "value": "biotech morning nectar",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 195,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 221,
+      "value": "biotech moisturizer",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 228,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 233,
+      "value": "v construct",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 245,
+      "value": "deconstruct vitamin c and ferulic acid serum",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 260,
+      "value": "deconstruct vitamin c and and ferulic acid serum",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 276,
+      "value": "brighton",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 278,
+      "value": "20 ml",
+      "type": "OTHER"
+    },
+    {
+      "index": 287,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 318,
+      "value": "sms",
+      "type": "OTHER"
+    },
+    {
+      "index": 332,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    }
+  ]
+}

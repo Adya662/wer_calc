@@ -1,0 +1,107 @@
+{
+  "call_id": "79e02e46-ea93-4669-9dc1-6c4339dcc6ba",
+  "mismatches": [
+    {
+      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
+      "hypothesis_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "word_differences": [
+        [
+          "Hey,",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "Myntra,"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I found a product in your order list that sounds similar to what you mentioned, the \"Kook N Keech Urban Edge Printed Relaxed T-Shirt,\" ordered on June eighteenth at five five PM. Is this the item you created a return for?",
+      "hypothesis_sentence": "I found a product in your order list that sounds similar to what you mentioned, the Kook N Keech urban edge printed relaxed t-shirt ordered on June 18th at 5:05 p.m.",
+      "word_differences": [
+        [
+          "PM. Is this the item you created a return",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u0915\u0941\u0915 \u090f\u0902\u0921 \u0915\u0940\u091a Urban Edge Printed Relaxed T-Shirt is expected to be picked up by 21 June (subject to quality check). \n Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your Kook N Keech urban edge printed relaxed t-shirt is expected to be picked up by 21 June, subject to quality check. Please tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Kook N Keech"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I couldn't find a Freekins product in your orders. Can you please tell me the exact product name or brand again?",
+      "hypothesis_sentence": "I couldn't find a Freakins product in your orders. Can you please tell me the exact product name or brand again?\"",
+      "word_differences": [
+        [
+          "Freekins",
+          "Freakins"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I couldn't locate any Crkins product in your order list either. Could you",
+      "hypothesis_sentence": "I couldn't locate any carkins product in your order list either.",
+      "word_differences": [
+        [
+          "Crkins",
+          "carkins"
+        ],
+        [
+          "Could you",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I couldn't find a product with the brand name Freekins or Crkins in your order list. Would you like me to connect you to another agent who can assist you better?",
+      "hypothesis_sentence": "I couldn't find a product with the brand name Freakins or carkins in your order list. Would you like me to connect you to another agent who can assist you better?",
+      "word_differences": [
+        [
+          "Freekins",
+          "Freakins"
+        ],
+        [
+          "Crkins",
+          "carkins"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I couldn't find a product matching \"Masculincaline \u0938\u093e\u0938\u093e \u092b\u093c\u0930\u0938\" in your order list either. Could you please provide more details, like the product type or color, so I can assist you better?",
+      "hypothesis_sentence": "I couldn't find a product matching masculine Sasafers in your order list either. Could you please provide more details like the product type or color so I can assist you better?",
+      "word_differences": [
+        [
+          "\"Masculincaline",
+          "masculine Sasafers"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I couldn't locate any product under the brand name Freekins in your order list. Do you want to speak with another agent who can assist you better?",
+      "hypothesis_sentence": "I couldn't locate any product under the brand name Freakins in your order list. Do you want to speak with another agent who can assist you better?",
+      "word_differences": [
+        [
+          "Freekins",
+          "Freakins"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I couldn't find products matching \"UN RL\" in your order list either. Would you like me to connect you to another agent who can assist you better?",
+      "hypothesis_sentence": "I couldn't find products matching UNRL in your order list either. Would you like me to connect you to another agent who can assist you better?",
+      "word_differences": [
+        [
+          "\"UN RL\"",
+          "UNRL"
+        ]
+      ]
+    }
+  ]
+}

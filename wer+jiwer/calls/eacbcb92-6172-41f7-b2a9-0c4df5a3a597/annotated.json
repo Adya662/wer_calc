@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 18752,
+    "annotations": [
+      {
+        "id": 8007,
+        "completed_by": 2,
+        "result": [
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 0.06677842411079817,
+              "end": 4.287279169200916,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "xZOLw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 0.06677842411079817,
+              "end": 4.287279169200916,
+              "channel": 0,
+              "text": [
+                "Hey, I am Ray from Myntra here to assist you. Shall we proceed further in Hindi or English?"
+              ]
+            },
+            "id": "xZOLw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 5.892996974630794,
+              "end": 6.338186468702782,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "WLCTh",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 5.892996974630794,
+              "end": 6.338186468702782,
+              "channel": 0,
+              "text": [
+                "English please."
+              ]
+            },
+            "id": "WLCTh",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 6.333353614014179,
+              "end": 8.937712154335308,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "7fQS3",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 8.929419726708263,
+              "end": 10.362929897620065,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "GiNnB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 8.929419726708263,
+              "end": 10.362929897620065,
+              "channel": 0,
+              "text": [
+                "Got it. How can I help you today?"
+              ]
+            },
+            "id": "GiNnB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 13.22782495467175,
+              "end": 17.795469163850345,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "XMcq2",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 13.22782495467175,
+              "end": 17.795469163850345,
+              "channel": 0,
+              "text": [
+                "Calling regarding my order. I just want to know when will my shipments reach me."
+              ]
+            },
+            "id": "XMcq2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 17.795199716896597,
+              "end": 20.706768542390016,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "lhVf6",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 20.7044563575928,
+              "end": 25.053472018922918,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Xgy0_",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 20.7044563575928,
+              "end": 25.053472018922918,
+              "channel": 0,
+              "text": [
+                "I can help you track your order. Could you please tell me the product name or brand you're referring to?"
+              ]
+            },
+            "id": "Xgy0_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 27.47125085680821,
+              "end": 28.27763084401317,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "zCSBb",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 27.47125085680821,
+              "end": 28.27763084401317,
+              "channel": 0,
+              "text": [
+                "talking about the gap."
+              ]
+            },
+            "id": "zCSBb",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 28.27245686385168,
+              "end": 31.366600297902167,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "5Z5hL",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 31.35281605749696,
+              "end": 33.29175220650664,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "WoSro",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 31.35281605749696,
+              "end": 33.29175220650664,
+              "channel": 0,
+              "text": [
+                "Please give me a moment to fetch your products."
+              ]
+            },
+            "id": "WoSro",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 35.69182745037255,
+              "end": 42.7136756535618,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "9i0kQ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 35.69182745037255,
+              "end": 42.7136756535618,
+              "channel": 0,
+              "text": [
+                "I can see that your order gap boys camouflage printed relaxed fit mid rise joggers has already been delivered on yesterday."
+              ]
+            },
+            "id": "9i0kQ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 43.24373450288552,
+              "end": 45.71723716026702,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "6AvjI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 43.24373450288552,
+              "end": 45.71723716026702,
+              "channel": 0,
+              "text": [
+                "Do you need any further assistance regarding this order?"
+              ]
+            },
+            "id": "6AvjI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 48.59902300058302,
+              "end": 49.875903793657756,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Z1ySc",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 48.59902300058302,
+              "end": 49.875903793657756,
+              "channel": 0,
+              "text": [
+                "What is the current status of the order?"
+              ]
+            },
+            "id": "Z1ySc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 49.8643086195817,
+              "end": 52.25382412861367,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Yq7MB",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 52.24367216217392,
+              "end": 60.465852967373635,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "wMn5p",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 52.24367216217392,
+              "end": 60.465852967373635,
+              "channel": 0,
+              "text": [
+                "Your order for the Gap Boys camouflage printed relaxed fit midrise joggers has already been delivered. Please let me know if there's anything else you'd like assistance with."
+              ]
+            },
+            "id": "wMn5p",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 62.81109073803298,
+              "end": 64.71386148265047,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "SkCHk",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 62.81109073803298,
+              "end": 64.71386148265047,
+              "channel": 0,
+              "text": [
+                "What about the remaining items as part of my order?"
+              ]
+            },
+            "id": "SkCHk",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 64.70203797328281,
+              "end": 67.52592273745378,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "MeX8F",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 67.51906203052637,
+              "end": 76.04439590343792,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "DhQCe",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 67.51906203052637,
+              "end": 76.04439590343792,
+              "channel": 0,
+              "text": [
+                "I can help you with the remaining items, but let's address them one by one to ensure we don't miss anything. Could you tell me the name or brand of the next product you'd like to check?"
+              ]
+            },
+            "id": "DhQCe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 79.1602497385264,
+              "end": 81.35690311940644,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "rXg8w",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 79.1602497385264,
+              "end": 81.35690311940644,
+              "channel": 0,
+              "text": [
+                "uhhh... Jack and Jones thing."
+              ]
+            },
+            "id": "rXg8w",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 81.35534547145429,
+              "end": 84.3894154246585,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "VjSU3",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 84.3807686885724,
+              "end": 88.20143289660193,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "uh5QY",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 84.3807686885724,
+              "end": 88.20143289660193,
+              "channel": 0,
+              "text": [
+                "Talking about Jack and Jones junior products. Please give me a moment to check. "
+              ]
+            },
+            "id": "uh5QY",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 89.38277077447836,
+              "end": 98.39388191017447,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "8dyN6",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 89.38277077447836,
+              "end": 98.39388191017447,
+              "channel": 0,
+              "text": [
+                "Your Jack and Jones junior boys pure cotton relaxed fit joggers is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?"
+              ]
+            },
+            "id": "8dyN6",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 100.90446188184083,
+              "end": 104.96277262403524,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "PDxfB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 100.90446188184083,
+              "end": 104.96277262403524,
+              "channel": 0,
+              "text": [
+                "Actually I ordered two of those. \"Are you talking about both of them or just one of them?"
+              ]
+            },
+            "id": "PDxfB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 104.9565495817309,
+              "end": 108.47435248130964,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "zKi3J",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 108.46953354685871,
+              "end": 126.9249720773704,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "3Hjnl",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 108.46953354685871,
+              "end": 126.9249720773704,
+              "channel": 0,
+              "text": [
+                "I was referring to one of the Jack and Jones junior boys pure cotton relaxed fit joggers. Let me check the status of the second one for you. Please hold on a moment. Your Jack and Jones junior boys relaxed fit mid rise joggers is scheduled to arrive by end of day today. Please tell me is there anything else I can help you with?"
+              ]
+            },
+            "id": "3Hjnl",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 129.62499798466666,
+              "end": 131.1125072270636,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Ccber",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 129.62499798466666,
+              "end": 131.1125072270636,
+              "channel": 0,
+              "text": [
+                "So both of these shipments are coming today."
+              ]
+            },
+            "id": "Ccber",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 131.10206331373996,
+              "end": 133.99117700945922,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "kJzei",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 133.9761424465212,
+              "end": 147.07960986474467,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "2pOsp",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 133.9761424465212,
+              "end": 147.07960986474467,
+              "channel": 0,
+              "text": [
+                "Yes, that's correct. Both your Jack and Jones junior boys pure cotton relaxed fit joggers and Jack and Jones junior boys relaxed fit mid rise joggers are scheduled to arrive by the end of today. Please let me know if you need any further assistance."
+              ]
+            },
+            "id": "2pOsp",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 151.70170158268587,
+              "end": 157.56726203062584,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "E1wKb",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 151.70170158268587,
+              "end": 157.56726203062584,
+              "channel": 0,
+              "text": [
+                "Understood. Uh, got it. I think that pretty much sums. Are there any other items in my order? I'm not sure about."
+              ]
+            },
+            "id": "E1wKb",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 157.54719978415307,
+              "end": 160.37619879443082,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "LnDHR",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 160.35722089966316,
+              "end": 166.59178121850894,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "0tiUu",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 160.35722089966316,
+              "end": 166.59178121850894,
+              "channel": 0,
+              "text": [
+                "I can check the other items in your order. Let's go through them one by one. Could you tell me which item or brand you'd like to start with?"
+              ]
+            },
+            "id": "0tiUu",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 168.77932003528875,
+              "end": 171.18550669348693,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "8jdsg",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 168.77932003528875,
+              "end": 171.18550669348693,
+              "channel": 0,
+              "text": [
+                "I think I ordered one more item. I'm actually not sure about it."
+              ]
+            },
+            "id": "8jdsg",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 172.0056233631821,
+              "end": 174.0043726639218,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "c9iqv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 172.0056233631821,
+              "end": 174.0043726639218,
+              "channel": 0,
+              "text": [
+                "Uh, can you just check from your side?"
+              ]
+            },
+            "id": "c9iqv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 177.09536346179112,
+              "end": 180.80842466278062,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "EhfU3",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 177.09536346179112,
+              "end": 180.80842466278062,
+              "channel": 0,
+              "text": [
+                "All right, let me check for the remaining items in your order list. Please hold on."
+              ]
+            },
+            "id": "EhfU3",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 173.99363847270752,
+              "end": 177.0993873861646,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Pe0Iq",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 183.19162883894072,
+              "end": 184.868363705204,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "SEjWJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 183.19162883894072,
+              "end": 184.868363705204,
+              "channel": 0,
+              "text": [
+                "Please give me a moment to fetch your products."
+              ]
+            },
+            "id": "SEjWJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 187.12620365752738,
+              "end": 200.13001944182864,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "5_Cr0",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 187.12620365752738,
+              "end": 200.13001944182864,
+              "channel": 0,
+              "labels": [
+                "Bot Repeats Info"
+              ]
+            },
+            "id": "5_Cr0",
+            "from_name": "language_memory_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 187.12620365752738,
+              "end": 200.13001944182864,
+              "channel": 0,
+              "text": [
+                "I see there are additional items in your order list from Jack and Jones junior. Let me confirm one of the items, Jack and Jones junior boys jogger mid rice, pure cotton stretchable jeans. Would you like me to check the status of this item?"
+              ]
+            },
+            "id": "5_Cr0",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 202.30248268174986,
+              "end": 202.50516196355812,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "8nJAe",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 202.30248268174986,
+              "end": 202.50516196355812,
+              "channel": 0,
+              "text": [
+                "Yes."
+              ]
+            },
+            "id": "8nJAe",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 202.49932804144981,
+              "end": 205.62058898129698,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Mcu-Z",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 205.60633064437667,
+              "end": 216.24997522780265,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Beskq",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 205.60633064437667,
+              "end": 216.24997522780265,
+              "channel": 0,
+              "text": [
+                "I can see that your order Jack and Jones junior boys jogger mid rice pure cotton stretchable jeans has already been delivered on 25th June. Do you need any further assistance regarding this order?"
+              ]
+            },
+            "id": "Beskq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 218.86063915732794,
+              "end": 221.5397849180369,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Qz7O2",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 218.86063915732794,
+              "end": 221.5397849180369,
+              "channel": 0,
+              "text": [
+                "No, I think that would be all good. Thank you."
+              ]
+            },
+            "id": "Qz7O2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 221.52827641517118,
+              "end": 224.4019622351171,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "cLchq",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 224.39471784921759,
+              "end": 232.4707538230245,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "1SIMX",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 233.058685,
+            "value": {
+              "start": 224.39471784921759,
+              "end": 232.4707538230245,
+              "channel": 0,
+              "text": [
+                "You're most welcome. We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day."
+              ]
+            },
+            "id": "1SIMX",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "ONo77jZFpF",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T07:30:53.768861Z",
+        "updated_at": "2025-07-25T20:24:32.932519Z",
+        "draft_created_at": "2025-07-25T07:11:07.730727Z",
+        "lead_time": 1395.101,
+        "prediction": {},
+        "result_count": 44,
+        "unique_id": "5f17d6a0-c36c-4085-90c2-6bce17f1084f",
+        "import_id": null,
+        "last_action": null,
+        "task": 18752,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/15/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543292Z",
+    "updated_at": "2025-07-25T20:24:33.038051Z",
+    "inner_id": 15,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]

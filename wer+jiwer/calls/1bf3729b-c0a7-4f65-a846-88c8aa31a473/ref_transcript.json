@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "2025-06-18 11:22:02",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-06-18 11:22:23",
+    "speaker": "user",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "2025-06-18 11:22:30",
+    "speaker": "assistant",
+    "content": "Hi! This is Rey from मिंत्रा. Would you like to continue in English, or should we go ahead in Hindi?"
+  },
+  {
+    "timestamp": "2025-06-18 11:22:32",
+    "speaker": "user",
+    "content": "English?"
+  },
+  {
+    "timestamp": "2025-06-18 11:22:36",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-06-18 11:22:42",
+    "speaker": "user",
+    "content": "I have placed an order I need to know in about it."
+  },
+  {
+    "timestamp": "2025-06-18 11:22:48",
+    "speaker": "assistant",
+    "content": "Alright! Could you please tell me the product name or the brand name of the order you'd like to check?"
+  },
+  {
+    "timestamp": "2025-06-18 11:23:00",
+    "speaker": "user",
+    "content": "I have ordered 1 box of claim."
+  },
+  {
+    "timestamp": "2025-06-18 11:23:08",
+    "speaker": "assistant",
+    "content": "I’ll check the details for you. Could you clarify the brand name or any additional details about the product to help me identify it?"
+  },
+  {
+    "timestamp": "2025-06-18 11:23:24",
+    "speaker": "user",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "2025-06-18 11:23:33",
+    "speaker": "assistant",
+    "content": "Yes, I'm here! Could you please confirm the brand name or give me more details about the product you mentioned, \"claim\"? This will help me find your order."
+  },
+  {
+    "timestamp": "2025-06-18 11:23:39",
+    "speaker": "user",
+    "content": "I have ordered 1 wallet of Tomy hill figure. I need to know"
+  },
+  {
+    "timestamp": "2025-06-18 11:23:40",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-18 11:23:41",
+    "speaker": "user",
+    "content": "information regarding wallet."
+  },
+  {
+    "timestamp": "2025-06-18 11:23:48",
+    "speaker": "assistant",
+    "content": "I'm sorry, I couldn't locate any recent orders in your account. Is there anything else I can help you with today?"
+  },
+  {
+    "timestamp": "2025-06-18 11:23:55",
+    "speaker": "user",
+    "content": "Is possible for you to tell me the weather of रांची?"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:05",
+    "speaker": "assistant",
+    "content": "I’m sorry, I can only assist with your मिंत्रा orders or return-related queries. Could you please let me know if there’s anything else I can help you with regarding your मिंत्रा order?"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:10",
+    "speaker": "user",
+    "content": "कृपया give me the details of my Flipkart order"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:20",
+    "speaker": "assistant",
+    "content": "I’m sorry, I can only assist with your मिंत्रा orders or return-related queries. Could you let me know if there’s anything else I can help you with regarding your मिंत्रा order?"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:30",
+    "speaker": "user",
+    "content": "I have 1 order of the beer House"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:37",
+    "speaker": "assistant",
+    "content": "Could you please confirm the product name or brand name of the item you ordered? This will help me locate your order."
+  },
+  {
+    "timestamp": "2025-06-18 11:24:39",
+    "speaker": "user",
+    "content": "beer House,"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:40",
+    "speaker": "user",
+    "content": "शब्द."
+  },
+  {
+    "timestamp": "2025-06-18 11:24:40",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-18 11:24:47",
+    "speaker": "assistant",
+    "content": "I understand you're having difficulty with the product name. Do you want to speak with another agent who can assist you better?"
+  },
+  {
+    "timestamp": "2025-06-18 11:24:52",
+    "speaker": "user",
+    "content": "Yes? Go ahead."
+  },
+  {
+    "timestamp": "2025-06-18 11:24:56",
+    "speaker": "assistant",
+    "content": "Simulating Human Transfer"
+  }
+]

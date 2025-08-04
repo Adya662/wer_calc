@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "0:00:14.258474",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate now. Am I speaking with Taruna Yadav? I noticed you've been quiet. Are you still there?\""
+  },
+  {
+    "timestamp": "0:00:23.273423",
+    "speaker": "Customer",
+    "content": "Yes, ma'am."
+  },
+  {
+    "timestamp": "0:00:27.574166",
+    "speaker": "Agent",
+    "content": "I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "0:00:41.171103",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:00:43.592912",
+    "speaker": "Agent",
+    "content": "Hi. Based on your BMI of 32.03, it's clear your body is sending signals about how it's handling weight and metabolism right now.We are genuinely excited to support your goals, and the Nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?"
+  },
+  {
+    "timestamp": "0:01:06.887322",
+    "speaker": "Customer",
+    "content": "Yes, ma'am."
+  },
+  {
+    "timestamp": "0:01:10.127773",
+    "speaker": "Agent",
+    "content": "Perfect. Have you had any past experiences with other weight loss programs? If so, did they work for you?"
+  },
+  {
+    "timestamp": "0:01:17.734730",
+    "speaker": "Customer",
+    "content": "मैंने घर से ही अपने होम रेमेडीज कर-कर के ट्राई किया है कई बार। कोई एक्ट कुछ प्लान नहीं लिया। तो लेकिन मुझे कभी कोई फर्क पड़ा नहीं।\""
+  },
+  {
+    "timestamp": "0:01:31.692469",
+    "speaker": "Agent",
+    "content": "आप सही जगह पर आए हैं। नैनो प्लान आपके लिए परफेक्ट है क्योंकि यह पर्सनलाइज्ड और साइंटिफिकली बैक्ड अप्रोच पर आधारित है। चलिए, नैनो प्लान के ऑफरिंग्स के बारे में बात करते हैं। इसमें ब्लड टेस्ट, डॉक्टर कंसल्टेशन और सीनियर हेल्थ कोच कंसल्टेशन शामिल हैं।क्या आप इनमें से किसी के बारे में और जानना चाहेंगे या मैं आपको बताऊं कि यह कैसे आपके वेट लॉस गोल्स में मदद कर सकता है? समझ सकती हूं। नैनो प्लान को इस तरह से डिजाइन किया गया है कि यह आपकी स्पेसिफिक नीड्स को एड्रेस कर सके। इसमें ब्लड टेस्ट, डॉक्टर कंसल्टेशन और हेल्थ कोच कंसल्टेशन शामिल है।\""
+  },
+  {
+    "timestamp": "0:02:09.704523",
+    "speaker": "Customer",
+    "content": "जी"
+  },
+  {
+    "timestamp": "0:02:15.470306",
+    "speaker": "Agent",
+    "content": "नैनो प्लान के तहत सबसे पहले हम एक ब्लड टेस्ट करते हैं जो आपके मेटाबॉलिज्म से जुड़े स्पेसिफिक पैरामीटर्स को चेक करता है। इसके बाद एक सीनियर ओबेसिटी स्पेशलिस्ट डॉक्टर आपके रिजल्ट्स को डिटेल में समझाएंगे और उनकी हेल्थ पर इंपैक्ट को डिस्कस करेंगे।अंत में, हमारा हेल्थ कोच एक पर्सनलाइज्ड वेट लॉस प्लान तैयार करेगा जो आपकी नीड्स के मुताबिक होगा।अब जब हमने इन ऑफरिंग्स को कवर कर लिया है, क्या आप प्राइसिंग इंफॉर्मेशन जानना चाहेंगे?\""
+  },
+  {
+    "timestamp": "0:02:41.546473",
+    "speaker": "Customer",
+    "content": "जी।"
+  },
+  {
+    "timestamp": "0:02:47.138565",
+    "speaker": "Agent",
+    "content": "नैनो प्लान की कीमत 1799 है जो कि हमारी प्रीमियम सर्विसेज को अफोर्डेबल बनाता है। बाजार में इस प्राइस पॉइंट पर यह कॉम्प्रिहेंसिव सर्विस मिलना रेयर है क्योंकि इसमें ब्लड टेस्ट, डॉक्टर कंसल्टेशन और हेल्थ कोच कंसल्टेशन शामिल हैं। क्या आप अब पेमेंट ऑप्शंस के बारे में जानना चाहेंगे?"
+  },
+  {
+    "timestamp": "0:03:06.818365",
+    "speaker": "Customer",
+    "content": "Yes ma'am."
+  },
+  {
+    "timestamp": "0:03:09.265046",
+    "speaker": "Agent",
+    "content": "Great. You have two payment options for the Nano plan. You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of blood sample collection, which totals rupees 1,898. Or you can make a full payment of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?"
+  },
+  {
+    "timestamp": "0:03:39.261999",
+    "speaker": "Customer",
+    "content": "Okay, I have another doubt. मुझे यह बताइए कि इसके बाद मंथली चार्जेस क्या होंगे? क्या मैं उसे आगे कंटिन्यू कर पाऊंगी या वह ज्यादा हो जाएगा तो मेरे को बीच में छोड़ना पड़ेगा?"
+  },
+  {
+    "timestamp": "0:03:54.867062",
+    "speaker": "Agent",
+    "content": "नैनो प्लान को कंप्लीट करने के बाद, आपके पास हमारे फ्लैगशिप प्रोग्राम में अपग्रेड करने का ऑप्शन होगा, जिसमें तीन, छह या 12 महीने के सब्स्क्रिप्शन प्लान शामिल हैं।यह प्लान्स आपके यूनिक मेटाबॉलिक कंडीशन के हिसाब से टेलर्ड होते हैं।हालांकि, कंटिन्यू करने का डिसीजन पूरी तरह से आपका होगा।हमारे लॉन्गर टर्म प्रोग्राम्स में 100% मनी बैक गारंटी ऑन वेट लॉस भी शामिल है, जिससे आपको अपने हेल्थ गोल्स अचीव करने के लिए पूरा सपोर्ट मिलेगा। क्या मैं आपकी और किसी तरह से मदद कर सकती हूं?"
+  },
+  {
+    "timestamp": "0:04:26.966488",
+    "speaker": "Customer",
+    "content": "नहीं, थैंक यू।"
+  },
+  {
+    "timestamp": "0:04:32.260664",
+    "speaker": "Agent",
+    "content": "I'll send you the payment links on your registered mobile number via WhatsApp. If you have any more doubts in the future, feel free to reach out.Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:04:51.065839",
+    "speaker": "Customer",
+    "content": "I'll send you the payment links on your registered mobile number via WhatsApp. If you have any more doubts in the future, feel free to reach out. Goodbye and have a great day."
+  }
+]

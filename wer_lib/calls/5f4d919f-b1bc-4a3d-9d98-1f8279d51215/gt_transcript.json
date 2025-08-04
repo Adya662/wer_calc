@@ -1,0 +1,107 @@
+[
+  {
+    "timestamp": "0:00:20.816362",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate Now. Am I speaking with Pearl Biju? I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:29.587987",
+    "speaker": "Customer",
+    "content": "Hello, yes."
+  },
+  {
+    "timestamp": "0:00:32.957573",
+    "speaker": "Agent",
+    "content": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "0:00:46.911589",
+    "speaker": "Customer",
+    "content": "Well, I have some health issues because of obesity and that is the reason I'm looking to lose weight in the right way."
+  },
+  {
+    "timestamp": "0:00:59.282888",
+    "speaker": "Agent",
+    "content": "Absolutely. Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance, which can make weight loss difficult. The Nano plan is designed to specifically address these issues and create a personalized road map for sustainable weight loss. Would you like to discuss a plan tailored to your needs?"
+  },
+  {
+    "timestamp": "0:01:22.238250",
+    "speaker": "Customer",
+    "content": "Sure."
+  },
+  {
+    "timestamp": "0:01:33.235358",
+    "speaker": "Agent",
+    "content": "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how the Nano plan could be a better fit for your needs."
+  },
+  {
+    "timestamp": "0:01:43.525749",
+    "speaker": "Customer",
+    "content": "I have I had a plan with pretty slim, but that was many, many years ago. Like maybe before 2012."
+  },
+  {
+    "timestamp": "0:01:57.516282",
+    "speaker": "Agent",
+    "content": "Since it's been a while, the Nano plan could be a fresh start for you. Let me explain what we offer. It includes a blood test, doctor consultation and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:02:18.754723",
+    "speaker": "Customer",
+    "content": "Okay."
+  },
+  {
+    "timestamp": "0:02:21.596921",
+    "speaker": "Agent",
+    "content": "\"First, a blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?"
+  },
+  {
+    "timestamp": "0:02:43.968689",
+    "speaker": "Customer",
+    "content": "Yes, please."
+  },
+  {
+    "timestamp": "0:02:47.707602",
+    "speaker": "Agent",
+    "content": "The Nano plan costs rupees 1,799, which is designed to be affordable compared to individual market prices for similar services. This includes the blood test, doctor consultation, and health coach session all-in-one package. How does that sound to you?"
+  },
+  {
+    "timestamp": "0:03:05.999646",
+    "speaker": "Customer",
+    "content": "It's okay. But would I get like a plan? I mean can I start with the coach with that plan or do I need another plan for that?"
+  },
+  {
+    "timestamp": "0:03:19.013778",
+    "speaker": "Agent",
+    "content": "With the Nano plan, you'll receive a personalized road map created by the health coach tailored to your unique needs. his is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?"
+  },
+  {
+    "timestamp": "0:03:34.099128",
+    "speaker": "Customer",
+    "content": "Uh, not right now. I'd like to think about it. But thanks for the explanation."
+  },
+  {
+    "timestamp": "0:03:41.682580",
+    "speaker": "Agent",
+    "content": "Absolutely, ake your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:03:51.475339",
+    "speaker": "Customer",
+    "content": "Thank you."
+  },
+  {
+    "timestamp": "0:03:54.669415",
+    "speaker": "Agent",
+    "content": "You're welcome. Have a wonderful day."
+  },
+  {
+    "timestamp": "0:04:07.383162",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:04:23.104289",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?\""
+  }
+]

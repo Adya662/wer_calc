@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "2025-06-20 10:17:06",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-06-20 10:17:08",
+    "speaker": "user",
+    "content": "फिर हो गया है. जाते हो गया ना"
+  },
+  {
+    "timestamp": "2025-06-20 10:17:12",
+    "speaker": "assistant",
+    "content": "ठीक है! मैं आपकी कैसे मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-06-20 10:17:17",
+    "speaker": "user",
+    "content": "मुझे order के बारे में जानना है."
+  },
+  {
+    "timestamp": "2025-06-20 10:17:26",
+    "speaker": "assistant",
+    "content": "मैं आपकी help करने के लिए यहाँ हूँ। क्या आप मुझे अपने product का नाम या brand बता सकते हैं, ताकि मैं आपके order का status check कर सकूँ?"
+  },
+  {
+    "timestamp": "2025-06-20 10:17:43",
+    "speaker": "user",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "2025-06-20 10:17:54",
+    "speaker": "assistant",
+    "content": "आपने Hinglish में बात करने का चुनाव किया है। कृपया मुझे बताएं कि आप किस product या brand के बारे में पूछ रहे हैं, ताकि मैं आपकी मदद कर सकूं।"
+  },
+  {
+    "timestamp": "2025-06-20 10:17:57",
+    "speaker": "user",
+    "content": "US Polo brand,"
+  },
+  {
+    "timestamp": "2025-06-20 10:18:01",
+    "speaker": "assistant",
+    "content": "थोड़ा इंतजार कीजिए, मैं आपके products ला रही हूँ।"
+  },
+  {
+    "timestamp": "2025-06-20 10:18:23",
+    "speaker": "assistant",
+    "content": "आपके order list में दो items हैं जो यू.एस. पोलो Kids से जुड़े हैं। एक है \"यू.एस. पोलो Kids Girls Drop-Shoulder Sleeves Pure Cotton Applique T-shirt\" और दूसरा है \"यू.एस. पोलो Kids Girls Embroidered Pure Cotton Straight Skirt\"। कृपया बताएं, इनमें से किस item के बारे में आप पूछ रहे हैं?"
+  },
+  {
+    "timestamp": "2025-06-20 10:18:25",
+    "speaker": "user",
+    "content": "पहले वाले के बारे में."
+  },
+  {
+    "timestamp": "2025-06-20 10:18:39",
+    "speaker": "assistant",
+    "content": "आपका यू.एस. पोलो Kids Girls Drop-Shoulder Sleeves Pure Cotton Applique T-shirt 21 June या उससे पहले डिलीवर कर दिया जाएगा.\nकृपया बताइए, क्या मैं आपकी किसी और चीज़ में मदद कर सकती हूँ? ।"
+  },
+  {
+    "timestamp": "2025-06-20 10:18:46",
+    "speaker": "user",
+    "content": "इसका refund date कब तक का है like"
+  },
+  {
+    "timestamp": "2025-06-20 10:18:47",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-20 10:18:49",
+    "speaker": "user",
+    "content": "refund policy क्या है इसका? इस order का?"
+  },
+  {
+    "timestamp": "2025-06-20 10:19:05",
+    "speaker": "assistant",
+    "content": "इस order के लिए refund policy के बारे में जानकारी पाने के लिए, मैं आपको मिंत्रा ऐप पर जाने की सलाह दूंगी। आप वहां से अपने order के details में जाकर refund policy को check कर सकते हैं। \n\nकृपया बताइए, क्या मैं आपकी किसी और चीज़ में मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-06-20 10:19:11",
+    "speaker": "user",
+    "content": "हां मुझे मुझे cash on delivery के बारे में जानना है."
+  },
+  {
+    "timestamp": "2025-06-20 10:19:21",
+    "speaker": "assistant",
+    "content": "माफ़ कीजिए, मैं केवल आपके मिंत्रा order या return से जुड़ी queries में मदद कर सकती हूँ। क्या मैं आपकी किसी और चीज़ में मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-06-20 10:19:25",
+    "speaker": "user",
+    "content": "इसका return, इसका return policy क्या है?"
+  },
+  {
+    "timestamp": "2025-06-20 10:19:34",
+    "speaker": "assistant",
+    "content": "आपके यू.एस. पोलो Kids Girls Drop-Shoulder Sleeves Pure Cotton Applique T-shirt के लिए return policy"
+  },
+  {
+    "timestamp": "2025-06-20 10:19:35",
+    "speaker": "user",
+    "content": "जल्दी परिवार में इनको"
+  },
+  {
+    "timestamp": "2025-06-20 10:19:36",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-20 10:19:44",
+    "speaker": "user",
+    "content": "हां इसी इसी order जो है मैं पुछ रहा हूं मैं."
+  },
+  {
+    "timestamp": "2025-06-20 10:20:00",
+    "speaker": "assistant",
+    "content": "आपके order के लिए refund policy यह है कि अगर आप return raise करते हैं और refund के लिए eligible होते हैं, तो return pickup के बाद पांच से सात कामकाजी दिनों के अंदर refund process कर दिया जाएगा।  \n\nकृपया बताइए, क्या मैं आपकी किसी और चीज़ में मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-06-20 10:20:04",
+    "speaker": "user",
+    "content": "Ok,"
+  },
+  {
+    "timestamp": "2025-06-20 10:20:08",
+    "speaker": "assistant",
+    "content": "हम आपको एक quick feedback form SMS"
+  },
+  {
+    "timestamp": "2025-06-20 10:20:08",
+    "speaker": "user",
+    "content": "ठीक है."
+  }
+]

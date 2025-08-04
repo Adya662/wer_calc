@@ -1,0 +1,357 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Myntra here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:06.699623",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:08.696459",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:12.685518",
+    "speaker": "Customer",
+    "content": "I want to know where is my order?"
+  },
+  {
+    "timestamp": "0:00:18.297417",
+    "speaker": "Agent",
+    "content": "I can help you track your order. Could you please tell me the product name or brand name?"
+  },
+  {
+    "timestamp": "0:00:24.936381",
+    "speaker": "Customer",
+    "content": "I already selected this from a specific item from my order section. Why you want me to repeat the brand name or product name?"
+  },
+  {
+    "timestamp": "0:00:34.500318",
+    "speaker": "Agent",
+    "content": "I understand your concern. To locate the exact status of your order, I need the product name or brand name from your order. Could you please share that with me?"
+  },
+  {
+    "timestamp": "0:00:45.264752",
+    "speaker": "Customer",
+    "content": "It's the last item which I ordered in Myntra."
+  },
+  {
+    "timestamp": "0:00:51.009744",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:54.750340",
+    "speaker": "Agent",
+    "content": "It seems there are multiple items in your order. Could you please tell me which item you're referring to?"
+  },
+  {
+    "timestamp": "0:01:00.140337",
+    "speaker": "Agent",
+    "content": "For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?"
+  },
+  {
+    "timestamp": "0:01:10.735814",
+    "speaker": "Customer",
+    "content": "Plum"
+  },
+  {
+    "timestamp": "0:01:13.336864",
+    "speaker": "Agent",
+    "content": "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately."
+  },
+  {
+    "timestamp": "0:01:25.527284",
+    "speaker": "Customer",
+    "content": "Plum"
+  },
+  {
+    "timestamp": "0:01:28.422013",
+    "speaker": "Agent",
+    "content": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent?"
+  },
+  {
+    "timestamp": "0:01:33.238134",
+    "speaker": "Customer",
+    "content": "No, I already, No, I already told the brand name."
+  },
+  {
+    "timestamp": "0:01:38.547320",
+    "speaker": "Agent",
+    "content": "Alright, Could you confirm if you're referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?"
+  },
+  {
+    "timestamp": "0:01:53.549198",
+    "speaker": "Customer",
+    "content": "This is the first one."
+  },
+  {
+    "timestamp": "0:01:56.804772",
+    "speaker": "Agent",
+    "content": "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:10.776845",
+    "speaker": "Customer",
+    "content": "End of today as in now it's almost after 12:00. Are you talking about today or are you talking about yesterday?"
+  },
+  {
+    "timestamp": "0:02:21.499485",
+    "speaker": "Agent",
+    "content": "Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "0:02:33.715819",
+    "speaker": "Customer",
+    "content": "No, I'm not still clear, but to which address this will be delivered?"
+  },
+  {
+    "timestamp": "0:02:39.677661",
+    "speaker": "Agent",
+    "content": "I really apologize. But I'm unable to share the delivery address. However, you can double check the delivery address in the Myntra app under your order details. Let me know if there's anything else I can assist you with."
+  },
+  {
+    "timestamp": "0:02:52.537456",
+    "speaker": "Customer",
+    "content": "Yeah, I want to create a return for this order."
+  },
+  {
+    "timestamp": "0:02:57.398726",
+    "speaker": "Agent",
+    "content": "To create a return for your order, you can follow these steps directly on the Myntra app. Open the app, go to the order section, select the item you want to return, tap return, choose a reason for the return, provide the required details, and then submit the return request."
+  },
+  {
+    "timestamp": "0:03:16.198438",
+    "speaker": "Customer",
+    "content": "Yeah, you were saying so fast, I could not follow. Can you tell it slowly?"
+  },
+  {
+    "timestamp": "0:03:22.703283",
+    "speaker": "Agent",
+    "content": "Sure. To create a return for your order, follow these steps. One, open the Myntra app. Two, go to the order section. Three, select the item you want to return. Four, tap on return. Five, choose a reason for the return and provide the required details. Six, submit the return request. If you'd like me to explain any step again, let me know."
+  },
+  {
+    "timestamp": "0:03:49.888445",
+    "speaker": "Customer",
+    "content": "Second step, I want you to elaborate."
+  },
+  {
+    "timestamp": "0:03:54.085141",
+    "speaker": "Agent",
+    "content": "All right, in the second step, once you open the Myntra app, look for the order section. This is usually located at the bottom menu of the app. Tap on orders and you'll see a list of all the items you've purchased. From there, select the specific item you want to return. If you're unsure, let me know and I'll guide you further."
+  },
+  {
+    "timestamp": "0:04:13.860216",
+    "speaker": "Customer",
+    "content": "I'm unsure."
+  },
+  {
+    "timestamp": "0:04:16.708210",
+    "speaker": "Agent",
+    "content": "That's great. Please let me know if there's anything else I can help you with."
+  },
+  {
+    "timestamp": "0:04:22.324694",
+    "speaker": "Customer",
+    "content": "No, I told I'm unsure. So then you have to help me."
+  },
+  {
+    "timestamp": "0:04:27.986834",
+    "speaker": "Agent",
+    "content": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the Myntra app. Tap on the order section, select your item, and then choose the return option. Is there anything else you'd like me to clarify or assist with?"
+  },
+  {
+    "timestamp": "0:04:44.458478",
+    "speaker": "Customer",
+    "content": "I'm not seeing the return option."
+  },
+  {
+    "timestamp": "0:04:48.315739",
+    "speaker": "Agent",
+    "content": "I really apologize for the inconvenience. It's possible that the return window might have expired or there may be some restrictions on the item. Do you want to speak with another agent who can assist you better regarding this issue?"
+  },
+  {
+    "timestamp": "0:05:04.485794",
+    "speaker": "Customer",
+    "content": "Okay."
+  },
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Myntra here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:06.531299",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:08.738816",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:12.673988",
+    "speaker": "Customer",
+    "content": "I want to know where is my order?"
+  },
+  {
+    "timestamp": "0:00:18.252287",
+    "speaker": "Agent",
+    "content": "I can help you track your order. Could you please tell me the product name or brand name?\""
+  },
+  {
+    "timestamp": "0:00:24.816328",
+    "speaker": "Customer",
+    "content": "I already selected this from a specific item from my order section. Why you want me to repeat the brand name or product name?"
+  },
+  {
+    "timestamp": "0:00:34.482932",
+    "speaker": "Agent",
+    "content": "I understand your concern. To locate the exact status of your order, I need the product name or brand name from your order. Could you please share that with me?"
+  },
+  {
+    "timestamp": "0:00:45.212775",
+    "speaker": "Customer",
+    "content": "It's the last item which I ordered in Myntra."
+  },
+  {
+    "timestamp": "0:00:50.944836",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:54.614383",
+    "speaker": "Agent",
+    "content": "It seems there are multiple items in your order. Could you please tell me which item you're referring to? For example, is it the Plum face serum, jockey gym towel, bigen beard color, Kalenji running shorts or sirona period panties?"
+  },
+  {
+    "timestamp": "0:01:10.600180",
+    "speaker": "Customer",
+    "content": "Plum."
+  },
+  {
+    "timestamp": "0:01:13.249551",
+    "speaker": "Agent",
+    "content": "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, jockey gym towel, bigen beard color, kalenji running shorts, or sirona period panties? This will help me locate your order accurately."
+  },
+  {
+    "timestamp": "0:01:25.456718",
+    "speaker": "Customer",
+    "content": "Plum."
+  },
+  {
+    "timestamp": "0:01:28.411160",
+    "speaker": "Agent",
+    "content": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent?"
+  },
+  {
+    "timestamp": "0:01:34.398890",
+    "speaker": "Customer",
+    "content": "I already told the brand name."
+  },
+  {
+    "timestamp": "0:01:38.512547",
+    "speaker": "Agent",
+    "content": "All right.  Could you confirm if you're referring to the plum face serum, jockey gym towel, bigen beard color, kalenji running shorts or sirona period panties? This will help me provide the correct details."
+  },
+  {
+    "timestamp": "0:01:53.443233",
+    "speaker": "Customer",
+    "content": "This is the first one."
+  },
+  {
+    "timestamp": "0:01:56.775502",
+    "speaker": "Agent",
+    "content": "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?\n      },"
+  },
+  {
+    "timestamp": "0:02:10.624235",
+    "speaker": "Customer",
+    "content": "End of today as in now it's almost after 12:00. Are you talking about today or are you talking about yesterday? Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time."
+  },
+  {
+    "timestamp": "0:02:21.455634",
+    "speaker": "Agent",
+    "content": "Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "0:02:33.507343",
+    "speaker": "Customer",
+    "content": "No, I'm not still clear, but to which address this will be delivered?"
+  },
+  {
+    "timestamp": "0:02:39.672514",
+    "speaker": "Agent",
+    "content": "I really apologize. But I'm unable to share the delivery address. However, you can double check the delivery address in the Myntra app under your order details.  Let me know if there's anything else I can assist you with."
+  },
+  {
+    "timestamp": "0:02:52.456236",
+    "speaker": "Customer",
+    "content": "Yeah, I want to create a return for this order."
+  },
+  {
+    "timestamp": "0:02:57.362421",
+    "speaker": "Agent",
+    "content": "To create a return for your order, you can follow these steps directly on the Myntra app. Open the app, go to the order section, select the item you want to return, tap return, choose a reason for the return, provide the required details, and then submit the return request. Let me know if you need further assistance."
+  },
+  {
+    "timestamp": "0:03:16.091790",
+    "speaker": "Customer",
+    "content": "Yeah, you were saying so fast, I could not follow. Can you tell it slowly?"
+  },
+  {
+    "timestamp": "0:03:22.682474",
+    "speaker": "Agent",
+    "content": "Sure. To create a return for your order, follow these steps. One, open the Myntra app. Two, go to the order section. Three, select the item you to return. Four, tap on return. Five, choose a reason for the return and provide the required details. Six, submit the return request. If you'd like me to explain any step again, let me know."
+  },
+  {
+    "timestamp": "0:03:49.813213",
+    "speaker": "Customer",
+    "content": "Second step, I want you to elaborate."
+  },
+  {
+    "timestamp": "0:03:54.057332",
+    "speaker": "Agent",
+    "content": "All right, in the second step, once you open the Myntra app, look for the order section. This is usually located at the bottom menu of the app. Tap on orders and you'll see a list of all the items you've purchased. rom there, select the specific item you want to return. If you're unsure, let me know and I'll guide you further."
+  },
+  {
+    "timestamp": "0:04:13.799267",
+    "speaker": "Customer",
+    "content": "I'm unsure."
+  },
+  {
+    "timestamp": "0:04:16.731619",
+    "speaker": "Agent",
+    "content": "That's great. Please let me know if there's anything else I can help you with."
+  },
+  {
+    "timestamp": "0:04:22.291452",
+    "speaker": "Customer",
+    "content": "No no, I told I'm unsure. So then you have to help me."
+  },
+  {
+    "timestamp": "0:04:27.710254",
+    "speaker": "Agent",
+    "content": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the Myntra app. Tap on the order section, select your item, and then choose the return option. Is there anything else you'd like me to clarify or assist with?"
+  },
+  {
+    "timestamp": "0:04:44.442114",
+    "speaker": "Customer",
+    "content": "I'm not seeing the return option."
+  },
+  {
+    "timestamp": "0:04:48.304708",
+    "speaker": "Agent",
+    "content": "I really apologize for the inconvenience. It's possible that the return window might have expired or there may be some restrictions on the item. Do you want to speak with another agent who can assist you better regarding this issue?"
+  },
+  {
+    "timestamp": "0:05:04.341841",
+    "speaker": "Customer",
+    "content": "Okay."
+  }
+]

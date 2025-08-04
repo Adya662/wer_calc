@@ -1,0 +1,125 @@
+{
+  "call_id": "8daee0cc-cbda-4cdf-b8ed-f120e3329138",
+  "mismatches": [
+    {
+      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
+      "hypothesis_sentence": "Hey, I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra,"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u0938\u094d\u091f\u093e\u0907\u0932\u0915\u093e\u0938\u094d\u091f \u090f\u0915\u094d\u0938 \u0930\u093f\u0935\u0949\u0932\u094d\u091f Men Opaque Casual Shirt is being processed and will be delivered by 21 August.\nPlease tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your style",
+      "word_differences": [
+        [
+          "\u0938\u094d\u091f\u093e\u0907\u0932\u0915\u093e\u0938\u094d\u091f \u090f\u0915\u094d\u0938 \u0930\u093f\u0935\u0949\u0932\u094d\u091f Men Opaque Casual Shirt is being processed and will be delivered by 21 August. Please tell me, is there anything else I can",
+          "style"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "No problem, let me repeat that for you. Your \u0938\u094d\u091f\u093e\u0907\u0932\u0915\u093e\u0938\u094d\u091f \u090f\u0915\u094d\u0938 \u0930\u093f\u0935\u0949\u0932\u094d\u091f Men Opaque Casual Shirt is scheduled for delivery by twenty-first August. Let me know if you need any further assistance.",
+      "hypothesis_sentence": "No problem. Let me repeat that for you. our Style Cast X Revolt men opaque casual shirt is scheduled for delivery by 21st August. Let me know if you need any further assistance.",
+      "word_differences": [
+        [
+          "Your",
+          "our Style Cast X Revolt"
+        ],
+        [
+          "for",
+          "21st"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Alright! Please let me know how else I can",
+      "hypothesis_sentence": "All right. Please let me know how else I can",
+      "word_differences": [
+        [
+          "Alright!",
+          "All right."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Once your item is out for delivery, the delivery partner will call you when they are near your location. Is there anything else I can assist you with?",
+      "hypothesis_sentence": "Once your item is out for delivery, the city the delivery partner will call you when they are near your location. Is there anything else I can assist you with?",
+      "word_differences": [
+        [
+          "[missing]",
+          "the city"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "To change the size of your product, you'll need to initiate an exchange request. You can do this in the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app by going to the 'Orders' section, selecting the item, and choosing 'Exchange.' Let me know if you need help with the process or anything else!",
+      "hypothesis_sentence": "To change the size of your product, you'll need to initiate an exchange request. You can do this in the Myntra app by going to the order section, selecting the item and choosing exchange. Let me know if you need help with the process or anything else.",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra"
+        ],
+        [
+          "the",
+          "order"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "You can easily do this online through the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. Simply open the app, go to the 'Orders' section, select the",
+      "hypothesis_sentence": "You can easily do this online through the Myntra app. Simply open the app, go to the order section. Select",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra"
+        ],
+        [
+          "the",
+          "order"
+        ],
+        [
+          "select",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Currently, exchanges can only be initiated through the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website. I recommend opening the app, navigating to the 'Orders' section,",
+      "hypothesis_sentence": "Currently, exchanges can only be initiated through the Myntra app or website. I recommend opening the app navigating to the orders section.",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can help you track your orders, assist with delivery-related queries, and provide information about returns or exchanges. Let me know what specific help you need!",
+      "hypothesis_sentence": "I  can help you track your orders, assist with delivery related queries and provide information about returns or exchanges. Let me know what specific help you need.",
+      "word_differences": [
+        [
+          "delivery-related",
+          "delivery related"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "We'll be sending you a quick feedback form via SMS\u2014your input would really help us improve! Thank you for choosing \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Have a great day!",
+      "hypothesis_sentence": "We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day.",
+      "word_differences": [
+        [
+          "SMS\u2014your",
+          "SMS. Your"
+        ],
+        [
+          "[missing]",
+          "Myntra."
+        ]
+      ]
+    }
+  ]
+}

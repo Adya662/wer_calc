@@ -1,0 +1,65 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with pearl biju i noticed youve been quiet are you still there great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are absolutely based on your bmi of 4408 it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance which can make weight loss difficult the nano plan is designed to specifically address these issues and create a personalized roadmap for sustainable weight loss would you like to discuss a plan tailored to your needs could you share if you have any past experiences with other weight loss programs understanding this can help me explain how the nano plan could be a better fit for your needs got it since its been a while the nano plan could be a fresh start for you let me explain what we offer it includes a blood test doctor consultation and a session with a senior health coach would you like to know how these offerings can help you achieve your weight loss goals first our blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight then a specialized doctor reviews these results with you helping to understand their impact on your health finally a health coach will work with you to create a personalized weight loss plan tailored to your needs now that weve covered the offerings would you like me to explain the pricing the nano plan costs rupees 1799 which is designed to be affordable compared to individual market prices for similar services this includes the blood test doctor consultation and health coach session all in one package how does that sound to you with the nano plan youll receive a personalized roadmap created by the health coach tailored to your unique needs this is included in the plan so you wont need another plan to get started would you like to proceed with the payment to begin your journey absolutely take your time to consider it if you have any more questions or need assistance feel free to reach out goodbye and have a great day youre welcome have a wonderful day i noticed youve been quiet are you still there i noticed youve been quiet are you still there",
+  "entities": [
+    {
+      "index": 10,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 12,
+      "value": "elevatenow",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 18,
+      "value": "pearl biju",
+      "type": "PERSON"
+    },
+    {
+      "index": 45,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 112,
+      "value": "4408",
+      "type": "OTHER"
+    },
+    {
+      "index": 150,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 223,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 295,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 452,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 504,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 518,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 588,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ]
+}

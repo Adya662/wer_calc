@@ -1,0 +1,157 @@
+[
+  {
+    "timestamp": "2025-07-04 11:28:53",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-07-04 11:29:00",
+    "speaker": "user",
+    "content": "अभी"
+  },
+  {
+    "timestamp": "2025-07-04 11:29:00",
+    "speaker": "assistant",
+    "content": "ठीक है! मैं आपकी कैसे मदद"
+  },
+  {
+    "timestamp": "2025-07-04 11:29:03",
+    "speaker": "user",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "2025-07-04 11:29:03",
+    "speaker": "assistant",
+    "content": "नमस्ते! मैं आपके order के साथ कैसे आगे मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-07-04 11:29:12",
+    "speaker": "user",
+    "content": "मुझे order के बारे में जानना है."
+  },
+  {
+    "timestamp": "2025-07-04 11:29:12",
+    "speaker": "assistant",
+    "content": "मैं आपके order का status check करने में help कर सकती हूँ। कृपया product का नाम या brand name बता सकते हैं?"
+  },
+  {
+    "timestamp": "2025-07-04 11:29:41",
+    "speaker": "user",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "2025-07-04 11:29:41",
+    "speaker": "assistant",
+    "content": "नमस्ते! मैं आपके order के साथ कैसे आगे मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-07-04 11:29:49",
+    "speaker": "user",
+    "content": "Product का status जानना है?"
+  },
+  {
+    "timestamp": "2025-07-04 11:29:49",
+    "speaker": "assistant",
+    "content": "बिल्कुल, मैं आपके product का status check करने में आपकी मदद कर सकती हूँ। कृपया मुझे product का नाम या brand name बता सकते हैं?"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:36",
+    "speaker": "user",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:36",
+    "speaker": "assistant",
+    "content": "नमस्ते! मैं आपके order के साथ कैसे आगे मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:45",
+    "speaker": "user",
+    "content": "और एक detail जानना है मुझे."
+  },
+  {
+    "timestamp": "2025-07-04 11:30:45",
+    "speaker": "assistant",
+    "content": "बिल्कुल, मैं आपकी मदद कर सकती हूँ।"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:50",
+    "speaker": "user",
+    "content": "मैंने order के branch मैंने"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:52",
+    "speaker": "user",
+    "content": "मैंने branch का name भी बता दिया आपको."
+  },
+  {
+    "timestamp": "2025-07-04 11:30:50",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 11:30:54",
+    "speaker": "assistant",
+    "content": "ठीक"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:55",
+    "speaker": "assistant",
+    "content": "थोड़ा इंतजार कीजिए, मैं आपके products ला रही हूँ।"
+  },
+  {
+    "timestamp": "2025-07-04 11:30:56",
+    "speaker": "user",
+    "content": "80 even black net dress."
+  },
+  {
+    "timestamp": "2025-07-04 11:31:01",
+    "speaker": "assistant",
+    "content": "थोड़ा इंतजार कीजिए, मैं आपके products ला रही हूँ।"
+  },
+  {
+    "timestamp": "2025-07-04 11:31:01",
+    "speaker": "assistant",
+    "content": "क्या आप A.T.U.N. brand के Black Net Dress के बारे में पूछ रहे हैं?"
+  },
+  {
+    "timestamp": "2025-07-04 11:31:09",
+    "speaker": "user",
+    "content": "जी हां जी हां."
+  },
+  {
+    "timestamp": "2025-07-04 11:31:21",
+    "speaker": "assistant",
+    "content": "आपका A T U N Black Net Dress 8 July या उससे पहले डिलीवर कर दिया जाएगा.\nकृपया बताइए, क्या मैं आपकी किसी और चीज़ में मदद कर सकती हूँ?"
+  },
+  {
+    "timestamp": "2025-07-04 11:31:25",
+    "speaker": "user",
+    "content": "हां, मुझे agent, हमें agent से बात करना है."
+  },
+  {
+    "timestamp": "2025-07-04 11:31:25",
+    "speaker": "assistant",
+    "content": "क्या आप किसी अन्य agent से बात करना चाहते हैं जो आपकी बेहतर मदद कर सके?"
+  },
+  {
+    "timestamp": "2025-07-04 11:31:32",
+    "speaker": "user",
+    "content": "जी जी,"
+  },
+  {
+    "timestamp": "2025-07-04 11:31:34",
+    "speaker": "user",
+    "content": "जी बिल्कुल."
+  },
+  {
+    "timestamp": "2025-07-04 11:31:38",
+    "speaker": "assistant",
+    "content": "Simulating Human Transfer"
+  },
+  {
+    "timestamp": "2025-07-04 11:31:40",
+    "speaker": "assistant",
+    "content": "Simulating Human Transfer"
+  }
+]

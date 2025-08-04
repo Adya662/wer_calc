@@ -1,0 +1,50 @@
+{
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english hey this is ray from mintra to provide you with the best experience would you prefer to continue in english or would you like to speak in hindi great how can i help you today alright could you please tell me the product name or the brand you're referring to please give me a moment to fetch your products your h and m regular fit roundneck tshirt is being processed and will be packed by 20 june then delivered by 20 june please tell me is there anything else i can help you with i am sorry but we are currently unable to expedite the delivery or change the delivery time delivery speeds depend on multiple factors and the fastest available delivery option has already been chosen for your order if you have any other questions or need assistance let me know i understand the urgency and i really apologize for the situation unfortunately we are unable to expedite the delivery or make changes to the current schedule your order has already been processed with the fastest delivery option available would you like me to connect you to another agent who might assist you further regarding this alright i can definitely help you with that could you please tell me the product name or the please give me a moment to fetch the details of your return please give me a moment to fetch your products your h and m cotton dungaree shorts is expected to be picked up by 22 june subject to quality check please tell me is there anything else i can help you with i understand your concern but unfortunately we are currently unable to accommodate changes to the return pickup date or time once the pickup is scheduled it will proceed as planned if there's anything else you'd like assistance with let me know i understand the inconvenience this might cause and i truly apologize unfortunately we are unable to prepone the return pickup the pickup schedule is fixed based on various logistical factors would you like me to connect you to another agent who might assist you further with this",
+  "entities": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 19,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 21,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 68,
+      "value": "h and m regular fit roundneck tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 78,
+      "value": "20 june",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 82,
+      "value": "20 june",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 156,
+      "value": "h and m cotton dungaree shorts",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 166,
+      "value": "22 june",
+      "type": "DATE/TIME"
+    }
+  ]
+}

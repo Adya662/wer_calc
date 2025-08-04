@@ -1,0 +1,255 @@
+{
+  "call_id": "7fd6b5f9-8b11-4085-b864-a16f92504e53",
+  "mismatches": [
+    {
+      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Bijal Roliya?",
+      "hypothesis_sentence": "Hello, this is Priya from",
+      "word_differences": [
+        [
+          "ElevateNow. Am I speaking with Bijal Roliya?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "We spoke last call about your interest in our weight management program, and I understand you had some concerns.",
+      "hypothesis_sentence": "We spoke last call about your interest in our weight management program and I understand you had some concerns. We spoke last call about your interest in our weight management program and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We are genuinely excited to support your goals, and the Nano plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?",
+      "word_differences": [
+        [
+          "[missing]",
+          "We spoke last call about your interest in our weight management program and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We are genuinely excited to support your goals, and the Nano plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "We spoke last call about your interest in our weight management program, and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We're genuinely excited to support your goals, and the Nano Plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
+      "word_differences": [
+        [
+          "We spoke last call about your interest in our weight management program, and",
+          "[missing]"
+        ],
+        [
+          "understand",
+          "noticed you've been quiet. Are"
+        ],
+        [
+          "had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We're genuinely excited to support your goals, and the Nano Plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?",
+          "still there?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I noticed you've been quiet. Are you still there?",
+      "hypothesis_sentence": "Great, based on your BMI of 34.13, we've identified key metabolic challenges that might be affecting your weight loss journey. At this obesity stage, category Y, most people struggle with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Would you like to discuss how the Nano plan can help with this?",
+      "word_differences": [
+        [
+          "I noticed you've been quiet. Are",
+          "Great, based on your BMI of 34.13, we've identified key metabolic challenges that might be affecting your weight loss journey. At this obesity stage, category Y, most people struggle with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Would"
+        ],
+        [
+          "still there?",
+          "like to discuss how the Nano plan can help with this?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great! Based on your BMI of 34.13, we've identified key metabolic challenges that might be affecting your weight loss journey. At this Obesity Stage - Category I, most people struggle with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Would you like to discuss how the Nano Plan can help with this?",
+      "hypothesis_sentence": "We spoke last time about your interest in our weight management program and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We are genuinely excited to support your goals and the Nano plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?",
+      "word_differences": [
+        [
+          "Great!",
+          "We spoke last time about your interest in our weight management program and I understand you had some concerns."
+        ],
+        [
+          "we've identified key metabolic challenges that might be affecting",
+          "it's clear"
+        ],
+        [
+          "[missing]",
+          "body is sending signals about how it's handling"
+        ],
+        [
+          "loss journey. At this Obesity Stage - Category I, most people struggle with insulin",
+          "[missing]"
+        ],
+        [
+          "and high blood sugar,",
+          "metabolism. We are genuinely excited"
+        ],
+        [
+          "to intense",
+          "support your goals"
+        ],
+        [
+          "and stubborn fat storage.",
+          "the Nano"
+        ],
+        [
+          "to stabilize blood sugar and improve insulin sensitivity, making",
+          "make weight"
+        ],
+        [
+          "more",
+          "effective."
+        ],
+        [
+          "discuss how the",
+          "a personalized"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Based on your BMI of 34.13,",
+      "hypothesis_sentence": "Great, Let's dive into it. The Nano plan starts with a comprehensive blood test to identify key issues like insulin resistance and hormonal imbalances. This is followed by a consultation with a senior obesity specialist doctor who will explain your results in detail and their impact on your health. Finally, a senior health coach will create a personalized weight loss plan tailored just for you. Unless you have any specific questions, can I explain how these offerings can help you achieve your weight loss goals?",
+      "word_differences": [
+        [
+          "Based",
+          "Great, Let's dive into it. The Nano plan starts with a comprehensive blood test to identify key issues like insulin resistance and hormonal imbalances. This is followed by a consultation with a senior obesity specialist doctor who will explain your results in detail and their impact"
+        ],
+        [
+          "BMI of 34.13,",
+          "health. Finally, a senior health coach will create a personalized weight loss plan tailored just for you. Unless you have any specific questions, can I explain how these offerings can help you achieve your weight loss goals?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "We spoke last time about your interest in our weight management program, and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We're genuinely excited to support your goals, and the Nano Plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?",
+      "hypothesis_sentence": "\u0906\u092a\u0915\u0947 \u092a\u093e\u0938\u094d\u091f",
+      "word_differences": [
+        [
+          "We spoke last time about your interest in our weight management program, and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We're genuinely excited to support your goals, and the Nano Plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great! Let's dive into it. The Nano Plan starts with a comprehensive blood test to identify key issues like insulin resistance and hormonal imbalances. This is followed by a consultation with a senior obesity specialist doctor who will explain your results in detail and their impact on your health. Finally, a senior health coach will create a personalized weight loss plan tailored just for you. Unless you have any specific questions, can I explain how these offerings can help you achieve your weight loss goals?",
+      "hypothesis_sentence": "I understand.",
+      "word_differences": [
+        [
+          "Great! Let's dive into it. The Nano Plan starts with a comprehensive blood test to identify key issues like insulin resistance and hormonal imbalances. This is followed by a consultation with a senior obesity specialist doctor who will explain your results in detail and their impact on your health. Finally, a senior health coach will create a personalized weight loss plan tailored just for you. Unless you have any specific questions, can",
+          "[missing]"
+        ],
+        [
+          "explain how these offerings can help you achieve your weight loss goals?",
+          "understand."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0906\u092a\u0915\u0947 past experience",
+      "hypothesis_sentence": "\u0906\u092a\u0915\u0947 \u092a\u093e\u0938\u094d\u091f \u090f\u0915\u094d\u0938\u092a\u0940\u0930\u093f\u092f\u0902\u0938\u0947\u0938 \u0915\u094b \u0926\u0947\u0916\u0924\u0947 \u0939\u0941\u090f \u0939\u092e\u0928\u0947 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0906\u092a\u0915\u0940 \u0907\u0936\u094d\u092f\u0942\u091c \u0915\u094b \u090f\u0921\u094d\u0930\u0947\u0938 \u0915\u0930 \u0938\u0915\u0947\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0905\u0927\u093f\u0915 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902?",
+      "word_differences": [
+        [
+          "\u0906\u092a\u0915\u0947 past",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I understand",
+      "hypothesis_sentence": "Sure, The Nano plan begins with a blood test to uncover issues like insulin resistance or hormonal imbalances. Then, a senior obesity specialist doctor will review your results and provide detailed insights. Finally, a health coach will create a personalized road map to help you achieve your weight loss goals. Now that we've covered the offerings, would you like to hear about the pricing information?",
+      "word_differences": [
+        [
+          "I understand",
+          "Sure, The Nano plan begins with a blood test to uncover issues like insulin resistance or hormonal imbalances. Then, a senior obesity specialist doctor will review your results and provide detailed insights. Finally, a health coach will create a personalized road map to help you achieve your weight loss goals. Now that we've covered the offerings, would you like to hear about the pricing information?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0906\u092a\u0915\u0947 past experiences \u0915\u094b \u0926\u0947\u0916\u0924\u0947 \u0939\u0941\u090f, \u0939\u092e\u0928\u0947 Nano Plan \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 design \u0915\u093f\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0906\u092a\u0915\u0940 issues \u0915\u094b address \u0915\u0930 \u0938\u0915\u0947. \u0915\u094d\u092f\u093e \u0906\u092a Nano Plan \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0905\u0927\u093f\u0915 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u091a\u093e\u0939\u0924\u0947 \u0939\u0948\u0902?",
+      "hypothesis_sentence": "The Nano plan is priced at rupees 1,799, which is a fraction of what similar services typically cost. It includes the blood test, doctor consultation and personalized coaching, making it an affordable entry point to premium weight loss services. Would you like to proceed with the payment options or do you have any other questions?",
+      "word_differences": [
+        [
+          "\u0906\u092a\u0915\u0947 past",
+          "The"
+        ],
+        [
+          "\u0926\u0947\u0916\u0924\u0947 \u0939\u0941\u090f, \u0939\u092e\u0928\u0947 Nano Plan",
+          "is priced at rupees 1,799, which is a fraction of what similar services typically cost. It includes the blood test, doctor consultation and personalized coaching, making it an affordable entry point to premium weight loss services. Would you like to proceed with the payment options or do you have any other questions?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Sure! The Nano Plan begins with a blood test to uncover issues like insulin resistance or hormonal imbalances. Then, a senior obesity specialist doctor will review your results and provide detailed insights. Finally, a health coach will create a personalized roadmap to help you achieve your weight loss goals. Now that we've covered the offerings, would you like to hear about the pricing information?",
+      "hypothesis_sentence": "Absolutely, managing thyroid issues is crucial for effective weight loss. Our plan focuses on supporting thyroid function through nutrient rich foods and lifestyle changes, which can help normalize metabolism and improve fat burning. This approach has helped many clients successfully manage their weight. Would you like to explore how we can address this in your personalized plan?",
+      "word_differences": [
+        [
+          "Sure! The Nano Plan begins with a blood test to uncover",
+          "Absolutely, managing thyroid"
+        ],
+        [
+          "like insulin resistance or hormonal imbalances. Then, a senior obesity specialist doctor will review your results and provide detailed insights. Finally, a health coach will create a personalized roadmap to help you achieve your",
+          "is crucial for effective"
+        ],
+        [
+          "goals. Now that we've covered the offerings,",
+          "Our plan focuses on supporting thyroid function through nutrient rich foods and lifestyle changes, which can help normalize metabolism and improve fat burning. This approach has helped many clients successfully manage their weight."
+        ],
+        [
+          "hear about the pricing information?",
+          "explore how we can address this in your personalized plan?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The Nano Plan is priced at Rupees one thousand seven hundred ninety-nine, which is a fraction of what similar services typically cost. It includes the blood test, doctor consultation, and personalized coaching, making it an affordable entry point to premium weight loss services. Would you like to proceed with the payment options, or do you have any other questions?",
+      "hypothesis_sentence": "Now that we've covered how the Nano plan addresses thyroid issues, do you want to proceed with the payment options?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Now that we've covered how"
+        ],
+        [
+          "is priced at Rupees one thousand seven hundred ninety-nine, which is a fraction of what similar services typically cost. It includes the blood test, doctor consultation, and personalized coaching, making it an affordable entry point to premium weight loss services. Would",
+          "addresses thyroid issues, do"
+        ],
+        [
+          "like",
+          "want"
+        ],
+        [
+          "or do you have any other questions?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Absolutely, managing thyroid issues is crucial for effective weight loss. Our plan focuses on supporting thyroid function through nutrient-rich foods and lifestyle changes, which can help normalize metabolism and improve fat-burning. This approach has helped many clients successfully manage their weight. Would you like to explore how we can address this in your personalized plan?",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
+      "word_differences": [
+        [
+          "Absolutely, managing thyroid issues is crucial for effective weight loss. Our plan focuses on supporting thyroid function through nutrient-rich foods and lifestyle changes, which can help normalize metabolism and improve fat-burning. This approach has helped many clients successfully manage their weight. Would",
+          "I noticed you've been quiet. Are"
+        ],
+        [
+          "like to explore how we can address this in your personalized plan?",
+          "still there?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Now that we've covered how the Nano Plan addresses thyroid issues, do you want to proceed with the payment options?",
+      "hypothesis_sentence": "The Nano plan offers flexibility with two payment options, a partial payment of rupees 499 now and the remaining rupees 1,399 at the time of blood sample collection or a full payment of rupees 1,799 up front. I'll send you the payment links on your registered mobile.",
+      "word_differences": [
+        [
+          "Now that we've covered how",
+          "[missing]"
+        ],
+        [
+          "addresses thyroid issues, do",
+          "offers flexibility with two payment options, a partial payment of rupees 499 now and the remaining rupees 1,399 at the time of blood sample collection or a full payment of rupees 1,799 up front. I'll send"
+        ],
+        [
+          "want to proceed with",
+          "[missing]"
+        ],
+        [
+          "options?",
+          "links on your registered mobile."
+        ]
+      ]
+    }
+  ]
+}

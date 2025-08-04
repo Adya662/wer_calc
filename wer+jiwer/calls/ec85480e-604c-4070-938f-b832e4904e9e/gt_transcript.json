@@ -1,0 +1,127 @@
+[
+  {
+    "timestamp": "0:00:13.182132",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate now. Am I speaking with Munira Mandviwala?"
+  },
+  {
+    "timestamp": "0:00:20.489304",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:00:22.987512",
+    "speaker": "Agent",
+    "content": "Great. I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "0:00:42.403231",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:46.726493",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:00:50.994358",
+    "speaker": "Agent",
+    "content": "Based on your BMI, it's clear your body might be facing some metabolic challenges that can affect weight loss. The Nano plan is designed to tackle these issues and support your goals. Could you share more about what you're aiming to achieve with your weight loss journey?"
+  },
+  {
+    "timestamp": "0:01:07.653031",
+    "speaker": "Customer",
+    "content": "Being more healthier."
+  },
+  {
+    "timestamp": "0:01:11.293056",
+    "speaker": "Customer",
+    "content": "Obviously weight loss."
+  },
+  {
+    "timestamp": "0:01:14.542486",
+    "speaker": "Agent",
+    "content": "Got it. Your BMI indicates that tackling specific metabolic challenges can really make a difference. Have you tried any weight loss programs before?"
+  },
+  {
+    "timestamp": "0:01:25.514446",
+    "speaker": "Customer",
+    "content": "No."
+  },
+  {
+    "timestamp": "0:01:27.855839",
+    "speaker": "Agent",
+    "content": "You're in the right place then. Our Nano plan starts with a blood test followed by a consultation with an obesity specialist doctor and a session with a senior"
+  },
+  {
+    "timestamp": "0:01:47.937531",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:01:51.547558",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:01:56.194014",
+    "speaker": "Agent",
+    "content": "Great, our Nano plan starts with a blood test, followed by a consultation with an obesity specialist doctor, and a session with a senior health coach.Unless you have any specific questions about these offerings, can I explain how they can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:02:11.880674",
+    "speaker": "Customer",
+    "content": "Yes please."
+  },
+  {
+    "timestamp": "0:02:15.081458",
+    "speaker": "Agent",
+    "content": "Sure, the blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. The doctor will review these results with you explaining the impact on your health. hen our senior health coach will create a personalized plan to address these challenges and guide you towards sustainable weight loss. Now that we've covered the offerings, would you like me to explain the pricing?"
+  },
+  {
+    "timestamp": "0:02:39.160486",
+    "speaker": "Customer",
+    "content": "Yes please."
+  },
+  {
+    "timestamp": "0:02:42.168931",
+    "speaker": "Agent",
+    "content": "The Nano plan costs rupees 1,799 which includes the blood test, doctor consultation and health coach session. Compared to individual market prices, which total around rupees 6,000, our plan offers significant savings. Would you like to know about the payment options?"
+  },
+  {
+    "timestamp": "0:02:59.435099",
+    "speaker": "Customer",
+    "content": "Yes please."
+  },
+  {
+    "timestamp": "0:03:03.318547",
+    "speaker": "Agent",
+    "content": "You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of blood sample collection, totaling to rupees 1,898. Or you can pay the full amount of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more questions?"
+  },
+  {
+    "timestamp": "0:03:32.511532",
+    "speaker": "Customer",
+    "content": "No."
+  },
+  {
+    "timestamp": "0:03:35.654616",
+    "speaker": "Agent",
+    "content": "I'll send you the payment links on your registered mobile number. If you have any questions in the future, feel free to reach out. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:03:46.060039",
+    "speaker": "Customer",
+    "content": "Thank you."
+  },
+  {
+    "timestamp": "0:03:49.089435",
+    "speaker": "Agent",
+    "content": "You're welcome. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:04:00.981576",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate Now, am I speaking with Munira Mandviwala?"
+  }
+]

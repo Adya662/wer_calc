@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 18759,
+    "annotations": [
+      {
+        "id": 8019,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 0,
+              "end": 3.439449516204677,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "1YV9n",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 0,
+              "end": 3.439449516204677,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "1YV9n",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 0,
+              "end": 3.439449516204677,
+              "channel": 0,
+              "text": [
+                "Rey from Myntra here to assist you. Shall we proceed further in"
+              ]
+            },
+            "id": "1YV9n",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 3.461497269513681,
+              "end": 5.467842820633076,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "4RLOk",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 5.479702988509486,
+              "end": 7.538294111219806,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "CJQvJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 5.479702988509486,
+              "end": 7.538294111219806,
+              "channel": 0,
+              "text": [
+                "\u0920\u0940\u0915 \u0939\u0948, \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u0948\u0938\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?"
+              ]
+            },
+            "id": "CJQvJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 10.222432770572025,
+              "end": 11.496093465198554,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "48bLO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 10.222432770572025,
+              "end": 11.496093465198554,
+              "channel": 0,
+              "text": [
+                "\u092e\u0941\u091d\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u0939\u0948"
+              ]
+            },
+            "id": "48bLO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 11.533118485391185,
+              "end": 13.636139632332663,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "5TwNB",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 13.669679775953147,
+              "end": 21.360289706442757,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_TemD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 13.669679775953147,
+              "end": 21.360289706442757,
+              "channel": 0,
+              "text": [
+                "\u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0939\u0947\u0932\u094d\u092a \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092f\u0939\u093e\u0902 \u0939\u0942\u0902 \u0915\u094d\u092f\u093e \u0906\u092a \u092e\u0941\u091d\u0947 \u0905\u092a\u0928\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u0915\u093e \u0928\u093e\u092e \u092f\u093e \u092c\u094d\u0930\u093e\u0902\u0921 \u092c\u0924\u093e \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0924\u093e\u0915\u093f \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u093e \u0938\u094d\u091f\u0947\u091f\u0938 \u091a\u0947\u0915 \u0915\u0930 \u0938\u0915\u0942\u0902"
+              ]
+            },
+            "id": "_TemD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 22.690810318253803,
+              "end": 23.441113726106448,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "eXQLr",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 22.690810318253803,
+              "end": 23.441113726106448,
+              "channel": 0,
+              "text": [
+                "\u092f\u0942\u090f\u0938 \u092a\u094b\u0932\u094b"
+              ]
+            },
+            "id": "eXQLr",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 23.439990768307936,
+              "end": 23.514294243433337,
+              "channel": 0,
+              "labels": [
+                "Turn End"
+              ]
+            },
+            "id": "4_xO6",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 37.48864142740372,
+              "end": 37.983998871307485,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "fAJ3f",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 37.48864142740372,
+              "end": 37.983998871307485,
+              "channel": 0,
+              "text": [
+                "Hello."
+              ]
+            },
+            "id": "fAJ3f",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 37.978122278650574,
+              "end": 40.42137293271157,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "ZViok",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 40.475901403717714,
+              "end": 49.12529247525369,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "AyNUN",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 40.475901403717714,
+              "end": 49.12529247525369,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0928\u0947 hinglish \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0928\u0947 \u0915\u093e \u091a\u0941\u0928\u093e\u0935 \u0915\u093f\u092f\u093e \u0939\u0948 \u0915\u0943\u092a\u092f\u093e \u092e\u0941\u091d\u0947 \u092c\u0924\u093e\u090f\u0902 \u0915\u093f \u0906\u092a \u0915\u093f\u0938 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f \u092f\u093e \u092c\u094d\u0930\u093e\u0902\u0921 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092a\u0942\u091b \u0930\u0939\u0947 \u0939\u0948\u0902 \u0924\u093e\u0915\u093f \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0942\u0902"
+              ]
+            },
+            "id": "AyNUN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 50.24428956166121,
+              "end": 51.35182209157646,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "67an0",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 50.24428956166121,
+              "end": 51.35182209157646,
+              "channel": 0,
+              "text": [
+                "U.S Polo brand."
+              ]
+            },
+            "id": "67an0",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 51.37158440980949,
+              "end": 53.38565931655139,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "gC5f5",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 53.40710133557947,
+              "end": 55.99837614355198,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "yuv02",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 53.40710133557947,
+              "end": 55.99837614355198,
+              "channel": 0,
+              "text": [
+                "\u0925\u094b\u0921\u093c\u093e \u0907\u0902\u0924\u091c\u093e\u0930 \u0915\u0940\u091c\u093f\u090f \u092e\u0948\u0902 \u0906\u092a\u0915\u0947 \u092a\u094d\u0930\u094b\u0921\u0915\u094d\u091f\u094d\u0938 \u0932\u093e \u0930\u0939\u0940 \u0939\u0942\u0902"
+              ]
+            },
+            "id": "yuv02",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 57.82522215967501,
+              "end": 77.98165038192296,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "5efXH",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 57.82522215967501,
+              "end": 77.98165038192296,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0932\u093f\u0938\u094d\u091f \u092e\u0947\u0902 \u0926\u094b \u0906\u0907\u091f\u092e\u094d\u0938 \u0939\u0948\u0902 \u091c\u094b U.S. Polo Kids \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u0939\u0948\u0902 \u090f\u0915 \u0939\u0948 U.S. Polo Kids Girls \u0921\u094d\u0930\u0949\u092a \u0936\u094b\u0932\u094d\u0921\u0930 \u0938\u094d\u0932\u0940\u0935\u094d\u0938 \u092a\u094d\u092f\u094b\u0930 \u0915\u0949\u091f\u0928 \u090f\u092a\u094d\u0932\u093f\u0915\u0947\u091f \u091f\u0940-\u0936\u0930\u094d\u091f \u0914\u0930 \u0926\u0942\u0938\u0930\u093e \u0939\u0948 U.S. Polo Kids Girls \u090f\u092e\u094d\u092c\u094d\u0930\u0949\u092f\u0921\u0947\u0921 \u092a\u094d\u092f\u094b\u0930 \u0915\u0949\u091f\u0928 \u0938\u094d\u091f\u094d\u0930\u0947\u091f \u0938\u094d\u0915\u0930\u094d\u091f \u0915\u0943\u092a\u092f\u093e \u092c\u0924\u093e\u090f\u0902 \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u0915\u093f\u0938 \u0906\u0907\u091f\u092e \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0906\u092a \u092a\u0942\u091b \u0930\u0939\u0947 \u0939\u0948\u0902"
+              ]
+            },
+            "id": "5efXH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 78.915692447563,
+              "end": 80.10610554897531,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "hLaql",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 78.915692447563,
+              "end": 80.10610554897531,
+              "channel": 0,
+              "text": [
+                "\u092a\u0939\u0932\u0947 \u0935\u093e\u0932\u0947 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902"
+              ]
+            },
+            "id": "hLaql",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 80.15008605624982,
+              "end": 82.36021135805628,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "fonBE",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 82.3773319969683,
+              "end": 94.34965836793648,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "aW9aM",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 82.3773319969683,
+              "end": 94.34965836793648,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0915\u093e U.S. Polo Kids Girls \u0921\u094d\u0930\u0949\u092a \u0936\u094b\u0932\u094d\u0921\u0930 \u0938\u094d\u0932\u0940\u0935\u094d\u0938 \u092a\u094d\u092f\u094b\u0930 \u0915\u0949\u091f\u0928 \u090f\u092a\u094d\u0932\u093f\u0915\u0947\u091f \u091f\u0940-\u0936\u0930\u094d\u091f 21 \u091c\u0942\u0928 \u092f\u093e \u0909\u0938\u0938\u0947 \u092a\u0939\u0932\u0947 \u0921\u093f\u0932\u0940\u0935\u0930 \u0915\u0930 \u0926\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e \u0915\u0943\u092a\u092f\u093e \u092c\u0924\u093e\u0907\u090f \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938\u0940 \u0914\u0930 \u091a\u0940\u091c \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902"
+              ]
+            },
+            "id": "aW9aM",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 96.53068916181608,
+              "end": 104.16930151693153,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "o6LvR",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 96.53068916181608,
+              "end": 104.16930151693153,
+              "channel": 0,
+              "text": [
+                "Uh \u0907\u0938\u0915\u093e \u0930\u093f\u092b\u0902\u0921 \u0921\u0947\u091f \u0915\u092c \u0924\u0915 \u0915\u093e \u0939\u0948 \u0932\u093e\u0907\u0915 \u0930\u093f\u092b\u0902\u0921 \u092a\u0949\u0932\u093f\u0938\u0940 \u0915\u094d\u092f\u093e \u0939\u0948 \u0907\u0938\u0915\u093e \u0907\u0938 \u0911\u0930\u094d\u0921\u0930 \u0915\u093e"
+              ]
+            },
+            "id": "o6LvR",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 104.22684977811917,
+              "end": 105.99773914764421,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "3hv37",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 106.02501575063907,
+              "end": 120.94922738491407,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "WJt92",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 106.02501575063907,
+              "end": 120.94922738491407,
+              "channel": 0,
+              "text": [
+                "\u0907\u0938 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0932\u093f\u090f \u0930\u093f\u092b\u0902\u0921 \u092a\u0949\u0932\u093f\u0938\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0915\u093e\u0930\u0940 \u092a\u093e\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092e\u0948\u0902 \u0906\u092a\u0915\u094b Myntra \u0910\u092a \u092a\u0930 \u091c\u093e\u0928\u0947 \u0915\u0940 \u0938\u0932\u093e\u0939 \u0926\u0942\u0902\u0917\u0940 \u0906\u092a \u0935\u0939\u093e\u0902 \u0938\u0947 \u0905\u092a\u0928\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0921\u093f\u091f\u0947\u0932\u094d\u0938 \u092e\u0947\u0902 \u091c\u093e\u0915\u0930 \u0930\u093f\u092b\u0902\u0921 \u092a\u0949\u0932\u093f\u0938\u0940 \u0915\u094b \u091a\u0947\u0915 \u0915\u0930 \u0938\u0915\u0924\u0947 \u0939\u0948\u0902 \u0915\u0943\u092a\u092f\u093e \u092c\u0924\u093e\u0907\u090f \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938\u0940 \u0914\u0930 \u091a\u0940\u091c \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902"
+              ]
+            },
+            "id": "WJt92",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 123.25474107580338,
+              "end": 126.56590579055398,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "M5efK",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 123.25474107580338,
+              "end": 126.56590579055398,
+              "channel": 0,
+              "text": [
+                "\u0939\u093e\u0902 \u092e\u0941\u091d\u0947 \u092e\u0941\u091d\u0947 \u0915\u0948\u0936 \u090f\u0902\u0921 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u0939\u0948"
+              ]
+            },
+            "id": "M5efK",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 126.63158417847153,
+              "end": 128.51832379905335,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "PiQPI",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 128.54531572490217,
+              "end": 136.38906470934344,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "xoJTo",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 128.54531572490217,
+              "end": 136.38906470934344,
+              "channel": 0,
+              "text": [
+                "\u092e\u093e\u092b \u0915\u0940\u091c\u093f\u090f \u092e\u0948\u0902 \u0915\u0947\u0935\u0932 \u0906\u092a\u0915\u0947 Myntra \u0911\u0930\u094d\u0921\u0930 \u092f\u093e \u0930\u093f\u091f\u0930\u094d\u0928 \u0938\u0947 \u091c\u0941\u0921\u093c\u0940 \u0915\u094d\u0935\u0947\u0930\u0940\u0938 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938\u0940 \u0914\u0930 \u091a\u0940\u091c \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902"
+              ]
+            },
+            "id": "xoJTo",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 137.56404001403513,
+              "end": 139.83236742304922,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "J3N0t",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 137.56404001403513,
+              "end": 139.83236742304922,
+              "channel": 0,
+              "text": [
+                "\u0907\u0938\u0915\u093e \u0930\u093f\u091f\u0930\u094d\u0928 \u0907\u0938\u0915\u093e \u0930\u093f\u091f\u0930\u094d\u0928 \u092a\u0949\u0932\u093f\u0938\u0940 \u0915\u094d\u092f\u093e \u0939\u0948"
+              ]
+            },
+            "id": "J3N0t",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 139.8646043969861,
+              "end": 142.02693519810236,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "dFj2B",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 142.0573349637327,
+              "end": 150.36750517891116,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Ge6fl",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 142.0573349637327,
+              "end": 150.36750517891116,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "Ge6fl",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 142.0573349637327,
+              "end": 150.36750517891116,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0915\u0947 U.S Polo Kids Girls \u0921\u094d\u0930\u0949\u092a \u0936\u094b\u0932\u094d\u0921\u0930 \u0938\u094d\u0932\u0940\u0935\u094d\u0938 \u092a\u094d\u092f\u094b\u0930 \u0915\u0949\u091f\u0928 \u090f\u092a\u094d\u0932\u0940\u0915\u0947 T.Shirt"
+              ]
+            },
+            "id": "Ge6fl",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 156.60632701336922,
+              "end": 158.52040979263143,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "eul0F",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 156.60632701336922,
+              "end": 158.52040979263143,
+              "channel": 0,
+              "text": [
+                "\u0939\u093e\u0902 \u0907\u0938\u0940 \u0907\u0938\u0940 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092a\u0942\u091b \u0930\u0939\u093e \u0939\u0942\u0902 \u092e\u0948\u0902"
+              ]
+            },
+            "id": "eul0F",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 158.53651871489717,
+              "end": 160.98487946202226,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "ONfT3",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 161.02153481540566,
+              "end": 175.86008876467815,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "UB68O",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 161.02153481540566,
+              "end": 175.86008876467815,
+              "channel": 0,
+              "text": [
+                "\u0906\u092a\u0915\u0947 \u0911\u0930\u094d\u0921\u0930 \u0915\u0947 \u0932\u093f\u090f \u0930\u093f\u092b\u0902\u0921 \u092a\u0949\u0932\u093f\u0938\u0940 \u092f\u0939 \u0939\u0948 \u0915\u093f \u0905\u0917\u0930 \u0906\u092a \u0930\u093f\u091f\u0930\u094d\u0928 \u0930\u0947\u0938 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0930\u093f\u092b\u0902\u0921 \u0915\u0947 \u0932\u093f\u090f \u090f\u0932\u093f\u091c\u093f\u092c\u0932 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0924\u094b \u0930\u093f\u091f\u0930\u094d\u0928 \u092a\u093f\u0915\u0905\u092a \u0915\u0947 \u092c\u093e\u0926 \u092a\u093e\u0902\u091a \u0938\u0947 \u0938\u093e\u0924 \u0915\u093e\u092e\u0915\u093e\u091c\u0940 \u0926\u093f\u0928\u094b\u0902 \u0915\u0947 \u0905\u0902\u0926\u0930 \u0930\u093f\u092b\u0902\u0921 \u092a\u094d\u0930\u094b\u0938\u0947\u0938 \u0915\u0930 \u0926\u093f\u092f\u093e \u091c\u093e\u090f\u0917\u093e \u0915\u0943\u092a\u092f\u093e \u092c\u0924\u093e\u0907\u090f \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0915\u093f\u0938\u0940 \u0914\u0930 \u091a\u0940\u091c \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902"
+              ]
+            },
+            "id": "UB68O",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 178.4801056288784,
+              "end": 179.32946047609204,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "1AN0P",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 178.4801056288784,
+              "end": 179.32946047609204,
+              "channel": 0,
+              "text": [
+                "Okay."
+              ]
+            },
+            "id": "1AN0P",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 179.34981431722375,
+              "end": 181.79987637649387,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "-MvDc",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 181.80473421585847,
+              "end": 183.41918830780395,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "rCj-s",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 181.80473421585847,
+              "end": 183.41918830780395,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "rCj-s",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 186.0265,
+            "value": {
+              "start": 181.80473421585847,
+              "end": 183.41918830780395,
+              "channel": 0,
+              "text": [
+                "\u0939\u092e \u0906\u092a\u0915\u094b \u090f\u0915 \u0915\u094d\u0935\u093f\u0915 \u092b\u0940\u0921\u092c\u0948\u0915 \u092b\u0949\u0930\u094d\u092e"
+              ]
+            },
+            "id": "rCj-s",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "iOQJ-9GqJq",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "text": [
+                "Uh"
+              ]
+            },
+            "id": "gnGsCC5DSt",
+            "from_name": "filler_note",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T12:39:21.120427Z",
+        "updated_at": "2025-07-25T12:39:21.120466Z",
+        "draft_created_at": "2025-07-25T12:20:28.964143Z",
+        "lead_time": 1184.988,
+        "prediction": {},
+        "result_count": 35,
+        "unique_id": "e64e51d2-102e-4bc1-aed5-377376f3f232",
+        "import_id": null,
+        "last_action": null,
+        "task": 18759,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/06/20/e69e62f6-954a-4d0a-9989-2a2d562f66fe/call_audio.ogg"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543703Z",
+    "updated_at": "2025-07-25T12:39:21.201910Z",
+    "inner_id": 22,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]

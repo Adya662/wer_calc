@@ -1,0 +1,182 @@
+[
+  {
+    "timestamp": "2025-06-19 10:23:55",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-06-19 10:23:58",
+    "speaker": "user",
+    "content": "English?"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:02",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:07",
+    "speaker": "user",
+    "content": "Wanted to inquire about an HN shirt"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:08",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-19 10:24:10",
+    "speaker": "user",
+    "content": "which I ordered. I wanted to know when will it come?"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:16",
+    "speaker": "assistant",
+    "content": "Got it! Let me check the status of your order. Could you confirm the product name or brand name for me?"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:19",
+    "speaker": "user",
+    "content": "It's an HN shirt."
+  },
+  {
+    "timestamp": "2025-06-19 10:24:25",
+    "speaker": "assistant",
+    "content": "Let me check on that for you. I'll look up the product details for delivery."
+  },
+  {
+    "timestamp": "2025-06-19 10:24:28",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:35",
+    "speaker": "assistant",
+    "content": "Alright, I see an item matching your description. Is it the H&M Regular Fit Round-Neck T-shirt?"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:37",
+    "speaker": "user",
+    "content": "Right"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:50",
+    "speaker": "assistant",
+    "content": "Your एच एंड एम Regular Fit Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20 June.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-06-19 10:24:57",
+    "speaker": "user",
+    "content": "Yes, I wanted to enquire about another order of mine. It seems like that I received the wrong product."
+  },
+  {
+    "timestamp": "2025-06-19 10:25:07",
+    "speaker": "assistant",
+    "content": "I’m sorry to hear about this issue. Let’s look into it together. Could you please tell me the product name or brand name of the order you’re referring to?"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:10",
+    "speaker": "user",
+    "content": "It was a mango"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:11",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-19 10:25:11",
+    "speaker": "user",
+    "content": "shirt."
+  },
+  {
+    "timestamp": "2025-06-19 10:25:17",
+    "speaker": "assistant",
+    "content": "Let me check your order details for the Mango shirt. Please hold on for a moment."
+  },
+  {
+    "timestamp": "2025-06-19 10:25:20",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:27",
+    "speaker": "assistant",
+    "content": "I found a Mango item in your order list. Is it the मैंगो Plunge Neck Ruched Top with Asymmetric Hem?"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:29",
+    "speaker": "user",
+    "content": "Yes,"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:36",
+    "speaker": "assistant",
+    "content": "I am able to see your refund is processed. Do you need any further assistance regarding this order"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:43",
+    "speaker": "user",
+    "content": "No, I wanted to enquire about another order of mine."
+  },
+  {
+    "timestamp": "2025-06-19 10:25:51",
+    "speaker": "assistant",
+    "content": "Got it! I can assist you with your orders one by one. Could you tell me the product name or brand name for the next order you'd like to check?"
+  },
+  {
+    "timestamp": "2025-06-19 10:25:57",
+    "speaker": "user",
+    "content": "The brand is called all about you. I got an ethnic top from there."
+  },
+  {
+    "timestamp": "2025-06-19 10:26:00",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:13",
+    "speaker": "assistant",
+    "content": "I’m sorry, I couldn’t find an item matching \"all about you\" ethnic top in your return list. Could you confirm if this was a return query or if you'd like me to check your delivery orders instead?"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:15",
+    "speaker": "user",
+    "content": "Delivery orders please."
+  },
+  {
+    "timestamp": "2025-06-19 10:26:19",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:27",
+    "speaker": "assistant",
+    "content": "I found an item matching your description. Is it the ऑल अबाउट यू Ethnic Printed Full Puff-Sleeves Casual Shirt?"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:29",
+    "speaker": "user",
+    "content": "Yes,"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:39",
+    "speaker": "assistant",
+    "content": "I can see that your order ऑल अबाउट यू Ethnic Printed Full Puff-Sleeves Casual Shirt has already been delivered Do you need any further assistance regarding this order"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:42",
+    "speaker": "user",
+    "content": "Yeah, it seems like I got a wrong product the same."
+  },
+  {
+    "timestamp": "2025-06-19 10:26:50",
+    "speaker": "assistant",
+    "content": "I’m sorry to hear about this issue. Do you want me to connect you to another agent who can assist you in resolving the matter?"
+  },
+  {
+    "timestamp": "2025-06-19 10:26:52",
+    "speaker": "user",
+    "content": "Yes please."
+  }
+]

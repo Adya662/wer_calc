@@ -1,0 +1,172 @@
+[
+  {
+    "timestamp": "2025-07-13 13:08:45",
+    "speaker": "assistant",
+    "content": "Hello, this is Priya from ElevateNow. Am I speaking with Pearl Biju?"
+  },
+  {
+    "timestamp": "2025-07-13 13:08:45",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-07-13 13:08:50",
+    "speaker": "user",
+    "content": "Hello? Yes?"
+  },
+  {
+    "timestamp": "2025-07-13 13:08:50",
+    "speaker": "assistant",
+    "content": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "2025-07-13 13:09:10",
+    "speaker": "user",
+    "content": "Well, I have some health issues."
+  },
+  {
+    "timestamp": "2025-07-13 13:09:16",
+    "speaker": "user",
+    "content": "Because of obesity. And that is the reason I am looking to lose weight. In the right way."
+  },
+  {
+    "timestamp": "2025-07-13 13:09:10",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-13 13:09:18",
+    "speaker": "assistant",
+    "content": "Absolutely! Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges, like liver function issues or thyroid imbalance, which can make weight loss difficult. The Nano Plan is designed to specifically address these issues and create a personalized roadmap for sustainable weight loss. Would you like to discuss a plan tailored to your needs?"
+  },
+  {
+    "timestamp": "2025-07-13 13:09:50",
+    "speaker": "user",
+    "content": "Yes?"
+  },
+  {
+    "timestamp": "2025-07-13 13:09:50",
+    "speaker": "assistant",
+    "content": "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how the Nano Plan could be a better fit for your needs."
+  },
+  {
+    "timestamp": "2025-07-13 13:10:05",
+    "speaker": "user",
+    "content": "I have"
+  },
+  {
+    "timestamp": "2025-07-13 13:10:05",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-13 13:10:11",
+    "speaker": "user",
+    "content": "I had a plan with pretty slim but that was many many years ago like"
+  },
+  {
+    "timestamp": "2025-07-13 13:10:13",
+    "speaker": "user",
+    "content": "maybe before 2012."
+  },
+  {
+    "timestamp": "2025-07-13 13:10:11",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-13 13:10:16",
+    "speaker": "assistant",
+    "content": "Got it! Since it's been a while, the Nano Plan could be a fresh start for you. Let me explain what we offer: it includes a blood test, doctor consultation, and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "2025-07-13 13:10:39",
+    "speaker": "user",
+    "content": "Ok."
+  },
+  {
+    "timestamp": "2025-07-13 13:10:39",
+    "speaker": "assistant",
+    "content": "First, our blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then, a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:05",
+    "speaker": "user",
+    "content": "Yes please"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:05",
+    "speaker": "assistant",
+    "content": "The Nano Plan costs Rupees one thousand seven hundred ninety-nine, which is designed to be affordable compared to individual market prices for similar services. This includes the blood test, doctor consultation, and health coach session, all in one package. How does that sound to you?"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:32",
+    "speaker": "user",
+    "content": "Ok, but would I get like a plan, I mean, can I start?"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:34",
+    "speaker": "user",
+    "content": "With the coach?"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:32",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-13 13:11:36",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-13 13:11:37",
+    "speaker": "user",
+    "content": "With that plan or do I need another plan for that?"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:37",
+    "speaker": "assistant",
+    "content": "With the Nano Plan, you'll receive a personalized roadmap created by the health coach, tailored to your unique needs. This is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?"
+  },
+  {
+    "timestamp": "2025-07-13 13:11:57",
+    "speaker": "user",
+    "content": "Not right now, I would like think about it."
+  },
+  {
+    "timestamp": "2025-07-13 13:11:57",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-13 13:12:00",
+    "speaker": "user",
+    "content": "But thanks for the explanation."
+  },
+  {
+    "timestamp": "2025-07-13 13:12:00",
+    "speaker": "assistant",
+    "content": "Absolutely! Take your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye, and have a great day!"
+  },
+  {
+    "timestamp": "2025-07-13 13:12:12",
+    "speaker": "user",
+    "content": "Thank you."
+  },
+  {
+    "timestamp": "2025-07-13 13:12:12",
+    "speaker": "assistant",
+    "content": "You're welcome! Have a wonderful day!"
+  },
+  {
+    "timestamp": "2025-07-13 13:12:25",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "2025-07-13 13:12:41",
+    "speaker": "assistant",
+    "content": "I noticed you've been quiet. Are you still there?"
+  }
+]

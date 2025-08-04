@@ -1,0 +1,359 @@
+{
+  "call_id": "429ac8a5-6f19-46b3-97bb-8e55feec389e",
+  "mismatches": [
+    {
+      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
+      "hypothesis_sentence": "Hey, I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I apologize, but I'm here to assist you with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e orders and returns. How can I help you with those today?",
+      "hypothesis_sentence": "I apologize, but I'm here to assist you with your Myntra orders and returns. How can I help you with those today?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Myntra"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Got it! Could you please tell me the product name or brand name that you returned so I can check the status for you?",
+      "hypothesis_sentence": "Could you please tell me the product name or brand name that you returned so I can check the status for you?\"",
+      "word_differences": [
+        [
+          "Got it!",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products",
+      "hypothesis_sentence": "Please give me a moment to fetch your products. Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story",
+      "word_differences": [
+        [
+          "[missing]",
+          "Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products",
+      "hypothesis_sentence": "Great",
+      "word_differences": [
+        [
+          "Please give me a moment to fetch your products",
+          "Great"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I found a product that matches your description. Are you referring to the \"\u0936\u094d\u091f\u094b\u0930\u0940 Plus Size Reflective Detail T-shirt\"?",
+      "hypothesis_sentence": "Is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Is there anything else"
+        ],
+        [
+          "found a product that matches your description. Are",
+          "can help"
+        ],
+        [
+          "referring to the \"\u0936\u094d\u091f\u094b\u0930\u0940 Plus Size Reflective Detail",
+          "with?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "It sounds like you're referring to the \u0936\u094d\u091f\u094b\u0930\u0940 Plus",
+      "hypothesis_sentence": "our story plus size reflective detail t-shirt is expected to be picked up by 7 July subject to quality check. Please tell me is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "It sounds like you're referring",
+          "our story plus size reflective detail t-shirt is expected"
+        ],
+        [
+          "the \u0936\u094d\u091f\u094b\u0930\u0940",
+          "be picked up by 7 July subject to quality check. Please tell me is there anything else I can help you with?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u0936\u094d\u091f\u094b\u0930\u0940 Plus Size Reflective Detail T-shirt is expected to be picked up by 7 July subject to quality check. \n Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?",
+      "word_differences": [
+        [
+          "Your \u0936\u094d\u091f\u094b\u0930\u0940 Plus Size Reflective Detail T-shirt is expected to be picked up by 7 July subject to quality",
+          "Could you"
+        ],
+        [
+          "[missing]",
+          "the product name or brand name of the item you're referring to that"
+        ],
+        [
+          "is there anything else I can help you",
+          "out for delivery?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great! Is there",
+      "hypothesis_sentence": "I see a few recent orders. Are you referring to the Puma women royal cat comfort soft ride sliders?",
+      "word_differences": [
+        [
+          "Great! Is there",
+          "I see a few recent orders. Are you referring to the Puma women royal cat comfort soft ride sliders?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Is there anything else I can help you with?",
+      "hypothesis_sentence": "I understand. Could you check if it might be the Agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery?",
+      "word_differences": [
+        [
+          "[missing]",
+          "I understand. Could you check if it might be the Agnia women floral print mandarin collar flared sleeve shirt style top that"
+        ],
+        [
+          "there anything else I can help you with?",
+          "out for delivery?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your \u0936\u094d\u091f\u094b\u0930\u0940 Plus Size Reflective Detail T-shirt is expected to be picked up by 7 July subject to quality check. \n Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your Agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "\u0936\u094d\u091f\u094b\u0930\u0940 Plus Size Reflective Detail T-shirt is expected",
+          "Agnia women floral print mandarin collar flared sleeve shirt style top will"
+        ],
+        [
+          "be picked up by 7 July subject to quality",
+          "delivered on or before tomorrow."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?",
+      "hypothesis_sentence": "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the I style can top?",
+      "word_differences": [
+        [
+          "[missing]",
+          "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details."
+        ],
+        [
+          "tell me",
+          "confirm if"
+        ],
+        [
+          "[missing]",
+          "other"
+        ],
+        [
+          "name or brand name of",
+          "might be"
+        ],
+        [
+          "item you're referring to that is out for delivery?",
+          "I style can top?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products",
+      "hypothesis_sentence": "Your Istyle can top is out for",
+      "word_differences": [
+        [
+          "Please give me a moment to fetch",
+          "[missing]"
+        ],
+        [
+          "products",
+          "Istyle can top is out for"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I see a few recent orders. Are you referring to the \u092a\u094d\u092f\u0942\u092e\u093e Women Royalcat Comfort Softride Sliders?",
+      "hypothesis_sentence": "Your Istyle can top is out for delivery today. The delivery attempt started at 10:44 a.m. You can expect it by end of day.",
+      "word_differences": [
+        [
+          "I see a few recent orders. Are",
+          "Your Istyle can top is out for delivery today. The delivery attempt started at 10:44 a.m."
+        ],
+        [
+          "referring to the \u092a\u094d\u092f\u0942\u092e\u093e Women Royalcat Comfort Softride",
+          "can expect it by end of day."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I understand, could you check if it might be the \"Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top\" that is out for delivery?",
+      "hypothesis_sentence": "\u091c\u093c\u0930\u0942\u0930, \u092e\u0948\u0902 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u0924\u093e \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 \u0906\u092a\u0915\u093e \u0906\u0908 \u0938\u094d\u091f\u093e\u0907\u0932 \u0915\u0948\u0928 \u091f\u0949\u092a \u0906\u091c \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 \u0932\u093f\u090f \u092c\u093e\u0939\u0930 \u0939\u0948\u0964",
+      "word_differences": [
+        [
+          "I understand, could you check if it might be the \"Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top\" that is out for delivery?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top will be delivered on or before tomorrow.\nPlease tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Hi there. How can I continue to help you with your order?",
+      "word_differences": [
+        [
+          "Your Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top will be delivered on or before tomorrow. Please tell me, is",
+          "Hi"
+        ],
+        [
+          "anything else",
+          "How can"
+        ],
+        [
+          "can",
+          "continue to"
+        ],
+        [
+          "[missing]",
+          "your order?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the \"Istyle Can Top\"?",
+      "hypothesis_sentence": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know.",
+      "word_differences": [
+        [
+          "[missing]",
+          "Yes,"
+        ],
+        [
+          "can definitely help with all of",
+          "shared the status for"
+        ],
+        [
+          "items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the",
+          "Agnia women floral print mandarin collar, flared sleeve shirt style top and your"
+        ],
+        [
+          "[missing]",
+          "If there's anything more you'd like to know, please let me know."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your Istyle Can Top is out for delivery today. The delivery attempt started at 10:44 AM. You can expect it by end of day.\n\nNeed to reach your delivery partner? Find their contact on the My Orders page in your Myntra app. \nPlease tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to",
+      "word_differences": [
+        [
+          "[missing]",
+          "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and"
+        ],
+        [
+          "is out for delivery today. The delivery attempt started at 10:44 AM. You can expect it by end of day. Need",
+          "If there's anything more you'd like"
+        ],
+        [
+          "reach your delivery partner? Find their contact on the My Orders page in your Myntra app. Please tell me, is there anything else I can help you with?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your Istyle Can Top is out for delivery today. The delivery attempt started at 10:44 AM. You can expect it by end of day.\nPlease tell",
+      "hypothesis_sentence": "Hey, I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?\"",
+      "word_differences": [
+        [
+          "Your Istyle Can Top is out for delivery today. The delivery attempt started at 10:44",
+          "Hey, I"
+        ],
+        [
+          "[missing]",
+          "Rey from Myntra here to assist"
+        ],
+        [
+          "can expect it by end of day. Please tell",
+          "Shall we proceed further in Hindi or English?\""
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u091c\u093c\u0930\u0942\u0930, \u092e\u0948\u0902 \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 \u092c\u0924\u093e \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 \u0906\u092a\u0915\u093e Istyle Can Top \u0906\u091c \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u0947 \u0932\u093f\u090f \u092c\u093e\u0939\u0930 \u0939\u0948\u0964 \u0921\u093f\u0932\u0940\u0935\u0930\u0940 \u0915\u093e \u092a\u094d\u0930\u092f\u093e\u0938 \u0938\u0941\u092c\u0939 \u0926\u0938 \u092c\u091c\u0915\u0930 \u091a\u0935\u093e\u0932\u0940\u0938 \u092e\u093f\u0928\u091f \u092a\u0930 \u0936\u0941\u0930\u0942 \u0939\u0941\u0906\u0964 \u0907\u0938\u0947 \u0906\u091c \u0915\u0947 \u0905\u0902\u0924 \u0924\u0915 \u0906\u092a \u0924\u0915 \u092a\u0939\u0941\u0902\u091a\u0928\u0947 \u0915\u0940 \u0909\u092e\u094d\u092e\u0940\u0926 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e",
+      "hypothesis_sentence": "Great. How can I help you today?\"",
+      "word_differences": [
+        [
+          "\u091c\u093c\u0930\u0942\u0930,",
+          "Great. How"
+        ],
+        [
+          "\u0939\u093f\u0902\u0926\u0940",
+          "I help you today?\""
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hi there! How can I continue",
+      "hypothesis_sentence": "I apologize, but I'm here to assist you with your Myntra orders and returns. How can I help you with those today?",
+      "word_differences": [
+        [
+          "Hi there!",
+          "I apologize, but I'm here to assist you with your Myntra orders and returns."
+        ],
+        [
+          "continue",
+          "help you with those today?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hi there! How can I continue to help you with your order?",
+      "hypothesis_sentence": "Got it. Could you please tell me the product name or brand name that you returned so I can check the status for you?",
+      "word_differences": [
+        [
+          "Hi there! How",
+          "Got it. Could you please tell me the product name or brand name that you returned so I"
+        ],
+        [
+          "I continue to help",
+          "check the status for"
+        ],
+        [
+          "with your order?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Yes, I shared the status for your Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top and your Istyle Can Top. If there's anything more you'd like to know, please let me know!",
+      "hypothesis_sentence": "Please give me a moment to fetch your products. Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story\"",
+      "word_differences": [
+        [
+          "Yes,",
+          "Please give me a moment to fetch your products. Please give me a moment to fetch your products."
+        ],
+        [
+          "shared",
+          "found a product that matches your description. Are you referring to"
+        ],
+        [
+          "status for your Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top and your Istyle Can Top. If there's anything more you'd",
+          "story plus size reflective detail t-shirt? It sounds"
+        ],
+        [
+          "[missing]",
+          "you're referring"
+        ],
+        [
+          "know, please let me know!",
+          "the story\""
+        ]
+      ]
+    }
+  ]
+}

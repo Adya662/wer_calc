@@ -1,0 +1,281 @@
+{
+  "call_id": "268dbd88-173b-41a1-8363-4a6ba62b9aae",
+  "mismatches": [
+    {
+      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Rupesh Kondawar?",
+      "hypothesis_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Rupesh Kovar? I noticed you have been quiet. Are you still there.",
+      "word_differences": [
+        [
+          "ElevateNow.",
+          "Elevate Now."
+        ],
+        [
+          "Kondawar?",
+          "Kovar? I noticed you have been quiet. Are you still there."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I noticed you've been quiet. Are you still there?",
+      "hypothesis_sentence": "Great, I noticed you'd",
+      "word_differences": [
+        [
+          "[missing]",
+          "Great,"
+        ],
+        [
+          "you've been quiet. Are you still there?",
+          "you'd"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great! I noticed you were",
+      "hypothesis_sentence": "Hi. This is Priya from Elevate Now. I saw you were checking out our Nano plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?",
+      "word_differences": [
+        [
+          "Great!",
+          "Hi. This is Priya from Elevate Now."
+        ],
+        [
+          "noticed",
+          "saw"
+        ],
+        [
+          "[missing]",
+          "checking out our Nano plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hi! This is Priya from ElevateNow. I saw you were checking out our Nano plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?",
+      "hypothesis_sentence": "No worries.",
+      "word_differences": [
+        [
+          "Hi! This is Priya from ElevateNow. I saw you were checking out our Nano plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?",
+          "No worries."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "No worries! Let me explain.",
+      "hypothesis_sentence": "he Nano plan is designed to help you achieve your weight loss goals by understanding the root cause of your obesity. It starts with a blood test, followed by a consultation with an obesity specialized doctor who will explain your results and build a personalized weight loss road map. Then a senior health coach will guide you in making lifestyle choices specific to your condition. Would you like to know more about any specific part of the plan?",
+      "word_differences": [
+        [
+          "No worries! Let me",
+          "he Nano plan is designed to help you achieve your weight loss goals by understanding the root cause of your obesity. It starts with a blood test, followed by a consultation with an obesity specialized doctor who will"
+        ],
+        [
+          "[missing]",
+          "your results and build a personalized weight loss road map. Then a senior health coach will guide you in making lifestyle choices specific to your condition. Would you like to know more about any specific part of the plan?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The Nano Plan is designed to help you achieve your weight loss goals by understanding the root cause of your obesity. It starts with a blood test, followed by a consultation with an obesity-specialized doctor who will explain your results and build a personalized weight loss roadmap. Then, a senior health coach will guide you in making lifestyle choices specific to your condition. Would you like to know more about any specific part of the plan?",
+      "hypothesis_sentence": "The Nano plan includes a one-time consultation with a senior obesity specialist doctor. This consultation is focused on understanding your results and creating a personalized weight loss plan. If you want ongoing support, you can consider upgrading to our flagship program after the Nano plan. Would you like to know more about how the plan works?",
+      "word_differences": [
+        [
+          "is designed to help you achieve your weight loss goals by understanding the root cause of your obesity. It starts",
+          "includes a one-time consultation"
+        ],
+        [
+          "blood test, followed by a",
+          "senior obesity specialist doctor. This"
+        ],
+        [
+          "with an obesity-specialized doctor who will explain",
+          "is focused on understanding"
+        ],
+        [
+          "build",
+          "creating"
+        ],
+        [
+          "roadmap. Then, a senior health coach will guide",
+          "plan. If"
+        ],
+        [
+          "in making lifestyle choices specific",
+          "want ongoing support, you can consider upgrading"
+        ],
+        [
+          "your condition.",
+          "our flagship program after the Nano plan."
+        ],
+        [
+          "any specific part of",
+          "how"
+        ],
+        [
+          "[missing]",
+          "works?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The Nano Plan includes a one-time consultation with a senior obesity specialist doctor. This consultation is focused on understanding your results and creating a personalized weight loss plan. If you want ongoing support, you can consider upgrading to our flagship program after the Nano Plan. Would you like to know more about how the plan works?",
+      "hypothesis_sentence": "The Nano plan begins with a comprehensive blood test to identify issues like insulin resistance and hormonal imbalances. The doctor will then provide a detailed explanation of your results and their impact on your health. Finally, a health coach will create a tailored weight loss plan just for you. This approach ensures you're targeting the root causes of weight gain for effective results. Does this sound like something that would help you achieve your weight loss goals?",
+      "word_differences": [
+        [
+          "includes a one-time consultation",
+          "begins"
+        ],
+        [
+          "senior obesity specialist",
+          "comprehensive blood test to identify issues like insulin resistance and hormonal imbalances. The"
+        ],
+        [
+          "This consultation is focused on understanding",
+          "will then provide a detailed explanation of"
+        ],
+        [
+          "creating",
+          "their impact on your health. Finally,"
+        ],
+        [
+          "personalized",
+          "health coach will create a tailored"
+        ],
+        [
+          "If",
+          "just for"
+        ],
+        [
+          "want ongoing support,",
+          "This approach ensures you're targeting the root causes of weight gain for effective results. Does this sound like something that would help"
+        ],
+        [
+          "can consider upgrading to our flagship program after the Nano Plan. Would you like to know more about how the plan works?",
+          "achieve your weight loss goals?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great! The Nano Plan begins with a comprehensive blood test to identify issues like insulin resistance and hormonal imbalances. The doctor will then provide a detailed explanation of your results and their impact on your health. Finally, a health coach will create a tailored weight loss plan just for you. This approach ensures you're targeting the root causes of weight gain for effective results. Does this sound like something that would help you achieve your weight loss goals?",
+      "hypothesis_sentence": "The plan provides a clinically proven personalized road map to weight loss goals. Once you've completed it, you have the option to upgrade to our flagship program. This offers 3, 6, or 12 month subscription plans which include ongoing support from our senior obesity specialist and health coach. This longer-term program comes with a 100% money back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to start with the Nano plan and explore the flagship program later?",
+      "word_differences": [
+        [
+          "Great!",
+          "The plan provides a clinically proven personalized road map to weight loss goals. Once you've completed it, you have the option to upgrade to our flagship program. This offers 3, 6, or 12 month subscription plans which include ongoing support from our senior obesity specialist and health coach. This longer-term program comes with a 100% money back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to start with"
+        ],
+        [
+          "begins with a comprehensive blood test to identify issues like insulin resistance",
+          "[missing]"
+        ],
+        [
+          "hormonal imbalances.",
+          "explore"
+        ],
+        [
+          "doctor will then provide a detailed explanation of your results and their impact on your health. Finally, a health coach will create a tailored weight loss plan just for you. This approach ensures you're targeting the root causes of weight gain for effective results. Does this sound like something that would help you achieve your weight loss goals?",
+          "flagship program later?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The Nano Plan provides a clinically proven, personalized roadmap to weight loss. Once you've completed it, you have the option to upgrade to our flagship program. This offers 3, 6, or 12-month subscription plans, which include ongoing support from our senior obesity specialist and health coach. This longer-term program comes with a 100% money-back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to start with the Nano Plan and explore the flagship program later?",
+      "hypothesis_sentence": "The specific pricing details for the flagship program aren't covered in our current conversation, but the Nano plan is a great starting point. Once you complete the Nano plan, you'll receive personalized recommendations and can discuss the best plan tailor to your needs. Would you like to proceed with the Nano plan to get started?",
+      "word_differences": [
+        [
+          "[missing]",
+          "The specific pricing details for the flagship program aren't covered in our current conversation, but"
+        ],
+        [
+          "provides",
+          "is"
+        ],
+        [
+          "clinically proven,",
+          "great starting point. Once you complete the Nano plan, you'll receive"
+        ],
+        [
+          "roadmap",
+          "recommendations and can discuss the best plan tailor"
+        ],
+        [
+          "weight loss. Once you've completed it, you have the option to upgrade to our flagship program. This offers 3, 6, or 12-month subscription plans, which include ongoing support from our senior obesity specialist and health coach. This longer-term program comes with a 100% money-back guarantee on weight loss, ensuring you have the support needed to achieve",
+          "[missing]"
+        ],
+        [
+          "health goals.",
+          "needs."
+        ],
+        [
+          "start",
+          "proceed"
+        ],
+        [
+          "and explore the flagship program later?",
+          "to get started?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The specific pricing details for the flagship program aren't covered in our current conversation, but the Nano Plan is a great starting point. Once you complete the Nano Plan, you'll receive personalized recommendations and can discuss the best plan tailored to your needs. Would you like to proceed with the Nano Plan to get started?",
+      "hypothesis_sentence": "With the Nano plan, your blood sample will be collected from your home. There's no need to visit a store or a lab. We ensure it's convenient for you.",
+      "word_differences": [
+        [
+          "The specific pricing details for the flagship program aren't covered in our current conversation, but the Nano Plan is a great starting point. Once you complete the Nano Plan, you'll receive personalized recommendations and can discuss the best plan tailored to your needs. Would you like to proceed",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "your blood sample will be collected from your home. There's no need"
+        ],
+        [
+          "get started?",
+          "visit a store or a lab. We ensure it's convenient for you."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "With the Nano Plan,",
+      "hypothesis_sentence": "Absolutely. you can proceed with the payment whenever it's convenient for you. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day.",
+      "word_differences": [
+        [
+          "[missing]",
+          "Absolutely. you can proceed"
+        ],
+        [
+          "Nano Plan,",
+          "payment whenever it's convenient for you. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "With the Nano Plan, your blood sample will be collected from your home. There's no need to visit a store or a lab. We ensure it's convenient for you!",
+      "hypothesis_sentence": "Your welcome, good bye and take care.",
+      "word_differences": [
+        [
+          "With the Nano Plan,",
+          "[missing]"
+        ],
+        [
+          "blood sample will be collected from your home. There's no need to visit a store or a lab. We ensure it's convenient for you!",
+          "welcome, good bye and take care."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Absolutely! You can proceed with the payment whenever it's convenient for you. If you have any more questions or need assistance, feel free to reach out. Goodbye, and have a great day!",
+      "hypothesis_sentence": "Goodbye and have a great day.",
+      "word_differences": [
+        [
+          "Absolutely! You can proceed with the payment whenever it's convenient for you. If you have any more questions or need assistance, feel free to reach out.",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "You're welcome! Goodbye, and take care!",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
+      "word_differences": [
+        [
+          "You're welcome! Goodbye, and take care!",
+          "I noticed you've been quiet. Are you still there?"
+        ]
+      ]
+    }
+  ]
+}

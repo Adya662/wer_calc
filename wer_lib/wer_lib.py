@@ -1,0 +1,400 @@
+import time
+import os
+import json
+from pathlib import Path
+import difflib
+import re
+import string
+from typing import List, Tuple, Dict
+import unicodedata
+from rapidfuzz.fuzz import ratio
+import phonetics
+from metaphone import doublemetaphone
+from concurrent.futures import ThreadPoolExecutor
+
+
+# Directory containing all call subfolders
+CALLS_DIR = Path("calls")
+# Root-level output for global WER
+GLOBAL_OUTPUT_DIR = Path("output")
+GLOBAL_OUTPUT_DIR.mkdir(exist_ok=True)
+
+# Number mappings for cardinal numbers only
+WORD_TO_DIGIT = {
+    'zero': '0', 'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5',
+    'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10',
+    'eleven': '11', 'twelve': '12', 'thirteen': '13', 'fourteen': '14', 'fifteen': '15',
+    'sixteen': '16', 'seventeen': '17', 'eighteen': '18', 'nineteen': '19', 'twenty': '20',
+    'thirty': '30', 'forty': '40', 'fifty': '50', 'sixty': '60', 'seventy': '70',
+    'eighty': '80', 'ninety': '90', 'hundred': '100', 'thousand': '1000', 'million': '1000000'
+}
+
+DIGIT_TO_WORD = {v: k for k, v in WORD_TO_DIGIT.items()}
+
+# Ordinal mappings for better normalization
+ORDINAL_MAPPINGS = {
+    'first': '1st', 'second': '2nd', 'third': '3rd', 'fourth': '4th', 'fifth': '5th',
+    'sixth': '6th', 'seventh': '7th', 'eighth': '8th', 'ninth': '9th', 'tenth': '10th',
+    'eleventh': '11th', 'twelfth': '12th', 'thirteenth': '13th', 'fourteenth': '14th',
+    'fifteenth': '15th', 'sixteenth': '16th', 'seventeenth': '17th', 'eighteenth': '18th',
+    'nineteenth': '19th', 'twentieth': '20th', 'thirtieth': '30th'
+}
+
+# Time pattern normalizations
+TIME_PATTERNS = {
+    'five five': '5:05',
+    'five oh five': '5:05',
+    'twelve thirty': '12:30',
+    'two fifteen': '2:15',
+    'three forty five': '3:45'
+}
+
+# Common variant spellings normalization (can be extended)
+VARIANT_SPELLINGS = {
+    'apki': 'aapki',
+    'kese': 'kaise',
+    'rey': 'ray',
+    'u': 'you',
+    'ur': 'your',
+    'thru': 'through',
+    'nite': 'night',
+    'lite': 'light',
+    'tho': 'though',
+    'gonna': 'going to',
+    'wanna': 'want to',
+    'gotta': 'got to',
+    'dunno': 'do not know',
+    'kinda': 'kind of',
+    'sorta': 'sort of',
+    'coulda': 'could have',
+    'shoulda': 'should have',
+    'woulda': 'would have'
+}
+
+def are_phonetically_similar(word1: str, word2: str, threshold: float = 0.8) -> bool:
+    """
+    Check if two words are phonetically similar using multiple phonetic algorithms
+    """
+    if not word1 or not word2:
+        return False
+    
+    word1_clean = word1.lower().strip()
+    word2_clean = word2.lower().strip()
+    
+    # Exact match
+    if word1_clean == word2_clean:
+        return True
+    
+    # Check if one is ordinal form of the other (18th vs eighteenth)
+    if word1_clean in ORDINAL_MAPPINGS and ORDINAL_MAPPINGS[word1_clean] == word2_clean:
+        return True
+    if word2_clean in ORDINAL_MAPPINGS and ORDINAL_MAPPINGS[word2_clean] == word1_clean:
+        return True
+    
+    # Check time patterns
+    time_phrase1 = word1_clean.replace(' ', ' ')
+    time_phrase2 = word2_clean.replace(' ', ' ')
+    if time_phrase1 in TIME_PATTERNS and TIME_PATTERNS[time_phrase1] == time_phrase2:
+        return True
+    if time_phrase2 in TIME_PATTERNS and TIME_PATTERNS[time_phrase2] == time_phrase1:
+        return True
+    
+    try:
+        # Soundex comparison
+        soundex1 = phonetics.soundex(word1_clean)
+        soundex2 = phonetics.soundex(word2_clean)
+        if soundex1 == soundex2 and soundex1 != '0000':  # Valid soundex
+            return True
+        
+        # Double Metaphone comparison
+        metaphone1 = doublemetaphone(word1_clean)
+        metaphone2 = doublemetaphone(word2_clean)
+        
+        # Check if any of the metaphone codes match
+        for m1 in metaphone1:
+            for m2 in metaphone2:
+                if m1 and m2 and m1 == m2:
+                    return True
+        
+        # Phonetic distance using edit distance on metaphone codes
+        if metaphone1[0] and metaphone2[0]:
+            # Calculate similarity ratio between primary metaphone codes
+            similarity = ratio(metaphone1[0], metaphone2[0])
+            if similarity >= threshold * 100:  # ratio returns 0-100
+                return True
+                
+    except Exception as e:
+        # Fallback to string similarity if phonetic algorithms fail
+        pass
+    
+    # Fallback: high string similarity for very close matches
+    if ratio(word1_clean, word2_clean) >= 90:  # Very high threshold for fallback
+        return True
+    
+    return False
+
+def normalize_time_expressions(text: str) -> str:
+    """Normalize time expressions like 'five five' to '5:05'"""
+    for time_phrase, time_format in TIME_PATTERNS.items():
+        text = re.sub(r'\b' + re.escape(time_phrase) + r'\b', time_format, text, flags=re.IGNORECASE)
+    return text
+
+def normalize_ordinals(text: str) -> str:
+    """Normalize ordinal words to their numeric form"""
+    words = text.split()
+    normalized_words = []
+    
+    for word in words:
+        if word.lower() in ORDINAL_MAPPINGS:
+            normalized_words.append(ORDINAL_MAPPINGS[word.lower()])
+        else:
+            normalized_words.append(word)
+    
+    return ' '.join(normalized_words)
+
+
+def transliterate_to_roman(text: str) -> str:
+    """
+    Transliterate non-Roman scripts to Roman/ASCII.
+    This is a basic implementation - can be enhanced with specific transliteration libraries.
+    """
+    # Normalize unicode characters
+    normalized = unicodedata.normalize('NFKD', text)
+    
+    # Basic transliteration for common scripts
+    transliterated = ""
+    for char in normalized:
+        if ord(char) < 128:  # ASCII characters
+            transliterated += char
+        else:
+            # Basic transliteration mapping (can be extended)
+            # For now, just replace with ASCII equivalent or remove
+            ascii_equiv = unicodedata.normalize('NFKD', char).encode('ascii', 'ignore').decode('ascii')
+            if ascii_equiv:
+                transliterated += ascii_equiv
+            else:
+                # For scripts like Devanagari, you'd need a proper transliteration library
+                # For now, we'll skip non-ASCII chars that don't have simple equivalents
+                continue
+    
+    return transliterated
+
+def normalize_numbers(text: str) -> str:
+    """
+    Normalize cardinal numbers (convert between digit and word forms).
+    Avoid ordinals (1st, 2nd, etc.)
+    """
+    words = text.split()
+    normalized_words = []
+    
+    for word in words:
+        # Skip ordinals (contains 'st', 'nd', 'rd', 'th' after digits)
+        if re.match(r'^\d+(st|nd|rd|th)$', word.lower()):
+            normalized_words.append(word)
+            continue
+            
+        # Convert word to digit
+        if word.lower() in WORD_TO_DIGIT:
+            normalized_words.append(WORD_TO_DIGIT[word.lower()])
+        # Convert digit to word (for single digits and common numbers)
+        elif word in DIGIT_TO_WORD:
+            normalized_words.append(DIGIT_TO_WORD[word])
+        else:
+            normalized_words.append(word)
+    
+    return ' '.join(normalized_words)
+
+def normalize_variants(text: str) -> str:
+    """Normalize variant spellings to canonical forms"""
+    words = text.split()
+    normalized_words = []
+    
+    for word in words:
+        if word.lower() in VARIANT_SPELLINGS:
+            normalized_words.append(VARIANT_SPELLINGS[word.lower()])
+        else:
+            normalized_words.append(word)
+    
+    return ' '.join(normalized_words)
+
+def canonicalize_and_normalize(text: str) -> str:
+    """
+    Comprehensive canonicalization and normalization pipeline
+    """
+    if not text or not text.strip():
+        return ""
+    
+    # Step 1: Transliterate non-Roman scripts to Roman/ASCII
+    text = transliterate_to_roman(text)
+    
+    # Step 2: Normalize time expressions
+    text = normalize_time_expressions(text)
+    
+    # Step 3: Normalize ordinals
+    text = normalize_ordinals(text)
+    
+    # Step 4: Normalize variant spellings
+    text = normalize_variants(text)
+    
+    # Step 5: Convert to lowercase
+    text = text.lower()
+    
+    # Step 6: Remove all punctuation
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    
+    # Step 7: Normalize numbers (cardinal only)
+    text = normalize_numbers(text)
+    
+    # Step 8: Collapse repeated whitespace
+    text = ' '.join(text.split())
+    
+    return text.strip()
+
+def find_word_differences(ref: str, hyp: str, ref_orig: str, hyp_orig: str) -> List[Tuple[str, str]]:
+    """Find word-level differences between normalized texts, but return original words"""
+    ref_words = ref.split()
+    hyp_words = hyp.split()
+    ref_orig_words = ref_orig.split()
+    hyp_orig_words = hyp_orig.split()
+    
+    # Use difflib to find differences in normalized text
+    differ = difflib.SequenceMatcher(None, ref_words, hyp_words)
+    differences = []
+    
+    for tag, i1, i2, j1, j2 in differ.get_opcodes():
+        if tag != 'equal':
+            # Use original words for display
+            ref_part = ' '.join(ref_orig_words[i1:i2]) if i1 < i2 and i1 < len(ref_orig_words) else '[missing]'
+            hyp_part = ' '.join(hyp_orig_words[j1:j2]) if j1 < j2 and j1 < len(hyp_orig_words) else '[missing]'
+            differences.append((ref_part, hyp_part))
+    
+    return differences[:10]  # Return first 10 differences for analysis
+
+def compute_normalized_wer(ref: str, hyp: str, fuzzy_threshold: int = 85, use_phonetic: bool = True) -> Tuple[int, int, List[Tuple[str, str]]]:
+    """
+    Compute WER with comprehensive normalization and phonetic matching
+    """
+    # Keep original for display
+    ref_orig = ref
+    hyp_orig = hyp
+    
+    # Normalize both texts
+    ref_norm = canonicalize_and_normalize(ref)
+    hyp_norm = canonicalize_and_normalize(hyp)
+    
+    r_words = ref_norm.split()
+    h_words = hyp_norm.split()
+    m, n = len(r_words), len(h_words)
+    
+    if m == 0 and n == 0:
+        return 0, 0, []
+    if m == 0:
+        return n, n, find_word_differences(ref_norm, hyp_norm, ref_orig, hyp_orig)
+    if n == 0:
+        return m, m, find_word_differences(ref_norm, hyp_norm, ref_orig, hyp_orig)
+    
+    # DP table for WER computation
+    dp = [[0] * (n + 1) for _ in range(m + 1)]
+    
+    # Initialize base cases
+    for i in range(m + 1):
+        dp[i][0] = i  # deletions
+    for j in range(n + 1):
+        dp[0][j] = j  # insertions
+    
+    # Fill DP table
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            # Check for matches
+            cost = 1  # Default: substitution needed
+            
+            # Exact match
+            if r_words[i-1] == h_words[j-1]:
+                cost = 0
+            elif ratio(r_words[i-1], h_words[j-1]) >= fuzzy_threshold:
+                cost = 0
+            elif use_phonetic and are_phonetically_similar(r_words[i-1], h_words[j-1]):
+                cost = 0
+            
+            dp[i][j] = min(
+                dp[i-1][j] + 1,      # deletion
+                dp[i][j-1] + 1,      # insertion
+                dp[i-1][j-1] + cost  # substitution
+            )
+    
+    # Find differences for analysis
+    differences = find_word_differences(ref_norm, hyp_norm, ref_orig, hyp_orig)
+    
+    return dp[m][n], m, differences
+
+def process_call_dir(call_dir: Path) -> Tuple[List[str], List[str]]:
+    refs = []
+    hyps = []
+    ref_file = call_dir / "ref_transcript.json"
+    gt_file = call_dir / "gt_transcript.json"
+    output_dir = call_dir / "output"
+    output_dir.mkdir(exist_ok=True)
+
+    try:
+        ref_data = json.loads(ref_file.read_text(encoding="utf-8"))
+        gt_data = json.loads(gt_file.read_text(encoding="utf-8"))
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"Skipping {call_dir.name}: {e}")
+        return refs, hyps
+
+    refs = [t["content"].strip() for t in ref_data
+            if t.get("speaker") == "assistant" and t.get("content", "").strip()]
+    hyps = [t["content"].strip() for t in gt_data
+            if t.get("speaker") == "Agent" and t.get("content", "").strip()]
+
+    mismatches = []
+    for ref, hyp in zip(refs, hyps):
+        _, _, diffs = compute_normalized_wer(ref, hyp)
+        if diffs:
+            mismatches.append({
+                "reference_sentence": ref,
+                "hypothesis_sentence": hyp,
+                "word_differences": diffs
+            })
+
+    with open(output_dir / "mismatches.json", "w", encoding="utf-8") as f:
+        json.dump({"call_id": call_dir.name, "mismatches": mismatches}, f, indent=2)
+
+    return refs, hyps
+
+def main():
+    start_time = time.time()
+    global_refs = []
+    global_hyps = []
+
+    with ThreadPoolExecutor() as executor:
+        futures = [executor.submit(process_call_dir, call_dir) for call_dir in CALLS_DIR.iterdir() if call_dir.is_dir()]
+        for f in futures:
+            refs, hyps = f.result()
+            global_refs.extend(refs)
+            global_hyps.extend(hyps)
+            print(f"Checkpoint: processed {len(global_refs)} utterances so far, elapsed time: {time.time() - start_time:.2f} sec")
+
+    # Calculate global WER by concatenating all utterances and computing WER
+    concatenated_ref = " ".join(global_refs)
+    concatenated_hyp = " ".join(global_hyps)
+    print(f"Token counts - Ref: {len(concatenated_ref.split())}, Hyp: {len(concatenated_hyp.split())}")
+    start_wer_time = time.time()
+    errors, total, _ = compute_normalized_wer(concatenated_ref, concatenated_hyp)
+    print(f"Global WER computed in {time.time() - start_wer_time:.2f} sec")
+    percentage = round((errors / total * 100) if total > 0 else 0, 2)
+
+    with open(GLOBAL_OUTPUT_DIR / "global_wer.json", "w", encoding="utf-8") as f:
+        json.dump({
+            "total_errors": errors,
+            "total_words": total,
+            "wer_percentage": percentage
+        }, f, indent=2)
+
+    print(f"Processed {len(global_refs)} assistant utterances across {CALLS_DIR}.")
+    print(f"Global WER: {errors}/{total} = {percentage}%")
+    elapsed_time = time.time() - start_time
+    print(f"Total processing time: {elapsed_time:.2f} seconds")
+
+if __name__ == "__main__":
+    main()

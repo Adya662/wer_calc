@@ -1,0 +1,2963 @@
+[
+  {
+    "id": 18751,
+    "annotations": [
+      {
+        "id": 8003,
+        "completed_by": 2,
+        "result": [
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 0,
+              "end": 3.6324339092527684,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "k8qqQ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 0,
+              "end": 3.6324339092527684,
+              "channel": 0,
+              "text": [
+                "Myntra here to assist you. Shall we proceed further in Hindi or English?"
+              ]
+            },
+            "id": "k8qqQ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 6.699622856952435,
+              "end": 7.13346866205469,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "uk32b",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 6.699622856952435,
+              "end": 7.13346866205469,
+              "channel": 0,
+              "text": [
+                "English."
+              ]
+            },
+            "id": "uk32b",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 7.1233792247267305,
+              "end": 8.7477786345282,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "TFZEy",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 8.696459482993186,
+              "end": 10.13252059382037,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_xBpN",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 8.696459482993186,
+              "end": 10.13252059382037,
+              "channel": 0,
+              "text": [
+                "Great. How can I help you today?"
+              ]
+            },
+            "id": "_xBpN",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 12.685518124179811,
+              "end": 14.08168864859513,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "2OKop",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 12.685518124179811,
+              "end": 14.08168864859513,
+              "channel": 0,
+              "text": [
+                "I want to know where is my order?"
+              ]
+            },
+            "id": "2OKop",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 14.075351862732829,
+              "end": 18.29045716025336,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "umvXs",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 18.29741723652835,
+              "end": 21.967351186420046,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "O9hx3",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 18.29741723652835,
+              "end": 21.967351186420046,
+              "channel": 0,
+              "text": [
+                "I can help you track your order. Could you please tell me the product name or brand name?"
+              ]
+            },
+            "id": "O9hx3",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 24.93638080592003,
+              "end": 32.16987380860511,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "0uSKZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 24.93638080592003,
+              "end": 32.16987380860511,
+              "channel": 0,
+              "text": [
+                "I already selected this from a specific item from my order section. Why you want me to repeat the brand name or product name?"
+              ]
+            },
+            "id": "0uSKZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 34.500318106744395,
+              "end": 42.29148488988917,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "bQwDV",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 34.500318106744395,
+              "end": 42.29148488988917,
+              "channel": 0,
+              "text": [
+                "I understand your concern. To locate the exact status of your order, I need the product name or brand name from your order. Could you please share that with me?"
+              ]
+            },
+            "id": "bQwDV",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 32.16626422958589,
+              "end": 34.497800641305794,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "t8N-F",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 45.264752018918735,
+              "end": 48.91327845752642,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "rBc6G",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 45.264752018918735,
+              "end": 48.91327845752642,
+              "channel": 0,
+              "text": [
+                "It's the last item which I ordered in Myntra."
+              ]
+            },
+            "id": "rBc6G",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 48.895047275449535,
+              "end": 51.02259553087936,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "Q3y4m",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 51.0097438414447,
+              "end": 52.67265512155077,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "wrwYS",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 51.0097438414447,
+              "end": 52.67265512155077,
+              "channel": 0,
+              "text": [
+                "Please give me a moment to fetch your products."
+              ]
+            },
+            "id": "wrwYS",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 54.750340227051176,
+              "end": 59.45784642441026,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "GQ35W",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 54.750340227051176,
+              "end": 59.45784642441026,
+              "channel": 0,
+              "text": [
+                "It seems there are multiple items in your order. Could you please tell me which item you're referring to?"
+              ]
+            },
+            "id": "GQ35W",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 60.14033703132161,
+              "end": 68.4059842765547,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "pZCQD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 60.14033703132161,
+              "end": 68.4059842765547,
+              "channel": 0,
+              "text": [
+                "For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?"
+              ]
+            },
+            "id": "pZCQD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 70.73581398190711,
+              "end": 70.93756424750822,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "y38wC",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 70.73581398190711,
+              "end": 70.93756424750822,
+              "channel": 0,
+              "text": [
+                "Plum"
+              ]
+            },
+            "id": "y38wC",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 70.92242342501874,
+              "end": 73.33731296781983,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "He_Qp",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 73.33686413381533,
+              "end": 85.40717561465291,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "US4mE",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 73.33686413381533,
+              "end": 85.40717561465291,
+              "channel": 0,
+              "text": [
+                "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately."
+              ]
+            },
+            "id": "US4mE",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 85.52728399260742,
+              "end": 85.83498837666336,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "8DcyJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 85.52728399260742,
+              "end": 85.83498837666336,
+              "channel": 0,
+              "text": [
+                "Plum"
+              ]
+            },
+            "id": "8DcyJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 85.83751218264089,
+              "end": 88.44085327288039,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "34kUD",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 88.42201262108092,
+              "end": 94.10953536239036,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "M28MY",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 88.42201262108092,
+              "end": 94.10953536239036,
+              "channel": 0,
+              "text": [
+                "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent?"
+              ]
+            },
+            "id": "M28MY",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 88.42201262108092,
+              "end": 94.10953536239036,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "M28MY",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 93.2381340340229,
+              "end": 96.20818802297623,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "WnG5L",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 93.2381340340229,
+              "end": 96.20818802297623,
+              "channel": 0,
+              "text": [
+                "No, I already, No, I already told the brand name."
+              ]
+            },
+            "id": "WnG5L",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 96.19314216954314,
+              "end": 98.55350765636527,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "DLyv2",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 98.54731959811052,
+              "end": 110.46025921680628,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "pr0ef",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 98.54731959811052,
+              "end": 110.46025921680628,
+              "channel": 0,
+              "text": [
+                "Alright, Could you confirm if you're referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?"
+              ]
+            },
+            "id": "pr0ef",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 113.54919780393506,
+              "end": 114.38599622309478,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "RZ3UD",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 113.54919780393506,
+              "end": 114.38599622309478,
+              "channel": 0,
+              "text": [
+                "This is the first one."
+              ]
+            },
+            "id": "RZ3UD",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 114.36907039890588,
+              "end": 116.84507668025518,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "K58-7",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 116.80477246034759,
+              "end": 128.09603197793913,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "qVuQg",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 116.80477246034759,
+              "end": 128.09603197793913,
+              "channel": 0,
+              "text": [
+                "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?"
+              ]
+            },
+            "id": "qVuQg",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 130.77684486867662,
+              "end": 140.3921903049465,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "ttb6E",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 130.77684486867662,
+              "end": 140.3921903049465,
+              "channel": 0,
+              "text": [
+                "End of today as in now it's almost after 12:00. Are you talking about today or are you talking about yesterday?"
+              ]
+            },
+            "id": "ttb6E",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 140.3907508510865,
+              "end": 141.50888951958154,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "CpJ8r",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 141.49948497712904,
+              "end": 150.51922920518845,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "eTF9L",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 141.49948497712904,
+              "end": 150.51922920518845,
+              "channel": 0,
+              "text": [
+                "Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time. Is there anything else I can assist you with?"
+              ]
+            },
+            "id": "eTF9L",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 153.71581888704938,
+              "end": 157.2202166740004,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "un97k",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 153.71581888704938,
+              "end": 157.2202166740004,
+              "channel": 0,
+              "text": [
+                "No, I'm not still clear, but to which address this will be delivered?"
+              ]
+            },
+            "id": "un97k",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 157.22000128368495,
+              "end": 159.68858591944868,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "8qZJw",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 159.67766083416535,
+              "end": 170.24453538982965,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "mBrNa",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 159.67766083416535,
+              "end": 170.24453538982965,
+              "channel": 0,
+              "text": [
+                "I really apologize. But I'm unable to share the delivery address. However, you can double check the delivery address in the Myntra app under your order details. Let me know if there's anything else I can assist you with."
+              ]
+            },
+            "id": "mBrNa",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 172.5374563638809,
+              "end": 175.0357000482776,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "J1ej_",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 172.5374563638809,
+              "end": 175.0357000482776,
+              "channel": 0,
+              "text": [
+                "Yeah, I want to create a return for this order."
+              ]
+            },
+            "id": "J1ej_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 175.02625945024712,
+              "end": 177.41143607134137,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "4vpil",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 177.3987264879803,
+              "end": 194.387602717557,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "f--E4",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 177.3987264879803,
+              "end": 194.387602717557,
+              "channel": 0,
+              "text": [
+                "To create a return for your order, you can follow these steps directly on the Myntra app. Open the app, go to the order section, select the item you want to return, tap return, choose a reason for the return, provide the required details, and then submit the return request."
+              ]
+            },
+            "id": "f--E4",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 196.19843801758407,
+              "end": 199.77454001297932,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Noc-x",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 196.19843801758407,
+              "end": 199.77454001297932,
+              "channel": 0,
+              "text": [
+                "Yeah, you were saying so fast, I could not follow. Can you tell it slowly?"
+              ]
+            },
+            "id": "Noc-x",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 199.75749366167005,
+              "end": 202.70712523451434,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "vZ9-D",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 202.7032827247217,
+              "end": 227.53143445924843,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "tmOu0",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 202.7032827247217,
+              "end": 227.53143445924843,
+              "channel": 0,
+              "text": [
+                "Sure. To create a return for your order, follow these steps. One, open the Myntra app. Two, go to the order section. Three, select the item you want to return. Four, tap on return. Five, choose a reason for the return and provide the required details. Six, submit the return request. If you'd like me to explain any step again, let me know."
+              ]
+            },
+            "id": "tmOu0",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 229.88844486876283,
+              "end": 231.6159121372421,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "SF6LT",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 229.88844486876283,
+              "end": 231.6159121372421,
+              "channel": 0,
+              "text": [
+                "Second step, I want you to elaborate."
+              ]
+            },
+            "id": "SF6LT",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 231.61164131589456,
+              "end": 234.09221169611945,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "YhDdz",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 234.08514105579624,
+              "end": 252.20559786911056,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "OvQzZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 234.08514105579624,
+              "end": 252.20559786911056,
+              "channel": 0,
+              "text": [
+                "All right, in the second step, once you open the Myntra app, look for the order section. This is usually located at the bottom menu of the app. Tap on orders and you'll see a list of all the items you've purchased. From there, select the specific item you want to return. If you're unsure, let me know and I'll guide you further."
+              ]
+            },
+            "id": "OvQzZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 253.8602161400434,
+              "end": 254.47119306124597,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "JQmgh",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 253.8602161400434,
+              "end": 254.47119306124597,
+              "channel": 0,
+              "text": [
+                "I'm unsure."
+              ]
+            },
+            "id": "JQmgh",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 254.46354775946455,
+              "end": 256.72105570560296,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "NSRJz",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 256.70821047334215,
+              "end": 259.66989521001915,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "zRUCE",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 256.70821047334215,
+              "end": 259.66989521001915,
+              "channel": 0,
+              "text": [
+                "That's great. Please let me know if there's anything else I can help you with."
+              ]
+            },
+            "id": "zRUCE",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 262.3246941109718,
+              "end": 265.41582311061546,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "eEalP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 262.3246941109718,
+              "end": 265.41582311061546,
+              "channel": 0,
+              "text": [
+                "No, I told I'm unsure. So then you have to help me."
+              ]
+            },
+            "id": "eEalP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 265.41019394409017,
+              "end": 267.69876851334055,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "KlGUV",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 267.98683386849206,
+              "end": 283.5672529540806,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "5-ThZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 267.98683386849206,
+              "end": 283.5672529540806,
+              "channel": 0,
+              "text": [
+                "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the Myntra app. Tap on the order section, select your item, and then choose the return option. Is there anything else you'd like me to clarify or assist with?"
+              ]
+            },
+            "id": "5-ThZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 284.45847835145867,
+              "end": 285.87087823388475,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "YuyM9",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 284.45847835145867,
+              "end": 285.87087823388475,
+              "channel": 0,
+              "text": [
+                "I'm not seeing the return option."
+              ]
+            },
+            "id": "YuyM9",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 285.8661443859322,
+              "end": 288.3340096199163,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "6b64u",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 288.3157385859304,
+              "end": 299.86649239830285,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "5zFgp",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 288.3157385859304,
+              "end": 299.86649239830285,
+              "channel": 0,
+              "text": [
+                "I really apologize for the inconvenience. It's possible that the return window might have expired or there may be some restrictions on the item. Do you want to speak with another agent who can assist you better regarding this issue?"
+              ]
+            },
+            "id": "5zFgp",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 304.48579374186255,
+              "end": 304.75118305265005,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dymcH",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 304.48579374186255,
+              "end": 304.75118305265005,
+              "channel": 0,
+              "text": [
+                "Okay."
+              ]
+            },
+            "id": "dymcH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "XVQbGzuq3_",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "text": [
+                "qVuQg - ml"
+              ]
+            },
+            "id": "w8kCsIA4Cf",
+            "from_name": "pronunciation_note",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T06:32:26.783650Z",
+        "updated_at": "2025-07-30T13:11:19.667734Z",
+        "draft_created_at": "2025-07-25T06:32:03.412051Z",
+        "lead_time": 3107.607,
+        "prediction": {},
+        "result_count": 54,
+        "unique_id": "43578a95-fe6f-47a4-8349-ccd0a25e207d",
+        "import_id": null,
+        "last_action": null,
+        "task": 18751,
+        "project": 63,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/16/a26f3d38-ed43-4289-8d34-9ee376fb779d/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543233Z",
+    "updated_at": "2025-07-30T13:11:19.762972Z",
+    "inner_id": 14,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 2,
+    "comment_authors": []
+  },
+  {
+    "id": 18756,
+    "annotations": [
+      {
+        "id": 8015,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 0,
+              "end": 3.7438755646356703,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_4QTU",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 0,
+              "end": 3.7438755646356703,
+              "channel": 0,
+              "text": [
+                "Myntra here to assist you. Shall we proceed further in Hindi or English?"
+              ]
+            },
+            "id": "_4QTU",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 6.531299375006168,
+              "end": 7.293878807905773,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "t015Y",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 6.531299375006168,
+              "end": 7.293878807905773,
+              "channel": 0,
+              "text": [
+                "English."
+              ]
+            },
+            "id": "t015Y",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 7.305803726340804,
+              "end": 8.726294826840068,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "rt6ND",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 8.738815526057556,
+              "end": 10.21911677815679,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "h_70x",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 8.738815526057556,
+              "end": 10.21911677815679,
+              "channel": 0,
+              "text": [
+                "Great. How can I help you today?"
+              ]
+            },
+            "id": "h_70x",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 12.673988103233143,
+              "end": 14.109431741632399,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "xAc0N",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 12.673988103233143,
+              "end": 14.109431741632399,
+              "channel": 0,
+              "text": [
+                "I want to know where is my order?"
+              ]
+            },
+            "id": "xAc0N",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 14.145783162077757,
+              "end": 18.249814986983452,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "gd-op",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 18.252287178416868,
+              "end": 21.985527964383845,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "_t41u",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 18.252287178416868,
+              "end": 21.985527964383845,
+              "channel": 0,
+              "text": [
+                "I can help you track your order. Could you please tell me the product name or brand name?\""
+              ]
+            },
+            "id": "_t41u",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 24.816327770572062,
+              "end": 32.28298082120629,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "JoZts",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 24.816327770572062,
+              "end": 32.28298082120629,
+              "channel": 0,
+              "text": [
+                "I already selected this from a specific item from my order section. Why you want me to repeat the brand name or product name?"
+              ]
+            },
+            "id": "JoZts",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 32.339853199062425,
+              "end": 34.471830586114024,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "E-Au9",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 34.48293228660874,
+              "end": 42.394592718175915,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "zJ-5c",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 34.48293228660874,
+              "end": 42.394592718175915,
+              "channel": 0,
+              "text": [
+                "I understand your concern. To locate the exact status of your order, I need the product name or brand name from your order. Could you please share that with me?"
+              ]
+            },
+            "id": "zJ-5c",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 45.212774767663504,
+              "end": 48.9933832956097,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "IwKEZ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 45.212774767663504,
+              "end": 48.9933832956097,
+              "channel": 0,
+              "text": [
+                "It's the last item which I ordered in Myntra."
+              ]
+            },
+            "id": "IwKEZ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 49.00743335109046,
+              "end": 50.93529332891733,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "-SoE6",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 50.944835990172095,
+              "end": 53.023968094785296,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "g0xzc",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 50.944835990172095,
+              "end": 53.023968094785296,
+              "channel": 0,
+              "text": [
+                "Please give me a moment to fetch your products."
+              ]
+            },
+            "id": "g0xzc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 54.614382576316586,
+              "end": 68.57488878168,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "nZ8rz",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 54.614382576316586,
+              "end": 68.57488878168,
+              "channel": 0,
+              "text": [
+                "It seems there are multiple items in your order. Could you please tell me which item you're referring to? For example, is it the Plum face serum, jockey gym towel, bigen beard color, Kalenji running shorts or sirona period panties?"
+              ]
+            },
+            "id": "nZ8rz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 70.60017963770984,
+              "end": 71.01078317163432,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "eS-29",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 70.60017963770984,
+              "end": 71.01078317163432,
+              "channel": 0,
+              "text": [
+                "Plum."
+              ]
+            },
+            "id": "eS-29",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 71.04701289521589,
+              "end": 73.22079631011015,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "NdvMl",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 73.24955149385998,
+              "end": 85.46051301480342,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "JUfZo",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 73.24955149385998,
+              "end": 85.46051301480342,
+              "channel": 0,
+              "text": [
+                "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, jockey gym towel, bigen beard color, kalenji running shorts, or sirona period panties? This will help me locate your order accurately."
+              ]
+            },
+            "id": "JUfZo",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 85.45671802265343,
+              "end": 86.003281971987,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "_jQ5Y",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 85.45671802265343,
+              "end": 86.003281971987,
+              "channel": 0,
+              "text": [
+                "Plum."
+              ]
+            },
+            "id": "_jQ5Y",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 86.0277307881221,
+              "end": 88.36886622243914,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "1uDnQ",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 88.41115962109151,
+              "end": 94.82706519234453,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "OlWzs",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 88.41115962109151,
+              "end": 94.82706519234453,
+              "channel": 0,
+              "text": [
+                "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent?"
+              ]
+            },
+            "id": "OlWzs",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 88.41115962109151,
+              "end": 94.82706519234453,
+              "channel": 0,
+              "labels": [
+                "User Interrupts Bot Halts"
+              ]
+            },
+            "id": "OlWzs",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 94.39888970317733,
+              "end": 96.26914575459199,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "-41BP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 94.39888970317733,
+              "end": 96.26914575459199,
+              "channel": 0,
+              "text": [
+                "I already told the brand name."
+              ]
+            },
+            "id": "-41BP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 96.27427740619683,
+              "end": 98.47320876688966,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "cNeXU",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 98.51254705306914,
+              "end": 110.59303435246538,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "V3ZDi",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 98.51254705306914,
+              "end": 110.59303435246538,
+              "channel": 0,
+              "text": [
+                "All right.  Could you confirm if you're referring to the plum face serum, jockey gym towel, bigen beard color, kalenji running shorts or sirona period panties? This will help me provide the correct details."
+              ]
+            },
+            "id": "V3ZDi",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 113.44323259104053,
+              "end": 114.50198533167223,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "1VcVB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 113.44323259104053,
+              "end": 114.50198533167223,
+              "channel": 0,
+              "text": [
+                "This is the first one."
+              ]
+            },
+            "id": "1VcVB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 114.52853102479796,
+              "end": 116.73006450134957,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "10l8g",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 116.77550202703718,
+              "end": 128.18172232322107,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "MyBys",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 116.77550202703718,
+              "end": 128.18172232322107,
+              "channel": 0,
+              "text": [
+                "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?\n      },"
+              ]
+            },
+            "id": "MyBys",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 130.6242345466924,
+              "end": 140.58616071446338,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "YctoI",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 130.6242345466924,
+              "end": 140.58616071446338,
+              "channel": 0,
+              "text": [
+                "End of today as in now it's almost after 12:00. Are you talking about today or are you talking about yesterday? Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time."
+              ]
+            },
+            "id": "YctoI",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 140.62335239410623,
+              "end": 141.39062691349451,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "cTc1Z",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 141.4556337631587,
+              "end": 150.67689627533332,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "Wahyw",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 141.4556337631587,
+              "end": 150.67689627533332,
+              "channel": 0,
+              "text": [
+                "Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time. Is there anything else I can assist you with?"
+              ]
+            },
+            "id": "Wahyw",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 153.50734275561587,
+              "end": 157.3531872450761,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "DrOFP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 153.50734275561587,
+              "end": 157.3531872450761,
+              "channel": 0,
+              "text": [
+                "No, I'm not still clear, but to which address this will be delivered?"
+              ]
+            },
+            "id": "DrOFP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 157.40136128169715,
+              "end": 159.59898670424582,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "OgRG6",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 159.67251374959477,
+              "end": 170.4395265048539,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ykR75",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 159.67251374959477,
+              "end": 170.4395265048539,
+              "channel": 0,
+              "text": [
+                "I really apologize. But I'm unable to share the delivery address. However, you can double check the delivery address in the Myntra app under your order details.  Let me know if there's anything else I can assist you with."
+              ]
+            },
+            "id": "ykR75",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 172.45623620078084,
+              "end": 175.1951686533023,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Zs6Ox",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 172.45623620078084,
+              "end": 175.1951686533023,
+              "channel": 0,
+              "text": [
+                "Yeah, I want to create a return for this order."
+              ]
+            },
+            "id": "Zs6Ox",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 175.18575594783567,
+              "end": 177.25800495891957,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "WvFLh",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 177.36242060676486,
+              "end": 194.55614368098497,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "qL2pE",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 177.36242060676486,
+              "end": 194.55614368098497,
+              "channel": 0,
+              "text": [
+                "To create a return for your order, you can follow these steps directly on the Myntra app. Open the app, go to the order section, select the item you want to return, tap return, choose a reason for the return, provide the required details, and then submit the return request. Let me know if you need further assistance."
+              ]
+            },
+            "id": "qL2pE",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 196.0917903398372,
+              "end": 199.9882520869945,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "jlEHl",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 196.0917903398372,
+              "end": 199.9882520869945,
+              "channel": 0,
+              "text": [
+                "Yeah, you were saying so fast, I could not follow. Can you tell it slowly?"
+              ]
+            },
+            "id": "jlEHl",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 200.024332728441,
+              "end": 202.61342902096004,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "cIIF8",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 202.68247393781454,
+              "end": 227.7303305980654,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "nL_8X",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 202.68247393781454,
+              "end": 227.7303305980654,
+              "channel": 0,
+              "text": [
+                "Sure. To create a return for your order, follow these steps. One, open the Myntra app. Two, go to the order section. Three, select the item you to return. Four, tap on return. Five, choose a reason for the return and provide the required details. Six, submit the return request. If you'd like me to explain any step again, let me know."
+              ]
+            },
+            "id": "nL_8X",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 229.81321325593495,
+              "end": 231.78710524510853,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "ggtKC",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 229.81321325593495,
+              "end": 231.78710524510853,
+              "channel": 0,
+              "text": [
+                "Second step, I want you to elaborate."
+              ]
+            },
+            "id": "ggtKC",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 231.82607181246863,
+              "end": 234.03448562213805,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "BmqYt",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 234.05733185709911,
+              "end": 252.33389034340712,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "ogIj2",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 234.05733185709911,
+              "end": 252.33389034340712,
+              "channel": 0,
+              "text": [
+                "All right, in the second step, once you open the Myntra app, look for the order section. This is usually located at the bottom menu of the app. Tap on orders and you'll see a list of all the items you've purchased. rom there, select the specific item you want to return. If you're unsure, let me know and I'll guide you further."
+              ]
+            },
+            "id": "ogIj2",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 253.79926744467053,
+              "end": 254.60165394615336,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "i91e5",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 253.79926744467053,
+              "end": 254.60165394615336,
+              "channel": 0,
+              "text": [
+                "I'm unsure."
+              ]
+            },
+            "id": "i91e5",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 254.62433075970452,
+              "end": 256.722880071275,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "LY0gC",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 256.7316194771289,
+              "end": 259.69721671283787,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "2_MVB",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 256.7316194771289,
+              "end": 259.69721671283787,
+              "channel": 0,
+              "text": [
+                "That's great. Please let me know if there's anything else I can help you with."
+              ]
+            },
+            "id": "2_MVB",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 262.2914518360383,
+              "end": 265.48944084363325,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "a5WJQ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 262.2914518360383,
+              "end": 265.48944084363325,
+              "channel": 0,
+              "text": [
+                "No no, I told I'm unsure. So then you have to help me."
+              ]
+            },
+            "id": "a5WJQ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 265.54273056492974,
+              "end": 267.66777863512317,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "9269n",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 267.7102543771716,
+              "end": 283.39043213156003,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "3xMf-",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 267.7102543771716,
+              "end": 283.39043213156003,
+              "channel": 0,
+              "text": [
+                "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the Myntra app. Tap on the order section, select your item, and then choose the return option. Is there anything else you'd like me to clarify or assist with?"
+              ]
+            },
+            "id": "3xMf-",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 284.4421142745975,
+              "end": 285.9313255305691,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "vGF3O",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 284.4421142745975,
+              "end": 285.9313255305691,
+              "channel": 0,
+              "text": [
+                "I'm not seeing the return option."
+              ]
+            },
+            "id": "vGF3O",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 285.9636837598978,
+              "end": 288.24346395422475,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "0ZypM",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 288.30470846852114,
+              "end": 300.0334410682701,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "K0TJ5",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 288.30470846852114,
+              "end": 300.0334410682701,
+              "channel": 0,
+              "text": [
+                "I really apologize for the inconvenience. It's possible that the return window might have expired or there may be some restrictions on the item. Do you want to speak with another agent who can assist you better regarding this issue?"
+              ]
+            },
+            "id": "K0TJ5",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 304.3418407546391,
+              "end": 304.9594869019208,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "9saHH",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 306.456961,
+            "value": {
+              "start": 304.3418407546391,
+              "end": 304.9594869019208,
+              "channel": 0,
+              "text": [
+                "Okay."
+              ]
+            },
+            "id": "9saHH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "Low"
+              ]
+            },
+            "id": "TN9XQyKcA8",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "text": [
+                "nZ8rz  - bigen\n",
+                "V3ZDi -  bigen"
+              ]
+            },
+            "id": "UvkKXF95Ns",
+            "from_name": "pronunciation_note",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-25T11:27:39.003129Z",
+        "updated_at": "2025-07-30T13:21:45.598866Z",
+        "draft_created_at": "2025-07-25T10:53:57.304762Z",
+        "lead_time": 2329.979,
+        "prediction": {},
+        "result_count": 53,
+        "unique_id": "1b1fda29-26be-42ec-a2c1-4a3f6bdc437e",
+        "import_id": null,
+        "last_action": null,
+        "task": 18756,
+        "project": 63,
+        "updated_by": 2,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+      "source": "Myntra",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/16/a26f3d38-ed43-4289-8d34-9ee376fb779d/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.543527Z",
+    "updated_at": "2025-07-30T13:21:45.705001Z",
+    "inner_id": 19,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 2,
+    "comment_authors": []
+  }
+]

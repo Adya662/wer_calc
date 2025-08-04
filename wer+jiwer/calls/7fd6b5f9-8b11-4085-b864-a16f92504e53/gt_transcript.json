@@ -1,0 +1,147 @@
+[
+  {
+    "timestamp": "0:00:01.604023",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from"
+  },
+  {
+    "timestamp": "0:00:04.787200",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:00:07.333672",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:00:09.184474",
+    "speaker": "Agent",
+    "content": "We spoke last call about your interest in our weight management program and I understand you had some concerns. We spoke last call about your interest in our weight management program and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We are genuinely excited to support your goals, and the Nano plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?"
+  },
+  {
+    "timestamp": "0:00:49.625564",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:54.310014",
+    "speaker": "Customer",
+    "content": "Hello, yeah."
+  },
+  {
+    "timestamp": "0:00:59.170491",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:01:01.225922",
+    "speaker": "Agent",
+    "content": "Great, based on your BMI of 34.13, we've identified key metabolic challenges that might be affecting your weight loss journey. At this obesity stage, category Y, most people struggle with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Would you like to discuss how the Nano plan can help with this?"
+  },
+  {
+    "timestamp": "0:01:32.426543",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:01:41.052911",
+    "speaker": "Agent",
+    "content": "We spoke last time about your interest in our weight management program and I understand you had some concerns. Based on your BMI of 34.13, it's clear your body is sending signals about how it's handling weight and metabolism. We are genuinely excited to support your goals and the Nano plan is designed to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges?"
+  },
+  {
+    "timestamp": "0:02:04.696846",
+    "speaker": "Customer",
+    "content": "Yes, I would like to discuss."
+  },
+  {
+    "timestamp": "0:02:09.662249",
+    "speaker": "Agent",
+    "content": "Great, Let's dive into it. The Nano plan starts with a comprehensive blood test to identify key issues like insulin resistance and hormonal imbalances. This is followed by a consultation with a senior obesity specialist doctor who will explain your results in detail and their impact on your health. Finally, a senior health coach will create a personalized weight loss plan tailored just for you. Unless you have any specific questions, can I explain how these offerings can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:02:40.462668",
+    "speaker": "Customer",
+    "content": "Yeah do explain."
+  },
+  {
+    "timestamp": "0:02:45.293411",
+    "speaker": "Agent",
+    "content": "आपके पास्ट"
+  },
+  {
+    "timestamp": "0:02:48.285827",
+    "speaker": "Agent",
+    "content": "I understand."
+  },
+  {
+    "timestamp": "0:02:51.831630",
+    "speaker": "Agent",
+    "content": "आपके पास्ट एक्सपीरियंसेस को देखते हुए हमने नैनो प्लान को इस तरह से डिजाइन किया है कि यह आपकी इश्यूज को एड्रेस कर सके। क्या आप नैनो प्लान के बारे में अधिक जानकारी चाहते हैं?"
+  },
+  {
+    "timestamp": "0:03:03.331956",
+    "speaker": "Customer",
+    "content": "बताइए।"
+  },
+  {
+    "timestamp": "0:03:06.883947",
+    "speaker": "Agent",
+    "content": "Sure, The Nano plan begins with a blood test to uncover issues like insulin resistance or hormonal imbalances. Then, a senior obesity specialist doctor will review your results and provide detailed insights. Finally, a health coach will create a personalized road map to help you achieve your weight loss goals. Now that we've covered the offerings, would you like to hear about the pricing information?"
+  },
+  {
+    "timestamp": "0:03:30.280928",
+    "speaker": "Customer",
+    "content": "Yeah please."
+  },
+  {
+    "timestamp": "0:03:34.236225",
+    "speaker": "Agent",
+    "content": "The Nano plan is priced at rupees 1,799, which is a fraction of what similar services typically cost. It includes the blood test, doctor consultation and personalized coaching, making it an affordable entry point to premium weight loss services. Would you like to proceed with the payment options or do you have any other questions?"
+  },
+  {
+    "timestamp": "0:03:54.158005",
+    "speaker": "Customer",
+    "content": "I do want to ask you questions. Say basically with the report and things, I know I have a thyroid issue that is hormonal issue which is going to show the impact. Right? I don't know how to deal with that disease."
+  },
+  {
+    "timestamp": "0:04:15.665770",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:04:18.445864",
+    "speaker": "Agent",
+    "content": "Absolutely, managing thyroid issues is crucial for effective weight loss. Our plan focuses on supporting thyroid function through nutrient rich foods and lifestyle changes, which can help normalize metabolism and improve fat burning. This approach has helped many clients successfully manage their weight. Would you like to explore how we can address this in your personalized plan?"
+  },
+  {
+    "timestamp": "0:04:41.844662",
+    "speaker": "Customer",
+    "content": "Yeah, please go ahead."
+  },
+  {
+    "timestamp": "0:04:45.695720",
+    "speaker": "Agent",
+    "content": "Now that we've covered how the Nano plan addresses thyroid issues, do you want to proceed with the payment options?"
+  },
+  {
+    "timestamp": "0:04:53.300793",
+    "speaker": "Customer",
+    "content": "Just give me all the briefing then I can go for a payment option."
+  },
+  {
+    "timestamp": "0:05:01.400230",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:05:06.476357",
+    "speaker": "Customer",
+    "content": "मैंने कहा"
+  },
+  {
+    "timestamp": "0:05:08.568857",
+    "speaker": "Agent",
+    "content": "The Nano plan offers flexibility with two payment options, a partial payment of rupees 499 now and the remaining rupees 1,399 at the time of blood sample collection or a full payment of rupees 1,799 up front. I'll send you the payment links on your registered mobile."
+  }
+]

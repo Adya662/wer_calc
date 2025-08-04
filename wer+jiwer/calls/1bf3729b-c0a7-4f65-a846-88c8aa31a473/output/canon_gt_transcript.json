@@ -1,0 +1,100 @@
+{
+  "canonical_transcript": "ray from myntra here to assist you shall we proceed further in hindi or english hi this is ray from myntra would you like to continue in english or should we go ahead in hindi great how can i help you today alright could you please tell me the product name or the brand name of the order youd like to check ill check the details for you could you clarify the brand name or any additional details about the product to help me identify it yes im here could you please confirm the brand name or give me more details about the product you mentioned claim this will help me find your order im sorry i couldnt locate any recent orders in your account is there anything else i can help you with today im sorry i can only assist with your myntra orders or return related queries could you please let me know if theres anything else i can help you with regarding your myntra order im sorry i can only assist with your myntra orders or return related queries could you let me know if theres anything else i can help you with regarding your myntra order could you please confirm the product name or brand name of the item you ordered this will help me locate your order i understand youre having difficulty with the product name do you want to speak with another agent who can assist you better",
+  "entities": [
+    {
+      "index": 0,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 2,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 14,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 17,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 19,
+      "value": "hi",
+      "type": "OTHER"
+    },
+    {
+      "index": 21,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 23,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 29,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 34,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 55,
+      "value": "product name",
+      "type": "OTHER"
+    },
+    {
+      "index": 59,
+      "value": "brand name",
+      "type": "OTHER"
+    },
+    {
+      "index": 76,
+      "value": "brand name",
+      "type": "OTHER"
+    },
+    {
+      "index": 105,
+      "value": "brand name",
+      "type": "OTHER"
+    },
+    {
+      "index": 160,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 188,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 216,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 243,
+      "value": "product name",
+      "type": "OTHER"
+    },
+    {
+      "index": 247,
+      "value": "brand name",
+      "type": "OTHER"
+    },
+    {
+      "index": 268,
+      "value": "product name",
+      "type": "OTHER"
+    }
+  ]
+}

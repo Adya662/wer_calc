@@ -1,0 +1,287 @@
+[
+  {
+    "timestamp": "2025-07-04 06:06:26",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-07-04 06:06:29",
+    "speaker": "user",
+    "content": "I think English is ok"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:29",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:38",
+    "speaker": "user",
+    "content": "I just wanted to know the status of my order"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:38",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:06:41",
+    "speaker": "user",
+    "content": "I ordered 1, I return 1 product from"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:41",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:06:45",
+    "speaker": "user",
+    "content": "story or something. Story करे"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:45",
+    "speaker": "assistant",
+    "content": "I apologize, but I'm here to assist you with your मिंत्रा orders and returns. How can I help you with those today?"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:57",
+    "speaker": "user",
+    "content": "No no it is with मिंत्रा only return 1 product"
+  },
+  {
+    "timestamp": "2025-07-04 06:06:57",
+    "speaker": "assistant",
+    "content": "Got it! Could you please tell me the product name or brand name that you returned so I can check the status for you?"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:11",
+    "speaker": "user",
+    "content": "S slightly difficult to pronounce it it is something called गौरी"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:11",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:07:12",
+    "speaker": "user",
+    "content": "I think."
+  },
+  {
+    "timestamp": "2025-07-04 06:07:12",
+    "speaker": "user",
+    "content": "It's"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:14",
+    "speaker": "user",
+    "content": "it's a shirt"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:12",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:07:18",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:21",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:21",
+    "speaker": "assistant",
+    "content": "I found a product that matches your description. Are you referring to the \"श्टोरी Plus Size Reflective Detail T-shirt\"?"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:28",
+    "speaker": "assistant",
+    "content": "It sounds like you're referring to the श्टोरी Plus"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:30",
+    "speaker": "assistant",
+    "content": "Your श्टोरी Plus Size Reflective Detail T-shirt is expected to be picked up by 7 July subject to quality check. \n Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:30",
+    "speaker": "user",
+    "content": "लिया आया correct."
+  },
+  {
+    "timestamp": "2025-07-04 06:07:30",
+    "speaker": "assistant",
+    "content": "Great! Is there"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:33",
+    "speaker": "user",
+    "content": "भैया आया correct."
+  },
+  {
+    "timestamp": "2025-07-04 06:07:33",
+    "speaker": "assistant",
+    "content": "Is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-04 06:07:42",
+    "speaker": "user",
+    "content": "No, but you didn't tell me the status of the product."
+  },
+  {
+    "timestamp": "2025-07-04 06:07:54",
+    "speaker": "assistant",
+    "content": "Your श्टोरी Plus Size Reflective Detail T-shirt is expected to be picked up by 7 July subject to quality check. \n Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:04",
+    "speaker": "user",
+    "content": "Yeah, I have 1 more product which is I think out for delivery today. Can you tell me the status, like, can you share the delivery agent number for that?"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:04",
+    "speaker": "assistant",
+    "content": "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:15",
+    "speaker": "user",
+    "content": "I don't remember. The status is out for delivery. It is"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:16",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:19",
+    "speaker": "user",
+    "content": "I think like just open order for me. You can check last 5 orders for"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:16",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:08:20",
+    "speaker": "assistant",
+    "content": "I see a few recent orders. Are you referring to the प्यूमा Women Royalcat Comfort Softride Sliders?"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:31",
+    "speaker": "user",
+    "content": "No no not this month. It is already delivered"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:31",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:08:33",
+    "speaker": "user",
+    "content": "There is 1 more which is out for delivery."
+  },
+  {
+    "timestamp": "2025-07-04 06:08:33",
+    "speaker": "assistant",
+    "content": "I understand, could you check if it might be the \"Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top\" that is out for delivery?"
+  },
+  {
+    "timestamp": "2025-07-04 06:08:48",
+    "speaker": "user",
+    "content": "Yeah, correct I think I think that 1. And there was 1 more along with it."
+  },
+  {
+    "timestamp": "2025-07-04 06:08:59",
+    "speaker": "assistant",
+    "content": "Your Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top will be delivered on or before tomorrow.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:04",
+    "speaker": "user",
+    "content": "There was 1 more product along with it I ordered. Which is also out for delivery."
+  },
+  {
+    "timestamp": "2025-07-04 06:09:04",
+    "speaker": "assistant",
+    "content": "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the \"Istyle Can Top\"?"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:20",
+    "speaker": "user",
+    "content": "Yeah, that's 1 that's the 1. Yeah."
+  },
+  {
+    "timestamp": "2025-07-04 06:09:24",
+    "speaker": "assistant",
+    "content": "Your Istyle Can Top is out for delivery today. The delivery attempt started at 10:44 AM. You can expect it by end of day.\n\nNeed to reach your delivery partner? Find their contact on the My Orders page in your Myntra app. \nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:24",
+    "speaker": "user",
+    "content": "ना उसका क्या status है but"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:24",
+    "speaker": "assistant",
+    "content": "Your Istyle Can Top is out for delivery today. The delivery attempt started at 10:44 AM. You can expect it by end of day.\nPlease tell"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:35",
+    "speaker": "user",
+    "content": "अच्छा आप हिंदी में बताओगे क्या थोड़ा?"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:35",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-04 06:09:37",
+    "speaker": "user",
+    "content": "हिंदी में बताओगे?"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:37",
+    "speaker": "assistant",
+    "content": "ज़रूर, मैं हिंदी में बता सकती हूँ। आपका Istyle Can Top आज डिलीवरी के लिए बाहर है। डिलीवरी का प्रयास सुबह दस बजकर चवालीस मिनट पर शुरू हुआ। इसे आज के अंत तक आप तक पहुंचने की उम्मीद है। क्या"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:59",
+    "speaker": "user",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "2025-07-04 06:09:59",
+    "speaker": "assistant",
+    "content": "Hi there! How can I continue"
+  },
+  {
+    "timestamp": "2025-07-04 06:10:01",
+    "speaker": "user",
+    "content": "Hello"
+  },
+  {
+    "timestamp": "2025-07-04 06:10:01",
+    "speaker": "assistant",
+    "content": "Hi there! How can I continue to help you with your order?"
+  },
+  {
+    "timestamp": "2025-07-04 06:10:17",
+    "speaker": "user",
+    "content": "you explain me 1 order status already right?"
+  },
+  {
+    "timestamp": "2025-07-04 06:10:17",
+    "speaker": "assistant",
+    "content": "Yes, I shared the status for your Aaghnya Women Floral Print Mandarin Collar Flared Sleeve Shirt Style Top and your Istyle Can Top. If there's anything more you'd like to know, please let me know!"
+  }
+]

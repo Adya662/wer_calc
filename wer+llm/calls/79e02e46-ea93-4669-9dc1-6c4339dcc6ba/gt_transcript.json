@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "0:00:00.115588",
+    "speaker": "Agent",
+    "content": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:04.752333",
+    "speaker": "Customer",
+    "content": "English can we speak?"
+  },
+  {
+    "timestamp": "0:00:08.745620",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:11.654548",
+    "speaker": "Customer",
+    "content": "Yeah, I just wanted to check if when will my return be picked up? I created a return for one product just now. Can you check it?"
+  },
+  {
+    "timestamp": "0:00:20.954923",
+    "speaker": "Agent",
+    "content": "Could you please tell me the product name or brand for which you created the return?"
+  },
+  {
+    "timestamp": "0:00:26.114791",
+    "speaker": "Customer",
+    "content": "Uh it is some Q can kech Q can kech."
+  },
+  {
+    "timestamp": "0:00:34.428932",
+    "speaker": "Agent",
+    "content": "I found a product in your order list that sounds similar to what you mentioned, the Kook N Keech urban edge printed relaxed t-shirt ordered on June 18th at 5:05 p.m."
+  },
+  {
+    "timestamp": "0:00:50.687228",
+    "speaker": "Agent",
+    "content": "Your Kook N Keech urban edge printed relaxed t-shirt is expected to be picked up by 21 June, subject to quality check. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:01.354688",
+    "speaker": "Customer",
+    "content": "Freakins का भी एक था uska kya status है?"
+  },
+  {
+    "timestamp": "0:01:07.062301",
+    "speaker": "Agent",
+    "content": "I couldn't find a Freakins product in your orders. Can you please tell me the exact product name or brand again?\""
+  },
+  {
+    "timestamp": "0:01:14.159398",
+    "speaker": "Customer",
+    "content": "Freakins product brand name is Freakins."
+  },
+  {
+    "timestamp": "0:01:18.621332",
+    "speaker": "Agent",
+    "content": "I couldn't locate any carkins product in your order list either."
+  },
+  {
+    "timestamp": "0:01:21.155659",
+    "speaker": "Customer",
+    "content": "एक shirt, एक shirt है ना Freakins का?"
+  },
+  {
+    "timestamp": "0:01:26.985260",
+    "speaker": "Agent",
+    "content": "I couldn't find a product with the brand name Freakins or carkins in your order list. Would you like me to connect you to another agent who can assist you better?"
+  },
+  {
+    "timestamp": "0:01:36.036616",
+    "speaker": "Customer",
+    "content": "Uh, No, मुझे सिर्फ उसका चाहिए एक और मेरा product है masculine sassafras का"
+  },
+  {
+    "timestamp": "0:01:44.122900",
+    "speaker": "Agent",
+    "content": "I couldn't find a product matching masculine Sasafers in your order list either. Could you please provide more details like the product type or color so I can assist you better?"
+  },
+  {
+    "timestamp": "0:01:54.402863",
+    "speaker": "Customer",
+    "content": "sassafras का product है brand."
+  },
+  {
+    "timestamp": "0:01:58.725503",
+    "speaker": "Agent",
+    "content": "I understand you're having difficulty with the product name. Do you want to speak with another agent who can assist you better?"
+  },
+  {
+    "timestamp": "0:02:04.718973",
+    "speaker": "Customer",
+    "content": "नहीं तो मैं brand name बताता हूं एक बार। F R E A K I N S"
+  },
+  {
+    "timestamp": "0:02:12.536086",
+    "speaker": "Agent",
+    "content": "I couldn't locate any product under the brand name Freakins in your order list. Do you want to speak with another agent who can assist you better?"
+  },
+  {
+    "timestamp": "0:02:21.189528",
+    "speaker": "Customer",
+    "content": "But मैंने तो किया है ना। एक और product है जो UNRL का है। वो भी नहीं दिख रहा है आपको?"
+  },
+  {
+    "timestamp": "0:02:27.943925",
+    "speaker": "Agent",
+    "content": "I couldn't find products matching UNRL in your order list either. Would you like me to connect you to another agent who can assist you better?"
+  },
+  {
+    "timestamp": "0:02:37.682937",
+    "speaker": "Customer",
+    "content": "ठीक है, कर लो ना।"
+  }
+]

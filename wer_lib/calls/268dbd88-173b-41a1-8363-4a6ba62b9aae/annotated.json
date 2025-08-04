@@ -1,0 +1,2010 @@
+[
+  {
+    "id": 18740,
+    "annotations": [
+      {
+        "id": 7996,
+        "completed_by": 10,
+        "result": [
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 10.565332194186759,
+              "end": 18.415671216357147,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "0C8uO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 10.565332194186759,
+              "end": 18.415671216357147,
+              "channel": 0,
+              "text": [
+                "Hello, this is Priya from Elevate Now. Am I speaking with Rupesh Kovar? I noticed you have been quiet. Are you still there."
+              ]
+            },
+            "id": "0C8uO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 18.99378706783593,
+              "end": 19.379574215859954,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "NOzj-",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 18.99378706783593,
+              "end": 19.379574215859954,
+              "channel": 0,
+              "text": [
+                "Yeah."
+              ]
+            },
+            "id": "NOzj-",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 19.390985444154566,
+              "end": 20.907504820450953,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "biF2Q",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 20.91776586362268,
+              "end": 22.904465060308596,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "d5P-V",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 20.91776586362268,
+              "end": 22.904465060308596,
+              "channel": 0,
+              "text": [
+                "Great, I noticed you'd"
+              ]
+            },
+            "id": "d5P-V",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 20.91776586362268,
+              "end": 22.904465060308596,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "d5P-V",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 24.16705659475214,
+              "end": 36.397324876582886,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "XI5jA",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 24.16705659475214,
+              "end": 36.397324876582886,
+              "channel": 0,
+              "text": [
+                "Hi. This is Priya from Elevate Now. I saw you were checking out our Nano plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?"
+              ]
+            },
+            "id": "XI5jA",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 37.71784462410801,
+              "end": 39.49905163452784,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Jeb7a",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 37.71784462410801,
+              "end": 39.49905163452784,
+              "channel": 0,
+              "text": [
+                "Yeah, I didn't understood the plan."
+              ]
+            },
+            "id": "Jeb7a",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 39.50116742516743,
+              "end": 41.93753103712098,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "t9da0",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 41.96644205455371,
+              "end": 43.35478252547917,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "PzR96",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 41.96644205455371,
+              "end": 43.35478252547917,
+              "channel": 0,
+              "labels": [
+                "Background Bot Halts"
+              ]
+            },
+            "id": "PzR96",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 41.96644205455371,
+              "end": 43.35478252547917,
+              "channel": 0,
+              "text": [
+                "No worries."
+              ]
+            },
+            "id": "PzR96",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 43.37507111221654,
+              "end": 54.36807511666798,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "uLqzN",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 54.41102685754555,
+              "end": 78.64171090828503,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "-OWMf",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 54.41102685754555,
+              "end": 78.64171090828503,
+              "channel": 0,
+              "text": [
+                "he Nano plan is designed to help you achieve your weight loss goals by understanding the root cause of your obesity. It starts with a blood test, followed by a consultation with an obesity specialized doctor who will explain your results and build a personalized weight loss road map. Then a senior health coach will guide you in making lifestyle choices specific to your condition. Would you like to know more about any specific part of the plan?"
+              ]
+            },
+            "id": "-OWMf",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 82.85569764351501,
+              "end": 87.64344428617562,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "uhq64",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 82.85569764351501,
+              "end": 87.64344428617562,
+              "channel": 0,
+              "text": [
+                "When this consultation one time or it is ongoing consultation?"
+              ]
+            },
+            "id": "uhq64",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 87.66317877751202,
+              "end": 90.10541317604091,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "f70VX",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 90.18219405484172,
+              "end": 109.31783038728392,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "CUU7D",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 90.18219405484172,
+              "end": 109.31783038728392,
+              "channel": 0,
+              "text": [
+                "The Nano plan includes a one-time consultation with a senior obesity specialist doctor. This consultation is focused on understanding your results and creating a personalized weight loss plan. If you want ongoing support, you can consider upgrading to our flagship program after the Nano plan. Would you like to know more about how the plan works?"
+              ]
+            },
+            "id": "CUU7D",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 111.79243888464893,
+              "end": 113.9598571625022,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "FqbQr",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 110.74904074851811,
+              "end": 111.76772733910914,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "wQX8x",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 110.74904074851811,
+              "end": 111.76772733910914,
+              "channel": 0,
+              "text": [
+                "Yes, I do."
+              ]
+            },
+            "id": "wQX8x",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 114.01218209796292,
+              "end": 140.37047249339264,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "avngt",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 114.01218209796292,
+              "end": 140.37047249339264,
+              "channel": 0,
+              "text": [
+                "The Nano plan begins with a comprehensive blood test to identify issues like insulin resistance and hormonal imbalances. The doctor will then provide a detailed explanation of your results and their impact on your health. Finally, a health coach will create a tailored weight loss plan just for you. This approach ensures you're targeting the root causes of weight gain for effective results. Does this sound like something that would help you achieve your weight loss goals?"
+              ]
+            },
+            "id": "avngt",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 143.11998896424157,
+              "end": 146.1103166375631,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "BzISv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 143.11998896424157,
+              "end": 146.1103166375631,
+              "channel": 0,
+              "text": [
+                "Can you just tell me more about flagship program?"
+              ]
+            },
+            "id": "BzISv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 146.14113640435133,
+              "end": 147.97103841339882,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "1zOpU",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 147.99460910249266,
+              "end": 176.75572474881497,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "hLx7n",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 147.99460910249266,
+              "end": 176.75572474881497,
+              "channel": 0,
+              "text": [
+                "The plan provides a clinically proven personalized road map to weight loss goals. Once you've completed it, you have the option to upgrade to our flagship program. This offers 3, 6, or 12 month subscription plans which include ongoing support from our senior obesity specialist and health coach. This longer-term program comes with a 100% money back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to start with the Nano plan and explore the flagship program later?\n"
+              ]
+            },
+            "id": "hLx7n",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 179.3465417764086,
+              "end": 181.22016706367822,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "N-dpJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 179.3465417764086,
+              "end": 181.22016706367822,
+              "channel": 0,
+              "text": [
+                "What is the cost of flagship program?\""
+              ]
+            },
+            "id": "N-dpJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 181.24192641603722,
+              "end": 183.81235449609304,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "eh0XF",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 183.85307664762868,
+              "end": 201.56784173285055,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "cKNNY",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 183.85307664762868,
+              "end": 201.56784173285055,
+              "channel": 0,
+              "text": [
+                "The specific pricing details for the flagship program aren't covered in our current conversation, but the Nano plan is a great starting point. Once you complete the Nano plan, you'll receive personalized recommendations and can discuss the best plan tailor to your needs. Would you like to proceed with the Nano plan to get started? "
+              ]
+            },
+            "id": "cKNNY",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 205.7268938870284,
+              "end": 218.8453845168179,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dIpYq",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 205.7268938870284,
+              "end": 218.8453845168179,
+              "channel": 0,
+              "text": [
+                "Will this blood test my sample blood sample will get collected from my home or do I need to visit some uh store or some, yeah."
+              ]
+            },
+            "id": "dIpYq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 205.7268938870284,
+              "end": 218.8453845168179,
+              "channel": 0,
+              "labels": [
+                "Bot Interrupts User"
+              ]
+            },
+            "id": "dIpYq",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 218.86752444761638,
+              "end": 227.80716017870247,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "5jsqs",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 218.86752444761638,
+              "end": 227.80716017870247,
+              "channel": 0,
+              "text": [
+                "With the Nano plan, your blood sample will be collected from your home. There's no need to visit a store or a lab. We ensure it's convenient for you."
+              ]
+            },
+            "id": "5jsqs",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 230.63916394524176,
+              "end": 238.22882423319015,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "xRxj6",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 230.63916394524176,
+              "end": 238.22882423319015,
+              "channel": 0,
+              "text": [
+                "Okay, So, right now I'm driving. I will proceed with the payment in some uh in in some time. Will that be okay?"
+              ]
+            },
+            "id": "xRxj6",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 239.8130971830486,
+              "end": 250.42070947488037,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "btaJH",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 239.8130971830486,
+              "end": 250.42070947488037,
+              "channel": 0,
+              "text": [
+                "Absolutely. you can proceed with the payment whenever it's convenient for you. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day."
+              ]
+            },
+            "id": "btaJH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 251.48351727974324,
+              "end": 252.69603651244216,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "CzHAz",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 251.48351727974324,
+              "end": 252.69603651244216,
+              "channel": 0,
+              "text": [
+                "Thank you."
+              ]
+            },
+            "id": "CzHAz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 252.710609107287,
+              "end": 254.39553843064786,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "j1rDI",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 254.4181323343856,
+              "end": 258.1154334869239,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "q14oO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 254.4181323343856,
+              "end": 258.1154334869239,
+              "channel": 0,
+              "text": [
+                "Your welcome, good bye and take care."
+              ]
+            },
+            "id": "q14oO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 258.71430701618675,
+              "end": 259.2024308797511,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "efIQP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 258.71430701618675,
+              "end": 259.2024308797511,
+              "channel": 0,
+              "text": [
+                "Bye."
+              ]
+            },
+            "id": "efIQP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 259.2128343881174,
+              "end": 260.6680520379457,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "aBPal",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 260.7019074580827,
+              "end": 262.90872103694306,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "F4UMc",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 260.7019074580827,
+              "end": 262.90872103694306,
+              "channel": 0,
+              "text": [
+                "Goodbye and have a great day."
+              ]
+            },
+            "id": "F4UMc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 273.57702490858753,
+              "end": 276.3202981953879,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "SHXH_",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 273.57702490858753,
+              "end": 276.3202981953879,
+              "channel": 0,
+              "text": [
+                "I noticed you've been quiet. Are you still there?"
+              ]
+            },
+            "id": "SHXH_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "High"
+              ]
+            },
+            "id": "HChKdBqi45",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2025-07-24T10:52:37.725733Z",
+        "updated_at": "2025-07-24T10:52:37.725776Z",
+        "draft_created_at": "2025-07-24T10:02:03.657095Z",
+        "lead_time": 2775.726,
+        "prediction": {},
+        "result_count": 34,
+        "unique_id": "07bb5230-669f-4291-96ec-e14002b7a874",
+        "import_id": null,
+        "last_action": null,
+        "task": 18740,
+        "project": 63,
+        "updated_by": 10,
+        "parent_prediction": null,
+        "parent_annotation": null,
+        "last_created_by": null
+      }
+    ],
+    "file_upload": "5247151f-performance_metrics_data.csv",
+    "drafts": [
+      {
+        "id": 2308,
+        "user": "sailesh.medijala@nurix.ai",
+        "created_username": "Sailesh Medijala sailesh.medijala@nurix.ai, 2",
+        "created_ago": "2\u00a0days, 2\u00a0hours",
+        "result": [
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 10.565332194186759,
+              "end": 18.415671216357147,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "0C8uO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 10.565332194186759,
+              "end": 18.415671216357147,
+              "channel": 0,
+              "text": [
+                "Hello, this is Priya from Elevate Now. Am I speaking with Rupesh Kovar? I noticed you have been quiet. Are you still there."
+              ]
+            },
+            "id": "0C8uO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 18.99378706783593,
+              "end": 19.379574215859954,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "NOzj-",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 18.99378706783593,
+              "end": 19.379574215859954,
+              "channel": 0,
+              "text": [
+                "Yeah."
+              ]
+            },
+            "id": "NOzj-",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 19.390985444154566,
+              "end": 20.907504820450953,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "biF2Q",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 20.91776586362268,
+              "end": 22.904465060308596,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "d5P-V",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 20.91776586362268,
+              "end": 22.904465060308596,
+              "channel": 0,
+              "text": [
+                "Great, I noticed you'd"
+              ]
+            },
+            "id": "d5P-V",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 20.91776586362268,
+              "end": 22.904465060308596,
+              "channel": 0,
+              "labels": [
+                "User Backchannels Bot Halts"
+              ]
+            },
+            "id": "d5P-V",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 24.16705659475214,
+              "end": 36.397324876582886,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "XI5jA",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 24.16705659475214,
+              "end": 36.397324876582886,
+              "channel": 0,
+              "text": [
+                "Hi. This is Priya from Elevate Now. I saw you were checking out our Nano plan but didn't complete the payment. Was there anything specific that stopped you from starting your weight loss journey?"
+              ]
+            },
+            "id": "XI5jA",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 37.71784462410801,
+              "end": 39.49905163452784,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "Jeb7a",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 37.71784462410801,
+              "end": 39.49905163452784,
+              "channel": 0,
+              "text": [
+                "Yeah, I didn't understood the plan."
+              ]
+            },
+            "id": "Jeb7a",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 39.50116742516743,
+              "end": 41.93753103712098,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "t9da0",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 41.96644205455371,
+              "end": 43.35478252547917,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "PzR96",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 41.96644205455371,
+              "end": 43.35478252547917,
+              "channel": 0,
+              "labels": [
+                "Background Bot Halts"
+              ]
+            },
+            "id": "PzR96",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 41.96644205455371,
+              "end": 43.35478252547917,
+              "channel": 0,
+              "text": [
+                "No worries."
+              ]
+            },
+            "id": "PzR96",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 43.37507111221654,
+              "end": 54.36807511666798,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "uLqzN",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 54.41102685754555,
+              "end": 78.64171090828503,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "-OWMf",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 54.41102685754555,
+              "end": 78.64171090828503,
+              "channel": 0,
+              "text": [
+                "he Nano plan is designed to help you achieve your weight loss goals by understanding the root cause of your obesity. It starts with a blood test, followed by a consultation with an obesity specialized doctor who will explain your results and build a personalized weight loss road map. Then a senior health coach will guide you in making lifestyle choices specific to your condition. Would you like to know more about any specific part of the plan?"
+              ]
+            },
+            "id": "-OWMf",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 82.85569764351501,
+              "end": 87.64344428617562,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "uhq64",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 82.85569764351501,
+              "end": 87.64344428617562,
+              "channel": 0,
+              "text": [
+                "When this consultation one time or it is ongoing consultation?"
+              ]
+            },
+            "id": "uhq64",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 87.66317877751202,
+              "end": 90.10541317604091,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "f70VX",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 90.18219405484172,
+              "end": 109.31783038728392,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "CUU7D",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 90.18219405484172,
+              "end": 109.31783038728392,
+              "channel": 0,
+              "text": [
+                "The Nano plan includes a one-time consultation with a senior obesity specialist doctor. This consultation is focused on understanding your results and creating a personalized weight loss plan. If you want ongoing support, you can consider upgrading to our flagship program after the Nano plan. Would you like to know more about how the plan works?"
+              ]
+            },
+            "id": "CUU7D",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 111.79243888464893,
+              "end": 113.9598571625022,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "FqbQr",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 110.74904074851811,
+              "end": 111.76772733910914,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "wQX8x",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 110.74904074851811,
+              "end": 111.76772733910914,
+              "channel": 0,
+              "text": [
+                "Yes, I do."
+              ]
+            },
+            "id": "wQX8x",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 114.01218209796292,
+              "end": 140.37047249339264,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "avngt",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 114.01218209796292,
+              "end": 140.37047249339264,
+              "channel": 0,
+              "text": [
+                "The Nano plan begins with a comprehensive blood test to identify issues like insulin resistance and hormonal imbalances. The doctor will then provide a detailed explanation of your results and their impact on your health. Finally, a health coach will create a tailored weight loss plan just for you. This approach ensures you're targeting the root causes of weight gain for effective results. Does this sound like something that would help you achieve your weight loss goals?"
+              ]
+            },
+            "id": "avngt",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 143.11998896424157,
+              "end": 146.1103166375631,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "BzISv",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 143.11998896424157,
+              "end": 146.1103166375631,
+              "channel": 0,
+              "text": [
+                "Can you just tell me more about flagship program?"
+              ]
+            },
+            "id": "BzISv",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 146.14113640435133,
+              "end": 147.97103841339882,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "1zOpU",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 147.99460910249266,
+              "end": 176.75572474881497,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "hLx7n",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 147.99460910249266,
+              "end": 176.75572474881497,
+              "channel": 0,
+              "text": [
+                "The plan provides a clinically proven personalized road map to weight loss goals. Once you've completed it, you have the option to upgrade to our flagship program. This offers 3, 6, or 12 month subscription plans which include ongoing support from our senior obesity specialist and health coach. This longer-term program comes with a 100% money back guarantee on weight loss, ensuring you have the support needed to achieve your health goals. Would you like to start with the Nano plan and explore the flagship program later?\n"
+              ]
+            },
+            "id": "hLx7n",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 179.3465417764086,
+              "end": 181.22016706367822,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "N-dpJ",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 179.3465417764086,
+              "end": 181.22016706367822,
+              "channel": 0,
+              "text": [
+                "What is the cost of flagship program?\""
+              ]
+            },
+            "id": "N-dpJ",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 181.24192641603722,
+              "end": 183.81235449609304,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "eh0XF",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 183.85307664762868,
+              "end": 201.56784173285055,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "cKNNY",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 183.85307664762868,
+              "end": 201.56784173285055,
+              "channel": 0,
+              "text": [
+                "The specific pricing details for the flagship program aren't covered in our current conversation, but the Nano plan is a great starting point. Once you complete the Nano plan, you'll receive personalized recommendations and can discuss the best plan tailor to your needs. Would you like to proceed with the Nano plan to get started? "
+              ]
+            },
+            "id": "cKNNY",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 205.7268938870284,
+              "end": 218.8453845168179,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "dIpYq",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 205.7268938870284,
+              "end": 218.8453845168179,
+              "channel": 0,
+              "text": [
+                "Will this blood test my sample blood sample will get collected from my home or do I need to visit some uh store or some, yeah."
+              ]
+            },
+            "id": "dIpYq",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 205.7268938870284,
+              "end": 218.8453845168179,
+              "channel": 0,
+              "labels": [
+                "Bot Interrupts User"
+              ]
+            },
+            "id": "dIpYq",
+            "from_name": "interruption_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 218.86752444761638,
+              "end": 227.80716017870247,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "5jsqs",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 218.86752444761638,
+              "end": 227.80716017870247,
+              "channel": 0,
+              "text": [
+                "With the Nano plan, your blood sample will be collected from your home. There's no need to visit a store or a lab. We ensure it's convenient for you."
+              ]
+            },
+            "id": "5jsqs",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 230.63916394524176,
+              "end": 238.22882423319015,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "xRxj6",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 230.63916394524176,
+              "end": 238.22882423319015,
+              "channel": 0,
+              "text": [
+                "Okay, So, right now I'm driving. I will proceed with the payment in some uh in in some time. Will that be okay?"
+              ]
+            },
+            "id": "xRxj6",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 239.8130971830486,
+              "end": 250.42070947488037,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "btaJH",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 239.8130971830486,
+              "end": 250.42070947488037,
+              "channel": 0,
+              "text": [
+                "Absolutely. you can proceed with the payment whenever it's convenient for you. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day."
+              ]
+            },
+            "id": "btaJH",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 251.48351727974324,
+              "end": 252.69603651244216,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "CzHAz",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 251.48351727974324,
+              "end": 252.69603651244216,
+              "channel": 0,
+              "text": [
+                "Thank you."
+              ]
+            },
+            "id": "CzHAz",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 252.710609107287,
+              "end": 254.39553843064786,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "j1rDI",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 254.4181323343856,
+              "end": 258.1154334869239,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "q14oO",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 254.4181323343856,
+              "end": 258.1154334869239,
+              "channel": 0,
+              "text": [
+                "Your welcome, good bye and take care."
+              ]
+            },
+            "id": "q14oO",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 258.71430701618675,
+              "end": 259.2024308797511,
+              "channel": 0,
+              "labels": [
+                "Customer"
+              ]
+            },
+            "id": "efIQP",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 258.71430701618675,
+              "end": 259.2024308797511,
+              "channel": 0,
+              "text": [
+                "Bye."
+              ]
+            },
+            "id": "efIQP",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 259.2128343881174,
+              "end": 260.6680520379457,
+              "channel": 0,
+              "labels": [
+                "Silence"
+              ]
+            },
+            "id": "aBPal",
+            "from_name": "timing_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 260.7019074580827,
+              "end": 262.90872103694306,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "F4UMc",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 260.7019074580827,
+              "end": 262.90872103694306,
+              "channel": 0,
+              "text": [
+                "Goodbye and have a great day."
+              ]
+            },
+            "id": "F4UMc",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 273.57702490858753,
+              "end": 276.3202981953879,
+              "channel": 0,
+              "labels": [
+                "Agent"
+              ]
+            },
+            "id": "SHXH_",
+            "from_name": "speaker_labels",
+            "to_name": "audio",
+            "type": "labels",
+            "origin": "manual"
+          },
+          {
+            "original_length": 286.6039,
+            "value": {
+              "start": 273.57702490858753,
+              "end": 276.3202981953879,
+              "channel": 0,
+              "text": [
+                "I noticed you've been quiet. Are you still there?"
+              ]
+            },
+            "id": "SHXH_",
+            "from_name": "transcription",
+            "to_name": "audio",
+            "type": "textarea",
+            "origin": "manual"
+          },
+          {
+            "value": {
+              "choices": [
+                "High"
+              ]
+            },
+            "id": "HChKdBqi45",
+            "from_name": "background_noise_choice",
+            "to_name": "audio",
+            "type": "choices",
+            "origin": "manual"
+          }
+        ],
+        "lead_time": 82.35,
+        "was_postponed": false,
+        "import_id": null,
+        "created_at": "2025-07-28T11:03:43.931084Z",
+        "updated_at": "2025-07-28T11:04:38.219993Z",
+        "task": 18740,
+        "annotation": 7996
+      }
+    ],
+    "predictions": [],
+    "data": {
+      "source": "ElevateNow_DM",
+      "audio": "s3://voicex-call-recordings/calls/2025/07/17/268dbd88-173b-41a1-8363-4a6ba62b9aae/call_audio.mp4"
+    },
+    "meta": {},
+    "created_at": "2025-07-24T07:46:23.542577Z",
+    "updated_at": "2025-07-24T10:52:37.784179Z",
+    "inner_id": 3,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 63,
+    "updated_by": 10,
+    "comment_authors": []
+  }
+]
