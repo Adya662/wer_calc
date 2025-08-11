@@ -18,7 +18,7 @@ Each method lives in its own folder and follows the same call data layout:
   - `output/` – per‑call outputs produced by the script
 - One or two Python entry points in the method folder
 - Global output artifacts for the method (aggregates over all calls)
-- A text log capturing terminal output with S/I/D lists and global WER for that method, saved at the repo root: `output_{file_name}.txt`
+- A text log capturing terminal output with S/I/D lists and global WER for that method, saved next to the method scripts (see per‑method outputs below)
 
 ### Methods at a glance
 
@@ -50,16 +50,19 @@ Core logic:
 1. Load `calls/` and, for each call:
    - Extract only bot/agent utterances: `assistant` from `ref_transcript.json`, `Agent` from `gt_transcript.json`.
    - Normalize both strings using the pipeline above (`canonicalize_and_normalize`).
-2. Compute WER using a dynamic‑programming edit distance over normalized tokens:
-   - Substitutions are free if tokens are highly similar by fuzzy ratio or phonetically similar by Soundex/Double‑Metaphone.
+2. Compute WER using a dynamic‑programming edit distance over normalized tokens with phonetic equality:
+   - Fast, deterministic, cached phonetics pipeline:
+     - Double Metaphone (primary+alt) with a tiny Jaro‑Winkler guard on codes
+     - If inconclusive, optional G2P (ARPABET) with phoneme‑level edit‑distance similarity
+   - Tokens that “sound alike” are treated as exact matches (cost 0)
    - Otherwise, standard DP costs: deletion = 1, insertion = 1, substitution = 1.
 3. Collect first N word‑level differences for analysis and print explicit lists of:
    - Substitution pairs: `reference -> hypothesis`
    - Deletion words: “missing in hypothesis”
    - Insertion words: “extra in hypothesis”
-4. Save per‑call mismatches to `calls/<call_id>/output/mismatches.json`.
+4. Save per‑call mismatches to `wer_lib/calls/<call_id>/output/mismatches.json`.
 5. Compute global WER by concatenating all GT utterances as the reference and all REF utterances as the hypothesis:
-   - Stored in `wer_lib/global_wer.json`.
+   - Stored in `wer_lib/output/global_wer.json`.
 
 How to run:
 
@@ -70,11 +73,11 @@ python3 wer_lib.py
 
 Outputs:
 
-- Per call: `calls/<call_id>/output/mismatches.json`
-- Global: `wer_lib/global_wer.json`
-- Terminal log at repo root: `output_wer_lib.py.txt` (contains S/I/D and global WER)
+- Per call: `wer_lib/calls/<call_id>/output/mismatches.json`
+- Global: `wer_lib/output/global_wer.json`
+- Terminal log: `wer_lib/output_lib.txt` (contains S/I/D checkpoints and global WER)
 
-### 2) LLM canonicalization + jiwer WER: `wer+jiwer/wer_gpt.py`, `wer+jiwer/wer_gemini.py`
+### 2) LLM canonicalization + phonetic‑aware DP WER: `wer+jiwer/wer_gpt.py`, `wer+jiwer/wer_gemini.py`
 
 Core logic:
 
@@ -83,16 +86,25 @@ Core logic:
    - OpenAI (`wer_gpt.py`) or Gemini (`wer_gemini.py`) returns a JSON with `canonical_transcript` and `entities`.
    - The canonical transcript is aggressively cleaned of any lingering user artifacts.
 3. Tokenize canonical transcripts with GT as reference and REF as hypothesis.
-4. Compute WER with `jiwer.process_words` on the canonicalized strings.
-5. Generate detailed differences using `Levenshtein.editops`:
-   - Skip “replace” ops that are phonetically identical (Metaphone) to reduce false substitutions.
+4. Compute WER with a phonetic‑aware dynamic program (same pipeline as in library method):
+   - Double Metaphone (+ Jaro‑Winkler on codes); fallback to G2P ARPABET similarity
+   - Sounds‑alike tokens are exact equals (cost 0)
+5. Generate detailed differences from the DP alignment ops and print explicit S/I/D lists
    - Accumulate and print explicit substitutions, insertions, deletions.
-6. Persist artifacts per call in `calls/<call_id>/output/`:
-   - `canon_gt_transcript.json` and `canon_ref_transcript.json`
-   - `wer_mismatches.json` (with `substitution_pairs`, `deletion_words`, `insertion_words`)
-   - `wer+eer.json` (aggregated per‑call stats)
+6. Persist artifacts per call in `wer+jiwer/calls/<call_id>/output/`:
+   - OpenAI path (`wer_gpt.py`):
+     - `canon_ref_transcript_gpt_lib.json`
+     - `canon_gt_transcript_gpt_lib.json`
+     - `wer_mismatches_gpt_lib.json`
+     - `wer+eer_gpt_lib.json`
+   - Gemini path (`wer_gemini.py`):
+     - `canon_ref_transcript_gemini_lib.json`
+     - `canon_gt_transcript_gemini_lib.json`
+     - `wer_mismatches_gemini_lib.json`
+     - `wer+eer_gemini_lib.json`
 7. Compute Global WER on concatenated canonical texts (GT reference vs REF hypothesis):
-   - Stored at `wer+jiwer/calls/global_wer_report.json`.
+   - OpenAI path: `wer+jiwer/global_wer_summary_gpt_lib.csv`, `wer+jiwer/global_wer_report_gpt_lib.json`
+   - Gemini path: `wer+jiwer/wer_summary_gemini_lib.csv`, `wer+jiwer/global_wer_report_gemini_lib.json`
 
 How to run:
 
@@ -111,9 +123,16 @@ Environment variables:
 
 Outputs:
 
-- Per call: `calls/<call_id>/output/*` as described above
-- Global: `wer+jiwer/calls/global_wer_report.json`
-- Terminal logs at repo root: `output_wer_gpt.py.txt`, `output_wer_gemini.py.txt`
+- Per call: `wer+jiwer/calls/<call_id>/output/*` as described above
+- Global (saved in `wer+jiwer/`):
+  - OpenAI: `global_wer_summary_gpt_lib.csv`, `global_wer_report_gpt_lib.json`
+  - Gemini: `wer_summary_gemini_lib.csv`, `global_wer_report_gemini_lib.json`
+- Terminal logs:
+  - OpenAI: `wer+jiwer/output_gpt.txt`
+  - Gemini: `wer+jiwer/output_gemini.txt`
+
+Notes:
+- Transcripts are read directly from each call folder; the scripts no longer copy them into `output/`.
 
 ### 3) LLM‑only conversational WER: `wer+llm/llm_wer_gpt.py`, `wer+llm/llm_wer_gemini.py`
 
@@ -126,7 +145,9 @@ Core logic:
    - Return strict JSON with: counts, `substitution_pairs`, `deletion_words`, `insertion_words`, and a short explanation.
 3. Print the returned S/I/D lists per call and persist aggregate results:
    - Global metrics include average WER, aggregate WER, and concatenated‑text WER (GT reference vs REF hypothesis).
-   - The full report is saved as `wer+llm/conversational_wer_analysis.json`.
+   - Saved files:
+     - OpenAI: `wer+llm/global_wer_gpt_llm.json`
+     - Gemini: `wer+llm/global_wer_gemini_llm.json`
 
 How to run:
 
@@ -148,8 +169,10 @@ Environment variables:
 Outputs:
 
 - Per call: printed S/I/D, with per‑call data included in the final JSON result map
-- Global: `wer+llm/conversational_wer_analysis.json`
-- Terminal logs at repo root: `output_llm_wer_gpt.py.txt`, `output_llm_wer_gemini.py.txt`
+- Global: `wer+llm/global_wer_gpt_llm.json`, `wer+llm/global_wer_gemini_llm.json`
+- Terminal logs:
+  - OpenAI: `wer+llm/output_gpt.txt`
+  - Gemini: `wer+llm/output_gemini.txt`
 
 ## Consistent S/I/D semantics and denominator
 
@@ -167,13 +190,13 @@ Across all methods:
 For each method you will find:
 
 - Per‑call artifacts in `calls/<call_id>/output/`
-- Global summary artifacts in the method folder (e.g., `global_wer.json`, `global_wer_report.json`, or `conversational_wer_analysis.json`)
-- A text file at the repository root capturing the method’s terminal output including per‑call S/I/D and the global WER:
-  - `output_wer_lib.py.txt`
-  - `output_wer_gpt.py.txt`
-  - `output_wer_gemini.py.txt`
-  - `output_llm_wer_gpt.py.txt`
-  - `output_llm_wer_gemini.py.txt`
+- Global summary artifacts in the method folder (see per‑method lists above)
+- A text file next to the method scripts capturing the terminal output including per‑call S/I/D and the global WER:
+  - `wer_lib/output_lib.txt`
+  - `wer+jiwer/output_gpt.txt`
+  - `wer+jiwer/output_gemini.txt`
+  - `wer+llm/output_gpt.txt`
+  - `wer+llm/output_gemini.txt`
 
 ## Dependencies
 
@@ -213,9 +236,9 @@ Fill in after running the methods on the same dataset.
 
 | Script | Method | Global WER | Notes |
 |---|---|---:|---|
-| `wer_lib/wer_lib.py` | Pure library (custom normalization + DP WER with phonetic/fuzzy) |  |  |
-| `wer+jiwer/wer_gpt.py` | LLM canonicalization (OpenAI) + jiwer WER |  |  |
-| `wer+jiwer/wer_gemini.py` | LLM canonicalization (Gemini) + jiwer WER |  |  |
-| `wer+llm/llm_wer_gpt.py` | LLM‑only conversational WER (OpenAI) |  |  |
-| `wer+llm/llm_wer_gemini.py` | LLM‑only conversational WER (Gemini) |  |  |
+| `wer_lib/wer_lib.py` | Pure library (custom normalization + DP WER with phonetic/fuzzy) | 23.06% | DP treats sounds‑alike as equal (cost 0); 421 utterances processed |
+| `wer+jiwer/wer_gpt.py` | LLM canonicalization (OpenAI) + jiwer WER | 11.73% | Global WER on concatenated bot text; phonetic‑aware alignment |
+| `wer+jiwer/wer_gemini.py` | LLM canonicalization (Gemini) + jiwer WER | 24.51% | Global WER on concatenated bot text; phonetic‑aware alignment |
+| `wer+llm/llm_wer_gpt.py` | LLM‑only conversational WER (OpenAI) | 10.85% | Global conversational WER (concatenated); JSON parsing hardened |
+| `wer+llm/llm_wer_gemini.py` | LLM‑only conversational WER (Gemini) | 11.43% | Global conversational WER (concatenated); JSON response enforced |
 
