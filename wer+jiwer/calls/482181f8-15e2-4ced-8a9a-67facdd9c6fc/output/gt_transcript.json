@@ -1,0 +1,137 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.448618",
+    "speaker": "Customer",
+    "content": "Uh english."
+  },
+  {
+    "timestamp": "0:00:08.714618",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:11.395715",
+    "speaker": "Customer",
+    "content": "Wanted to inquire about an H&M shirt which I ordered, wanted to know when will it come."
+  },
+  {
+    "timestamp": "0:00:19.872620",
+    "speaker": "Agent",
+    "content": "Got it. Let me check the status of your order. Could you confirm the product name or brand name for me?"
+  },
+  {
+    "timestamp": "0:00:26.029687",
+    "speaker": "Customer",
+    "content": "It's an H&M shirt."
+  },
+  {
+    "timestamp": "0:00:29.635711",
+    "speaker": "Agent",
+    "content": "Let me check on that for you. I'll look up the product details for delivery. Please give me a moment to fetch your products. All right, I see an item matching your description. Is it the H&M regular fit round neck t-shirt?"
+  },
+  {
+    "timestamp": "0:00:44.427435",
+    "speaker": "Customer",
+    "content": "Right."
+  },
+  {
+    "timestamp": "0:00:47.654111",
+    "speaker": "Agent",
+    "content": "Your H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:00:58.948488",
+    "speaker": "Customer",
+    "content": "Yes, I wanted to inquire about another order of mine. It seems like that I received the wrong product."
+  },
+  {
+    "timestamp": "0:01:07.847270",
+    "speaker": "Agent",
+    "content": "I'm sorry to hear about this issue. Let's look into it together. Could you please tell me the product name or brand name of the order you're referring to?"
+  },
+  {
+    "timestamp": "0:01:16.067440",
+    "speaker": "Customer",
+    "content": "It was a Mango shirt."
+  },
+  {
+    "timestamp": "0:01:21.694045",
+    "speaker": "Agent",
+    "content": "Let me check your order details for the Mango shirt. Please hold on for a moment. Please give me a moment to fetch your products. I found a Mango item in your order list. Is it the Mango plunge neck ruched top with asymmetric hem?\""
+  },
+  {
+    "timestamp": "0:01:36.840518",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:01:39.575864",
+    "speaker": "Agent",
+    "content": "I'm able to see your refund is processed. Do you need any further assistance regarding this order?"
+  },
+  {
+    "timestamp": "0:01:47.270498",
+    "speaker": "Customer",
+    "content": "No, I wanted to inquire about another order of mine."
+  },
+  {
+    "timestamp": "0:01:53.021646",
+    "speaker": "Agent",
+    "content": "Got it. I can assist you with your orders one by one. Could you tell me the product name or brand name for the next order you'd like to check?"
+  },
+  {
+    "timestamp": "0:02:00.552467",
+    "speaker": "Customer",
+    "content": "The brand is called all about you. I got an ethnic top from there."
+  },
+  {
+    "timestamp": "0:02:06.851154",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:02:11.026227",
+    "speaker": "Agent",
+    "content": "I'm sorry, I couldn't find an item matching all about you ethnic top in your return list. Could you confirm if this was a return query or if you'd like me to check your delivery orders instead?"
+  },
+  {
+    "timestamp": "0:02:22.098338",
+    "speaker": "Customer",
+    "content": "Delivery orders, please."
+  },
+  {
+    "timestamp": "0:02:25.268377",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products. I found an item matching your description. Is it the all about you ethnic printed full puff sleeves casual short?"
+  },
+  {
+    "timestamp": "0:02:35.973715",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:02:38.944669",
+    "speaker": "Agent",
+    "content": "I can see that your order all about you ethnic printed full puff sleeves casual shirt has already been delivered. Do you need any further assistance regarding this order?"
+  },
+  {
+    "timestamp": "0:02:47.552944",
+    "speaker": "Customer",
+    "content": "Seems like I got a wrong product this time."
+  },
+  {
+    "timestamp": "0:02:52.267741",
+    "speaker": "Agent",
+    "content": "I'm sorry to hear about this issue. Do you want me to connect you to another agent who can assist you in resolving the matter?"
+  },
+  {
+    "timestamp": "0:02:58.838873",
+    "speaker": "Customer",
+    "content": "Yes, please."
+  }
+]

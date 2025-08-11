@@ -1,0 +1,347 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Hey, I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:06.536692",
+    "speaker": "Customer",
+    "content": "I think English is okay."
+  },
+  {
+    "timestamp": "0:00:10.069913",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:13.343898",
+    "speaker": "Customer",
+    "content": "I just wanted to know the status of my order. I ordered one, I returned one product from story or something. It's story correct, there is a brand."
+  },
+  {
+    "timestamp": "0:00:25.582689",
+    "speaker": "Agent",
+    "content": "I apologize, but I'm here to assist you with your Myntra orders and returns. How can I help you with those today?"
+  },
+  {
+    "timestamp": "0:00:32.671131",
+    "speaker": "Customer",
+    "content": "No, no, it is with Myntra only. I return one product."
+  },
+  {
+    "timestamp": "0:00:37.440910",
+    "speaker": "Agent",
+    "content": "Could you please tell me the product name or brand name that you returned so I can check the status for you?\""
+  },
+  {
+    "timestamp": "0:00:44.559028",
+    "speaker": "Customer",
+    "content": "Slightly difficult to pronounce it is something called story. I think it's a shirt."
+  },
+  {
+    "timestamp": "0:00:54.744159",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products. Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story"
+  },
+  {
+    "timestamp": "0:01:09.882934",
+    "speaker": "Agent",
+    "content": "Great"
+  },
+  {
+    "timestamp": "0:01:13.104461",
+    "speaker": "Agent",
+    "content": "Is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:16.900424",
+    "speaker": "Customer",
+    "content": "No, but you didn't tell me the status of the product."
+  },
+  {
+    "timestamp": "0:01:23.530517",
+    "speaker": "Agent",
+    "content": "our story plus size reflective detail t-shirt is expected to be picked up by 7 July subject to quality check. Please tell me is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:33.974543",
+    "speaker": "Customer",
+    "content": "\"Uh yeah, I have one more product which is I think out for delivery today. Can you tell me the status like can you share the delivery agent number for that?"
+  },
+  {
+    "timestamp": "0:01:43.864292",
+    "speaker": "Agent",
+    "content": "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?"
+  },
+  {
+    "timestamp": "0:01:49.414549",
+    "speaker": "Customer",
+    "content": "I don't remember. The status is out for delivery. It is I think let's just open order for me. You can check last five orders for it."
+  },
+  {
+    "timestamp": "0:01:58.948881",
+    "speaker": "Agent",
+    "content": "I see a few recent orders. Are you referring to the Puma women royal cat comfort soft ride sliders?"
+  },
+  {
+    "timestamp": "0:02:06.053807",
+    "speaker": "Customer",
+    "content": "No, no, not this one. It is already delivered, no? There is one more which is out for delivery."
+  },
+  {
+    "timestamp": "0:02:12.739521",
+    "speaker": "Agent",
+    "content": "I understand. Could you check if it might be the Agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery?"
+  },
+  {
+    "timestamp": "0:02:21.854944",
+    "speaker": "Customer",
+    "content": "Yeah, correct. I think I think that's one, yeah. And there was one more along with it."
+  },
+  {
+    "timestamp": "0:02:28.446871",
+    "speaker": "Agent",
+    "content": "Your Agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:38.221301",
+    "speaker": "Customer",
+    "content": "No, no, there was one more product along with it I ordered. Which is also out for delivery."
+  },
+  {
+    "timestamp": "0:02:44.873281",
+    "speaker": "Agent",
+    "content": "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the I style can top?"
+  },
+  {
+    "timestamp": "0:02:55.747026",
+    "speaker": "Customer",
+    "content": "Correct, yeah, that's one, that's the one, yeah."
+  },
+  {
+    "timestamp": "0:03:00.569142",
+    "speaker": "Agent",
+    "content": "Your Istyle can top is out for"
+  },
+  {
+    "timestamp": "0:03:04.736859",
+    "speaker": "Agent",
+    "content": "Your Istyle can top is out for delivery today. The delivery attempt started at 10:44 a.m. You can expect it by end of day."
+  },
+  {
+    "timestamp": "0:03:13.712293",
+    "speaker": "Customer",
+    "content": "हिंदी में बताओगे?"
+  },
+  {
+    "timestamp": "0:03:16.992872",
+    "speaker": "Agent",
+    "content": "ज़रूर, मैं हिंदी में बता सकती हूँ। आपका आई स्टाइल कैन टॉप आज डिलीवरी के लिए बाहर है।"
+  },
+  {
+    "timestamp": "0:03:35.989273",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:03:38.668065",
+    "speaker": "Customer",
+    "content": "Hi there, how can I"
+  },
+  {
+    "timestamp": "0:03:41.487401",
+    "speaker": "Agent",
+    "content": "Hi there. How can I continue to help you with your order?"
+  },
+  {
+    "timestamp": "0:03:51.811046",
+    "speaker": "Customer",
+    "content": "I think you explaining me one order status already, right?"
+  },
+  {
+    "timestamp": "0:03:56.743483",
+    "speaker": "Agent",
+    "content": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know."
+  },
+  {
+    "timestamp": "0:04:18.715972",
+    "speaker": "Agent",
+    "content": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to"
+  },
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Hey, I am Rey from Myntra here to assist you. Shall we proceed further in Hindi or English?\""
+  },
+  {
+    "timestamp": "0:00:06.505598",
+    "speaker": "Customer",
+    "content": "I think English is okay."
+  },
+  {
+    "timestamp": "0:00:10.033342",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?\""
+  },
+  {
+    "timestamp": "0:00:13.449113",
+    "speaker": "Customer",
+    "content": "I just wanted to know the status of my order. I ordered one, I returned one product from story or something. It's Story correct, there is a brand."
+  },
+  {
+    "timestamp": "0:00:25.595238",
+    "speaker": "Agent",
+    "content": "I apologize, but I'm here to assist you with your Myntra orders and returns. How can I help you with those today?"
+  },
+  {
+    "timestamp": "0:00:32.664136",
+    "speaker": "Customer",
+    "content": "No, no, it is with Myntra only. I return one product."
+  },
+  {
+    "timestamp": "0:00:37.352130",
+    "speaker": "Agent",
+    "content": "Got it. Could you please tell me the product name or brand name that you returned so I can check the status for you?"
+  },
+  {
+    "timestamp": "0:00:44.529010",
+    "speaker": "Customer",
+    "content": "Slightly difficult to pronounce it is something called story, I think it's it's a shirt."
+  },
+  {
+    "timestamp": "0:00:54.870740",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products. Please give me a moment to fetch your products. I found a product that matches your description. Are you referring to the story plus size reflective detail t-shirt? It sounds like you're referring to the story\""
+  },
+  {
+    "timestamp": "0:01:09.942820",
+    "speaker": "Agent",
+    "content": "Great."
+  },
+  {
+    "timestamp": "0:01:13.105563",
+    "speaker": "Agent",
+    "content": "Is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:16.972446",
+    "speaker": "Customer",
+    "content": "No, but you didn't tell me the status of the product."
+  },
+  {
+    "timestamp": "0:01:23.528788",
+    "speaker": "Agent",
+    "content": "our story plus size reflective detail t-shirt is expected to be picked up by 7 July subject to quality check. Please tell me is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:01:34.094209",
+    "speaker": "Customer",
+    "content": "Uh yeah, I have one more product which is I think out for delivery today. Can you tell me the status like can you share the delivery agent number for that?"
+  },
+  {
+    "timestamp": "0:01:43.851366",
+    "speaker": "Agent",
+    "content": "Could you please tell me the product name or brand name of the item you're referring to that is out for delivery?"
+  },
+  {
+    "timestamp": "0:01:49.367193",
+    "speaker": "Customer",
+    "content": "I don't remember. The status is out for delivery. It is I think let's just open order for me. You can check last five orders for it."
+  },
+  {
+    "timestamp": "0:01:58.939066",
+    "speaker": "Agent",
+    "content": "I see a few recent orders. Are you referring to the Puma women royal cat comfort soft ride sliders?"
+  },
+  {
+    "timestamp": "0:02:06.022299",
+    "speaker": "Customer",
+    "content": "No, no, not this one. It is already delivered, no? There is one more which is out for delivery."
+  },
+  {
+    "timestamp": "0:02:12.787012",
+    "speaker": "Agent",
+    "content": "I understand. Could you check if it might be the Agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery?"
+  },
+  {
+    "timestamp": "0:02:21.826418",
+    "speaker": "Customer",
+    "content": "Yeah, correct. I think I think that's one, yeah. And there was one more along with it."
+  },
+  {
+    "timestamp": "0:02:28.417713",
+    "speaker": "Agent",
+    "content": "Your Agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:38.336422",
+    "speaker": "Customer",
+    "content": "No, no, there was one more product along with it I ordered, which is also out for delivery."
+  },
+  {
+    "timestamp": "0:02:44.866379",
+    "speaker": "Agent",
+    "content": "I can definitely help with all of your items. Let's handle them one by one to make sure we don't miss any details. Could you please confirm if the other product might be the I style can top?"
+  },
+  {
+    "timestamp": "0:02:55.700887",
+    "speaker": "Customer",
+    "content": "Correct, yeah, that's one, that's the one, yeah."
+  },
+  {
+    "timestamp": "0:03:00.565532",
+    "speaker": "Agent",
+    "content": "Your Istyle can top is out for"
+  },
+  {
+    "timestamp": "0:03:04.720358",
+    "speaker": "Agent",
+    "content": "Your Istyle can top is out for delivery today. The delivery attempt started at 10:44 a.m. You can expect it by end of day. Please tell me"
+  },
+  {
+    "timestamp": "0:03:13.721074",
+    "speaker": "Customer",
+    "content": "हिंदी में बताओगे?"
+  },
+  {
+    "timestamp": "0:03:16.999883",
+    "speaker": "Agent",
+    "content": "ज़रूर, मैं हिंदी में बता सकती हूँ। आपका आई स्टाइल कैन टॉप आज डिलीवरी के लिए बाहर है। डिलीवरी का प्रयास सुबह 10:44 minute पर शुरू हुआ। इसे आज के अंत तक आप तक"
+  },
+  {
+    "timestamp": "0:03:35.974591",
+    "speaker": "Customer",
+    "content": "Hello."
+  },
+  {
+    "timestamp": "0:03:38.614097",
+    "speaker": "Agent",
+    "content": "Hi there, how can I"
+  },
+  {
+    "timestamp": "0:03:41.526886",
+    "speaker": "Agent",
+    "content": "Hi there. How can I continue to help you with your order?"
+  },
+  {
+    "timestamp": "0:03:51.872156",
+    "speaker": "Customer",
+    "content": "I think you explaining me one order status already, right?"
+  },
+  {
+    "timestamp": "0:03:54.500914",
+    "speaker": "Unknown",
+    "content": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know.\"\n      },"
+  },
+  {
+    "timestamp": "0:03:56.682475",
+    "speaker": "Agent",
+    "content": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top and your Istyle can top. If there's anything more you'd like to know, please let me know."
+  },
+  {
+    "timestamp": "0:04:18.633311",
+    "speaker": "Agent",
+    "content": "Yes, I shared the status for your Agnia women floral print mandarin collar, flared sleeve shirt style top, and your Istyle can top. If there's anything more you'd like to"
+  }
+]

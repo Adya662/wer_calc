@@ -1,113 +1,123 @@
 {
-  "canonical_transcript": "hello this is priya from elevate now am i speaking with minal jani i noticed youve been quiet are you still there great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are the nano plan includes a blood test a consultation with an obesity specialist doctor and a session with a senior health coach these offerings are designed to uncover the root causes of weight gain and create a personalized weight loss road map would you like me to explain how these can help you achieve your weight loss goals absolutely the nano plan is designed to fit into your lifestyle it focuses on understanding the root causes of weight gain and provides personalized guidance that doesnt solely rely on exercise our health coach will help you make lifestyle choices that align with your schedule and needs would you like to know more about how this plan can work for you the nano plan starts with a blood test to identify key issues like insulin resistance or hormonal imbalances then an obesity specialist doctor will explain your results and a senior health coach will create a personalized weight loss plan tailored to your needs this personalized approach helps you achieve sustainable weight loss without having to rely heavily on exercise now would you like to hear about the pricing and how its more affordable compared to other options the nano plan costs rupees 1799 which includes the blood test doctor consultation and health court session this is a 1 time payment offering you access to premium services at a fraction of the market cost its designed to be affordable and provides great value compared to other programs does this sound like a plan that would meet your needs sure he nano plan costs rs 1799 now that now that we have cover now that weve covered all the details what do you think about the nano plan i believe it can be really helpful for you to achieve your weight loss goals great to proceed you can choose between 2 payment options a partial payment of 499 rupees now with the remaining amount at the time of blood sample collection or a full payment of 1799 rupees up front ill send you the payment links on whatsapp do you have any more questions main samajhti hun ki aap kuchh aur jankari chahti hain nano plan ek comprehensive approach hai jo aapke metabolic i understand your concern the nano plan is designed to address weight loss comprehensively by identifying the root causes and providing personalized guidance would you like to discuss any specific aspect youre unsure about or do you need further clarification i noticed youve been quiet are you still there",
+  "canonical_transcript": "hello this is priya from elevate now am i speaking with minal jani i noticed youve been quiet are you still there great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are the nano plan includes a blood test a consultation with an obesity specialist doctor and a session with a senior health coach these offerings are designed to uncover the root causes of weight gain and create a personalized weight loss road map would you like me to explain how these can help you achieve your weight loss goals absolutely the nano plan is designed to fit into your lifestyle it focuses on understanding the root causes of weight gain and provides personalized guidance that doesnt solely rely on exercise our health coach will help you make lifestyle choices that align with your schedule and needs would you like to know more about how this plan can work for you the nano plan starts with a blood test to identify key issues like insulin resistance or hormonal imbalances then an obesity specialist doctor will explain your results and a senior health coach will create a personalized weight loss plan tailored to your needs this personalized approach helps you achieve sustainable weight loss without having to rely heavily on exercise now would you like to hear about the pricing and how its more affordable compared to other options the nano plan costs rupees 1799 which includes the blood test doctor consultation and health court session this is a onetime payment offering you access to premium services at a fraction of the market cost its designed to be affordable and provides great value compared to other programs does this sound like a plan that would meet your needs sure he nano plan costs rs 1799 now that now that we have cover now that weve covered all the details what do you think about the nano plan i believe it can be really helpful for you to achieve your weight loss goals great to proceed you can choose between two payment options a partial payment of 499 rupees now with the remaining amount at the time of blood sample collection or a full payment of 1799 rupees up front ill send you the payment links on whatsapp do you have any more questions main samajhti hoon ki aap kuch aur jaankari chahti hain nano plan ek comprehensive approach hai jo aapke metabolic i understand your concern the nano plan is designed to address weight loss comprehensively by identifying the root causes and providing personalized guidance would you like to discuss any specific aspect youre unsure about or do you need further clarification i noticed youve been quiet are you still there",
   "entities": [
     {
-      "index": 7,
+      "index": 5,
       "value": "priya",
       "type": "PERSON"
     },
     {
-      "index": 10,
+      "index": 7,
       "value": "elevate now",
       "type": "ORGANIZATION"
     },
     {
-      "index": 16,
+      "index": 14,
       "value": "minal jani",
       "type": "PERSON"
     },
     {
-      "index": 33,
+      "index": 30,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
       "index": 84,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 90,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 119,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 152,
+      "index": 159,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 186,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 240,
+      "index": 199,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 202,
+      "value": "hormonal imbalances",
+      "type": "OTHER"
+    },
+    {
+      "index": 206,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 212,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 244,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 302,
-      "value": "1799",
+      "index": 246,
+      "value": "rupees 1799",
       "type": "MONEY"
     },
     {
-      "index": 303,
-      "value": "rupees",
-      "type": "MONEY"
-    },
-    {
-      "index": 328,
-      "value": "1",
-      "type": "DATE/TIME"
-    },
-    {
-      "index": 358,
+      "index": 273,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 365,
-      "value": "1799",
+      "index": 275,
+      "value": "rs 1799",
       "type": "MONEY"
     },
     {
-      "index": 367,
-      "value": "rs",
-      "type": "MONEY"
-    },
-    {
-      "index": 393,
+      "index": 297,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 428,
-      "value": "2",
-      "type": "DATE/TIME"
-    },
-    {
-      "index": 440,
-      "value": "499",
+      "index": 331,
+      "value": "499 rupees",
       "type": "MONEY"
     },
     {
-      "index": 441,
-      "value": "rupees",
+      "index": 341,
+      "value": "1799 rupees",
       "type": "MONEY"
     },
     {
-      "index": 465,
-      "value": "1799",
-      "type": "MONEY"
-    },
-    {
-      "index": 466,
-      "value": "rupees",
-      "type": "MONEY"
-    },
-    {
-      "index": 478,
+      "index": 345,
       "value": "whatsapp",
       "type": "PRODUCT"
     },
     {
-      "index": 490,
+      "index": 359,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 520,
+      "index": 382,
       "value": "nano plan",
       "type": "PRODUCT"
     }

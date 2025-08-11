@@ -9,170 +9,140 @@
     {
       "index": 7,
       "value": "elevate now",
-      "type": "ORG"
+      "type": "ORGANIZATION"
     },
     {
-      "index": 14,
+      "index": 15,
       "value": "nupur",
       "type": "PERSON"
     },
     {
-      "index": 30,
+      "index": 32,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 68,
-      "value": "bmi",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 70,
-      "value": "2681",
+      "index": 78,
+      "value": "bmi of 2681",
       "type": "OTHER"
     },
     {
-      "index": 102,
+      "index": 120,
       "value": "iron",
-      "type": "PRODUCT"
+      "type": "OTHER"
     },
     {
-      "index": 105,
+      "index": 124,
       "value": "vitamin d",
-      "type": "PRODUCT"
+      "type": "OTHER"
     },
     {
-      "index": 134,
-      "value": "weight loss",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 147,
+      "index": 176,
       "value": "weight loss programs",
       "type": "PRODUCT"
     },
     {
-      "index": 157,
+      "index": 186,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 163,
+      "index": 194,
       "value": "blood test",
       "type": "PRODUCT"
     },
     {
-      "index": 166,
+      "index": 196,
       "value": "doctor consultation",
       "type": "PRODUCT"
     },
     {
-      "index": 171,
+      "index": 202,
       "value": "senior health coach",
       "type": "PERSON"
     },
     {
-      "index": 191,
-      "value": "weight loss goals",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 195,
+      "index": 221,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 201,
+      "index": 229,
       "value": "blood test",
       "type": "PRODUCT"
     },
     {
-      "index": 213,
+      "index": 244,
       "value": "insulin resistance",
       "type": "OTHER"
     },
     {
-      "index": 216,
+      "index": 248,
       "value": "hormonal imbalances",
       "type": "OTHER"
     },
     {
-      "index": 227,
+      "index": 265,
       "value": "obesity specialist doctor",
       "type": "PERSON"
     },
     {
-      "index": 242,
+      "index": 278,
       "value": "senior health coach",
       "type": "PERSON"
     },
     {
-      "index": 252,
-      "value": "weight loss plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 271,
+      "index": 297,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 276,
+      "index": 305,
       "value": "rs 1799",
       "type": "MONEY"
     },
     {
-      "index": 280,
+      "index": 311,
       "value": "blood test",
       "type": "PRODUCT"
     },
     {
-      "index": 282,
+      "index": 313,
       "value": "metabolic report",
       "type": "PRODUCT"
     },
     {
-      "index": 285,
+      "index": 317,
       "value": "doctor consultation",
       "type": "PRODUCT"
     },
     {
-      "index": 297,
+      "index": 334,
       "value": "rs 6000",
       "type": "MONEY"
     },
     {
-      "index": 302,
-      "value": "weight loss management",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 318,
+      "index": 354,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 344,
+      "index": 391,
       "value": "blood test",
       "type": "PRODUCT"
     },
     {
-      "index": 358,
+      "index": 405,
       "value": "blood test",
       "type": "PRODUCT"
     },
     {
-      "index": 372,
+      "index": 421,
       "value": "senior obesity specialist doctor",
       "type": "PERSON"
     },
     {
-      "index": 405,
-      "value": "agent",
-      "type": "PERSON"
-    },
-    {
-      "index": 421,
+      "index": 457,
       "value": "agent",
       "type": "PERSON"
     }

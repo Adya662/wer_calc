@@ -1,0 +1,352 @@
+{
+  "wer": 0.19767441860465115,
+  "insertions": 30,
+  "deletions": 0,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "",
+      "hyp_word": "mintra",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to assist you shall"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 6,
+      "ref_word": "",
+      "hyp_word": "here",
+      "ref_context": "",
+      "hyp_context": "i am ray from mintra here to assist you shall we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 7,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "am ray from mintra here to assist you shall we proceed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "assist",
+      "ref_context": "",
+      "hyp_context": "ray from mintra here to assist you shall we proceed further"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "from mintra here to assist you shall we proceed further in"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 10,
+      "ref_word": "",
+      "hyp_word": "shall",
+      "ref_context": "",
+      "hyp_context": "mintra here to assist you shall we proceed further in hindi"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 11,
+      "ref_word": "",
+      "hyp_word": "we",
+      "ref_context": "",
+      "hyp_context": "here to assist you shall we proceed further in hindi or"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 12,
+      "ref_word": "",
+      "hyp_word": "proceed",
+      "ref_context": "",
+      "hyp_context": "to assist you shall we proceed further in hindi or english"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 13,
+      "ref_word": "",
+      "hyp_word": "further",
+      "ref_context": "",
+      "hyp_context": "assist you shall we proceed further in hindi or english thik"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 14,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "you shall we proceed further in hindi or english thik hai"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 15,
+      "ref_word": "",
+      "hyp_word": "hindi",
+      "ref_context": "",
+      "hyp_context": "shall we proceed further in hindi or english thik hai main"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 16,
+      "ref_word": "",
+      "hyp_word": "or",
+      "ref_context": "",
+      "hyp_context": "we proceed further in hindi or english thik hai main aapki"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 17,
+      "ref_word": "",
+      "hyp_word": "english",
+      "ref_context": "",
+      "hyp_context": "proceed further in hindi or english thik hai main aapki kaise"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 100,
+      "index_hyp": 113,
+      "ref_word": "",
+      "hyp_word": "hun",
+      "ref_context": "",
+      "hyp_context": "main aapki madad kar sakti hun thik thoda intezar kijiye main"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 100,
+      "index_hyp": 114,
+      "ref_word": "",
+      "hyp_word": "thik",
+      "ref_context": "",
+      "hyp_context": "aapki madad kar sakti hun thik thoda intezar kijiye main aapke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 124,
+      "ref_word": "",
+      "hyp_word": "thoda",
+      "ref_context": "",
+      "hyp_context": "aapke products la rahi hun thoda intezar kijiye main aapke products"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 125,
+      "ref_word": "",
+      "hyp_word": "intezar",
+      "ref_context": "",
+      "hyp_context": "products la rahi hun thoda intezar kijiye main aapke products la"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 126,
+      "ref_word": "",
+      "hyp_word": "kijiye",
+      "ref_context": "",
+      "hyp_context": "la rahi hun thoda intezar kijiye main aapke products la rahi"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 127,
+      "ref_word": "",
+      "hyp_word": "main",
+      "ref_context": "",
+      "hyp_context": "rahi hun thoda intezar kijiye main aapke products la rahi hun"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 128,
+      "ref_word": "",
+      "hyp_word": "aapke",
+      "ref_context": "",
+      "hyp_context": "hun thoda intezar kijiye main aapke products la rahi hun kya"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 129,
+      "ref_word": "",
+      "hyp_word": "products",
+      "ref_context": "",
+      "hyp_context": "thoda intezar kijiye main aapke products la rahi hun kya aap"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 130,
+      "ref_word": "",
+      "hyp_word": "la",
+      "ref_context": "",
+      "hyp_context": "intezar kijiye main aapke products la rahi hun kya aap a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 131,
+      "ref_word": "",
+      "hyp_word": "rahi",
+      "ref_context": "",
+      "hyp_context": "kijiye main aapke products la rahi hun kya aap a t"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 109,
+      "index_hyp": 132,
+      "ref_word": "",
+      "hyp_word": "hun",
+      "ref_context": "",
+      "hyp_context": "main aapke products la rahi hun kya aap a t u"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 111,
+      "index_hyp": 135,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "la rahi hun kya aap a t u n brand ke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 111,
+      "index_hyp": 136,
+      "ref_word": "",
+      "hyp_word": "t",
+      "ref_context": "",
+      "hyp_context": "rahi hun kya aap a t u n brand ke black"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 111,
+      "index_hyp": 137,
+      "ref_word": "",
+      "hyp_word": "u",
+      "ref_context": "",
+      "hyp_context": "hun kya aap a t u n brand ke black net"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 111,
+      "index_hyp": 138,
+      "ref_word": "atun",
+      "hyp_word": "n",
+      "ref_context": "la rahi hun kya aap atun brand ke black net dress",
+      "hyp_context": "kya aap a t u n brand ke black net dress"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 124,
+      "index_hyp": 151,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "mein puch rahe hain aapka a t u n black net"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 124,
+      "index_hyp": 152,
+      "ref_word": "",
+      "hyp_word": "t",
+      "ref_context": "",
+      "hyp_context": "puch rahe hain aapka a t u n black net dress"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 124,
+      "index_hyp": 153,
+      "ref_word": "",
+      "hyp_word": "u",
+      "ref_context": "",
+      "hyp_context": "rahe hain aapka a t u n black net dress 8"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 124,
+      "index_hyp": 154,
+      "ref_word": "atun",
+      "hyp_word": "n",
+      "ref_context": "mein puch rahe hain aapka atun black net dress 8 july",
+      "hyp_context": "hain aapka a t u n black net dress 8 july"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 153,
+      "index_hyp": 183,
+      "ref_word": "anya",
+      "hyp_word": "any",
+      "ref_context": "sakti hun kya aap kisi anya agent se baat karna chahte",
+      "hyp_context": "sakti hun kya aap kisi any agent se baat karna chahte"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "atun",
+      "hypothesis": "n"
+    },
+    {
+      "reference": "atun",
+      "hypothesis": "n"
+    },
+    {
+      "reference": "anya",
+      "hypothesis": "any"
+    }
+  ],
+  "deletion_words": [],
+  "insertion_words": [
+    "mintra",
+    "here",
+    "to",
+    "assist",
+    "you",
+    "shall",
+    "we",
+    "proceed",
+    "further",
+    "in",
+    "hindi",
+    "or",
+    "english",
+    "hun",
+    "thik",
+    "thoda",
+    "intezar",
+    "kijiye",
+    "main",
+    "aapke",
+    "products",
+    "la",
+    "rahi",
+    "hun",
+    "a",
+    "t",
+    "u",
+    "a",
+    "t",
+    "u"
+  ]
+}

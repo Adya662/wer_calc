@@ -2,86 +2,86 @@
   "call_id": "c5f1aee1-8170-4c1b-93e0-1f8366882689",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "Hey, I'm Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "reference_sentence": "Hey, I'm Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
         [
-          "I am",
-          "I'm"
+          "I'm",
+          "I am"
         ],
         [
-          "[missing]",
-          "Myntra,"
+          "Myntra,",
+          "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Your \u0915\u094d\u0930\u0949\u0915\u094d\u0938 Unisex Navy Blue Bayaband Clogs will be delivered on or before 12 July.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Your Crocs Unisex Navy Blue Bayaband Clogs will be delivered on or before 12th July. Please tell me, is there anything else I can help you with?",
+      "reference_sentence": "Your Crocs Unisex Navy Blue Bayaband Clogs will be delivered on or before 12th July. Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your \u0915\u094d\u0930\u0949\u0915\u094d\u0938 Unisex Navy Blue Bayaband Clogs will be delivered on or before 12 July.\nPlease tell me, is there anything else I can help you with?",
       "word_differences": [
         [
-          "[missing]",
-          "Crocs"
+          "Crocs",
+          "[missing]"
         ],
         [
-          "before",
-          "12th"
+          "12th",
+          "before"
         ]
       ]
     },
     {
-      "reference_sentence": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app by going to the 'Orders' section and selecting the order you wish to cancel. If you need further assistance, feel free to ask!",
-      "hypothesis_sentence": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the Myntra app by going to the orders section and selecting the order you wish to cancel. If you need further assistance, feel free to ask.",
+      "reference_sentence": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the Myntra app by going to the orders section and selecting the order you wish to cancel. If you need further assistance, feel free to ask.",
+      "hypothesis_sentence": "I'm really sorry, but I'm unable to assist with cancellation requests directly. You can cancel your order through the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app by going to the 'Orders' section and selecting the order you wish to cancel. If you need further assistance, feel free to ask!",
       "word_differences": [
         [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Yes, you can cancel individual items within an order through the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. Just go to the 'Orders' section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know!",
-      "hypothesis_sentence": "Yes, you can cancel individual items within an order through the Myntra app. Just go to the order section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know.",
+      "reference_sentence": "Yes, you can cancel individual items within an order through the Myntra app. Just go to the order section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know.",
+      "hypothesis_sentence": "Yes, you can cancel individual items within an order through the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. Just go to the 'Orders' section, select the specific item you wish to cancel, and follow the cancellation process. If you need help with anything else, let me know!",
       "word_differences": [
         [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ],
         [
-          "the",
-          "order"
+          "order",
+          "the"
         ]
       ]
     },
     {
-      "reference_sentence": "I'm sorry, but I'm unable to share delivery address details. You can check the delivery address in the 'Orders' section of the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. If there's anything else you need help with,",
-      "hypothesis_sentence": "I'm sorry, but I'm unable to share delivery address details. You can check the delivery address in the order section of the Myntra app. If there's anything else, you need help with.",
+      "reference_sentence": "I'm sorry, but I'm unable to share delivery address details. You can check the delivery address in the order section of the Myntra app. If there's anything else, you need help with.",
+      "hypothesis_sentence": "I'm sorry, but I'm unable to share delivery address details. You can check the delivery address in the 'Orders' section of the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. If there's anything else you need help with,",
       "word_differences": [
         [
-          "'Orders'",
-          "order"
+          "order",
+          "'Orders'"
         ],
         [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "To initiate a return on the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app, open the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app and go to the 'Orders' section. Then select the item you want to return, tap on 'Return', choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know!",
-      "hypothesis_sentence": "To initiate a return on the Myntra app, open the Myntra app and go to the order section, then select the item you want to return, tap on return, choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know.",
+      "reference_sentence": "To initiate a return on the Myntra app, open the Myntra app and go to the order section, then select the item you want to return, tap on return, choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know.",
+      "hypothesis_sentence": "To initiate a return on the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app, open the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app and go to the 'Orders' section. Then select the item you want to return, tap on 'Return', choose a reason for return, provide any required details, and finally submit the return request. If you need any more help, just let me know!",
       "word_differences": [
         [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ],
         [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ],
         [
-          "to",
-          "order"
+          "order",
+          "to"
         ]
       ]
     }

@@ -1,0 +1,1580 @@
+{
+  "wer": 0.24208860759493672,
+  "insertions": 5,
+  "deletions": 136,
+  "substitutions": 12,
+  "mismatches": [
+    {
+      "operation": "replace",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "we",
+      "hyp_word": "elevatenow",
+      "ref_context": "hello this is priya from we spoke last call about your",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with bijal"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "spoke",
+      "hyp_word": "am",
+      "ref_context": "this is priya from we spoke last call about your interest",
+      "hyp_context": "this is priya from elevatenow am i speaking with bijal roliya"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 7,
+      "index_hyp": 7,
+      "ref_word": "last",
+      "hyp_word": "",
+      "ref_context": "is priya from we spoke last call about your interest in",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 8,
+      "index_hyp": 7,
+      "ref_word": "call",
+      "hyp_word": "",
+      "ref_context": "priya from we spoke last call about your interest in our",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 9,
+      "index_hyp": 7,
+      "ref_word": "about",
+      "hyp_word": "",
+      "ref_context": "from we spoke last call about your interest in our weight",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 10,
+      "index_hyp": 7,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "we spoke last call about your interest in our weight management",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 11,
+      "index_hyp": 7,
+      "ref_word": "interest",
+      "hyp_word": "",
+      "ref_context": "spoke last call about your interest in our weight management program",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 12,
+      "index_hyp": 7,
+      "ref_word": "in",
+      "hyp_word": "",
+      "ref_context": "last call about your interest in our weight management program and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 13,
+      "index_hyp": 7,
+      "ref_word": "our",
+      "hyp_word": "",
+      "ref_context": "call about your interest in our weight management program and i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 14,
+      "index_hyp": 7,
+      "ref_word": "weight",
+      "hyp_word": "",
+      "ref_context": "about your interest in our weight management program and i understand",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 15,
+      "index_hyp": 7,
+      "ref_word": "management",
+      "hyp_word": "",
+      "ref_context": "your interest in our weight management program and i understand you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 16,
+      "index_hyp": 7,
+      "ref_word": "program",
+      "hyp_word": "",
+      "ref_context": "interest in our weight management program and i understand you had",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 17,
+      "index_hyp": 7,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "in our weight management program and i understand you had some",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 19,
+      "index_hyp": 8,
+      "ref_word": "understand",
+      "hyp_word": "speaking",
+      "ref_context": "weight management program and i understand you had some concerns we",
+      "hyp_context": "priya from elevatenow am i speaking with bijal roliya we spoke"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 20,
+      "index_hyp": 9,
+      "ref_word": "you",
+      "hyp_word": "with",
+      "ref_context": "management program and i understand you had some concerns we spoke",
+      "hyp_context": "from elevatenow am i speaking with bijal roliya we spoke last"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 21,
+      "index_hyp": 10,
+      "ref_word": "had",
+      "hyp_word": "bijal",
+      "ref_context": "program and i understand you had some concerns we spoke last",
+      "hyp_context": "elevatenow am i speaking with bijal roliya we spoke last call"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 22,
+      "index_hyp": 11,
+      "ref_word": "some",
+      "hyp_word": "roliya",
+      "ref_context": "and i understand you had some concerns we spoke last call",
+      "hyp_context": "am i speaking with bijal roliya we spoke last call about"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 23,
+      "index_hyp": 12,
+      "ref_word": "concerns",
+      "hyp_word": "",
+      "ref_context": "i understand you had some concerns we spoke last call about",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 63,
+      "index_hyp": 51,
+      "ref_word": "we",
+      "hyp_word": "were",
+      "ref_context": "its handling weight and metabolism we are genuinely excited to support",
+      "hyp_context": "its handling weight and metabolism were genuinely excited to support your"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 64,
+      "index_hyp": 52,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "handling weight and metabolism we are genuinely excited to support your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 131,
+      "index_hyp": 118,
+      "ref_word": "y",
+      "hyp_word": "i",
+      "ref_context": "at this obesity stage category y most people struggle with insulin",
+      "hyp_context": "at this obesity stage category i most people struggle with insulin"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 182,
+      "index_hyp": 169,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "plan can help with this we spoke last time about your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 183,
+      "index_hyp": 169,
+      "ref_word": "spoke",
+      "hyp_word": "",
+      "ref_context": "can help with this we spoke last time about your interest",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 184,
+      "index_hyp": 169,
+      "ref_word": "last",
+      "hyp_word": "",
+      "ref_context": "help with this we spoke last time about your interest in",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 185,
+      "index_hyp": 169,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "with this we spoke last time about your interest in our",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 186,
+      "index_hyp": 169,
+      "ref_word": "about",
+      "hyp_word": "",
+      "ref_context": "this we spoke last time about your interest in our weight",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 187,
+      "index_hyp": 169,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "we spoke last time about your interest in our weight management",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 188,
+      "index_hyp": 169,
+      "ref_word": "interest",
+      "hyp_word": "",
+      "ref_context": "spoke last time about your interest in our weight management program",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 189,
+      "index_hyp": 169,
+      "ref_word": "in",
+      "hyp_word": "",
+      "ref_context": "last time about your interest in our weight management program and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 190,
+      "index_hyp": 169,
+      "ref_word": "our",
+      "hyp_word": "",
+      "ref_context": "time about your interest in our weight management program and i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 191,
+      "index_hyp": 169,
+      "ref_word": "weight",
+      "hyp_word": "",
+      "ref_context": "about your interest in our weight management program and i understand",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 192,
+      "index_hyp": 169,
+      "ref_word": "management",
+      "hyp_word": "",
+      "ref_context": "your interest in our weight management program and i understand you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 193,
+      "index_hyp": 169,
+      "ref_word": "program",
+      "hyp_word": "",
+      "ref_context": "interest in our weight management program and i understand you had",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 194,
+      "index_hyp": 169,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "in our weight management program and i understand you had some",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 195,
+      "index_hyp": 169,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "our weight management program and i understand you had some concerns",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 196,
+      "index_hyp": 169,
+      "ref_word": "understand",
+      "hyp_word": "",
+      "ref_context": "weight management program and i understand you had some concerns based",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 197,
+      "index_hyp": 169,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "management program and i understand you had some concerns based on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 198,
+      "index_hyp": 169,
+      "ref_word": "had",
+      "hyp_word": "",
+      "ref_context": "program and i understand you had some concerns based on your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 199,
+      "index_hyp": 169,
+      "ref_word": "some",
+      "hyp_word": "",
+      "ref_context": "and i understand you had some concerns based on your bmi",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 200,
+      "index_hyp": 169,
+      "ref_word": "concerns",
+      "hyp_word": "",
+      "ref_context": "i understand you had some concerns based on your bmi of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 201,
+      "index_hyp": 169,
+      "ref_word": "based",
+      "hyp_word": "",
+      "ref_context": "understand you had some concerns based on your bmi of 3413",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 202,
+      "index_hyp": 169,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "you had some concerns based on your bmi of 3413 its",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 203,
+      "index_hyp": 169,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "had some concerns based on your bmi of 3413 its clear",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 204,
+      "index_hyp": 169,
+      "ref_word": "bmi",
+      "hyp_word": "",
+      "ref_context": "some concerns based on your bmi of 3413 its clear your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 205,
+      "index_hyp": 169,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "concerns based on your bmi of 3413 its clear your body",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 206,
+      "index_hyp": 169,
+      "ref_word": "3413",
+      "hyp_word": "",
+      "ref_context": "based on your bmi of 3413 its clear your body is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 207,
+      "index_hyp": 169,
+      "ref_word": "its",
+      "hyp_word": "",
+      "ref_context": "on your bmi of 3413 its clear your body is sending",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 208,
+      "index_hyp": 169,
+      "ref_word": "clear",
+      "hyp_word": "",
+      "ref_context": "your bmi of 3413 its clear your body is sending signals",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 209,
+      "index_hyp": 169,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "bmi of 3413 its clear your body is sending signals about",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 210,
+      "index_hyp": 169,
+      "ref_word": "body",
+      "hyp_word": "",
+      "ref_context": "of 3413 its clear your body is sending signals about how",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 211,
+      "index_hyp": 169,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "3413 its clear your body is sending signals about how its",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 212,
+      "index_hyp": 169,
+      "ref_word": "sending",
+      "hyp_word": "",
+      "ref_context": "its clear your body is sending signals about how its handling",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 213,
+      "index_hyp": 169,
+      "ref_word": "signals",
+      "hyp_word": "",
+      "ref_context": "clear your body is sending signals about how its handling weight",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 214,
+      "index_hyp": 169,
+      "ref_word": "about",
+      "hyp_word": "",
+      "ref_context": "your body is sending signals about how its handling weight and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 215,
+      "index_hyp": 169,
+      "ref_word": "how",
+      "hyp_word": "",
+      "ref_context": "body is sending signals about how its handling weight and metabolism",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 216,
+      "index_hyp": 169,
+      "ref_word": "its",
+      "hyp_word": "",
+      "ref_context": "is sending signals about how its handling weight and metabolism we",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 217,
+      "index_hyp": 169,
+      "ref_word": "handling",
+      "hyp_word": "",
+      "ref_context": "sending signals about how its handling weight and metabolism we are",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 218,
+      "index_hyp": 169,
+      "ref_word": "weight",
+      "hyp_word": "",
+      "ref_context": "signals about how its handling weight and metabolism we are genuinely",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 219,
+      "index_hyp": 169,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "about how its handling weight and metabolism we are genuinely excited",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 220,
+      "index_hyp": 169,
+      "ref_word": "metabolism",
+      "hyp_word": "",
+      "ref_context": "how its handling weight and metabolism we are genuinely excited to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 221,
+      "index_hyp": 169,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "its handling weight and metabolism we are genuinely excited to support",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 222,
+      "index_hyp": 169,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "handling weight and metabolism we are genuinely excited to support your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 223,
+      "index_hyp": 169,
+      "ref_word": "genuinely",
+      "hyp_word": "",
+      "ref_context": "weight and metabolism we are genuinely excited to support your goals",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 224,
+      "index_hyp": 169,
+      "ref_word": "excited",
+      "hyp_word": "",
+      "ref_context": "and metabolism we are genuinely excited to support your goals and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 225,
+      "index_hyp": 169,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "metabolism we are genuinely excited to support your goals and the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 226,
+      "index_hyp": 169,
+      "ref_word": "support",
+      "hyp_word": "",
+      "ref_context": "we are genuinely excited to support your goals and the nano",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 227,
+      "index_hyp": 169,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "are genuinely excited to support your goals and the nano plan",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 228,
+      "index_hyp": 169,
+      "ref_word": "goals",
+      "hyp_word": "",
+      "ref_context": "genuinely excited to support your goals and the nano plan is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 229,
+      "index_hyp": 169,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "excited to support your goals and the nano plan is designed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 230,
+      "index_hyp": 169,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "to support your goals and the nano plan is designed to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 231,
+      "index_hyp": 169,
+      "ref_word": "nano",
+      "hyp_word": "",
+      "ref_context": "support your goals and the nano plan is designed to make",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 232,
+      "index_hyp": 169,
+      "ref_word": "plan",
+      "hyp_word": "",
+      "ref_context": "your goals and the nano plan is designed to make weight",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 233,
+      "index_hyp": 169,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "goals and the nano plan is designed to make weight loss",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 234,
+      "index_hyp": 169,
+      "ref_word": "designed",
+      "hyp_word": "",
+      "ref_context": "and the nano plan is designed to make weight loss easier",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 235,
+      "index_hyp": 169,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the nano plan is designed to make weight loss easier and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 236,
+      "index_hyp": 169,
+      "ref_word": "make",
+      "hyp_word": "",
+      "ref_context": "nano plan is designed to make weight loss easier and more",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 237,
+      "index_hyp": 169,
+      "ref_word": "weight",
+      "hyp_word": "",
+      "ref_context": "plan is designed to make weight loss easier and more effective",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 238,
+      "index_hyp": 169,
+      "ref_word": "loss",
+      "hyp_word": "",
+      "ref_context": "is designed to make weight loss easier and more effective would",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 239,
+      "index_hyp": 169,
+      "ref_word": "easier",
+      "hyp_word": "",
+      "ref_context": "designed to make weight loss easier and more effective would you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 240,
+      "index_hyp": 169,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "to make weight loss easier and more effective would you like",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 241,
+      "index_hyp": 169,
+      "ref_word": "more",
+      "hyp_word": "",
+      "ref_context": "make weight loss easier and more effective would you like to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 242,
+      "index_hyp": 169,
+      "ref_word": "effective",
+      "hyp_word": "",
+      "ref_context": "weight loss easier and more effective would you like to discuss",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 243,
+      "index_hyp": 169,
+      "ref_word": "would",
+      "hyp_word": "",
+      "ref_context": "loss easier and more effective would you like to discuss a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 244,
+      "index_hyp": 169,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "easier and more effective would you like to discuss a personalized",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 245,
+      "index_hyp": 169,
+      "ref_word": "like",
+      "hyp_word": "",
+      "ref_context": "and more effective would you like to discuss a personalized plan",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 246,
+      "index_hyp": 169,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "more effective would you like to discuss a personalized plan to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 247,
+      "index_hyp": 169,
+      "ref_word": "discuss",
+      "hyp_word": "",
+      "ref_context": "effective would you like to discuss a personalized plan to address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 248,
+      "index_hyp": 169,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "would you like to discuss a personalized plan to address these",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 249,
+      "index_hyp": 169,
+      "ref_word": "personalized",
+      "hyp_word": "",
+      "ref_context": "you like to discuss a personalized plan to address these challenges",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 250,
+      "index_hyp": 169,
+      "ref_word": "plan",
+      "hyp_word": "",
+      "ref_context": "like to discuss a personalized plan to address these challenges great",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 251,
+      "index_hyp": 169,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "to discuss a personalized plan to address these challenges great lets",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 252,
+      "index_hyp": 169,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "discuss a personalized plan to address these challenges great lets dive",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 253,
+      "index_hyp": 169,
+      "ref_word": "these",
+      "hyp_word": "",
+      "ref_context": "a personalized plan to address these challenges great lets dive into",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 254,
+      "index_hyp": 169,
+      "ref_word": "challenges",
+      "hyp_word": "",
+      "ref_context": "personalized plan to address these challenges great lets dive into it",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 342,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "experience",
+      "ref_context": "",
+      "hyp_context": "weight loss goals aapke past experience i understand aapke past experiences"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 419,
+      "index_hyp": 334,
+      "ref_word": "road",
+      "hyp_word": "roadmap",
+      "ref_context": "coach will create a personalized road map to help you achieve",
+      "hyp_context": "coach will create a personalized roadmap to help you achieve your"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 420,
+      "index_hyp": 335,
+      "ref_word": "map",
+      "hyp_word": "",
+      "ref_context": "will create a personalized road map to help you achieve your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 365,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "plan is priced at rupees one thousand seven hundred ninetynine which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 366,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "is priced at rupees one thousand seven hundred ninetynine which is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 367,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "priced at rupees one thousand seven hundred ninetynine which is a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 368,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "at rupees one thousand seven hundred ninetynine which is a fraction"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 451,
+      "index_hyp": 369,
+      "ref_word": "1799",
+      "hyp_word": "ninetynine",
+      "ref_context": "plan is priced at rupees 1799 which is a fraction of",
+      "hyp_context": "rupees one thousand seven hundred ninetynine which is a fraction of"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 517,
+      "index_hyp": 435,
+      "ref_word": "nutrient",
+      "hyp_word": "nutrientrich",
+      "ref_context": "on supporting thyroid function through nutrient rich foods and lifestyle changes",
+      "hyp_context": "on supporting thyroid function through nutrientrich foods and lifestyle changes which"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 518,
+      "index_hyp": 436,
+      "ref_word": "rich",
+      "hyp_word": "",
+      "ref_context": "supporting thyroid function through nutrient rich foods and lifestyle changes which",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 530,
+      "index_hyp": 447,
+      "ref_word": "fat",
+      "hyp_word": "fatburning",
+      "ref_context": "help normalize metabolism and improve fat burning this approach has helped",
+      "hyp_context": "help normalize metabolism and improve fatburning this approach has helped many"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 531,
+      "index_hyp": 448,
+      "ref_word": "burning",
+      "hyp_word": "",
+      "ref_context": "normalize metabolism and improve fat burning this approach has helped many",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 585,
+      "index_hyp": 501,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "quiet are you still there the nano plan offers flexibility with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 586,
+      "index_hyp": 501,
+      "ref_word": "nano",
+      "hyp_word": "",
+      "ref_context": "are you still there the nano plan offers flexibility with two",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 587,
+      "index_hyp": 501,
+      "ref_word": "plan",
+      "hyp_word": "",
+      "ref_context": "you still there the nano plan offers flexibility with two payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 588,
+      "index_hyp": 501,
+      "ref_word": "offers",
+      "hyp_word": "",
+      "ref_context": "still there the nano plan offers flexibility with two payment options",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 589,
+      "index_hyp": 501,
+      "ref_word": "flexibility",
+      "hyp_word": "",
+      "ref_context": "there the nano plan offers flexibility with two payment options a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 590,
+      "index_hyp": 501,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "the nano plan offers flexibility with two payment options a partial",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 591,
+      "index_hyp": 501,
+      "ref_word": "two",
+      "hyp_word": "",
+      "ref_context": "nano plan offers flexibility with two payment options a partial payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 592,
+      "index_hyp": 501,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "plan offers flexibility with two payment options a partial payment of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 593,
+      "index_hyp": 501,
+      "ref_word": "options",
+      "hyp_word": "",
+      "ref_context": "offers flexibility with two payment options a partial payment of rupees",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 594,
+      "index_hyp": 501,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "flexibility with two payment options a partial payment of rupees 499",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 595,
+      "index_hyp": 501,
+      "ref_word": "partial",
+      "hyp_word": "",
+      "ref_context": "with two payment options a partial payment of rupees 499 now",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 596,
+      "index_hyp": 501,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "two payment options a partial payment of rupees 499 now and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 597,
+      "index_hyp": 501,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "payment options a partial payment of rupees 499 now and the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 598,
+      "index_hyp": 501,
+      "ref_word": "rupees",
+      "hyp_word": "",
+      "ref_context": "options a partial payment of rupees 499 now and the remaining",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 599,
+      "index_hyp": 501,
+      "ref_word": "499",
+      "hyp_word": "",
+      "ref_context": "a partial payment of rupees 499 now and the remaining rupees",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 600,
+      "index_hyp": 501,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "partial payment of rupees 499 now and the remaining rupees 1399",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 601,
+      "index_hyp": 501,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "payment of rupees 499 now and the remaining rupees 1399 at",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 602,
+      "index_hyp": 501,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "of rupees 499 now and the remaining rupees 1399 at the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 603,
+      "index_hyp": 501,
+      "ref_word": "remaining",
+      "hyp_word": "",
+      "ref_context": "rupees 499 now and the remaining rupees 1399 at the time",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 604,
+      "index_hyp": 501,
+      "ref_word": "rupees",
+      "hyp_word": "",
+      "ref_context": "499 now and the remaining rupees 1399 at the time of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 605,
+      "index_hyp": 501,
+      "ref_word": "1399",
+      "hyp_word": "",
+      "ref_context": "now and the remaining rupees 1399 at the time of blood",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 606,
+      "index_hyp": 501,
+      "ref_word": "at",
+      "hyp_word": "",
+      "ref_context": "and the remaining rupees 1399 at the time of blood sample",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 607,
+      "index_hyp": 501,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "the remaining rupees 1399 at the time of blood sample collection",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 608,
+      "index_hyp": 501,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "remaining rupees 1399 at the time of blood sample collection or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 609,
+      "index_hyp": 501,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "rupees 1399 at the time of blood sample collection or a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 610,
+      "index_hyp": 501,
+      "ref_word": "blood",
+      "hyp_word": "",
+      "ref_context": "1399 at the time of blood sample collection or a full",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 611,
+      "index_hyp": 501,
+      "ref_word": "sample",
+      "hyp_word": "",
+      "ref_context": "at the time of blood sample collection or a full payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 612,
+      "index_hyp": 501,
+      "ref_word": "collection",
+      "hyp_word": "",
+      "ref_context": "the time of blood sample collection or a full payment of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 613,
+      "index_hyp": 501,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "time of blood sample collection or a full payment of rupees",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 614,
+      "index_hyp": 501,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "of blood sample collection or a full payment of rupees 1799",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 615,
+      "index_hyp": 501,
+      "ref_word": "full",
+      "hyp_word": "",
+      "ref_context": "blood sample collection or a full payment of rupees 1799 up",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 616,
+      "index_hyp": 501,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "sample collection or a full payment of rupees 1799 up front",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 617,
+      "index_hyp": 501,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "collection or a full payment of rupees 1799 up front ill",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 618,
+      "index_hyp": 501,
+      "ref_word": "rupees",
+      "hyp_word": "",
+      "ref_context": "or a full payment of rupees 1799 up front ill send",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 619,
+      "index_hyp": 501,
+      "ref_word": "1799",
+      "hyp_word": "",
+      "ref_context": "a full payment of rupees 1799 up front ill send you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 620,
+      "index_hyp": 501,
+      "ref_word": "up",
+      "hyp_word": "",
+      "ref_context": "full payment of rupees 1799 up front ill send you the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 621,
+      "index_hyp": 501,
+      "ref_word": "front",
+      "hyp_word": "",
+      "ref_context": "payment of rupees 1799 up front ill send you the payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 622,
+      "index_hyp": 501,
+      "ref_word": "ill",
+      "hyp_word": "",
+      "ref_context": "of rupees 1799 up front ill send you the payment links",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 623,
+      "index_hyp": 501,
+      "ref_word": "send",
+      "hyp_word": "",
+      "ref_context": "rupees 1799 up front ill send you the payment links on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 624,
+      "index_hyp": 501,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "1799 up front ill send you the payment links on your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 625,
+      "index_hyp": 501,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "up front ill send you the payment links on your registered",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 626,
+      "index_hyp": 501,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "front ill send you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 627,
+      "index_hyp": 501,
+      "ref_word": "links",
+      "hyp_word": "",
+      "ref_context": "ill send you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 628,
+      "index_hyp": 501,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "send you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 629,
+      "index_hyp": 501,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 630,
+      "index_hyp": 501,
+      "ref_word": "registered",
+      "hyp_word": "",
+      "ref_context": "the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 631,
+      "index_hyp": 501,
+      "ref_word": "mobile",
+      "hyp_word": "",
+      "ref_context": "payment links on your registered mobile",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "we",
+      "hypothesis": "elevatenow"
+    },
+    {
+      "reference": "spoke",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "understand",
+      "hypothesis": "speaking"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "with"
+    },
+    {
+      "reference": "had",
+      "hypothesis": "bijal"
+    },
+    {
+      "reference": "some",
+      "hypothesis": "roliya"
+    },
+    {
+      "reference": "we",
+      "hypothesis": "were"
+    },
+    {
+      "reference": "y",
+      "hypothesis": "i"
+    },
+    {
+      "reference": "road",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "ninetynine"
+    },
+    {
+      "reference": "nutrient",
+      "hypothesis": "nutrientrich"
+    },
+    {
+      "reference": "fat",
+      "hypothesis": "fatburning"
+    }
+  ],
+  "deletion_words": [
+    "last",
+    "call",
+    "about",
+    "your",
+    "interest",
+    "in",
+    "our",
+    "weight",
+    "management",
+    "program",
+    "and",
+    "concerns",
+    "are",
+    "we",
+    "spoke",
+    "last",
+    "time",
+    "about",
+    "your",
+    "interest",
+    "in",
+    "our",
+    "weight",
+    "management",
+    "program",
+    "and",
+    "i",
+    "understand",
+    "you",
+    "had",
+    "some",
+    "concerns",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "3413",
+    "its",
+    "clear",
+    "your",
+    "body",
+    "is",
+    "sending",
+    "signals",
+    "about",
+    "how",
+    "its",
+    "handling",
+    "weight",
+    "and",
+    "metabolism",
+    "we",
+    "are",
+    "genuinely",
+    "excited",
+    "to",
+    "support",
+    "your",
+    "goals",
+    "and",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "make",
+    "weight",
+    "loss",
+    "easier",
+    "and",
+    "more",
+    "effective",
+    "would",
+    "you",
+    "like",
+    "to",
+    "discuss",
+    "a",
+    "personalized",
+    "plan",
+    "to",
+    "address",
+    "these",
+    "challenges",
+    "map",
+    "rich",
+    "burning",
+    "the",
+    "nano",
+    "plan",
+    "offers",
+    "flexibility",
+    "with",
+    "two",
+    "payment",
+    "options",
+    "a",
+    "partial",
+    "payment",
+    "of",
+    "rupees",
+    "499",
+    "now",
+    "and",
+    "the",
+    "remaining",
+    "rupees",
+    "1399",
+    "at",
+    "the",
+    "time",
+    "of",
+    "blood",
+    "sample",
+    "collection",
+    "or",
+    "a",
+    "full",
+    "payment",
+    "of",
+    "rupees",
+    "1799",
+    "up",
+    "front",
+    "ill",
+    "send",
+    "you",
+    "the",
+    "payment",
+    "links",
+    "on",
+    "your",
+    "registered",
+    "mobile"
+  ],
+  "insertion_words": [
+    "experience",
+    "one",
+    "thousand",
+    "seven",
+    "hundred"
+  ]
+}

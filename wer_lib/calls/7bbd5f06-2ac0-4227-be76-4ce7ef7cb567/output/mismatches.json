@@ -2,78 +2,78 @@
   "call_id": "7bbd5f06-2ac0-4227-be76-4ce7ef7cb567",
   "mismatches": [
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Nidhi?",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate Now. Am I speaking",
+      "reference_sentence": "Hello, this is Priya from Elevate Now. Am I speaking",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Nidhi?",
       "word_differences": [
         [
-          "ElevateNow.",
-          "Elevate Now."
+          "Elevate Now.",
+          "ElevateNow."
         ],
         [
-          "with Nidhi?",
-          "[missing]"
+          "[missing]",
+          "with Nidhi?"
         ]
       ]
     },
     {
-      "reference_sentence": "Based on your BMI of 31.11, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals, and the Nano Plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
-      "hypothesis_sentence": "Based on your BMI of 31.11, it's clear your body is sending signals about how it's handling weight and metabolism right now. We are genuinely excited to support your goals, and the Nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+      "reference_sentence": "Based on your BMI of 31.11, it's clear your body is sending signals about how it's handling weight and metabolism right now. We are genuinely excited to support your goals, and the Nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+      "hypothesis_sentence": "Based on your BMI of 31.11, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals, and the Nano Plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
       "word_differences": [
         [
-          "We're",
-          "We are"
+          "We are",
+          "We're"
         ]
       ]
     },
     {
-      "reference_sentence": "Sure! The blood test will help us understand key metabolic issues like insulin resistance or vitamin deficiencies that might be affecting your weight. Then, a doctor specializing in obesity will go over your results in detail to create a personalized roadmap tailored to your needs. Finally, a senior health coach will guide you with lifestyle changes that fit your specific conditions.\n\nNow that we've covered the offerings, do you want me to explain the pricing information?",
-      "hypothesis_sentence": "Sure, the blood test will help us understand key metabolic issues like insulin resistance or vitamin deficiencies that might be affecting your weight. hen a doctor specializing in obesity will go over your results in detail to create a personalized road map tailored to your needs. Finally, a senior health coach will guide you with lifestyle changes that fit your specific conditions. Now that we've covered the offerings, do you want me to explain the pricing information?",
+      "reference_sentence": "Sure, the blood test will help us understand key metabolic issues like insulin resistance or vitamin deficiencies that might be affecting your weight. hen a doctor specializing in obesity will go over your results in detail to create a personalized road map tailored to your needs. Finally, a senior health coach will guide you with lifestyle changes that fit your specific conditions. Now that we've covered the offerings, do you want me to explain the pricing information?",
+      "hypothesis_sentence": "Sure! The blood test will help us understand key metabolic issues like insulin resistance or vitamin deficiencies that might be affecting your weight. Then, a doctor specializing in obesity will go over your results in detail to create a personalized roadmap tailored to your needs. Finally, a senior health coach will guide you with lifestyle changes that fit your specific conditions.\n\nNow that we've covered the offerings, do you want me to explain the pricing information?",
       "word_differences": [
         [
-          "Then,",
-          "hen"
+          "hen",
+          "Then,"
         ],
         [
-          "roadmap",
-          "road map"
+          "road map",
+          "roadmap"
         ]
       ]
     },
     {
-      "reference_sentence": "The Nano Plan costs Rupees one thousand seven hundred ninety-nine. This includes the blood test, doctor consultation, and a health coach session, all at a fraction of the market price. It's designed to be affordable while providing premium services. How does that sound to you?",
-      "hypothesis_sentence": "The Nano plan costs rupees 1,799. This includes the blood test, doctor consultation and a health coach session all at a fraction of the market price. It's designed to be affordable while providing premium services. How does that sound to you?",
+      "reference_sentence": "The Nano plan costs rupees 1,799. This includes the blood test, doctor consultation and a health coach session all at a fraction of the market price. It's designed to be affordable while providing premium services. How does that sound to you?",
+      "hypothesis_sentence": "The Nano Plan costs Rupees one thousand seven hundred ninety-nine. This includes the blood test, doctor consultation, and a health coach session, all at a fraction of the market price. It's designed to be affordable while providing premium services. How does that sound to you?",
       "word_differences": [
         [
-          "one thousand seven hundred ninety-nine.",
-          "1,799."
+          "1,799.",
+          "one thousand seven hundred ninety-nine."
         ]
       ]
     },
     {
-      "reference_sentence": "Great! Here are your payment options: you can either make a full payment of Rupees one thousand seven hundred ninety-nine upfront or opt for a partial payment of Rupees four hundred ninety-nine now and the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection. I'll send both payment links to your WhatsApp on your registered mobile number. Do you have any more doubts or questions?",
-      "hypothesis_sentence": "Great, here are your payment options. You can either make a full payment of rupees 1,799 up front or opt for a partial payment of rupees 499 now and the remaining rupees 1,399 at the time of blood sample collection. I'll send both payment links to your WhatsApp on your registered mobile number. Do you have any more doubts or questions?",
+      "reference_sentence": "Great, here are your payment options. You can either make a full payment of rupees 1,799 up front or opt for a partial payment of rupees 499 now and the remaining rupees 1,399 at the time of blood sample collection. I'll send both payment links to your WhatsApp on your registered mobile number. Do you have any more doubts or questions?",
+      "hypothesis_sentence": "Great! Here are your payment options: you can either make a full payment of Rupees one thousand seven hundred ninety-nine upfront or opt for a partial payment of Rupees four hundred ninety-nine now and the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection. I'll send both payment links to your WhatsApp on your registered mobile number. Do you have any more doubts or questions?",
       "word_differences": [
         [
-          "one thousand seven hundred ninety-nine upfront",
-          "1,799 up front"
+          "1,799 up front",
+          "one thousand seven hundred ninety-nine upfront"
         ],
         [
-          "four hundred ninety-nine",
-          "499"
+          "499",
+          "four hundred ninety-nine"
         ],
         [
-          "one thousand three hundred ninety-nine",
-          "1,399"
+          "1,399",
+          "one thousand three hundred ninety-nine"
         ]
       ]
     },
     {
-      "reference_sentence": "Since I haven't heard from you, I'll end the call now. Goodbye!",
-      "hypothesis_sentence": "Since I haven't heard from you, I'll end the call now. Good bye.",
+      "reference_sentence": "Since I haven't heard from you, I'll end the call now. Good bye.",
+      "hypothesis_sentence": "Since I haven't heard from you, I'll end the call now. Goodbye!",
       "word_differences": [
         [
-          "Goodbye!",
-          "Good bye."
+          "Good bye.",
+          "Goodbye!"
         ]
       ]
     }

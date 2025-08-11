@@ -1,0 +1,3786 @@
+adyasrivastava@NURIX-37 wer+jiwer % python3 wer_gemini.py calls
+🚀 Starting WER processing for all calls in: calls
+================================================================================
+🚀 [03261666-7d82-49ec-8d6e-78c2f716ad73] started at 12:49:08
+🎯 Filtered 17 assistant utterances from 31 total utterances
+🎯 Filtered 13 Agent utterances from 23 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 2640 characters
+    📝 Hypothesis (Agent): 1949 characters
+✅ Saved canonical reference → calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 33 mismatches and measures to calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1977
+  Total GT NERs: 6
+  Total Ref NERs: 9
+  Unique GT NERs: 4
+  Unique Ref NERs: 7
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000509 seconds
+
+  Substitutions:
+    1. 'atun' -> 'n'
+    2. 'atun' -> 'n'
+    3. 'anya' -> 'any'
+  Deletions:
+  Insertions:
+    1. 'mintra' — extra in hypothesis
+    2. 'here' — extra in hypothesis
+    3. 'to' — extra in hypothesis
+    4. 'assist' — extra in hypothesis
+    5. 'you' — extra in hypothesis
+    6. 'shall' — extra in hypothesis
+    7. 'we' — extra in hypothesis
+    8. 'proceed' — extra in hypothesis
+    9. 'further' — extra in hypothesis
+    10. 'in' — extra in hypothesis
+    11. 'hindi' — extra in hypothesis
+    12. 'or' — extra in hypothesis
+    13. 'english' — extra in hypothesis
+    14. 'hun' — extra in hypothesis
+    15. 'thik' — extra in hypothesis
+    16. 'thoda' — extra in hypothesis
+    17. 'intezar' — extra in hypothesis
+    18. 'kijiye' — extra in hypothesis
+    19. 'main' — extra in hypothesis
+    20. 'aapke' — extra in hypothesis
+    21. 'products' — extra in hypothesis
+    22. 'la' — extra in hypothesis
+    23. 'rahi' — extra in hypothesis
+    24. 'hun' — extra in hypothesis
+    25. 'a' — extra in hypothesis
+    26. 't' — extra in hypothesis
+    27. 'u' — extra in hypothesis
+    28. 'a' — extra in hypothesis
+    29. 't' — extra in hypothesis
+    30. 'u' — extra in hypothesis
+🏁 [03261666-7d82-49ec-8d6e-78c2f716ad73] completed at 12:49:18, took 9.52s
+🚀 [03856e6b-6925-4012-8eb8-0a0289019b7e] started at 12:49:18
+🎯 Filtered 21 assistant utterances from 41 total utterances
+🎯 Filtered 13 Agent utterances from 26 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4805 characters
+    📝 Hypothesis (Agent): 3573 characters
+✅ Saved canonical reference → calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 68 mismatches and measures to calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1659
+  Total GT NERs: 20
+  Total Ref NERs: 24
+  Unique GT NERs: 10
+  Unique Ref NERs: 12
+  Total Concerned GT NERs (PERSON/ORG): 11
+  Total Concerned Ref NERs (PERSON/ORG): 7
+  Unique Concerned GT NERs: 4
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.000884 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'now' -> 'am'
+    3. 'elevate' -> 'elevatenow'
+    4. 'elevate' -> 'elevatenow'
+    5. 'healthify' -> 'our'
+    6. 'elevate' -> 'elevatenows'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'now' — missing in hypothesis
+    3. 'nows' — missing in hypothesis
+  Insertions:
+    1. 'from' — extra in hypothesis
+    2. 'elevatenow' — extra in hypothesis
+    3. 'am' — extra in hypothesis
+    4. 'i' — extra in hypothesis
+    5. 'speaking' — extra in hypothesis
+    6. 'with' — extra in hypothesis
+    7. 'atul' — extra in hypothesis
+    8. 'sinha' — extra in hypothesis
+    9. 'we' — extra in hypothesis
+    10. 'are' — extra in hypothesis
+    11. 'serviceable' — extra in hypothesis
+    12. 'for' — extra in hypothesis
+    13. 'most' — extra in hypothesis
+    14. 'parts' — extra in hypothesis
+    15. 'of' — extra in hypothesis
+    16. 'india' — extra in hypothesis
+    17. 'including' — extra in hypothesis
+    18. 'patna' — extra in hypothesis
+    19. 'as' — extra in hypothesis
+    20. 'we' — extra in hypothesis
+    21. 'have' — extra in hypothesis
+    22. 'partnered' — extra in hypothesis
+    23. 'with' — extra in hypothesis
+    24. 'several' — extra in hypothesis
+    25. 'lab' — extra in hypothesis
+    26. 'test' — extra in hypothesis
+    27. 'providers' — extra in hypothesis
+    28. 'you' — extra in hypothesis
+    29. 'can' — extra in hypothesis
+    30. 'definitely' — extra in hypothesis
+    31. 'access' — extra in hypothesis
+    32. 'there' — extra in hypothesis
+    33. 'would' — extra in hypothesis
+    34. 'you' — extra in hypothesis
+    35. 'like' — extra in hypothesis
+    36. 'to' — extra in hypothesis
+    37. 'know' — extra in hypothesis
+    38. 'more' — extra in hypothesis
+    39. 'about' — extra in hypothesis
+    40. 'how' — extra in hypothesis
+    41. 'it' — extra in hypothesis
+    42. 'can' — extra in hypothesis
+    43. 'help' — extra in hypothesis
+    44. 'you' — extra in hypothesis
+    45. 'achieve' — extra in hypothesis
+    46. 'your' — extra in hypothesis
+    47. 'weight' — extra in hypothesis
+    48. 'loss' — extra in hypothesis
+    49. 'goals' — extra in hypothesis
+    50. 'the' — extra in hypothesis
+    51. 'nano' — extra in hypothesis
+    52. 'plan' — extra in hypothesis
+    53. 'healthifi' — extra in hypothesis
+    54. 'endocrinology' — extra in hypothesis
+    55. 'diabetes' — extra in hypothesis
+    56. 'partial' — extra in hypothesis
+    57. 'or' — extra in hypothesis
+    58. 'full' — extra in hypothesis
+    59. 'youre' — extra in hypothesis
+🏁 [03856e6b-6925-4012-8eb8-0a0289019b7e] completed at 12:49:34, took 15.85s
+🚀 [09f69426-e7e6-4f2a-a20a-75416d945306] started at 12:49:34
+🎯 Filtered 27 assistant utterances from 51 total utterances
+🎯 Filtered 23 Agent utterances from 34 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 6638 characters
+    📝 Hypothesis (Agent): 5870 characters
+✅ Saved canonical reference → calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 78 mismatches and measures to calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1142
+  Total GT NERs: 22
+  Total Ref NERs: 22
+  Unique GT NERs: 12
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 3
+  Total Concerned Ref NERs (PERSON/ORG): 3
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.001074 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'you' -> 'great'
+    3. 'nahi' -> 'nahin'
+    4. 'aapke' -> 'weight'
+    5. 'hai' -> 'hain'
+    6. 'kya' -> 'is'
+    7. 'ya' -> 'aur'
+    8. 'hai' -> 'hain'
+    9. 'jante' -> 'ke'
+    10. 'hain' -> 'bare'
+    11. 'aur' -> 'mein'
+    12. 'nahi' -> 'nahin'
+    13. 'paiky' -> 'pai'
+    14. 'kick' -> 'kickstart'
+    15. 'three' -> '3'
+    16. 'six' -> '6'
+    17. 'road' -> 'roadmap'
+    18. 'nahi' -> 'nahin'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'rupaye' — missing in hypothesis
+    3. 'rupaye' — missing in hypothesis
+    4. 'start' — missing in hypothesis
+    5. 'map' — missing in hypothesis
+    6. 'the' — missing in hypothesis
+    7. 'three' — missing in hypothesis
+    8. 'months' — missing in hypothesis
+    9. 'vibhinn' — missing in hypothesis
+    10. 'vikalp' — missing in hypothesis
+    11. 'kya' — missing in hypothesis
+    12. 'aap' — missing in hypothesis
+    13. 'mujhse' — missing in hypothesis
+    14. 'nano' — missing in hypothesis
+    15. 'plan' — missing in hypothesis
+    16. 'ya' — missing in hypothesis
+    17. 'uske' — missing in hypothesis
+    18. 'kisi' — missing in hypothesis
+    19. 'features' — missing in hypothesis
+    20. 'ke' — missing in hypothesis
+    21. 'bare' — missing in hypothesis
+    22. 'mein' — missing in hypothesis
+    23. 'janna' — missing in hypothesis
+    24. 'chahenge' — missing in hypothesis
+  Insertions:
+    1. 'aapki' — extra in hypothesis
+    2. 'ki' — extra in hypothesis
+    3. 'upfront' — extra in hypothesis
+    4. 'individually' — extra in hypothesis
+    5. 'the' — extra in hypothesis
+    6. 'services' — extra in hypothesis
+    7. 'rupees' — extra in hypothesis
+    8. 'rupees' — extra in hypothesis
+    9. 'lagbhag' — extra in hypothesis
+    10. 'rupees' — extra in hypothesis
+    11. 'aur' — extra in hypothesis
+    12. 'janna' — extra in hypothesis
+    13. 'chahenge' — extra in hypothesis
+    14. 'kya' — extra in hypothesis
+    15. 'aap' — extra in hypothesis
+    16. 'mujhse' — extra in hypothesis
+    17. 'nano' — extra in hypothesis
+    18. 'plan' — extra in hypothesis
+    19. 'ya' — extra in hypothesis
+    20. 'uske' — extra in hypothesis
+    21. 'kisi' — extra in hypothesis
+    22. 'specific' — extra in hypothesis
+    23. 'feature' — extra in hypothesis
+    24. 'main' — extra in hypothesis
+    25. 'aapki' — extra in hypothesis
+    26. 'madad' — extra in hypothesis
+    27. 'ab' — extra in hypothesis
+    28. 'kripya' — extra in hypothesis
+    29. 'spasht' — extra in hypothesis
+    30. 'would' — extra in hypothesis
+    31. 'you' — extra in hypothesis
+    32. 'like' — extra in hypothesis
+    33. 'more' — extra in hypothesis
+    34. 'information' — extra in hypothesis
+    35. 'on' — extra in hypothesis
+    36. 'this' — extra in hypothesis
+🏁 [09f69426-e7e6-4f2a-a20a-75416d945306] completed at 12:50:01, took 27.06s
+🚀 [1bf3729b-c0a7-4f65-a846-88c8aa31a473] started at 12:50:01
+🎯 Filtered 14 assistant utterances from 27 total utterances
+🎯 Filtered 11 Agent utterances from 25 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 2745 characters
+    📝 Hypothesis (Agent): 2253 characters
+✅ Saved canonical reference → calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 26 mismatches and measures to calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1032
+  Total GT NERs: 16
+  Total Ref NERs: 13
+  Unique GT NERs: 7
+  Unique Ref NERs: 5
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000501 seconds
+
+  Substitutions:
+    1. 'you' -> 'youd'
+    2. 'i' -> 'ill'
+    3. 'i' -> 'im'
+    4. 'i' -> 'im'
+    5. 'could' -> 'couldnt'
+    6. 'i' -> 'im'
+    7. 'there' -> 'theres'
+    8. 'i' -> 'im'
+    9. 'there' -> 'theres'
+    10. 'you' -> 'youre'
+  Deletions:
+    1. 'would' — missing in hypothesis
+    2. 'will' — missing in hypothesis
+    3. 'am' — missing in hypothesis
+    4. 'am' — missing in hypothesis
+    5. 'not' — missing in hypothesis
+    6. 'am' — missing in hypothesis
+    7. 'is' — missing in hypothesis
+    8. 'am' — missing in hypothesis
+    9. 'is' — missing in hypothesis
+    10. 'are' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'i' — extra in hypothesis
+    3. 'am' — extra in hypothesis
+    4. 'simulating' — extra in hypothesis
+    5. 'human' — extra in hypothesis
+    6. 'transfer' — extra in hypothesis
+🏁 [1bf3729b-c0a7-4f65-a846-88c8aa31a473] completed at 12:50:12, took 10.84s
+🚀 [268dbd88-173b-41a1-8363-4a6ba62b9aae] started at 12:50:12
+🎯 Filtered 21 assistant utterances from 35 total utterances
+🎯 Filtered 14 Agent utterances from 24 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4971 characters
+    📝 Hypothesis (Agent): 4130 characters
+✅ Saved canonical reference → calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 33 mismatches and measures to calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0681
+  Total GT NERs: 25
+  Total Ref NERs: 24
+  Unique GT NERs: 10
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 5
+  Total Concerned Ref NERs (PERSON/ORG): 5
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.000699 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'kovar' -> 'kondawar'
+    3. 'you' -> 'youve'
+    4. 'youd' -> 'were'
+    5. 'elevate' -> 'elevatenow'
+    6. 'he' -> 'the'
+    7. 'obesity' -> 'obesityspecialized'
+    8. 'road' -> 'roadmap'
+    9. 'road' -> 'roadmap'
+    10. 'longer' -> 'longerterm'
+    11. 'money' -> 'moneyback'
+    12. 'tailor' -> 'tailored'
+    13. 'good' -> 'goodbye'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'have' — missing in hypothesis
+    3. 'now' — missing in hypothesis
+    4. 'specialized' — missing in hypothesis
+    5. 'map' — missing in hypothesis
+    6. 'map' — missing in hypothesis
+    7. 'goals' — missing in hypothesis
+    8. 'term' — missing in hypothesis
+    9. 'back' — missing in hypothesis
+    10. 'bye' — missing in hypothesis
+  Insertions:
+    1. 'you' — extra in hypothesis
+    2. 'let' — extra in hypothesis
+    3. 'me' — extra in hypothesis
+    4. 'explain' — extra in hypothesis
+    5. 'great' — extra in hypothesis
+    6. 'nano' — extra in hypothesis
+    7. 'with' — extra in hypothesis
+    8. 'the' — extra in hypothesis
+    9. 'nano' — extra in hypothesis
+    10. 'plan' — extra in hypothesis
+🏁 [268dbd88-173b-41a1-8363-4a6ba62b9aae] completed at 12:50:29, took 17.58s
+🚀 [332017b6-9f62-444d-a657-7b733bc727fc] started at 12:50:29
+🎯 Filtered 21 assistant utterances from 41 total utterances
+🎯 Filtered 16 Agent utterances from 28 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3757 characters
+    📝 Hypothesis (Agent): 2956 characters
+✅ Saved canonical reference → calls/332017b6-9f62-444d-a657-7b733bc727fc/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/332017b6-9f62-444d-a657-7b733bc727fc/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 48 mismatches and measures to calls/332017b6-9f62-444d-a657-7b733bc727fc/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/332017b6-9f62-444d-a657-7b733bc727fc/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1812
+  Total GT NERs: 13
+  Total Ref NERs: 14
+  Unique GT NERs: 9
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000643 seconds
+
+  Substitutions:
+    1. 'im' -> 'however'
+    2. 'sorry' -> 'your'
+    3. 'but' -> 'items'
+    4. 'we' -> 'will'
+    5. 'currently' -> 'arrive'
+    6. 'dont' -> 'securely'
+    7. 'offer' -> 'packed'
+    8. 'a' -> 'as'
+    9. 'packing' -> 'per'
+    10. 'service' -> 'our'
+    11. 'for' -> 'standard'
+    12. 'your' -> 'procedures'
+    13. '17th' -> 'seventeenth'
+    14. '28th' -> '28'
+    15. 'excite' -> 'exide'
+    16. 'i' -> 'youd'
+    17. 'cancellation' -> 'cancellations'
+    18. 'order' -> 'orders'
+  Deletions:
+    1. 'order' — missing in hypothesis
+    2. 'order' — missing in hypothesis
+    3. 'can' — missing in hypothesis
+    4. 'assist' — missing in hypothesis
+    5. 'you' — missing in hypothesis
+    6. 'with' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'please' — extra in hypothesis
+    3. 'give' — extra in hypothesis
+    4. 'me' — extra in hypothesis
+    5. 'a' — extra in hypothesis
+    6. 'moment' — extra in hypothesis
+    7. 'to' — extra in hypothesis
+    8. 'fetch' — extra in hypothesis
+    9. 'your' — extra in hypothesis
+    10. 'products' — extra in hypothesis
+    11. '10' — extra in hypothesis
+    12. 'what' — extra in hypothesis
+    13. 'else' — extra in hypothesis
+    14. 'something' — extra in hypothesis
+    15. 'and' — extra in hypothesis
+    16. 'follow' — extra in hypothesis
+    17. 'the' — extra in hypothesis
+    18. 'i' — extra in hypothesis
+    19. 'got' — extra in hypothesis
+    20. 'it' — extra in hypothesis
+    21. 'and' — extra in hypothesis
+    22. 'following' — extra in hypothesis
+    23. 'let' — extra in hypothesis
+    24. 'me' — extra in hypothesis
+🏁 [332017b6-9f62-444d-a657-7b733bc727fc] completed at 12:50:40, took 10.89s
+🚀 [3502253e-259a-42d3-ab70-7aedabeb81fa] started at 12:50:40
+🎯 Filtered 18 assistant utterances from 29 total utterances
+🎯 Filtered 10 Agent utterances from 20 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 5328 characters
+    📝 Hypothesis (Agent): 3970 characters
+✅ Saved canonical reference → calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 70 mismatches and measures to calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1312
+  Total GT NERs: 22
+  Total Ref NERs: 17
+  Unique GT NERs: 14
+  Unique Ref NERs: 9
+  Total Concerned GT NERs (PERSON/ORG): 3
+  Total Concerned Ref NERs (PERSON/ORG): 3
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.000885 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'nowwe' -> 'now'
+    3. 'are' -> 'were'
+    4. 'scientifically' -> 'scientificallybacked'
+    5. 'samjhaenge' -> 'samjhayenge'
+    6. 'karengeant' -> 'ant'
+    7. 'hogaab' -> 'ab'
+    8. 'up' -> 'upfront'
+    9. 'teen' -> '3'
+    10. 'chhah' -> '6'
+    11. 'plan' -> 'plans'
+    12. 'hogahamare' -> 'hoga'
+    13. 'longer' -> 'hamare'
+    14. 'term' -> 'longerterm'
+    15. 'outgoodbye' -> 'goodbye'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'backed' — missing in hypothesis
+    3. 'front' — missing in hypothesis
+  Insertions:
+    1. 'great' — extra in hypothesis
+    2. 'kya' — extra in hypothesis
+    3. 'main' — extra in hypothesis
+    4. 'aapko' — extra in hypothesis
+    5. 'explain' — extra in hypothesis
+    6. 'kar' — extra in hypothesis
+    7. 'sakti' — extra in hypothesis
+    8. 'hun' — extra in hypothesis
+    9. 'ki' — extra in hypothesis
+    10. 'ye' — extra in hypothesis
+    11. 'offerings' — extra in hypothesis
+    12. 'aapki' — extra in hypothesis
+    13. 'weight' — extra in hypothesis
+    14. 'karenge' — extra in hypothesis
+    15. 'hoga' — extra in hypothesis
+    16. 'rupees' — extra in hypothesis
+    17. 'great' — extra in hypothesis
+    18. 'out' — extra in hypothesis
+    19. 'goodbye' — extra in hypothesis
+    20. 'and' — extra in hypothesis
+    21. 'have' — extra in hypothesis
+    22. 'a' — extra in hypothesis
+    23. 'great' — extra in hypothesis
+    24. 'day' — extra in hypothesis
+    25. 'great' — extra in hypothesis
+    26. 'ill' — extra in hypothesis
+    27. 'send' — extra in hypothesis
+    28. 'you' — extra in hypothesis
+    29. 'the' — extra in hypothesis
+    30. 'payment' — extra in hypothesis
+    31. 'links' — extra in hypothesis
+    32. 'on' — extra in hypothesis
+    33. 'your' — extra in hypothesis
+    34. 'registered' — extra in hypothesis
+    35. 'mobile' — extra in hypothesis
+    36. 'number' — extra in hypothesis
+    37. 'via' — extra in hypothesis
+    38. 'whatsapp' — extra in hypothesis
+    39. 'if' — extra in hypothesis
+    40. 'you' — extra in hypothesis
+    41. 'have' — extra in hypothesis
+    42. 'any' — extra in hypothesis
+    43. 'more' — extra in hypothesis
+    44. 'doubts' — extra in hypothesis
+    45. 'in' — extra in hypothesis
+    46. 'the' — extra in hypothesis
+    47. 'future' — extra in hypothesis
+    48. 'feel' — extra in hypothesis
+    49. 'free' — extra in hypothesis
+    50. 'to' — extra in hypothesis
+    51. 'reach' — extra in hypothesis
+    52. 'out' — extra in hypothesis
+🏁 [3502253e-259a-42d3-ab70-7aedabeb81fa] completed at 12:51:05, took 24.53s
+🚀 [429ac8a5-6f19-46b3-97bb-8e55feec389e] started at 12:51:05
+🎯 Filtered 31 assistant utterances from 57 total utterances
+🎯 Filtered 39 Agent utterances from 69 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 5692 characters
+    📝 Hypothesis (Agent): 7860 characters
+✅ Saved canonical reference → calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 484 mismatches and measures to calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.5696
+  Total GT NERs: 45
+  Total Ref NERs: 26
+  Unique GT NERs: 13
+  Unique Ref NERs: 14
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.002969 seconds
+
+  Substitutions:
+    1. 'story' -> 'shtori'
+    2. 'story' -> 'with'
+    3. 'our' -> 'your'
+    4. 'story' -> 'shtori'
+    5. 'royal' -> 'royalcat'
+    6. 'soft' -> 'softride'
+    7. 'agnia' -> 'aaghnya'
+    8. 'agnia' -> 'aaghnya'
+    9. '1' -> 'one'
+    10. '1' -> 'one'
+    11. 'zaroor' -> 'need'
+    12. 'help' -> 'reach'
+    13. 'order' -> 'delivery'
+    14. 'i' -> 'partner'
+    15. 'shared' -> 'find'
+    16. 'the' -> 'their'
+    17. 'status' -> 'contact'
+    18. 'for' -> 'on'
+    19. 'status' -> 'my'
+    20. 'for' -> 'orders'
+    21. 'your' -> 'page'
+    22. 'orders' -> 'app'
+    23. 'me' -> 'jaroor'
+    24. 'i' -> 'istyle'
+    25. '1044' -> 'chavalis'
+    26. 'agnia' -> 'aaghnya'
+  Deletions:
+    1. 'cat' — missing in hypothesis
+    2. 'ride' — missing in hypothesis
+    3. 'i' — missing in hypothesis
+    4. 'style' — missing in hypothesis
+    5. 'can' — missing in hypothesis
+    6. 'top' — missing in hypothesis
+    7. 'your' — missing in hypothesis
+    8. 'is' — missing in hypothesis
+    9. 'out' — missing in hypothesis
+    10. 'for' — missing in hypothesis
+    11. 'main' — missing in hypothesis
+    12. 'hindi' — missing in hypothesis
+    13. 'mein' — missing in hypothesis
+    14. 'bata' — missing in hypothesis
+    15. 'sakti' — missing in hypothesis
+    16. 'hun' — missing in hypothesis
+    17. 'aapka' — missing in hypothesis
+    18. 'i' — missing in hypothesis
+    19. 'style' — missing in hypothesis
+    20. 'can' — missing in hypothesis
+    21. 'top' — missing in hypothesis
+    22. 'aaj' — missing in hypothesis
+    23. 'delivery' — missing in hypothesis
+    24. 'ke' — missing in hypothesis
+    25. 'liye' — missing in hypothesis
+    26. 'bahar' — missing in hypothesis
+    27. 'hai' — missing in hypothesis
+    28. 'there' — missing in hypothesis
+    29. 'how' — missing in hypothesis
+    30. 'can' — missing in hypothesis
+    31. 'i' — missing in hypothesis
+    32. 'continue' — missing in hypothesis
+    33. 'you' — missing in hypothesis
+    34. 'with' — missing in hypothesis
+    35. 'your' — missing in hypothesis
+    36. 'agnia' — missing in hypothesis
+    37. 'women' — missing in hypothesis
+    38. 'floral' — missing in hypothesis
+    39. 'print' — missing in hypothesis
+    40. 'mandarin' — missing in hypothesis
+    41. 'collar' — missing in hypothesis
+    42. 'flared' — missing in hypothesis
+    43. 'sleeve' — missing in hypothesis
+    44. 'shirt' — missing in hypothesis
+    45. 'style' — missing in hypothesis
+    46. 'top' — missing in hypothesis
+    47. 'and' — missing in hypothesis
+    48. 'your' — missing in hypothesis
+    49. 'istyle' — missing in hypothesis
+    50. 'can' — missing in hypothesis
+    51. 'top' — missing in hypothesis
+    52. 'if' — missing in hypothesis
+    53. 'theres' — missing in hypothesis
+    54. 'anything' — missing in hypothesis
+    55. 'more' — missing in hypothesis
+    56. 'youd' — missing in hypothesis
+    57. 'like' — missing in hypothesis
+    58. 'to' — missing in hypothesis
+    59. 'know' — missing in hypothesis
+    60. 'please' — missing in hypothesis
+    61. 'let' — missing in hypothesis
+    62. 'me' — missing in hypothesis
+    63. 'know' — missing in hypothesis
+    64. 'i' — missing in hypothesis
+    65. 'shared' — missing in hypothesis
+    66. 'agnia' — missing in hypothesis
+    67. 'women' — missing in hypothesis
+    68. 'floral' — missing in hypothesis
+    69. 'print' — missing in hypothesis
+    70. 'mandarin' — missing in hypothesis
+    71. 'collar' — missing in hypothesis
+    72. 'flared' — missing in hypothesis
+    73. 'sleeve' — missing in hypothesis
+    74. 'shirt' — missing in hypothesis
+    75. 'style' — missing in hypothesis
+    76. 'top' — missing in hypothesis
+    77. 'and' — missing in hypothesis
+    78. 'your' — missing in hypothesis
+    79. 'istyle' — missing in hypothesis
+    80. 'can' — missing in hypothesis
+    81. 'top' — missing in hypothesis
+    82. 'if' — missing in hypothesis
+    83. 'theres' — missing in hypothesis
+    84. 'anything' — missing in hypothesis
+    85. 'more' — missing in hypothesis
+    86. 'youd' — missing in hypothesis
+    87. 'like' — missing in hypothesis
+    88. 'to' — missing in hypothesis
+    89. 'hey' — missing in hypothesis
+    90. 'i' — missing in hypothesis
+    91. 'am' — missing in hypothesis
+    92. 'ray' — missing in hypothesis
+    93. 'from' — missing in hypothesis
+    94. 'myntra' — missing in hypothesis
+    95. 'here' — missing in hypothesis
+    96. 'to' — missing in hypothesis
+    97. 'assist' — missing in hypothesis
+    98. 'you' — missing in hypothesis
+    99. 'shall' — missing in hypothesis
+    100. 'we' — missing in hypothesis
+    101. 'proceed' — missing in hypothesis
+    102. 'further' — missing in hypothesis
+    103. 'hindi' — missing in hypothesis
+    104. 'or' — missing in hypothesis
+    105. 'english' — missing in hypothesis
+    106. 'great' — missing in hypothesis
+    107. 'how' — missing in hypothesis
+    108. 'can' — missing in hypothesis
+    109. 'i' — missing in hypothesis
+    110. 'help' — missing in hypothesis
+    111. 'you' — missing in hypothesis
+    112. 'today' — missing in hypothesis
+    113. 'i' — missing in hypothesis
+    114. 'apologize' — missing in hypothesis
+    115. 'but' — missing in hypothesis
+    116. 'im' — missing in hypothesis
+    117. 'here' — missing in hypothesis
+    118. 'to' — missing in hypothesis
+    119. 'assist' — missing in hypothesis
+    120. 'you' — missing in hypothesis
+    121. 'with' — missing in hypothesis
+    122. 'and' — missing in hypothesis
+    123. 'returns' — missing in hypothesis
+    124. 'how' — missing in hypothesis
+    125. 'can' — missing in hypothesis
+    126. 'i' — missing in hypothesis
+    127. 'help' — missing in hypothesis
+    128. 'you' — missing in hypothesis
+    129. 'with' — missing in hypothesis
+    130. 'those' — missing in hypothesis
+    131. 'today' — missing in hypothesis
+    132. 'got' — missing in hypothesis
+    133. 'it' — missing in hypothesis
+    134. 'could' — missing in hypothesis
+    135. 'you' — missing in hypothesis
+    136. 'the' — missing in hypothesis
+    137. 'product' — missing in hypothesis
+    138. 'name' — missing in hypothesis
+    139. 'or' — missing in hypothesis
+    140. 'brand' — missing in hypothesis
+    141. 'name' — missing in hypothesis
+    142. 'that' — missing in hypothesis
+    143. 'you' — missing in hypothesis
+    144. 'returned' — missing in hypothesis
+    145. 'so' — missing in hypothesis
+    146. 'i' — missing in hypothesis
+    147. 'can' — missing in hypothesis
+    148. 'check' — missing in hypothesis
+    149. 'the' — missing in hypothesis
+    150. 'status' — missing in hypothesis
+    151. 'for' — missing in hypothesis
+    152. 'you' — missing in hypothesis
+    153. 'please' — missing in hypothesis
+    154. 'give' — missing in hypothesis
+    155. 'me' — missing in hypothesis
+    156. 'a' — missing in hypothesis
+    157. 'moment' — missing in hypothesis
+    158. 'to' — missing in hypothesis
+    159. 'fetch' — missing in hypothesis
+    160. 'your' — missing in hypothesis
+    161. 'products' — missing in hypothesis
+    162. 'please' — missing in hypothesis
+    163. 'give' — missing in hypothesis
+    164. 'me' — missing in hypothesis
+    165. 'a' — missing in hypothesis
+    166. 'moment' — missing in hypothesis
+    167. 'to' — missing in hypothesis
+    168. 'fetch' — missing in hypothesis
+    169. 'your' — missing in hypothesis
+    170. 'products' — missing in hypothesis
+    171. 'i' — missing in hypothesis
+    172. 'found' — missing in hypothesis
+    173. 'a' — missing in hypothesis
+    174. 'product' — missing in hypothesis
+    175. 'that' — missing in hypothesis
+    176. 'matches' — missing in hypothesis
+    177. 'your' — missing in hypothesis
+    178. 'description' — missing in hypothesis
+    179. 'are' — missing in hypothesis
+    180. 'you' — missing in hypothesis
+    181. 'referring' — missing in hypothesis
+    182. 'to' — missing in hypothesis
+    183. 'the' — missing in hypothesis
+    184. 'story' — missing in hypothesis
+    185. 'plus' — missing in hypothesis
+    186. 'size' — missing in hypothesis
+    187. 'reflective' — missing in hypothesis
+    188. 'detail' — missing in hypothesis
+    189. 'tshirt' — missing in hypothesis
+    190. 'it' — missing in hypothesis
+    191. 'sounds' — missing in hypothesis
+    192. 'like' — missing in hypothesis
+    193. 'youre' — missing in hypothesis
+    194. 'referring' — missing in hypothesis
+    195. 'to' — missing in hypothesis
+    196. 'the' — missing in hypothesis
+    197. 'story' — missing in hypothesis
+    198. 'great' — missing in hypothesis
+    199. 'our' — missing in hypothesis
+    200. 'story' — missing in hypothesis
+    201. 'plus' — missing in hypothesis
+    202. 'size' — missing in hypothesis
+    203. 'reflective' — missing in hypothesis
+    204. 'detail' — missing in hypothesis
+    205. 'tshirt' — missing in hypothesis
+    206. 'is' — missing in hypothesis
+    207. 'expected' — missing in hypothesis
+    208. 'to' — missing in hypothesis
+    209. 'be' — missing in hypothesis
+    210. 'picked' — missing in hypothesis
+    211. 'up' — missing in hypothesis
+    212. 'by' — missing in hypothesis
+    213. '7' — missing in hypothesis
+    214. 'july' — missing in hypothesis
+    215. 'subject' — missing in hypothesis
+    216. 'to' — missing in hypothesis
+    217. 'quality' — missing in hypothesis
+    218. 'check' — missing in hypothesis
+    219. 'please' — missing in hypothesis
+    220. 'tell' — missing in hypothesis
+    221. 'me' — missing in hypothesis
+    222. 'is' — missing in hypothesis
+    223. 'there' — missing in hypothesis
+    224. 'anything' — missing in hypothesis
+    225. 'else' — missing in hypothesis
+    226. 'i' — missing in hypothesis
+    227. 'can' — missing in hypothesis
+    228. 'help' — missing in hypothesis
+    229. 'you' — missing in hypothesis
+    230. 'with' — missing in hypothesis
+    231. 'could' — missing in hypothesis
+    232. 'you' — missing in hypothesis
+    233. 'please' — missing in hypothesis
+    234. 'tell' — missing in hypothesis
+    235. 'me' — missing in hypothesis
+    236. 'the' — missing in hypothesis
+    237. 'product' — missing in hypothesis
+    238. 'name' — missing in hypothesis
+    239. 'or' — missing in hypothesis
+    240. 'brand' — missing in hypothesis
+    241. 'name' — missing in hypothesis
+    242. 'of' — missing in hypothesis
+    243. 'the' — missing in hypothesis
+    244. 'item' — missing in hypothesis
+    245. 'youre' — missing in hypothesis
+    246. 'referring' — missing in hypothesis
+    247. 'to' — missing in hypothesis
+    248. 'that' — missing in hypothesis
+    249. 'is' — missing in hypothesis
+    250. 'out' — missing in hypothesis
+    251. 'for' — missing in hypothesis
+    252. 'delivery' — missing in hypothesis
+    253. 'i' — missing in hypothesis
+    254. 'see' — missing in hypothesis
+    255. 'a' — missing in hypothesis
+    256. 'few' — missing in hypothesis
+    257. 'recent' — missing in hypothesis
+    258. 'orders' — missing in hypothesis
+    259. 'are' — missing in hypothesis
+    260. 'you' — missing in hypothesis
+    261. 'referring' — missing in hypothesis
+    262. 'to' — missing in hypothesis
+    263. 'the' — missing in hypothesis
+    264. 'puma' — missing in hypothesis
+    265. 'women' — missing in hypothesis
+    266. 'royal' — missing in hypothesis
+    267. 'cat' — missing in hypothesis
+    268. 'comfort' — missing in hypothesis
+    269. 'soft' — missing in hypothesis
+    270. 'ride' — missing in hypothesis
+    271. 'sliders' — missing in hypothesis
+    272. 'i' — missing in hypothesis
+    273. 'understand' — missing in hypothesis
+    274. 'could' — missing in hypothesis
+    275. 'you' — missing in hypothesis
+    276. 'check' — missing in hypothesis
+    277. 'if' — missing in hypothesis
+    278. 'it' — missing in hypothesis
+    279. 'might' — missing in hypothesis
+    280. 'be' — missing in hypothesis
+    281. 'the' — missing in hypothesis
+    282. 'agnia' — missing in hypothesis
+    283. 'women' — missing in hypothesis
+    284. 'floral' — missing in hypothesis
+    285. 'print' — missing in hypothesis
+    286. 'mandarin' — missing in hypothesis
+    287. 'collar' — missing in hypothesis
+    288. 'flared' — missing in hypothesis
+    289. 'sleeve' — missing in hypothesis
+    290. 'shirt' — missing in hypothesis
+    291. 'style' — missing in hypothesis
+    292. 'top' — missing in hypothesis
+    293. 'that' — missing in hypothesis
+    294. 'is' — missing in hypothesis
+    295. 'out' — missing in hypothesis
+    296. 'for' — missing in hypothesis
+    297. 'delivery' — missing in hypothesis
+    298. 'agnia' — missing in hypothesis
+    299. 'women' — missing in hypothesis
+    300. 'floral' — missing in hypothesis
+    301. 'print' — missing in hypothesis
+    302. 'mandarin' — missing in hypothesis
+    303. 'collar' — missing in hypothesis
+    304. 'flared' — missing in hypothesis
+    305. 'sleeve' — missing in hypothesis
+    306. 'shirt' — missing in hypothesis
+    307. 'style' — missing in hypothesis
+    308. 'top' — missing in hypothesis
+    309. 'will' — missing in hypothesis
+    310. 'be' — missing in hypothesis
+    311. 'delivered' — missing in hypothesis
+    312. 'on' — missing in hypothesis
+    313. 'or' — missing in hypothesis
+    314. 'before' — missing in hypothesis
+    315. 'tomorrow' — missing in hypothesis
+    316. 'please' — missing in hypothesis
+    317. 'tell' — missing in hypothesis
+    318. 'me' — missing in hypothesis
+    319. 'is' — missing in hypothesis
+    320. 'there' — missing in hypothesis
+    321. 'anything' — missing in hypothesis
+    322. 'else' — missing in hypothesis
+    323. 'i' — missing in hypothesis
+    324. 'can' — missing in hypothesis
+    325. 'help' — missing in hypothesis
+    326. 'you' — missing in hypothesis
+    327. 'with' — missing in hypothesis
+    328. 'i' — missing in hypothesis
+    329. 'can' — missing in hypothesis
+    330. 'definitely' — missing in hypothesis
+    331. 'help' — missing in hypothesis
+    332. 'with' — missing in hypothesis
+    333. 'all' — missing in hypothesis
+    334. 'of' — missing in hypothesis
+    335. 'your' — missing in hypothesis
+    336. 'items' — missing in hypothesis
+    337. 'lets' — missing in hypothesis
+    338. 'handle' — missing in hypothesis
+    339. 'them' — missing in hypothesis
+    340. '1' — missing in hypothesis
+    341. 'by' — missing in hypothesis
+    342. '1' — missing in hypothesis
+    343. 'to' — missing in hypothesis
+    344. 'make' — missing in hypothesis
+    345. 'sure' — missing in hypothesis
+    346. 'we' — missing in hypothesis
+    347. 'dont' — missing in hypothesis
+    348. 'miss' — missing in hypothesis
+    349. 'any' — missing in hypothesis
+    350. 'details' — missing in hypothesis
+    351. 'could' — missing in hypothesis
+    352. 'you' — missing in hypothesis
+    353. 'please' — missing in hypothesis
+    354. 'confirm' — missing in hypothesis
+    355. 'if' — missing in hypothesis
+    356. 'the' — missing in hypothesis
+    357. 'other' — missing in hypothesis
+    358. 'product' — missing in hypothesis
+    359. 'might' — missing in hypothesis
+    360. 'be' — missing in hypothesis
+    361. 'the' — missing in hypothesis
+    362. 'i' — missing in hypothesis
+    363. 'style' — missing in hypothesis
+    364. 'can' — missing in hypothesis
+    365. 'top' — missing in hypothesis
+    366. 'your' — missing in hypothesis
+    367. 'your' — missing in hypothesis
+    368. 'istyle' — missing in hypothesis
+    369. 'can' — missing in hypothesis
+    370. 'top' — missing in hypothesis
+    371. 'is' — missing in hypothesis
+    372. 'out' — missing in hypothesis
+    373. 'for' — missing in hypothesis
+    374. 'zaroor' — missing in hypothesis
+    375. 'style' — missing in hypothesis
+    376. 'i' — missing in hypothesis
+    377. 'shared' — missing in hypothesis
+    378. 'the' — missing in hypothesis
+    379. 'status' — missing in hypothesis
+    380. 'for' — missing in hypothesis
+    381. 'your' — missing in hypothesis
+    382. 'agnia' — missing in hypothesis
+    383. 'women' — missing in hypothesis
+    384. 'floral' — missing in hypothesis
+    385. 'print' — missing in hypothesis
+    386. 'mandarin' — missing in hypothesis
+    387. 'collar' — missing in hypothesis
+    388. 'flared' — missing in hypothesis
+    389. 'sleeve' — missing in hypothesis
+    390. 'shirt' — missing in hypothesis
+    391. 'style' — missing in hypothesis
+    392. 'top' — missing in hypothesis
+    393. 'and' — missing in hypothesis
+    394. 'your' — missing in hypothesis
+    395. 'istyle' — missing in hypothesis
+    396. 'can' — missing in hypothesis
+    397. 'top' — missing in hypothesis
+    398. 'if' — missing in hypothesis
+    399. 'theres' — missing in hypothesis
+    400. 'anything' — missing in hypothesis
+    401. 'more' — missing in hypothesis
+    402. 'youd' — missing in hypothesis
+    403. 'like' — missing in hypothesis
+    404. 'to' — missing in hypothesis
+  Insertions:
+    1. 'got' — extra in hypothesis
+    2. 'it' — extra in hypothesis
+    3. 'shtori' — extra in hypothesis
+    4. 'plus' — extra in hypothesis
+    5. 'your' — extra in hypothesis
+    6. 'shtori' — extra in hypothesis
+    7. 'plus' — extra in hypothesis
+    8. 'size' — extra in hypothesis
+    9. 'reflective' — extra in hypothesis
+    10. 'detail' — extra in hypothesis
+    11. 'tshirt' — extra in hypothesis
+    12. 'is' — extra in hypothesis
+    13. 'expected' — extra in hypothesis
+    14. 'to' — extra in hypothesis
+    15. 'be' — extra in hypothesis
+    16. 'picked' — extra in hypothesis
+    17. 'up' — extra in hypothesis
+    18. 'by' — extra in hypothesis
+    19. '7' — extra in hypothesis
+    20. 'july' — extra in hypothesis
+    21. 'subject' — extra in hypothesis
+    22. 'to' — extra in hypothesis
+    23. 'quality' — extra in hypothesis
+    24. 'check' — extra in hypothesis
+    25. 'please' — extra in hypothesis
+    26. 'tell' — extra in hypothesis
+    27. 'me' — extra in hypothesis
+    28. 'is' — extra in hypothesis
+    29. 'there' — extra in hypothesis
+    30. 'anything' — extra in hypothesis
+    31. 'else' — extra in hypothesis
+    32. 'i' — extra in hypothesis
+    33. 'can' — extra in hypothesis
+    34. 'help' — extra in hypothesis
+    35. 'you' — extra in hypothesis
+    36. 'is' — extra in hypothesis
+    37. 'there' — extra in hypothesis
+    38. 'please' — extra in hypothesis
+    39. 'give' — extra in hypothesis
+    40. 'me' — extra in hypothesis
+    41. 'a' — extra in hypothesis
+    42. 'moment' — extra in hypothesis
+    43. 'to' — extra in hypothesis
+    44. 'fetch' — extra in hypothesis
+    45. 'your' — extra in hypothesis
+    46. 'products' — extra in hypothesis
+    47. 'das' — extra in hypothesis
+    48. 'bajkar' — extra in hypothesis
+    49. 'pahunchne' — extra in hypothesis
+    50. 'ki' — extra in hypothesis
+    51. 'ummid' — extra in hypothesis
+    52. 'hai' — extra in hypothesis
+    53. 'kya' — extra in hypothesis
+    54. 'continue' — extra in hypothesis
+🏁 [429ac8a5-6f19-46b3-97bb-8e55feec389e] completed at 12:51:34, took 29.66s
+🚀 [482181f8-15e2-4ced-8a9a-67facdd9c6fc] started at 12:51:34
+🎯 Filtered 21 assistant utterances from 36 total utterances
+🎯 Filtered 14 Agent utterances from 27 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3992 characters
+    📝 Hypothesis (Agent): 3142 characters
+✅ Saved canonical reference → calls/482181f8-15e2-4ced-8a9a-67facdd9c6fc/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/482181f8-15e2-4ced-8a9a-67facdd9c6fc/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 12 mismatches and measures to calls/482181f8-15e2-4ced-8a9a-67facdd9c6fc/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/482181f8-15e2-4ced-8a9a-67facdd9c6fc/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0373
+  Total GT NERs: 13
+  Total Ref NERs: 13
+  Unique GT NERs: 8
+  Unique Ref NERs: 9
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000440 seconds
+
+  Substitutions:
+    1. 'all' -> 'alright'
+    2. 'tshirt' -> 'shirt'
+    3. 'h' -> 'ech'
+    4. 'and' -> 'end'
+    5. 'm' -> 'em'
+    6. 'tshirt' -> 'shirt'
+    7. 'im' -> 'am'
+  Deletions:
+    1. 'right' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 't' — extra in hypothesis
+    3. 't' — extra in hypothesis
+    4. 'i' — extra in hypothesis
+🏁 [482181f8-15e2-4ced-8a9a-67facdd9c6fc] completed at 12:51:46, took 11.25s
+🚀 [5cdef144-9d6a-4100-9be6-8489f90fc466] started at 12:51:46
+🎯 Filtered 19 assistant utterances from 35 total utterances
+🎯 Filtered 14 Agent utterances from 24 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4684 characters
+    📝 Hypothesis (Agent): 3948 characters
+✅ Saved canonical reference → calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 16 mismatches and measures to calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0359
+  Total GT NERs: 21
+  Total Ref NERs: 16
+  Unique GT NERs: 10
+  Unique Ref NERs: 8
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 2
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.000621 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'road' -> 'roadmap'
+    3. 'court' -> 'coach'
+    4. '1' -> 'one'
+    5. 'he' -> 'the'
+    6. 'rs' -> 'rupees'
+    7. 'we' -> 'weve'
+    8. 'have' -> 'covered'
+    9. '2' -> 'two'
+    10. 'up' -> 'upfront'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'map' — missing in hypothesis
+    3. 'cover' — missing in hypothesis
+    4. 'front' — missing in hypothesis
+  Insertions:
+    1. 'i' — extra in hypothesis
+    2. 'weve' — extra in hypothesis
+🏁 [5cdef144-9d6a-4100-9be6-8489f90fc466] completed at 12:52:01, took 15.10s
+🚀 [5f4d919f-b1bc-4a3d-9d98-1f8279d51215] started at 12:52:01
+🎯 Filtered 19 assistant utterances from 34 total utterances
+🎯 Filtered 12 Agent utterances from 21 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4203 characters
+    📝 Hypothesis (Agent): 3388 characters
+✅ Saved canonical reference → calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 14 mismatches and measures to calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0345
+  Total GT NERs: 11
+  Total Ref NERs: 12
+  Unique GT NERs: 6
+  Unique Ref NERs: 6
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 2
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.000491 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'road' -> 'roadmap'
+    3. 'a' -> 'our'
+    4. 'allinone' -> 'one'
+    5. 'road' -> 'roadmap'
+    6. 'his' -> 'this'
+    7. 'ake' -> 'take'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'map' — missing in hypothesis
+    3. 'map' — missing in hypothesis
+  Insertions:
+    1. 'got' — extra in hypothesis
+    2. 'it' — extra in hypothesis
+    3. 'all' — extra in hypothesis
+    4. 'in' — extra in hypothesis
+🏁 [5f4d919f-b1bc-4a3d-9d98-1f8279d51215] completed at 12:52:14, took 13.72s
+🚀 [750dfc05-c2c4-4937-a85d-46f597dc9880] started at 12:52:14
+🎯 Filtered 14 assistant utterances from 24 total utterances
+🎯 Filtered 12 Agent utterances from 22 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4216 characters
+    📝 Hypothesis (Agent): 3771 characters
+✅ Saved canonical reference → calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 476 mismatches and measures to calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 476.0000
+  Total GT NERs: 0
+  Total Ref NERs: 15
+  Unique GT NERs: 0
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 0
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 0
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.002655 seconds
+
+  Substitutions:
+  Deletions:
+  Insertions:
+    1. 'this' — extra in hypothesis
+    2. 'is' — extra in hypothesis
+    3. 'priya' — extra in hypothesis
+    4. 'from' — extra in hypothesis
+    5. 'elevatenow' — extra in hypothesis
+    6. 'am' — extra in hypothesis
+    7. 'i' — extra in hypothesis
+    8. 'speaking' — extra in hypothesis
+    9. 'with' — extra in hypothesis
+    10. 'yogesh' — extra in hypothesis
+    11. 'deshmukh' — extra in hypothesis
+    12. 'i' — extra in hypothesis
+    13. 'noticed' — extra in hypothesis
+    14. 'youve' — extra in hypothesis
+    15. 'been' — extra in hypothesis
+    16. 'quiet' — extra in hypothesis
+    17. 'are' — extra in hypothesis
+    18. 'you' — extra in hypothesis
+    19. 'still' — extra in hypothesis
+    20. 'there' — extra in hypothesis
+    21. 'great' — extra in hypothesis
+    22. 'i' — extra in hypothesis
+    23. 'noticed' — extra in hypothesis
+    24. 'you' — extra in hypothesis
+    25. 'were' — extra in hypothesis
+    26. 'checking' — extra in hypothesis
+    27. 'out' — extra in hypothesis
+    28. 'our' — extra in hypothesis
+    29. 'nano' — extra in hypothesis
+    30. 'plan' — extra in hypothesis
+    31. 'but' — extra in hypothesis
+    32. 'didnt' — extra in hypothesis
+    33. 'complete' — extra in hypothesis
+    34. 'the' — extra in hypothesis
+    35. 'payment' — extra in hypothesis
+    36. 'id' — extra in hypothesis
+    37. 'love' — extra in hypothesis
+    38. 'to' — extra in hypothesis
+    39. 'understand' — extra in hypothesis
+    40. 'what' — extra in hypothesis
+    41. 'motivated' — extra in hypothesis
+    42. 'you' — extra in hypothesis
+    43. 'to' — extra in hypothesis
+    44. 'consider' — extra in hypothesis
+    45. 'our' — extra in hypothesis
+    46. 'program' — extra in hypothesis
+    47. 'and' — extra in hypothesis
+    48. 'what' — extra in hypothesis
+    49. 'your' — extra in hypothesis
+    50. 'weight' — extra in hypothesis
+    51. 'loss' — extra in hypothesis
+    52. 'goals' — extra in hypothesis
+    53. 'are' — extra in hypothesis
+    54. 'i' — extra in hypothesis
+    55. 'noticed' — extra in hypothesis
+    56. 'youve' — extra in hypothesis
+    57. 'been' — extra in hypothesis
+    58. 'quiet' — extra in hypothesis
+    59. 'are' — extra in hypothesis
+    60. 'you' — extra in hypothesis
+    61. 'still' — extra in hypothesis
+    62. 'there' — extra in hypothesis
+    63. 'based' — extra in hypothesis
+    64. 'on' — extra in hypothesis
+    65. 'your' — extra in hypothesis
+    66. 'bmi' — extra in hypothesis
+    67. 'of' — extra in hypothesis
+    68. '25' — extra in hypothesis
+    69. 'its' — extra in hypothesis
+    70. 'clear' — extra in hypothesis
+    71. 'your' — extra in hypothesis
+    72. 'body' — extra in hypothesis
+    73. 'is' — extra in hypothesis
+    74. 'sending' — extra in hypothesis
+    75. 'signals' — extra in hypothesis
+    76. 'about' — extra in hypothesis
+    77. 'how' — extra in hypothesis
+    78. 'its' — extra in hypothesis
+    79. 'handling' — extra in hypothesis
+    80. 'weight' — extra in hypothesis
+    81. 'and' — extra in hypothesis
+    82. 'metabolism' — extra in hypothesis
+    83. 'right' — extra in hypothesis
+    84. 'now' — extra in hypothesis
+    85. 'were' — extra in hypothesis
+    86. 'genuinely' — extra in hypothesis
+    87. 'excited' — extra in hypothesis
+    88. 'to' — extra in hypothesis
+    89. 'support' — extra in hypothesis
+    90. 'your' — extra in hypothesis
+    91. 'goals' — extra in hypothesis
+    92. 'and' — extra in hypothesis
+    93. 'the' — extra in hypothesis
+    94. 'nano' — extra in hypothesis
+    95. 'plan' — extra in hypothesis
+    96. 'is' — extra in hypothesis
+    97. 'designed' — extra in hypothesis
+    98. 'to' — extra in hypothesis
+    99. 'work' — extra in hypothesis
+    100. 'with' — extra in hypothesis
+    101. 'your' — extra in hypothesis
+    102. 'bodys' — extra in hypothesis
+    103. 'current' — extra in hypothesis
+    104. 'state' — extra in hypothesis
+    105. 'to' — extra in hypothesis
+    106. 'make' — extra in hypothesis
+    107. 'weight' — extra in hypothesis
+    108. 'loss' — extra in hypothesis
+    109. 'easier' — extra in hypothesis
+    110. 'and' — extra in hypothesis
+    111. 'more' — extra in hypothesis
+    112. 'effective' — extra in hypothesis
+    113. 'would' — extra in hypothesis
+    114. 'you' — extra in hypothesis
+    115. 'like' — extra in hypothesis
+    116. 'to' — extra in hypothesis
+    117. 'discuss' — extra in hypothesis
+    118. 'a' — extra in hypothesis
+    119. 'personalized' — extra in hypothesis
+    120. 'plan' — extra in hypothesis
+    121. 'to' — extra in hypothesis
+    122. 'address' — extra in hypothesis
+    123. 'these' — extra in hypothesis
+    124. 'challenges' — extra in hypothesis
+    125. 'and' — extra in hypothesis
+    126. 'achieve' — extra in hypothesis
+    127. 'sustainable' — extra in hypothesis
+    128. 'weight' — extra in hypothesis
+    129. 'loss' — extra in hypothesis
+    130. 'great' — extra in hypothesis
+    131. 'have' — extra in hypothesis
+    132. 'you' — extra in hypothesis
+    133. 'had' — extra in hypothesis
+    134. 'any' — extra in hypothesis
+    135. 'past' — extra in hypothesis
+    136. 'experiences' — extra in hypothesis
+    137. 'with' — extra in hypothesis
+    138. 'other' — extra in hypothesis
+    139. 'weight' — extra in hypothesis
+    140. 'loss' — extra in hypothesis
+    141. 'programs' — extra in hypothesis
+    142. 'if' — extra in hypothesis
+    143. 'did' — extra in hypothesis
+    144. 'they' — extra in hypothesis
+    145. 'work' — extra in hypothesis
+    146. 'for' — extra in hypothesis
+    147. 'you' — extra in hypothesis
+    148. 'youre' — extra in hypothesis
+    149. 'in' — extra in hypothesis
+    150. 'the' — extra in hypothesis
+    151. 'right' — extra in hypothesis
+    152. 'place' — extra in hypothesis
+    153. 'let' — extra in hypothesis
+    154. 'me' — extra in hypothesis
+    155. 'give' — extra in hypothesis
+    156. 'you' — extra in hypothesis
+    157. 'a' — extra in hypothesis
+    158. 'quick' — extra in hypothesis
+    159. 'intro' — extra in hypothesis
+    160. 'to' — extra in hypothesis
+    161. 'what' — extra in hypothesis
+    162. 'we' — extra in hypothesis
+    163. 'offer' — extra in hypothesis
+    164. 'the' — extra in hypothesis
+    165. 'nano' — extra in hypothesis
+    166. 'plan' — extra in hypothesis
+    167. 'includes' — extra in hypothesis
+    168. 'a' — extra in hypothesis
+    169. 'blood' — extra in hypothesis
+    170. 'test' — extra in hypothesis
+    171. 'a' — extra in hypothesis
+    172. 'consultation' — extra in hypothesis
+    173. 'with' — extra in hypothesis
+    174. 'a' — extra in hypothesis
+    175. 'doctor' — extra in hypothesis
+    176. 'specialized' — extra in hypothesis
+    177. 'in' — extra in hypothesis
+    178. 'obesity' — extra in hypothesis
+    179. 'and' — extra in hypothesis
+    180. 'a' — extra in hypothesis
+    181. 'session' — extra in hypothesis
+    182. 'with' — extra in hypothesis
+    183. 'a' — extra in hypothesis
+    184. 'senior' — extra in hypothesis
+    185. 'health' — extra in hypothesis
+    186. 'coach' — extra in hypothesis
+    187. 'these' — extra in hypothesis
+    188. 'are' — extra in hypothesis
+    189. 'designed' — extra in hypothesis
+    190. 'to' — extra in hypothesis
+    191. 'help' — extra in hypothesis
+    192. 'you' — extra in hypothesis
+    193. 'achieve' — extra in hypothesis
+    194. 'your' — extra in hypothesis
+    195. 'weight' — extra in hypothesis
+    196. 'loss' — extra in hypothesis
+    197. 'goals' — extra in hypothesis
+    198. 'unless' — extra in hypothesis
+    199. 'you' — extra in hypothesis
+    200. 'have' — extra in hypothesis
+    201. 'any' — extra in hypothesis
+    202. 'specific' — extra in hypothesis
+    203. 'questions' — extra in hypothesis
+    204. 'related' — extra in hypothesis
+    205. 'to' — extra in hypothesis
+    206. 'these' — extra in hypothesis
+    207. 'offerings' — extra in hypothesis
+    208. 'can' — extra in hypothesis
+    209. 'i' — extra in hypothesis
+    210. 'explain' — extra in hypothesis
+    211. 'how' — extra in hypothesis
+    212. 'they' — extra in hypothesis
+    213. 'can' — extra in hypothesis
+    214. 'benefit' — extra in hypothesis
+    215. 'your' — extra in hypothesis
+    216. 'journey' — extra in hypothesis
+    217. 'sure' — extra in hypothesis
+    218. 'heres' — extra in hypothesis
+    219. 'a' — extra in hypothesis
+    220. 'brief' — extra in hypothesis
+    221. 'overview' — extra in hypothesis
+    222. 'of' — extra in hypothesis
+    223. 'how' — extra in hypothesis
+    224. 'the' — extra in hypothesis
+    225. 'nano' — extra in hypothesis
+    226. 'plan' — extra in hypothesis
+    227. 'works' — extra in hypothesis
+    228. 'for' — extra in hypothesis
+    229. 'you' — extra in hypothesis
+    230. 'it' — extra in hypothesis
+    231. 'starts' — extra in hypothesis
+    232. 'with' — extra in hypothesis
+    233. 'a' — extra in hypothesis
+    234. 'comprehensive' — extra in hypothesis
+    235. 'blood' — extra in hypothesis
+    236. 'test' — extra in hypothesis
+    237. 'to' — extra in hypothesis
+    238. 'identify' — extra in hypothesis
+    239. 'key' — extra in hypothesis
+    240. 'metabolic' — extra in hypothesis
+    241. 'issues' — extra in hypothesis
+    242. 'like' — extra in hypothesis
+    243. 'insulin' — extra in hypothesis
+    244. 'resistance' — extra in hypothesis
+    245. 'and' — extra in hypothesis
+    246. 'hormonal' — extra in hypothesis
+    247. 'imbalances' — extra in hypothesis
+    248. 'then' — extra in hypothesis
+    249. 'a' — extra in hypothesis
+    250. 'senior' — extra in hypothesis
+    251. 'obesity' — extra in hypothesis
+    252. 'specialist' — extra in hypothesis
+    253. 'will' — extra in hypothesis
+    254. 'review' — extra in hypothesis
+    255. 'your' — extra in hypothesis
+    256. 'results' — extra in hypothesis
+    257. 'and' — extra in hypothesis
+    258. 'discuss' — extra in hypothesis
+    259. 'how' — extra in hypothesis
+    260. 'they' — extra in hypothesis
+    261. 'impact' — extra in hypothesis
+    262. 'your' — extra in hypothesis
+    263. 'health' — extra in hypothesis
+    264. 'finally' — extra in hypothesis
+    265. 'a' — extra in hypothesis
+    266. 'health' — extra in hypothesis
+    267. 'coach' — extra in hypothesis
+    268. 'will' — extra in hypothesis
+    269. 'create' — extra in hypothesis
+    270. 'a' — extra in hypothesis
+    271. 'personalized' — extra in hypothesis
+    272. 'plan' — extra in hypothesis
+    273. 'tailored' — extra in hypothesis
+    274. 'to' — extra in hypothesis
+    275. 'your' — extra in hypothesis
+    276. 'needs' — extra in hypothesis
+    277. 'now' — extra in hypothesis
+    278. 'that' — extra in hypothesis
+    279. 'weve' — extra in hypothesis
+    280. 'covered' — extra in hypothesis
+    281. 'the' — extra in hypothesis
+    282. 'offerings' — extra in hypothesis
+    283. 'would' — extra in hypothesis
+    284. 'you' — extra in hypothesis
+    285. 'like' — extra in hypothesis
+    286. 'to' — extra in hypothesis
+    287. 'know' — extra in hypothesis
+    288. 'about' — extra in hypothesis
+    289. 'the' — extra in hypothesis
+    290. 'pricing' — extra in hypothesis
+    291. 'the' — extra in hypothesis
+    292. 'nano' — extra in hypothesis
+    293. 'plan' — extra in hypothesis
+    294. 'is' — extra in hypothesis
+    295. 'designed' — extra in hypothesis
+    296. 'to' — extra in hypothesis
+    297. 'be' — extra in hypothesis
+    298. 'affordable' — extra in hypothesis
+    299. 'at' — extra in hypothesis
+    300. 'rupees' — extra in hypothesis
+    301. '1799' — extra in hypothesis
+    302. 'including' — extra in hypothesis
+    303. 'the' — extra in hypothesis
+    304. 'blood' — extra in hypothesis
+    305. 'test' — extra in hypothesis
+    306. 'metabolic' — extra in hypothesis
+    307. 'report' — extra in hypothesis
+    308. 'and' — extra in hypothesis
+    309. 'doctor' — extra in hypothesis
+    310. 'consultation' — extra in hypothesis
+    311. 'this' — extra in hypothesis
+    312. 'is' — extra in hypothesis
+    313. 'a' — extra in hypothesis
+    314. '1' — extra in hypothesis
+    315. 'time' — extra in hypothesis
+    316. 'payment' — extra in hypothesis
+    317. 'giving' — extra in hypothesis
+    318. 'you' — extra in hypothesis
+    319. 'access' — extra in hypothesis
+    320. 'to' — extra in hypothesis
+    321. 'premium' — extra in hypothesis
+    322. 'services' — extra in hypothesis
+    323. 'at' — extra in hypothesis
+    324. 'a' — extra in hypothesis
+    325. 'fraction' — extra in hypothesis
+    326. 'of' — extra in hypothesis
+    327. 'the' — extra in hypothesis
+    328. 'typical' — extra in hypothesis
+    329. 'cost' — extra in hypothesis
+    330. 'which' — extra in hypothesis
+    331. 'can' — extra in hypothesis
+    332. 'be' — extra in hypothesis
+    333. 'around' — extra in hypothesis
+    334. 'rupees' — extra in hypothesis
+    335. '6000' — extra in hypothesis
+    336. 'otherwise' — extra in hypothesis
+    337. 'what' — extra in hypothesis
+    338. 'do' — extra in hypothesis
+    339. 'you' — extra in hypothesis
+    340. 'think' — extra in hypothesis
+    341. 'about' — extra in hypothesis
+    342. 'the' — extra in hypothesis
+    343. 'pricing' — extra in hypothesis
+    344. 'now' — extra in hypothesis
+    345. 'that' — extra in hypothesis
+    346. 'weve' — extra in hypothesis
+    347. 'talked' — extra in hypothesis
+    348. 'about' — extra in hypothesis
+    349. 'the' — extra in hypothesis
+    350. 'offerings' — extra in hypothesis
+    351. 'and' — extra in hypothesis
+    352. 'pricing' — extra in hypothesis
+    353. 'i' — extra in hypothesis
+    354. 'really' — extra in hypothesis
+    355. 'think' — extra in hypothesis
+    356. 'the' — extra in hypothesis
+    357. 'nano' — extra in hypothesis
+    358. 'plan' — extra in hypothesis
+    359. 'can' — extra in hypothesis
+    360. 'be' — extra in hypothesis
+    361. 'a' — extra in hypothesis
+    362. 'great' — extra in hypothesis
+    363. 'starting' — extra in hypothesis
+    364. 'point' — extra in hypothesis
+    365. 'for' — extra in hypothesis
+    366. 'you' — extra in hypothesis
+    367. 'to' — extra in hypothesis
+    368. 'achieve' — extra in hypothesis
+    369. 'your' — extra in hypothesis
+    370. 'weight' — extra in hypothesis
+    371. 'loss' — extra in hypothesis
+    372. 'goals' — extra in hypothesis
+    373. 'would' — extra in hypothesis
+    374. 'you' — extra in hypothesis
+    375. 'like' — extra in hypothesis
+    376. 'to' — extra in hypothesis
+    377. 'proceed' — extra in hypothesis
+    378. 'with' — extra in hypothesis
+    379. 'the' — extra in hypothesis
+    380. 'payment' — extra in hypothesis
+    381. 'great' — extra in hypothesis
+    382. 'you' — extra in hypothesis
+    383. 'can' — extra in hypothesis
+    384. 'choose' — extra in hypothesis
+    385. 'between' — extra in hypothesis
+    386. '2' — extra in hypothesis
+    387. 'payment' — extra in hypothesis
+    388. 'options' — extra in hypothesis
+    389. 'a' — extra in hypothesis
+    390. 'partial' — extra in hypothesis
+    391. 'payment' — extra in hypothesis
+    392. 'of' — extra in hypothesis
+    393. 'rupees' — extra in hypothesis
+    394. '499' — extra in hypothesis
+    395. 'now' — extra in hypothesis
+    396. 'and' — extra in hypothesis
+    397. 'the' — extra in hypothesis
+    398. 'remaining' — extra in hypothesis
+    399. 'rupees' — extra in hypothesis
+    400. '1399' — extra in hypothesis
+    401. 'at' — extra in hypothesis
+    402. 'the' — extra in hypothesis
+    403. 'time' — extra in hypothesis
+    404. 'of' — extra in hypothesis
+    405. 'blood' — extra in hypothesis
+    406. 'sample' — extra in hypothesis
+    407. 'collection' — extra in hypothesis
+    408. 'or' — extra in hypothesis
+    409. 'a' — extra in hypothesis
+    410. 'full' — extra in hypothesis
+    411. 'payment' — extra in hypothesis
+    412. 'of' — extra in hypothesis
+    413. 'rupees' — extra in hypothesis
+    414. '1799' — extra in hypothesis
+    415. 'upfront' — extra in hypothesis
+    416. 'ill' — extra in hypothesis
+    417. 'send' — extra in hypothesis
+    418. 'both' — extra in hypothesis
+    419. 'payment' — extra in hypothesis
+    420. 'links' — extra in hypothesis
+    421. 'to' — extra in hypothesis
+    422. 'your' — extra in hypothesis
+    423. 'registered' — extra in hypothesis
+    424. 'mobile' — extra in hypothesis
+    425. 'number' — extra in hypothesis
+    426. 'via' — extra in hypothesis
+    427. 'whatsapp' — extra in hypothesis
+    428. 'do' — extra in hypothesis
+    429. 'you' — extra in hypothesis
+    430. 'have' — extra in hypothesis
+    431. 'any' — extra in hypothesis
+    432. 'more' — extra in hypothesis
+    433. 'questions' — extra in hypothesis
+    434. 'before' — extra in hypothesis
+    435. 'we' — extra in hypothesis
+    436. 'proceed' — extra in hypothesis
+    437. 'perfect' — extra in hypothesis
+    438. 'ill' — extra in hypothesis
+    439. 'send' — extra in hypothesis
+    440. 'the' — extra in hypothesis
+    441. 'payment' — extra in hypothesis
+    442. 'links' — extra in hypothesis
+    443. 'to' — extra in hypothesis
+    444. 'your' — extra in hypothesis
+    445. 'registered' — extra in hypothesis
+    446. 'mobile' — extra in hypothesis
+    447. 'number' — extra in hypothesis
+    448. 'if' — extra in hypothesis
+    449. 'you' — extra in hypothesis
+    450. 'have' — extra in hypothesis
+    451. 'any' — extra in hypothesis
+    452. 'more' — extra in hypothesis
+    453. 'questions' — extra in hypothesis
+    454. 'in' — extra in hypothesis
+    455. 'the' — extra in hypothesis
+    456. 'future' — extra in hypothesis
+    457. 'feel' — extra in hypothesis
+    458. 'free' — extra in hypothesis
+    459. 'to' — extra in hypothesis
+    460. 'reach' — extra in hypothesis
+    461. 'out' — extra in hypothesis
+    462. 'goodbye' — extra in hypothesis
+    463. 'and' — extra in hypothesis
+    464. 'have' — extra in hypothesis
+    465. 'a' — extra in hypothesis
+    466. 'great' — extra in hypothesis
+    467. 'day' — extra in hypothesis
+    468. 'i' — extra in hypothesis
+    469. 'noticed' — extra in hypothesis
+    470. 'youve' — extra in hypothesis
+    471. 'been' — extra in hypothesis
+    472. 'quiet' — extra in hypothesis
+    473. 'are' — extra in hypothesis
+    474. 'you' — extra in hypothesis
+    475. 'still' — extra in hypothesis
+    476. 'there' — extra in hypothesis
+🏁 [750dfc05-c2c4-4937-a85d-46f597dc9880] completed at 12:52:27, took 12.70s
+🚀 [79e02e46-ea93-4669-9dc1-6c4339dcc6ba] started at 12:52:27
+🎯 Filtered 15 assistant utterances from 30 total utterances
+🎯 Filtered 12 Agent utterances from 23 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3049 characters
+    📝 Hypothesis (Agent): 2512 characters
+✅ Saved canonical reference → calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 18 mismatches and measures to calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0912
+  Total GT NERs: 16
+  Total Ref NERs: 16
+  Unique GT NERs: 12
+  Unique Ref NERs: 13
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000450 seconds
+
+  Substitutions:
+    1. '18th' -> 'eighteenth'
+    2. 'n' -> 'end'
+    3. 'masculine' -> 'sasa'
+    4. 'sasafers' -> 'fars'
+    5. 'unrl' -> 'rl'
+  Deletions:
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. '5' — extra in hypothesis
+    3. 'is' — extra in hypothesis
+    4. 'this' — extra in hypothesis
+    5. 'the' — extra in hypothesis
+    6. 'item' — extra in hypothesis
+    7. 'you' — extra in hypothesis
+    8. 'created' — extra in hypothesis
+    9. 'a' — extra in hypothesis
+    10. 'return' — extra in hypothesis
+    11. 'for' — extra in hypothesis
+    12. 'masculincaline' — extra in hypothesis
+    13. 'un' — extra in hypothesis
+🏁 [79e02e46-ea93-4669-9dc1-6c4339dcc6ba] completed at 12:52:40, took 12.56s
+🚀 [7bbd5f06-2ac0-4227-be76-4ce7ef7cb567] started at 12:52:40
+🎯 Filtered 15 assistant utterances from 25 total utterances
+🎯 Filtered 15 Agent utterances from 26 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4362 characters
+    📝 Hypothesis (Agent): 4097 characters
+✅ Saved canonical reference → calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 13 mismatches and measures to calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0265
+  Total GT NERs: 20
+  Total Ref NERs: 20
+  Unique GT NERs: 12
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 2
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.000543 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'we' -> 'were'
+    3. 'hen' -> 'then'
+    4. 'road' -> 'roadmap'
+    5. 'up' -> 'upfront'
+    6. 'good' -> 'goodbye'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'map' — missing in hypothesis
+    4. 'front' — missing in hypothesis
+    5. 'bye' — missing in hypothesis
+  Insertions:
+    1. 'with' — extra in hypothesis
+    2. 'nidhi' — extra in hypothesis
+🏁 [7bbd5f06-2ac0-4227-be76-4ce7ef7cb567] completed at 12:52:56, took 16.31s
+🚀 [7fd6b5f9-8b11-4085-b864-a16f92504e53] started at 12:52:56
+🎯 Filtered 23 assistant utterances from 44 total utterances
+🎯 Filtered 15 Agent utterances from 29 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 5800 characters
+    📝 Hypothesis (Agent): 5058 characters
+✅ Saved canonical reference → calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 67 mismatches and measures to calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1078
+  Total GT NERs: 22
+  Total Ref NERs: 13
+  Unique GT NERs: 8
+  Unique Ref NERs: 8
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 3
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.000895 seconds
+
+  Substitutions:
+    1. 'we' -> 'were'
+    2. 'we' -> 'were'
+    3. 'road' -> 'roadmap'
+  Deletions:
+    1. 'are' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'map' — missing in hypothesis
+    4. 'the' — missing in hypothesis
+    5. 'nano' — missing in hypothesis
+    6. 'plan' — missing in hypothesis
+    7. 'offers' — missing in hypothesis
+    8. 'flexibility' — missing in hypothesis
+    9. 'with' — missing in hypothesis
+    10. 'two' — missing in hypothesis
+    11. 'payment' — missing in hypothesis
+    12. 'options' — missing in hypothesis
+    13. 'a' — missing in hypothesis
+    14. 'partial' — missing in hypothesis
+    15. 'payment' — missing in hypothesis
+    16. 'of' — missing in hypothesis
+    17. 'rupees' — missing in hypothesis
+    18. '499' — missing in hypothesis
+    19. 'now' — missing in hypothesis
+    20. 'and' — missing in hypothesis
+    21. 'the' — missing in hypothesis
+    22. 'remaining' — missing in hypothesis
+    23. 'rupees' — missing in hypothesis
+    24. '1399' — missing in hypothesis
+    25. 'at' — missing in hypothesis
+    26. 'the' — missing in hypothesis
+    27. 'time' — missing in hypothesis
+    28. 'of' — missing in hypothesis
+    29. 'blood' — missing in hypothesis
+    30. 'sample' — missing in hypothesis
+    31. 'collection' — missing in hypothesis
+    32. 'or' — missing in hypothesis
+    33. 'a' — missing in hypothesis
+    34. 'full' — missing in hypothesis
+    35. 'payment' — missing in hypothesis
+    36. 'of' — missing in hypothesis
+    37. 'rupees' — missing in hypothesis
+    38. '1799' — missing in hypothesis
+    39. 'up' — missing in hypothesis
+    40. 'front' — missing in hypothesis
+    41. 'ill' — missing in hypothesis
+    42. 'send' — missing in hypothesis
+    43. 'you' — missing in hypothesis
+    44. 'the' — missing in hypothesis
+    45. 'payment' — missing in hypothesis
+    46. 'links' — missing in hypothesis
+    47. 'on' — missing in hypothesis
+    48. 'your' — missing in hypothesis
+    49. 'registered' — missing in hypothesis
+    50. 'mobile' — missing in hypothesis
+  Insertions:
+    1. 'elevatenow' — extra in hypothesis
+    2. 'am' — extra in hypothesis
+    3. 'i' — extra in hypothesis
+    4. 'speaking' — extra in hypothesis
+    5. 'with' — extra in hypothesis
+    6. 'bijal' — extra in hypothesis
+    7. 'roliya' — extra in hypothesis
+    8. 'based' — extra in hypothesis
+    9. 'on' — extra in hypothesis
+    10. 'your' — extra in hypothesis
+    11. 'bmi' — extra in hypothesis
+    12. 'of' — extra in hypothesis
+    13. '3413' — extra in hypothesis
+    14. 'experience' — extra in hypothesis
+🏁 [7fd6b5f9-8b11-4085-b864-a16f92504e53] completed at 12:53:16, took 20.16s
+🚀 [8daee0cc-cbda-4cdf-b8ed-f120e3329138] started at 12:53:16
+🎯 Filtered 18 assistant utterances from 33 total utterances
+🎯 Filtered 17 Agent utterances from 32 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3748 characters
+    📝 Hypothesis (Agent): 3260 characters
+✅ Saved canonical reference → calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 43 mismatches and measures to calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1455
+  Total GT NERs: 12
+  Total Ref NERs: 12
+  Unique GT NERs: 8
+  Unique Ref NERs: 6
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000642 seconds
+
+  Substitutions:
+    1. 'style' -> 'with'
+    2. 'our' -> 'your'
+    3. 'style' -> 'stailkast'
+    4. 'cast' -> 'ex'
+    5. '21st' -> '21'
+    6. 'all' -> 'alright'
+    7. 'order' -> 'orders'
+    8. 'order' -> 'orders'
+    9. 'sms' -> 'smsyour'
+  Deletions:
+    1. 'x' — missing in hypothesis
+    2. 'right' — missing in hypothesis
+    3. 'city' — missing in hypothesis
+    4. 'the' — missing in hypothesis
+    5. 'your' — missing in hypothesis
+  Insertions:
+    1. 'stailkast' — extra in hypothesis
+    2. 'ex' — extra in hypothesis
+    3. 'revolt' — extra in hypothesis
+    4. 'men' — extra in hypothesis
+    5. 'opaque' — extra in hypothesis
+    6. 'casual' — extra in hypothesis
+    7. 'shirt' — extra in hypothesis
+    8. 'is' — extra in hypothesis
+    9. 'being' — extra in hypothesis
+    10. 'processed' — extra in hypothesis
+    11. 'and' — extra in hypothesis
+    12. 'will' — extra in hypothesis
+    13. 'be' — extra in hypothesis
+    14. 'delivered' — extra in hypothesis
+    15. 'by' — extra in hypothesis
+    16. '21' — extra in hypothesis
+    17. 'august' — extra in hypothesis
+    18. 'please' — extra in hypothesis
+    19. 'tell' — extra in hypothesis
+    20. 'me' — extra in hypothesis
+    21. 'is' — extra in hypothesis
+    22. 'there' — extra in hypothesis
+    23. 'anything' — extra in hypothesis
+    24. 'else' — extra in hypothesis
+    25. 'i' — extra in hypothesis
+    26. 'can' — extra in hypothesis
+    27. 'help' — extra in hypothesis
+    28. 'you' — extra in hypothesis
+    29. 'the' — extra in hypothesis
+🏁 [8daee0cc-cbda-4cdf-b8ed-f120e3329138] completed at 12:53:26, took 10.26s
+🚀 [99d176ec-e484-4937-ae0b-9d6d2d7cb5c5] started at 12:53:26
+🎯 Filtered 17 assistant utterances from 31 total utterances
+🎯 Filtered 12 Agent utterances from 23 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3799 characters
+    📝 Hypothesis (Agent): 3122 characters
+✅ Saved canonical reference → calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 18 mismatches and measures to calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0591
+  Total GT NERs: 13
+  Total Ref NERs: 15
+  Unique GT NERs: 7
+  Unique Ref NERs: 9
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000490 seconds
+
+  Substitutions:
+    1. 'all' -> 'alright'
+    2. 'you' -> 'youre'
+    3. 'hm' -> 'm'
+    4. 'tshirt' -> 'shirt'
+    5. 'im' -> 'am'
+    6. 'all' -> 'alright'
+    7. 'our' -> 'your'
+    8. 'hm' -> 'm'
+  Deletions:
+    1. 'right' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'right' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'h' — extra in hypothesis
+    3. 'and' — extra in hypothesis
+    4. 't' — extra in hypothesis
+    5. 'i' — extra in hypothesis
+    6. 'h' — extra in hypothesis
+    7. 'and' — extra in hypothesis
+🏁 [99d176ec-e484-4937-ae0b-9d6d2d7cb5c5] completed at 12:53:38, took 11.58s
+🚀 [a26f3d38-ed43-4289-8d34-9ee376fb779d] started at 12:53:38
+🎯 Filtered 21 assistant utterances from 41 total utterances
+🎯 Filtered 37 Agent utterances from 71 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 5476 characters
+    📝 Hypothesis (Agent): 9806 characters
+✅ Saved canonical reference → calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 614 mismatches and measures to calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.5100
+  Total GT NERs: 66
+  Total Ref NERs: 27
+  Unique GT NERs: 17
+  Unique Ref NERs: 11
+  Total Concerned GT NERs (PERSON/ORG): 12
+  Total Concerned Ref NERs (PERSON/ORG): 7
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.003825 seconds
+
+  Substitutions:
+    1. 'myntra' -> 'hey'
+    2. 'help' -> 'am'
+    3. 'you' -> 'ray'
+    4. 'youre' -> 'are'
+    5. 'all' -> 'can'
+    6. 'right' -> 'alright'
+    7. 'youre' -> 'are'
+    8. '15' -> '50ml'
+    9. 'any' -> 'anytime'
+    10. 'im' -> 'am'
+    11. 'order' -> 'orders'
+    12. 'order' -> 'orders'
+    13. 'all' -> 'alright'
+    14. 'order' -> 'orders'
+    15. 'rom' -> 'from'
+    16. 'order' -> 'orders'
+  Deletions:
+    1. 'here' — missing in hypothesis
+    2. 'to' — missing in hypothesis
+    3. 'assist' — missing in hypothesis
+    4. 'you' — missing in hypothesis
+    5. 'shall' — missing in hypothesis
+    6. 'we' — missing in hypothesis
+    7. 'proceed' — missing in hypothesis
+    8. 'further' — missing in hypothesis
+    9. 'in' — missing in hypothesis
+    10. 'hindi' — missing in hypothesis
+    11. 'or' — missing in hypothesis
+    12. 'english' — missing in hypothesis
+    13. 'great' — missing in hypothesis
+    14. 'how' — missing in hypothesis
+    15. 'can' — missing in hypothesis
+    16. 'today' — missing in hypothesis
+    17. 'i' — missing in hypothesis
+    18. 'can' — missing in hypothesis
+    19. 'help' — missing in hypothesis
+    20. 'you' — missing in hypothesis
+    21. 'track' — missing in hypothesis
+    22. 'your' — missing in hypothesis
+    23. 'order' — missing in hypothesis
+    24. 'could' — missing in hypothesis
+    25. 'you' — missing in hypothesis
+    26. 'please' — missing in hypothesis
+    27. 'tell' — missing in hypothesis
+    28. 'me' — missing in hypothesis
+    29. 'the' — missing in hypothesis
+    30. 'product' — missing in hypothesis
+    31. 'name' — missing in hypothesis
+    32. 'or' — missing in hypothesis
+    33. 'brand' — missing in hypothesis
+    34. 'name' — missing in hypothesis
+    35. 'i' — missing in hypothesis
+    36. 'understand' — missing in hypothesis
+    37. 'your' — missing in hypothesis
+    38. 'concern' — missing in hypothesis
+    39. 'to' — missing in hypothesis
+    40. 'locate' — missing in hypothesis
+    41. 'the' — missing in hypothesis
+    42. 'exact' — missing in hypothesis
+    43. 'status' — missing in hypothesis
+    44. 'of' — missing in hypothesis
+    45. 'your' — missing in hypothesis
+    46. 'order' — missing in hypothesis
+    47. 'i' — missing in hypothesis
+    48. 'need' — missing in hypothesis
+    49. 'the' — missing in hypothesis
+    50. 'product' — missing in hypothesis
+    51. 'name' — missing in hypothesis
+    52. 'or' — missing in hypothesis
+    53. 'brand' — missing in hypothesis
+    54. 'name' — missing in hypothesis
+    55. 'your' — missing in hypothesis
+    56. 'order' — missing in hypothesis
+    57. 'could' — missing in hypothesis
+    58. 'you' — missing in hypothesis
+    59. 'please' — missing in hypothesis
+    60. 'share' — missing in hypothesis
+    61. 'that' — missing in hypothesis
+    62. 'with' — missing in hypothesis
+    63. 'me' — missing in hypothesis
+    64. 'please' — missing in hypothesis
+    65. 'give' — missing in hypothesis
+    66. 'me' — missing in hypothesis
+    67. 'a' — missing in hypothesis
+    68. 'moment' — missing in hypothesis
+    69. 'to' — missing in hypothesis
+    70. 'fetch' — missing in hypothesis
+    71. 'your' — missing in hypothesis
+    72. 'products' — missing in hypothesis
+    73. 'it' — missing in hypothesis
+    74. 'seems' — missing in hypothesis
+    75. 'there' — missing in hypothesis
+    76. 'are' — missing in hypothesis
+    77. 'multiple' — missing in hypothesis
+    78. 'items' — missing in hypothesis
+    79. 'in' — missing in hypothesis
+    80. 'your' — missing in hypothesis
+    81. 'order' — missing in hypothesis
+    82. 'could' — missing in hypothesis
+    83. 'you' — missing in hypothesis
+    84. 'please' — missing in hypothesis
+    85. 'tell' — missing in hypothesis
+    86. 'me' — missing in hypothesis
+    87. 'which' — missing in hypothesis
+    88. 'item' — missing in hypothesis
+    89. 'youre' — missing in hypothesis
+    90. 'referring' — missing in hypothesis
+    91. 'to' — missing in hypothesis
+    92. 'for' — missing in hypothesis
+    93. 'example' — missing in hypothesis
+    94. 'is' — missing in hypothesis
+    95. 'it' — missing in hypothesis
+    96. 'the' — missing in hypothesis
+    97. 'plum' — missing in hypothesis
+    98. 'face' — missing in hypothesis
+    99. 'serum' — missing in hypothesis
+    100. 'jockey' — missing in hypothesis
+    101. 'gym' — missing in hypothesis
+    102. 'towel' — missing in hypothesis
+    103. 'bigen' — missing in hypothesis
+    104. 'beard' — missing in hypothesis
+    105. 'color' — missing in hypothesis
+    106. 'kalenji' — missing in hypothesis
+    107. 'running' — missing in hypothesis
+    108. 'shorts' — missing in hypothesis
+    109. 'or' — missing in hypothesis
+    110. 'sirona' — missing in hypothesis
+    111. 'period' — missing in hypothesis
+    112. 'panties' — missing in hypothesis
+    113. 'could' — missing in hypothesis
+    114. 'you' — missing in hypothesis
+    115. 'clarify' — missing in hypothesis
+    116. 'the' — missing in hypothesis
+    117. 'item' — missing in hypothesis
+    118. 'youre' — missing in hypothesis
+    119. 'asking' — missing in hypothesis
+    120. 'about' — missing in hypothesis
+    121. 'for' — missing in hypothesis
+    122. 'instance' — missing in hypothesis
+    123. 'is' — missing in hypothesis
+    124. 'it' — missing in hypothesis
+    125. 'related' — missing in hypothesis
+    126. 'to' — missing in hypothesis
+    127. 'the' — missing in hypothesis
+    128. 'plum' — missing in hypothesis
+    129. 'face' — missing in hypothesis
+    130. 'serum' — missing in hypothesis
+    131. 'jockey' — missing in hypothesis
+    132. 'gym' — missing in hypothesis
+    133. 'towel' — missing in hypothesis
+    134. 'bigen' — missing in hypothesis
+    135. 'beard' — missing in hypothesis
+    136. 'color' — missing in hypothesis
+    137. 'kalenji' — missing in hypothesis
+    138. 'running' — missing in hypothesis
+    139. 'shorts' — missing in hypothesis
+    140. 'or' — missing in hypothesis
+    141. 'sirona' — missing in hypothesis
+    142. 'period' — missing in hypothesis
+    143. 'panties' — missing in hypothesis
+    144. 'this' — missing in hypothesis
+    145. 'will' — missing in hypothesis
+    146. 'help' — missing in hypothesis
+    147. 'me' — missing in hypothesis
+    148. 'locate' — missing in hypothesis
+    149. 'your' — missing in hypothesis
+    150. 'order' — missing in hypothesis
+    151. 'accurately' — missing in hypothesis
+    152. 'i' — missing in hypothesis
+    153. 'understand' — missing in hypothesis
+    154. 'you' — missing in hypothesis
+    155. 'might' — missing in hypothesis
+    156. 'be' — missing in hypothesis
+    157. 'finding' — missing in hypothesis
+    158. 'it' — missing in hypothesis
+    159. 'difficult' — missing in hypothesis
+    160. 'to' — missing in hypothesis
+    161. 'specify' — missing in hypothesis
+    162. 'the' — missing in hypothesis
+    163. 'product' — missing in hypothesis
+    164. 'name' — missing in hypothesis
+    165. 'do' — missing in hypothesis
+    166. 'you' — missing in hypothesis
+    167. 'want' — missing in hypothesis
+    168. 'to' — missing in hypothesis
+    169. 'speak' — missing in hypothesis
+    170. 'with' — missing in hypothesis
+    171. 'another' — missing in hypothesis
+    172. 'agent' — missing in hypothesis
+    173. 'alright' — missing in hypothesis
+    174. 'could' — missing in hypothesis
+    175. 'you' — missing in hypothesis
+    176. 'confirm' — missing in hypothesis
+    177. 'if' — missing in hypothesis
+    178. 'youre' — missing in hypothesis
+    179. 'referring' — missing in hypothesis
+    180. 'to' — missing in hypothesis
+    181. 'the' — missing in hypothesis
+    182. 'plum' — missing in hypothesis
+    183. 'face' — missing in hypothesis
+    184. 'serum' — missing in hypothesis
+    185. 'jockey' — missing in hypothesis
+    186. 'gym' — missing in hypothesis
+    187. 'towel' — missing in hypothesis
+    188. 'bigen' — missing in hypothesis
+    189. 'beard' — missing in hypothesis
+    190. 'color' — missing in hypothesis
+    191. 'kalenji' — missing in hypothesis
+    192. 'running' — missing in hypothesis
+    193. 'shorts' — missing in hypothesis
+    194. 'or' — missing in hypothesis
+    195. 'sirona' — missing in hypothesis
+    196. 'period' — missing in hypothesis
+    197. 'panties' — missing in hypothesis
+    198. 'your' — missing in hypothesis
+    199. 'plum' — missing in hypothesis
+    200. '10' — missing in hypothesis
+    201. 'niacinamide' — missing in hypothesis
+    202. 'brightening' — missing in hypothesis
+    203. 'face' — missing in hypothesis
+    204. 'serum' — missing in hypothesis
+    205. 'with' — missing in hypothesis
+    206. 'rice' — missing in hypothesis
+    207. 'ferment' — missing in hypothesis
+    208. 'extract' — missing in hypothesis
+    209. 'and' — missing in hypothesis
+    210. 'licorice' — missing in hypothesis
+    211. '15' — missing in hypothesis
+    212. 'ml' — missing in hypothesis
+    213. 'is' — missing in hypothesis
+    214. 'scheduled' — missing in hypothesis
+    215. 'to' — missing in hypothesis
+    216. 'arrive' — missing in hypothesis
+    217. 'by' — missing in hypothesis
+    218. 'end' — missing in hypothesis
+    219. 'of' — missing in hypothesis
+    220. 'day' — missing in hypothesis
+    221. 'today' — missing in hypothesis
+    222. 'please' — missing in hypothesis
+    223. 'tell' — missing in hypothesis
+    224. 'me' — missing in hypothesis
+    225. 'is' — missing in hypothesis
+    226. 'there' — missing in hypothesis
+    227. 'anything' — missing in hypothesis
+    228. 'else' — missing in hypothesis
+    229. 'i' — missing in hypothesis
+    230. 'can' — missing in hypothesis
+    231. 'help' — missing in hypothesis
+    232. 'you' — missing in hypothesis
+    233. 'with' — missing in hypothesis
+    234. 'your' — missing in hypothesis
+    235. 'order' — missing in hypothesis
+    236. 'is' — missing in hypothesis
+    237. 'scheduled' — missing in hypothesis
+    238. 'to' — missing in hypothesis
+    239. 'be' — missing in hypothesis
+    240. 'delivered' — missing in hypothesis
+    241. 'by' — missing in hypothesis
+    242. 'the' — missing in hypothesis
+    243. 'end' — missing in hypothesis
+    244. 'of' — missing in hypothesis
+    245. 'today' — missing in hypothesis
+    246. 'this' — missing in hypothesis
+    247. 'means' — missing in hypothesis
+    248. 'any' — missing in hypothesis
+    249. 'time' — missing in hypothesis
+    250. 'before' — missing in hypothesis
+    251. 'the' — missing in hypothesis
+    252. 'end' — missing in hypothesis
+    253. 'of' — missing in hypothesis
+    254. 'the' — missing in hypothesis
+    255. 'day' — missing in hypothesis
+    256. 'regardless' — missing in hypothesis
+    257. 'of' — missing in hypothesis
+    258. 'the' — missing in hypothesis
+    259. 'current' — missing in hypothesis
+    260. 'time' — missing in hypothesis
+    261. 'is' — missing in hypothesis
+    262. 'there' — missing in hypothesis
+    263. 'anything' — missing in hypothesis
+    264. 'else' — missing in hypothesis
+    265. 'i' — missing in hypothesis
+    266. 'can' — missing in hypothesis
+    267. 'assist' — missing in hypothesis
+    268. 'you' — missing in hypothesis
+    269. 'with' — missing in hypothesis
+    270. 'i' — missing in hypothesis
+    271. 'really' — missing in hypothesis
+    272. 'apologize' — missing in hypothesis
+    273. 'but' — missing in hypothesis
+    274. 'im' — missing in hypothesis
+    275. 'unable' — missing in hypothesis
+    276. 'to' — missing in hypothesis
+    277. 'share' — missing in hypothesis
+    278. 'the' — missing in hypothesis
+    279. 'delivery' — missing in hypothesis
+    280. 'address' — missing in hypothesis
+    281. 'however' — missing in hypothesis
+    282. 'you' — missing in hypothesis
+    283. 'can' — missing in hypothesis
+    284. 'double' — missing in hypothesis
+    285. 'check' — missing in hypothesis
+    286. 'the' — missing in hypothesis
+    287. 'delivery' — missing in hypothesis
+    288. 'address' — missing in hypothesis
+    289. 'in' — missing in hypothesis
+    290. 'the' — missing in hypothesis
+    291. 'app' — missing in hypothesis
+    292. 'under' — missing in hypothesis
+    293. 'your' — missing in hypothesis
+    294. 'order' — missing in hypothesis
+    295. 'details' — missing in hypothesis
+    296. 'let' — missing in hypothesis
+    297. 'me' — missing in hypothesis
+    298. 'know' — missing in hypothesis
+    299. 'if' — missing in hypothesis
+    300. 'theres' — missing in hypothesis
+    301. 'anything' — missing in hypothesis
+    302. 'else' — missing in hypothesis
+    303. 'i' — missing in hypothesis
+    304. 'can' — missing in hypothesis
+    305. 'assist' — missing in hypothesis
+    306. 'you' — missing in hypothesis
+    307. 'with' — missing in hypothesis
+    308. 'to' — missing in hypothesis
+    309. 'create' — missing in hypothesis
+    310. 'a' — missing in hypothesis
+    311. 'return' — missing in hypothesis
+    312. 'for' — missing in hypothesis
+    313. 'your' — missing in hypothesis
+    314. 'order' — missing in hypothesis
+    315. 'you' — missing in hypothesis
+    316. 'can' — missing in hypothesis
+    317. 'follow' — missing in hypothesis
+    318. 'these' — missing in hypothesis
+    319. 'steps' — missing in hypothesis
+    320. 'directly' — missing in hypothesis
+    321. 'on' — missing in hypothesis
+    322. 'the' — missing in hypothesis
+    323. 'myntra' — missing in hypothesis
+    324. 'app' — missing in hypothesis
+    325. 'open' — missing in hypothesis
+    326. 'the' — missing in hypothesis
+    327. 'app' — missing in hypothesis
+    328. 'go' — missing in hypothesis
+    329. 'to' — missing in hypothesis
+    330. 'the' — missing in hypothesis
+    331. 'order' — missing in hypothesis
+    332. 'section' — missing in hypothesis
+    333. 'select' — missing in hypothesis
+    334. 'the' — missing in hypothesis
+    335. 'item' — missing in hypothesis
+    336. 'you' — missing in hypothesis
+    337. 'want' — missing in hypothesis
+    338. 'to' — missing in hypothesis
+    339. 'return' — missing in hypothesis
+    340. 'tap' — missing in hypothesis
+    341. 'return' — missing in hypothesis
+    342. 'choose' — missing in hypothesis
+    343. 'a' — missing in hypothesis
+    344. 'reason' — missing in hypothesis
+    345. 'for' — missing in hypothesis
+    346. 'the' — missing in hypothesis
+    347. 'return' — missing in hypothesis
+    348. 'provide' — missing in hypothesis
+    349. 'the' — missing in hypothesis
+    350. 'required' — missing in hypothesis
+    351. 'details' — missing in hypothesis
+    352. 'and' — missing in hypothesis
+    353. 'then' — missing in hypothesis
+    354. 'submit' — missing in hypothesis
+    355. 'the' — missing in hypothesis
+    356. 'return' — missing in hypothesis
+    357. 'request' — missing in hypothesis
+    358. 'sure' — missing in hypothesis
+    359. 'to' — missing in hypothesis
+    360. 'create' — missing in hypothesis
+    361. 'a' — missing in hypothesis
+    362. 'return' — missing in hypothesis
+    363. 'for' — missing in hypothesis
+    364. 'your' — missing in hypothesis
+    365. 'order' — missing in hypothesis
+    366. 'follow' — missing in hypothesis
+    367. 'these' — missing in hypothesis
+    368. 'steps' — missing in hypothesis
+    369. '1' — missing in hypothesis
+    370. 'open' — missing in hypothesis
+    371. 'the' — missing in hypothesis
+    372. 'myntra' — missing in hypothesis
+    373. 'app' — missing in hypothesis
+    374. '2' — missing in hypothesis
+    375. 'go' — missing in hypothesis
+    376. 'to' — missing in hypothesis
+    377. 'the' — missing in hypothesis
+    378. 'order' — missing in hypothesis
+    379. 'section' — missing in hypothesis
+    380. '3' — missing in hypothesis
+    381. 'select' — missing in hypothesis
+    382. 'the' — missing in hypothesis
+    383. 'item' — missing in hypothesis
+    384. 'you' — missing in hypothesis
+    385. 'want' — missing in hypothesis
+    386. 'to' — missing in hypothesis
+    387. 'return' — missing in hypothesis
+    388. '4' — missing in hypothesis
+    389. 'tap' — missing in hypothesis
+    390. 'on' — missing in hypothesis
+    391. 'return' — missing in hypothesis
+    392. '5' — missing in hypothesis
+    393. 'choose' — missing in hypothesis
+    394. 'a' — missing in hypothesis
+    395. 'reason' — missing in hypothesis
+    396. 'for' — missing in hypothesis
+    397. 'the' — missing in hypothesis
+    398. 'return' — missing in hypothesis
+    399. 'and' — missing in hypothesis
+    400. 'provide' — missing in hypothesis
+    401. 'the' — missing in hypothesis
+    402. 'required' — missing in hypothesis
+    403. 'details' — missing in hypothesis
+    404. '6' — missing in hypothesis
+    405. 'submit' — missing in hypothesis
+    406. 'the' — missing in hypothesis
+    407. 'return' — missing in hypothesis
+    408. 'request' — missing in hypothesis
+    409. 'if' — missing in hypothesis
+    410. 'youd' — missing in hypothesis
+    411. 'like' — missing in hypothesis
+    412. 'me' — missing in hypothesis
+    413. 'to' — missing in hypothesis
+    414. 'explain' — missing in hypothesis
+    415. 'any' — missing in hypothesis
+    416. 'step' — missing in hypothesis
+    417. 'again' — missing in hypothesis
+    418. 'let' — missing in hypothesis
+    419. 'me' — missing in hypothesis
+    420. 'know' — missing in hypothesis
+    421. 'all' — missing in hypothesis
+    422. 'right' — missing in hypothesis
+    423. 'in' — missing in hypothesis
+    424. 'the' — missing in hypothesis
+    425. 'second' — missing in hypothesis
+    426. 'step' — missing in hypothesis
+    427. 'once' — missing in hypothesis
+    428. 'you' — missing in hypothesis
+    429. 'open' — missing in hypothesis
+    430. 'the' — missing in hypothesis
+    431. 'myntra' — missing in hypothesis
+    432. 'app' — missing in hypothesis
+    433. 'look' — missing in hypothesis
+    434. 'for' — missing in hypothesis
+    435. 'the' — missing in hypothesis
+    436. 'order' — missing in hypothesis
+    437. 'section' — missing in hypothesis
+    438. 'this' — missing in hypothesis
+    439. 'is' — missing in hypothesis
+    440. 'usually' — missing in hypothesis
+    441. 'located' — missing in hypothesis
+    442. 'at' — missing in hypothesis
+    443. 'the' — missing in hypothesis
+    444. 'bottom' — missing in hypothesis
+    445. 'menu' — missing in hypothesis
+    446. 'of' — missing in hypothesis
+    447. 'the' — missing in hypothesis
+    448. 'app' — missing in hypothesis
+    449. 'tap' — missing in hypothesis
+    450. 'on' — missing in hypothesis
+    451. 'orders' — missing in hypothesis
+    452. 'and' — missing in hypothesis
+    453. 'youll' — missing in hypothesis
+    454. 'see' — missing in hypothesis
+    455. 'a' — missing in hypothesis
+    456. 'list' — missing in hypothesis
+    457. 'of' — missing in hypothesis
+    458. 'all' — missing in hypothesis
+    459. 'the' — missing in hypothesis
+    460. 'items' — missing in hypothesis
+    461. 'youve' — missing in hypothesis
+    462. 'purchased' — missing in hypothesis
+    463. 'from' — missing in hypothesis
+    464. 'there' — missing in hypothesis
+    465. 'select' — missing in hypothesis
+    466. 'the' — missing in hypothesis
+    467. 'specific' — missing in hypothesis
+    468. 'item' — missing in hypothesis
+    469. 'you' — missing in hypothesis
+    470. 'want' — missing in hypothesis
+    471. 'to' — missing in hypothesis
+    472. 'return' — missing in hypothesis
+    473. 'if' — missing in hypothesis
+    474. 'youre' — missing in hypothesis
+    475. 'unsure' — missing in hypothesis
+    476. 'let' — missing in hypothesis
+    477. 'me' — missing in hypothesis
+    478. 'know' — missing in hypothesis
+    479. 'and' — missing in hypothesis
+    480. 'ill' — missing in hypothesis
+    481. 'guide' — missing in hypothesis
+    482. 'you' — missing in hypothesis
+    483. 'further' — missing in hypothesis
+    484. 'thats' — missing in hypothesis
+    485. 'great' — missing in hypothesis
+    486. 'please' — missing in hypothesis
+    487. 'let' — missing in hypothesis
+    488. 'me' — missing in hypothesis
+    489. 'know' — missing in hypothesis
+    490. 'if' — missing in hypothesis
+    491. 'theres' — missing in hypothesis
+    492. 'anything' — missing in hypothesis
+    493. 'else' — missing in hypothesis
+    494. 'i' — missing in hypothesis
+    495. 'can' — missing in hypothesis
+    496. 'help' — missing in hypothesis
+    497. 'you' — missing in hypothesis
+    498. 'with' — missing in hypothesis
+    499. 'i' — missing in hypothesis
+    500. 'apologize' — missing in hypothesis
+    501. 'for' — missing in hypothesis
+    502. 'the' — missing in hypothesis
+    503. 'confusion' — missing in hypothesis
+    504. 'earlier' — missing in hypothesis
+    505. 'since' — missing in hypothesis
+    506. 'youre' — missing in hypothesis
+    507. 'sure' — missing in hypothesis
+    508. 'about' — missing in hypothesis
+    509. 'the' — missing in hypothesis
+    510. 'item' — missing in hypothesis
+    511. 'you' — missing in hypothesis
+    512. 'can' — missing in hypothesis
+    513. 'proceed' — missing in hypothesis
+    514. 'directly' — missing in hypothesis
+    515. 'to' — missing in hypothesis
+    516. 'the' — missing in hypothesis
+    517. 'next' — missing in hypothesis
+    518. 'step' — missing in hypothesis
+    519. 'in' — missing in hypothesis
+    520. 'the' — missing in hypothesis
+    521. 'myntra' — missing in hypothesis
+    522. 'app' — missing in hypothesis
+    523. 'tap' — missing in hypothesis
+    524. 'on' — missing in hypothesis
+    525. 'the' — missing in hypothesis
+    526. 'order' — missing in hypothesis
+    527. 'section' — missing in hypothesis
+    528. 'select' — missing in hypothesis
+    529. 'your' — missing in hypothesis
+    530. 'item' — missing in hypothesis
+    531. 'and' — missing in hypothesis
+    532. 'then' — missing in hypothesis
+    533. 'choose' — missing in hypothesis
+    534. 'the' — missing in hypothesis
+    535. 'return' — missing in hypothesis
+    536. 'option' — missing in hypothesis
+    537. 'is' — missing in hypothesis
+    538. 'there' — missing in hypothesis
+    539. 'anything' — missing in hypothesis
+    540. 'else' — missing in hypothesis
+    541. 'youd' — missing in hypothesis
+    542. 'like' — missing in hypothesis
+    543. 'me' — missing in hypothesis
+    544. 'to' — missing in hypothesis
+    545. 'clarify' — missing in hypothesis
+    546. 'or' — missing in hypothesis
+    547. 'assist' — missing in hypothesis
+    548. 'with' — missing in hypothesis
+    549. 'i' — missing in hypothesis
+    550. 'really' — missing in hypothesis
+    551. 'apologize' — missing in hypothesis
+    552. 'for' — missing in hypothesis
+    553. 'the' — missing in hypothesis
+    554. 'inconvenience' — missing in hypothesis
+    555. 'its' — missing in hypothesis
+    556. 'possible' — missing in hypothesis
+    557. 'that' — missing in hypothesis
+    558. 'the' — missing in hypothesis
+    559. 'return' — missing in hypothesis
+    560. 'window' — missing in hypothesis
+    561. 'might' — missing in hypothesis
+    562. 'have' — missing in hypothesis
+    563. 'expired' — missing in hypothesis
+    564. 'or' — missing in hypothesis
+    565. 'there' — missing in hypothesis
+    566. 'may' — missing in hypothesis
+    567. 'be' — missing in hypothesis
+    568. 'some' — missing in hypothesis
+    569. 'restrictions' — missing in hypothesis
+    570. 'on' — missing in hypothesis
+    571. 'the' — missing in hypothesis
+    572. 'item' — missing in hypothesis
+    573. 'do' — missing in hypothesis
+    574. 'you' — missing in hypothesis
+    575. 'want' — missing in hypothesis
+    576. 'to' — missing in hypothesis
+    577. 'speak' — missing in hypothesis
+    578. 'with' — missing in hypothesis
+    579. 'another' — missing in hypothesis
+    580. 'agent' — missing in hypothesis
+    581. 'who' — missing in hypothesis
+    582. 'can' — missing in hypothesis
+    583. 'assist' — missing in hypothesis
+    584. 'you' — missing in hypothesis
+    585. 'better' — missing in hypothesis
+    586. 'regarding' — missing in hypothesis
+    587. 'this' — missing in hypothesis
+    588. 'issue' — missing in hypothesis
+    589. 'myntra' — missing in hypothesis
+    590. 'and' — missing in hypothesis
+    591. 'ml' — missing in hypothesis
+    592. 'time' — missing in hypothesis
+    593. 'right' — missing in hypothesis
+  Insertions:
+    1. 'you' — extra in hypothesis
+    2. 'who' — extra in hypothesis
+    3. 'you' — extra in hypothesis
+    4. 'i' — extra in hypothesis
+    5. 'want' — extra in hypothesis
+🏁 [a26f3d38-ed43-4289-8d34-9ee376fb779d] completed at 12:54:19, took 40.64s
+🚀 [b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f] started at 12:54:19
+🎯 Filtered 21 assistant utterances from 35 total utterances
+🎯 Filtered 12 Agent utterances from 23 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 5198 characters
+    📝 Hypothesis (Agent): 4187 characters
+✅ Saved canonical reference → calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 14 mismatches and measures to calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0278
+  Total GT NERs: 15
+  Total Ref NERs: 13
+  Unique GT NERs: 6
+  Unique Ref NERs: 6
+  Total Concerned GT NERs (PERSON/ORG): 3
+  Total Concerned Ref NERs (PERSON/ORG): 3
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.000608 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'then' -> 'the'
+    3. 'all' -> 'alright'
+    4. 'one' -> '1'
+    5. 'question' -> 'questions'
+    6. 'rs' -> 'rupees'
+    7. 'individuallyyou' -> 'you'
+    8. 'all' -> 'alright'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'right' — missing in hypothesis
+    3. 'right' — missing in hypothesis
+  Insertions:
+    1. 'to' — extra in hypothesis
+    2. 'be' — extra in hypothesis
+    3. 'individually' — extra in hypothesis
+🏁 [b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f] completed at 12:54:31, took 12.70s
+🚀 [c5f1aee1-8170-4c1b-93e0-1f8366882689] started at 12:54:31
+🎯 Filtered 13 assistant utterances from 24 total utterances
+🎯 Filtered 40 Agent utterances from 75 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3316 characters
+    📝 Hypothesis (Agent): 9298 characters
+✅ Saved canonical reference → calls/c5f1aee1-8170-4c1b-93e0-1f8366882689/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/c5f1aee1-8170-4c1b-93e0-1f8366882689/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 692 mismatches and measures to calls/c5f1aee1-8170-4c1b-93e0-1f8366882689/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/c5f1aee1-8170-4c1b-93e0-1f8366882689/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.6628
+  Total GT NERs: 29
+  Total Ref NERs: 11
+  Unique GT NERs: 8
+  Unique Ref NERs: 6
+  Total Concerned GT NERs (PERSON/ORG): 17
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.003884 seconds
+
+  Substitutions:
+    1. 'im' -> 'am'
+    2. '12th' -> '12'
+    3. 'order' -> 'orders'
+    4. 'order' -> 'orders'
+  Deletions:
+    1. 'unable' — missing in hypothesis
+    2. 'to' — missing in hypothesis
+    3. 'make' — missing in hypothesis
+    4. 'changes' — missing in hypothesis
+    5. 'to' — missing in hypothesis
+    6. 'the' — missing in hypothesis
+    7. 'delivery' — missing in hypothesis
+    8. 'address' — missing in hypothesis
+    9. 'at' — missing in hypothesis
+    10. 'this' — missing in hypothesis
+    11. 'time' — missing in hypothesis
+    12. 'if' — missing in hypothesis
+    13. 'theres' — missing in hypothesis
+    14. 'anything' — missing in hypothesis
+    15. 'else' — missing in hypothesis
+    16. 'i' — missing in hypothesis
+    17. 'can' — missing in hypothesis
+    18. 'help' — missing in hypothesis
+    19. 'with' — missing in hypothesis
+    20. 'or' — missing in hypothesis
+    21. 'if' — missing in hypothesis
+    22. 'you' — missing in hypothesis
+    23. 'want' — missing in hypothesis
+    24. 'to' — missing in hypothesis
+    25. 'speak' — missing in hypothesis
+    26. 'with' — missing in hypothesis
+    27. 'another' — missing in hypothesis
+    28. 'agent' — missing in hypothesis
+    29. 'for' — missing in hypothesis
+    30. 'further' — missing in hypothesis
+    31. 'assistance' — missing in hypothesis
+    32. 'just' — missing in hypothesis
+    33. 'let' — missing in hypothesis
+    34. 'me' — missing in hypothesis
+    35. 'know' — missing in hypothesis
+    36. 'to' — missing in hypothesis
+    37. 'initiate' — missing in hypothesis
+    38. 'a' — missing in hypothesis
+    39. 'return' — missing in hypothesis
+    40. 'on' — missing in hypothesis
+    41. 'the' — missing in hypothesis
+    42. 'myntra' — missing in hypothesis
+    43. 'app' — missing in hypothesis
+    44. 'open' — missing in hypothesis
+    45. 'the' — missing in hypothesis
+    46. 'myntra' — missing in hypothesis
+    47. 'app' — missing in hypothesis
+    48. 'and' — missing in hypothesis
+    49. 'go' — missing in hypothesis
+    50. 'to' — missing in hypothesis
+    51. 'the' — missing in hypothesis
+    52. 'order' — missing in hypothesis
+    53. 'section' — missing in hypothesis
+    54. 'then' — missing in hypothesis
+    55. 'select' — missing in hypothesis
+    56. 'the' — missing in hypothesis
+    57. 'item' — missing in hypothesis
+    58. 'you' — missing in hypothesis
+    59. 'want' — missing in hypothesis
+    60. 'to' — missing in hypothesis
+    61. 'return' — missing in hypothesis
+    62. 'tap' — missing in hypothesis
+    63. 'on' — missing in hypothesis
+    64. 'return' — missing in hypothesis
+    65. 'choose' — missing in hypothesis
+    66. 'a' — missing in hypothesis
+    67. 'reason' — missing in hypothesis
+    68. 'for' — missing in hypothesis
+    69. 'return' — missing in hypothesis
+    70. 'provide' — missing in hypothesis
+    71. 'any' — missing in hypothesis
+    72. 'required' — missing in hypothesis
+    73. 'details' — missing in hypothesis
+    74. 'and' — missing in hypothesis
+    75. 'finally' — missing in hypothesis
+    76. 'submit' — missing in hypothesis
+    77. 'the' — missing in hypothesis
+    78. 'return' — missing in hypothesis
+    79. 'request' — missing in hypothesis
+    80. 'if' — missing in hypothesis
+    81. 'you' — missing in hypothesis
+    82. 'need' — missing in hypothesis
+    83. 'any' — missing in hypothesis
+    84. 'more' — missing in hypothesis
+    85. 'help' — missing in hypothesis
+    86. 'just' — missing in hypothesis
+    87. 'let' — missing in hypothesis
+    88. 'me' — missing in hypothesis
+    89. 'know' — missing in hypothesis
+    90. 'im' — missing in hypothesis
+    91. 'experiencing' — missing in hypothesis
+    92. 'technical' — missing in hypothesis
+    93. 'difficulties' — missing in hypothesis
+    94. 'please' — missing in hypothesis
+    95. 'try' — missing in hypothesis
+    96. 'again' — missing in hypothesis
+    97. 'later' — missing in hypothesis
+    98. 'hey' — missing in hypothesis
+    99. 'im' — missing in hypothesis
+    100. 'rey' — missing in hypothesis
+    101. 'from' — missing in hypothesis
+    102. 'myntra' — missing in hypothesis
+    103. 'here' — missing in hypothesis
+    104. 'to' — missing in hypothesis
+    105. 'assist' — missing in hypothesis
+    106. 'you' — missing in hypothesis
+    107. 'shall' — missing in hypothesis
+    108. 'we' — missing in hypothesis
+    109. 'proceed' — missing in hypothesis
+    110. 'further' — missing in hypothesis
+    111. 'in' — missing in hypothesis
+    112. 'hindi' — missing in hypothesis
+    113. 'or' — missing in hypothesis
+    114. 'english' — missing in hypothesis
+    115. 'great' — missing in hypothesis
+    116. 'how' — missing in hypothesis
+    117. 'can' — missing in hypothesis
+    118. 'i' — missing in hypothesis
+    119. 'help' — missing in hypothesis
+    120. 'you' — missing in hypothesis
+    121. 'today' — missing in hypothesis
+    122. 'i' — missing in hypothesis
+    123. 'can' — missing in hypothesis
+    124. 'help' — missing in hypothesis
+    125. 'you' — missing in hypothesis
+    126. 'with' — missing in hypothesis
+    127. 'tracking' — missing in hypothesis
+    128. 'your' — missing in hypothesis
+    129. 'order' — missing in hypothesis
+    130. 'could' — missing in hypothesis
+    131. 'you' — missing in hypothesis
+    132. 'please' — missing in hypothesis
+    133. 'provide' — missing in hypothesis
+    134. 'me' — missing in hypothesis
+    135. 'the' — missing in hypothesis
+    136. 'product' — missing in hypothesis
+    137. 'name' — missing in hypothesis
+    138. 'please' — missing in hypothesis
+    139. 'give' — missing in hypothesis
+    140. 'me' — missing in hypothesis
+    141. 'a' — missing in hypothesis
+    142. 'moment' — missing in hypothesis
+    143. 'to' — missing in hypothesis
+    144. 'fetch' — missing in hypothesis
+    145. 'your' — missing in hypothesis
+    146. 'products' — missing in hypothesis
+    147. 'your' — missing in hypothesis
+    148. 'crocs' — missing in hypothesis
+    149. 'unisex' — missing in hypothesis
+    150. 'navy' — missing in hypothesis
+    151. 'blue' — missing in hypothesis
+    152. 'bayaband' — missing in hypothesis
+    153. 'clogs' — missing in hypothesis
+    154. 'will' — missing in hypothesis
+    155. 'be' — missing in hypothesis
+    156. 'delivered' — missing in hypothesis
+    157. 'on' — missing in hypothesis
+    158. 'or' — missing in hypothesis
+    159. 'before' — missing in hypothesis
+    160. '12th' — missing in hypothesis
+    161. 'july' — missing in hypothesis
+    162. 'please' — missing in hypothesis
+    163. 'tell' — missing in hypothesis
+    164. 'me' — missing in hypothesis
+    165. 'is' — missing in hypothesis
+    166. 'there' — missing in hypothesis
+    167. 'anything' — missing in hypothesis
+    168. 'else' — missing in hypothesis
+    169. 'i' — missing in hypothesis
+    170. 'can' — missing in hypothesis
+    171. 'help' — missing in hypothesis
+    172. 'you' — missing in hypothesis
+    173. 'with' — missing in hypothesis
+    174. 'we' — missing in hypothesis
+    175. 'currently' — missing in hypothesis
+    176. 'cannot' — missing in hypothesis
+    177. 'accommodate' — missing in hypothesis
+    178. 'changes' — missing in hypothesis
+    179. 'to' — missing in hypothesis
+    180. 'the' — missing in hypothesis
+    181. 'delivery' — missing in hypothesis
+    182. 'time' — missing in hypothesis
+    183. 'the' — missing in hypothesis
+    184. 'fastest' — missing in hypothesis
+    185. 'available' — missing in hypothesis
+    186. 'delivery' — missing in hypothesis
+    187. 'option' — missing in hypothesis
+    188. 'is' — missing in hypothesis
+    189. 'always' — missing in hypothesis
+    190. 'chosen' — missing in hypothesis
+    191. 'for' — missing in hypothesis
+    192. 'your' — missing in hypothesis
+    193. 'order' — missing in hypothesis
+    194. 'if' — missing in hypothesis
+    195. 'you' — missing in hypothesis
+    196. 'have' — missing in hypothesis
+    197. 'any' — missing in hypothesis
+    198. 'more' — missing in hypothesis
+    199. 'questions' — missing in hypothesis
+    200. 'feel' — missing in hypothesis
+    201. 'free' — missing in hypothesis
+    202. 'to' — missing in hypothesis
+    203. 'ask' — missing in hypothesis
+    204. 'im' — missing in hypothesis
+    205. 'really' — missing in hypothesis
+    206. 'sorry' — missing in hypothesis
+    207. 'but' — missing in hypothesis
+    208. 'im' — missing in hypothesis
+    209. 'unable' — missing in hypothesis
+    210. 'to' — missing in hypothesis
+    211. 'assist' — missing in hypothesis
+    212. 'with' — missing in hypothesis
+    213. 'cancellation' — missing in hypothesis
+    214. 'requests' — missing in hypothesis
+    215. 'directly' — missing in hypothesis
+    216. 'you' — missing in hypothesis
+    217. 'can' — missing in hypothesis
+    218. 'cancel' — missing in hypothesis
+    219. 'your' — missing in hypothesis
+    220. 'order' — missing in hypothesis
+    221. 'through' — missing in hypothesis
+    222. 'the' — missing in hypothesis
+    223. 'myntra' — missing in hypothesis
+    224. 'app' — missing in hypothesis
+    225. 'by' — missing in hypothesis
+    226. 'going' — missing in hypothesis
+    227. 'to' — missing in hypothesis
+    228. 'the' — missing in hypothesis
+    229. 'orders' — missing in hypothesis
+    230. 'section' — missing in hypothesis
+    231. 'and' — missing in hypothesis
+    232. 'selecting' — missing in hypothesis
+    233. 'the' — missing in hypothesis
+    234. 'order' — missing in hypothesis
+    235. 'you' — missing in hypothesis
+    236. 'wish' — missing in hypothesis
+    237. 'to' — missing in hypothesis
+    238. 'cancel' — missing in hypothesis
+    239. 'if' — missing in hypothesis
+    240. 'you' — missing in hypothesis
+    241. 'need' — missing in hypothesis
+    242. 'further' — missing in hypothesis
+    243. 'assistance' — missing in hypothesis
+    244. 'feel' — missing in hypothesis
+    245. 'free' — missing in hypothesis
+    246. 'to' — missing in hypothesis
+    247. 'ask' — missing in hypothesis
+    248. 'you' — missing in hypothesis
+    249. 'can' — missing in hypothesis
+    250. 'cancel' — missing in hypothesis
+    251. 'individual' — missing in hypothesis
+    252. 'items' — missing in hypothesis
+    253. 'within' — missing in hypothesis
+    254. 'an' — missing in hypothesis
+    255. 'order' — missing in hypothesis
+    256. 'through' — missing in hypothesis
+    257. 'the' — missing in hypothesis
+    258. 'myntra' — missing in hypothesis
+    259. 'app' — missing in hypothesis
+    260. 'just' — missing in hypothesis
+    261. 'go' — missing in hypothesis
+    262. 'to' — missing in hypothesis
+    263. 'the' — missing in hypothesis
+    264. 'order' — missing in hypothesis
+    265. 'section' — missing in hypothesis
+    266. 'select' — missing in hypothesis
+    267. 'the' — missing in hypothesis
+    268. 'specific' — missing in hypothesis
+    269. 'item' — missing in hypothesis
+    270. 'you' — missing in hypothesis
+    271. 'wish' — missing in hypothesis
+    272. 'to' — missing in hypothesis
+    273. 'cancel' — missing in hypothesis
+    274. 'and' — missing in hypothesis
+    275. 'follow' — missing in hypothesis
+    276. 'the' — missing in hypothesis
+    277. 'cancellation' — missing in hypothesis
+    278. 'process' — missing in hypothesis
+    279. 'if' — missing in hypothesis
+    280. 'you' — missing in hypothesis
+    281. 'need' — missing in hypothesis
+    282. 'help' — missing in hypothesis
+    283. 'with' — missing in hypothesis
+    284. 'anything' — missing in hypothesis
+    285. 'else' — missing in hypothesis
+    286. 'let' — missing in hypothesis
+    287. 'me' — missing in hypothesis
+    288. 'know' — missing in hypothesis
+    289. 'im' — missing in hypothesis
+    290. 'sorry' — missing in hypothesis
+    291. 'but' — missing in hypothesis
+    292. 'im' — missing in hypothesis
+    293. 'unable' — missing in hypothesis
+    294. 'to' — missing in hypothesis
+    295. 'share' — missing in hypothesis
+    296. 'delivery' — missing in hypothesis
+    297. 'address' — missing in hypothesis
+    298. 'details' — missing in hypothesis
+    299. 'if' — missing in hypothesis
+    300. 'theres' — missing in hypothesis
+    301. 'anything' — missing in hypothesis
+    302. 'else' — missing in hypothesis
+    303. 'you' — missing in hypothesis
+    304. 'need' — missing in hypothesis
+    305. 'help' — missing in hypothesis
+    306. 'with' — missing in hypothesis
+    307. 'we' — missing in hypothesis
+    308. 'are' — missing in hypothesis
+    309. 'currently' — missing in hypothesis
+    310. 'unable' — missing in hypothesis
+    311. 'to' — missing in hypothesis
+    312. 'support' — missing in hypothesis
+    313. 'changes' — missing in hypothesis
+    314. 'to' — missing in hypothesis
+    315. 'the' — missing in hypothesis
+    316. 'delivery' — missing in hypothesis
+    317. 'address' — missing in hypothesis
+    318. 'once' — missing in hypothesis
+    319. 'an' — missing in hypothesis
+    320. 'order' — missing in hypothesis
+    321. 'is' — missing in hypothesis
+    322. 'placed' — missing in hypothesis
+    323. 'if' — missing in hypothesis
+    324. 'you' — missing in hypothesis
+    325. 'have' — missing in hypothesis
+    326. 'any' — missing in hypothesis
+    327. 'other' — missing in hypothesis
+    328. 'questions' — missing in hypothesis
+    329. 'or' — missing in hypothesis
+    330. 'need' — missing in hypothesis
+    331. 'further' — missing in hypothesis
+    332. 'assistance' — missing in hypothesis
+    333. 'feel' — missing in hypothesis
+    334. 'free' — missing in hypothesis
+    335. 'to' — missing in hypothesis
+    336. 'ask' — missing in hypothesis
+    337. 'i' — missing in hypothesis
+    338. 'really' — missing in hypothesis
+    339. 'apologize' — missing in hypothesis
+    340. 'for' — missing in hypothesis
+    341. 'the' — missing in hypothesis
+    342. 'inconvenience' — missing in hypothesis
+    343. 'im' — missing in hypothesis
+    344. 'unable' — missing in hypothesis
+    345. 'to' — missing in hypothesis
+    346. 'make' — missing in hypothesis
+    347. 'changes' — missing in hypothesis
+    348. 'to' — missing in hypothesis
+    349. 'the' — missing in hypothesis
+    350. 'delivery' — missing in hypothesis
+    351. 'address' — missing in hypothesis
+    352. 'at' — missing in hypothesis
+    353. 'this' — missing in hypothesis
+    354. 'time' — missing in hypothesis
+    355. 'if' — missing in hypothesis
+    356. 'theres' — missing in hypothesis
+    357. 'anything' — missing in hypothesis
+    358. 'else' — missing in hypothesis
+    359. 'i' — missing in hypothesis
+    360. 'can' — missing in hypothesis
+    361. 'help' — missing in hypothesis
+    362. 'with' — missing in hypothesis
+    363. 'or' — missing in hypothesis
+    364. 'if' — missing in hypothesis
+    365. 'you' — missing in hypothesis
+    366. 'want' — missing in hypothesis
+    367. 'to' — missing in hypothesis
+    368. 'speak' — missing in hypothesis
+    369. 'with' — missing in hypothesis
+    370. 'another' — missing in hypothesis
+    371. 'agent' — missing in hypothesis
+    372. 'for' — missing in hypothesis
+    373. 'further' — missing in hypothesis
+    374. 'assistance' — missing in hypothesis
+    375. 'just' — missing in hypothesis
+    376. 'let' — missing in hypothesis
+    377. 'me' — missing in hypothesis
+    378. 'know' — missing in hypothesis
+    379. 'to' — missing in hypothesis
+    380. 'initiate' — missing in hypothesis
+    381. 'a' — missing in hypothesis
+    382. 'return' — missing in hypothesis
+    383. 'on' — missing in hypothesis
+    384. 'the' — missing in hypothesis
+    385. 'myntra' — missing in hypothesis
+    386. 'app' — missing in hypothesis
+    387. 'open' — missing in hypothesis
+    388. 'the' — missing in hypothesis
+    389. 'myntra' — missing in hypothesis
+    390. 'app' — missing in hypothesis
+    391. 'and' — missing in hypothesis
+    392. 'go' — missing in hypothesis
+    393. 'to' — missing in hypothesis
+    394. 'the' — missing in hypothesis
+    395. 'order' — missing in hypothesis
+    396. 'section' — missing in hypothesis
+    397. 'then' — missing in hypothesis
+    398. 'select' — missing in hypothesis
+    399. 'the' — missing in hypothesis
+    400. 'item' — missing in hypothesis
+    401. 'you' — missing in hypothesis
+    402. 'want' — missing in hypothesis
+    403. 'to' — missing in hypothesis
+    404. 'return' — missing in hypothesis
+    405. 'tap' — missing in hypothesis
+    406. 'on' — missing in hypothesis
+    407. 'return' — missing in hypothesis
+    408. 'choose' — missing in hypothesis
+    409. 'a' — missing in hypothesis
+    410. 'reason' — missing in hypothesis
+    411. 'for' — missing in hypothesis
+    412. 'return' — missing in hypothesis
+    413. 'provide' — missing in hypothesis
+    414. 'any' — missing in hypothesis
+    415. 'required' — missing in hypothesis
+    416. 'details' — missing in hypothesis
+    417. 'and' — missing in hypothesis
+    418. 'finally' — missing in hypothesis
+    419. 'submit' — missing in hypothesis
+    420. 'the' — missing in hypothesis
+    421. 'return' — missing in hypothesis
+    422. 'request' — missing in hypothesis
+    423. 'if' — missing in hypothesis
+    424. 'you' — missing in hypothesis
+    425. 'need' — missing in hypothesis
+    426. 'any' — missing in hypothesis
+    427. 'more' — missing in hypothesis
+    428. 'help' — missing in hypothesis
+    429. 'just' — missing in hypothesis
+    430. 'let' — missing in hypothesis
+    431. 'me' — missing in hypothesis
+    432. 'know' — missing in hypothesis
+    433. 'im' — missing in hypothesis
+    434. 'experiencing' — missing in hypothesis
+    435. 'technical' — missing in hypothesis
+    436. 'difficulties' — missing in hypothesis
+    437. 'please' — missing in hypothesis
+    438. 'try' — missing in hypothesis
+    439. 'again' — missing in hypothesis
+    440. 'later' — missing in hypothesis
+    441. 'hey' — missing in hypothesis
+    442. 'im' — missing in hypothesis
+    443. 'rey' — missing in hypothesis
+    444. 'from' — missing in hypothesis
+    445. 'myntra' — missing in hypothesis
+    446. 'here' — missing in hypothesis
+    447. 'to' — missing in hypothesis
+    448. 'assist' — missing in hypothesis
+    449. 'you' — missing in hypothesis
+    450. 'shall' — missing in hypothesis
+    451. 'we' — missing in hypothesis
+    452. 'proceed' — missing in hypothesis
+    453. 'further' — missing in hypothesis
+    454. 'in' — missing in hypothesis
+    455. 'hindi' — missing in hypothesis
+    456. 'or' — missing in hypothesis
+    457. 'english' — missing in hypothesis
+    458. 'great' — missing in hypothesis
+    459. 'how' — missing in hypothesis
+    460. 'can' — missing in hypothesis
+    461. 'i' — missing in hypothesis
+    462. 'help' — missing in hypothesis
+    463. 'you' — missing in hypothesis
+    464. 'today' — missing in hypothesis
+    465. 'i' — missing in hypothesis
+    466. 'can' — missing in hypothesis
+    467. 'help' — missing in hypothesis
+    468. 'you' — missing in hypothesis
+    469. 'with' — missing in hypothesis
+    470. 'tracking' — missing in hypothesis
+    471. 'your' — missing in hypothesis
+    472. 'order' — missing in hypothesis
+    473. 'could' — missing in hypothesis
+    474. 'you' — missing in hypothesis
+    475. 'please' — missing in hypothesis
+    476. 'provide' — missing in hypothesis
+    477. 'me' — missing in hypothesis
+    478. 'the' — missing in hypothesis
+    479. 'product' — missing in hypothesis
+    480. 'name' — missing in hypothesis
+    481. 'please' — missing in hypothesis
+    482. 'give' — missing in hypothesis
+    483. 'me' — missing in hypothesis
+    484. 'a' — missing in hypothesis
+    485. 'moment' — missing in hypothesis
+    486. 'to' — missing in hypothesis
+    487. 'fetch' — missing in hypothesis
+    488. 'your' — missing in hypothesis
+    489. 'products' — missing in hypothesis
+    490. 'your' — missing in hypothesis
+    491. 'crocs' — missing in hypothesis
+    492. 'unisex' — missing in hypothesis
+    493. 'navy' — missing in hypothesis
+    494. 'blue' — missing in hypothesis
+    495. 'bioband' — missing in hypothesis
+    496. 'clogs' — missing in hypothesis
+    497. 'will' — missing in hypothesis
+    498. 'be' — missing in hypothesis
+    499. 'delivered' — missing in hypothesis
+    500. 'on' — missing in hypothesis
+    501. 'or' — missing in hypothesis
+    502. 'before' — missing in hypothesis
+    503. '12th' — missing in hypothesis
+    504. 'july' — missing in hypothesis
+    505. 'please' — missing in hypothesis
+    506. 'tell' — missing in hypothesis
+    507. 'me' — missing in hypothesis
+    508. 'is' — missing in hypothesis
+    509. 'there' — missing in hypothesis
+    510. 'anything' — missing in hypothesis
+    511. 'else' — missing in hypothesis
+    512. 'i' — missing in hypothesis
+    513. 'can' — missing in hypothesis
+    514. 'help' — missing in hypothesis
+    515. 'you' — missing in hypothesis
+    516. 'with' — missing in hypothesis
+    517. 'we' — missing in hypothesis
+    518. 'currently' — missing in hypothesis
+    519. 'cannot' — missing in hypothesis
+    520. 'accommodate' — missing in hypothesis
+    521. 'changes' — missing in hypothesis
+    522. 'to' — missing in hypothesis
+    523. 'the' — missing in hypothesis
+    524. 'delivery' — missing in hypothesis
+    525. 'time' — missing in hypothesis
+    526. 'the' — missing in hypothesis
+    527. 'fastest' — missing in hypothesis
+    528. 'available' — missing in hypothesis
+    529. 'delivery' — missing in hypothesis
+    530. 'option' — missing in hypothesis
+    531. 'is' — missing in hypothesis
+    532. 'always' — missing in hypothesis
+    533. 'chosen' — missing in hypothesis
+    534. 'for' — missing in hypothesis
+    535. 'your' — missing in hypothesis
+    536. 'order' — missing in hypothesis
+    537. 'if' — missing in hypothesis
+    538. 'you' — missing in hypothesis
+    539. 'have' — missing in hypothesis
+    540. 'any' — missing in hypothesis
+    541. 'more' — missing in hypothesis
+    542. 'questions' — missing in hypothesis
+    543. 'feel' — missing in hypothesis
+    544. 'free' — missing in hypothesis
+    545. 'to' — missing in hypothesis
+    546. 'ask' — missing in hypothesis
+    547. 'im' — missing in hypothesis
+    548. 'really' — missing in hypothesis
+    549. 'sorry' — missing in hypothesis
+    550. 'but' — missing in hypothesis
+    551. 'im' — missing in hypothesis
+    552. 'unable' — missing in hypothesis
+    553. 'to' — missing in hypothesis
+    554. 'assist' — missing in hypothesis
+    555. 'with' — missing in hypothesis
+    556. 'cancellation' — missing in hypothesis
+    557. 'requests' — missing in hypothesis
+    558. 'directly' — missing in hypothesis
+    559. 'you' — missing in hypothesis
+    560. 'can' — missing in hypothesis
+    561. 'cancel' — missing in hypothesis
+    562. 'your' — missing in hypothesis
+    563. 'order' — missing in hypothesis
+    564. 'through' — missing in hypothesis
+    565. 'the' — missing in hypothesis
+    566. 'myntra' — missing in hypothesis
+    567. 'app' — missing in hypothesis
+    568. 'by' — missing in hypothesis
+    569. 'going' — missing in hypothesis
+    570. 'to' — missing in hypothesis
+    571. 'the' — missing in hypothesis
+    572. 'orders' — missing in hypothesis
+    573. 'section' — missing in hypothesis
+    574. 'and' — missing in hypothesis
+    575. 'selecting' — missing in hypothesis
+    576. 'the' — missing in hypothesis
+    577. 'order' — missing in hypothesis
+    578. 'you' — missing in hypothesis
+    579. 'wish' — missing in hypothesis
+    580. 'to' — missing in hypothesis
+    581. 'cancel' — missing in hypothesis
+    582. 'if' — missing in hypothesis
+    583. 'you' — missing in hypothesis
+    584. 'need' — missing in hypothesis
+    585. 'further' — missing in hypothesis
+    586. 'assistance' — missing in hypothesis
+    587. 'feel' — missing in hypothesis
+    588. 'free' — missing in hypothesis
+    589. 'to' — missing in hypothesis
+    590. 'ask' — missing in hypothesis
+    591. 'you' — missing in hypothesis
+    592. 'can' — missing in hypothesis
+    593. 'cancel' — missing in hypothesis
+    594. 'individual' — missing in hypothesis
+    595. 'items' — missing in hypothesis
+    596. 'within' — missing in hypothesis
+    597. 'an' — missing in hypothesis
+    598. 'order' — missing in hypothesis
+    599. 'through' — missing in hypothesis
+    600. 'the' — missing in hypothesis
+    601. 'myntra' — missing in hypothesis
+    602. 'app' — missing in hypothesis
+    603. 'just' — missing in hypothesis
+    604. 'go' — missing in hypothesis
+    605. 'to' — missing in hypothesis
+    606. 'the' — missing in hypothesis
+    607. 'order' — missing in hypothesis
+    608. 'section' — missing in hypothesis
+    609. 'select' — missing in hypothesis
+    610. 'the' — missing in hypothesis
+    611. 'specific' — missing in hypothesis
+    612. 'item' — missing in hypothesis
+    613. 'you' — missing in hypothesis
+    614. 'wish' — missing in hypothesis
+    615. 'to' — missing in hypothesis
+    616. 'cancel' — missing in hypothesis
+    617. 'and' — missing in hypothesis
+    618. 'follow' — missing in hypothesis
+    619. 'the' — missing in hypothesis
+    620. 'cancellation' — missing in hypothesis
+    621. 'process' — missing in hypothesis
+    622. 'if' — missing in hypothesis
+    623. 'you' — missing in hypothesis
+    624. 'need' — missing in hypothesis
+    625. 'help' — missing in hypothesis
+    626. 'with' — missing in hypothesis
+    627. 'anything' — missing in hypothesis
+    628. 'else' — missing in hypothesis
+    629. 'let' — missing in hypothesis
+    630. 'me' — missing in hypothesis
+    631. 'know' — missing in hypothesis
+    632. 'im' — missing in hypothesis
+    633. 'sorry' — missing in hypothesis
+    634. 'but' — missing in hypothesis
+    635. 'im' — missing in hypothesis
+    636. 'unable' — missing in hypothesis
+    637. 'to' — missing in hypothesis
+    638. 'share' — missing in hypothesis
+    639. 'delivery' — missing in hypothesis
+    640. 'address' — missing in hypothesis
+    641. 'details' — missing in hypothesis
+    642. 'if' — missing in hypothesis
+    643. 'theres' — missing in hypothesis
+    644. 'anything' — missing in hypothesis
+    645. 'else' — missing in hypothesis
+    646. 'you' — missing in hypothesis
+    647. 'need' — missing in hypothesis
+    648. 'help' — missing in hypothesis
+    649. 'with' — missing in hypothesis
+    650. 'we' — missing in hypothesis
+    651. 'are' — missing in hypothesis
+    652. 'currently' — missing in hypothesis
+    653. 'unable' — missing in hypothesis
+    654. 'to' — missing in hypothesis
+    655. 'support' — missing in hypothesis
+    656. 'changes' — missing in hypothesis
+    657. 'to' — missing in hypothesis
+    658. 'the' — missing in hypothesis
+    659. 'delivery' — missing in hypothesis
+    660. 'address' — missing in hypothesis
+    661. 'once' — missing in hypothesis
+    662. 'an' — missing in hypothesis
+    663. 'order' — missing in hypothesis
+    664. 'is' — missing in hypothesis
+    665. 'placed' — missing in hypothesis
+    666. 'if' — missing in hypothesis
+    667. 'you' — missing in hypothesis
+    668. 'have' — missing in hypothesis
+    669. 'any' — missing in hypothesis
+    670. 'other' — missing in hypothesis
+    671. 'questions' — missing in hypothesis
+    672. 'or' — missing in hypothesis
+    673. 'need' — missing in hypothesis
+    674. 'further' — missing in hypothesis
+    675. 'assistance' — missing in hypothesis
+    676. 'feel' — missing in hypothesis
+    677. 'free' — missing in hypothesis
+    678. 'to' — missing in hypothesis
+    679. 'ask' — missing in hypothesis
+    680. 'i' — missing in hypothesis
+    681. 'really' — missing in hypothesis
+    682. 'apologize' — missing in hypothesis
+    683. 'for' — missing in hypothesis
+    684. 'the' — missing in hypothesis
+    685. 'inconvenience' — missing in hypothesis
+    686. 'i' — missing in hypothesis
+    687. 'am' — missing in hypothesis
+  Insertions:
+    1. 'i' — extra in hypothesis
+🏁 [c5f1aee1-8170-4c1b-93e0-1f8366882689] completed at 12:54:55, took 23.35s
+🚀 [d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c] started at 12:54:55
+🎯 Filtered 18 assistant utterances from 33 total utterances
+🎯 Filtered 14 Agent utterances from 25 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 5008 characters
+    📝 Hypothesis (Agent): 4447 characters
+✅ Saved canonical reference → calls/d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c/output/canon_ref_transcript.json
+❌ [d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c] failed: Illegal trailing comma before end of array: line 68 column 6 (char 4253)
+❌ [d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c] failed: Illegal trailing comma before end of array: line 68 column 6 (char 4253)
+🚀 [d521ea56-2e7b-4908-8cca-acf4a0f89337] started at 12:55:09
+🎯 Filtered 16 assistant utterances from 29 total utterances
+🎯 Filtered 11 Agent utterances from 20 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4464 characters
+    📝 Hypothesis (Agent): 3764 characters
+✅ Saved canonical reference → calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 20 mismatches and measures to calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0464
+  Total GT NERs: 18
+  Total Ref NERs: 19
+  Unique GT NERs: 13
+  Unique Ref NERs: 13
+  Total Concerned GT NERs (PERSON/ORG): 2
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 2
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.000549 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'a' -> 'our'
+    3. '1' -> '1mg'
+    4. 'road' -> 'roadmap'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'mg' — missing in hypothesis
+    3. 'map' — missing in hypothesis
+  Insertions:
+    1. '29' — extra in hypothesis
+    2. 'point' — extra in hypothesis
+    3. 'let' — extra in hypothesis
+    4. 'me' — extra in hypothesis
+    5. 'give' — extra in hypothesis
+    6. 'you' — extra in hypothesis
+    7. 'a' — extra in hypothesis
+    8. 'quick' — extra in hypothesis
+    9. 'overview' — extra in hypothesis
+    10. 'of' — extra in hypothesis
+    11. 'our' — extra in hypothesis
+    12. 'nano' — extra in hypothesis
+    13. 'plan' — extra in hypothesis
+🏁 [d521ea56-2e7b-4908-8cca-acf4a0f89337] completed at 12:55:24, took 15.39s
+🚀 [d7c521ce-dbcb-4c23-a776-66b38d8127b4] started at 12:55:24
+🎯 Filtered 14 assistant utterances from 22 total utterances
+🎯 Filtered 14 Agent utterances from 23 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3381 characters
+    📝 Hypothesis (Agent): 2971 characters
+✅ Saved canonical reference → calls/d7c521ce-dbcb-4c23-a776-66b38d8127b4/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/d7c521ce-dbcb-4c23-a776-66b38d8127b4/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 55 mismatches and measures to calls/d7c521ce-dbcb-4c23-a776-66b38d8127b4/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/d7c521ce-dbcb-4c23-a776-66b38d8127b4/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1923
+  Total GT NERs: 21
+  Total Ref NERs: 22
+  Unique GT NERs: 16
+  Unique Ref NERs: 15
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000839 seconds
+
+  Substitutions:
+    1. '2' -> 'two'
+    2. 'threefold' -> 'fold'
+    3. 'biotech' -> 'bayotik'
+    4. 'theyre' -> 'are'
+    5. 'biotech' -> 'biotique'
+    6. 'v' -> 'we'
+    7. '20' -> '20ml'
+  Deletions:
+    1. 'and' — missing in hypothesis
+    2. 'and' — missing in hypothesis
+    3. 'and' — missing in hypothesis
+    4. 'and' — missing in hypothesis
+    5. 'and' — missing in hypothesis
+    6. 'ml' — missing in hypothesis
+  Insertions:
+    1. '3' — extra in hypothesis
+    2. 'please' — extra in hypothesis
+    3. 'tell' — extra in hypothesis
+    4. 'me' — extra in hypothesis
+    5. 'is' — extra in hypothesis
+    6. 'there' — extra in hypothesis
+    7. 'anything' — extra in hypothesis
+    8. 'else' — extra in hypothesis
+    9. 'i' — extra in hypothesis
+    10. 'can' — extra in hypothesis
+    11. 'help' — extra in hypothesis
+    12. 'you' — extra in hypothesis
+    13. 'with' — extra in hypothesis
+    14. 'nourish' — extra in hypothesis
+    15. 'hydrate' — extra in hypothesis
+    16. 'visibly' — extra in hypothesis
+    17. 'flawless' — extra in hypothesis
+    18. 'skin' — extra in hypothesis
+    19. 'moisturizer' — extra in hypothesis
+    20. '120ml' — extra in hypothesis
+    21. 'is' — extra in hypothesis
+    22. 'being' — extra in hypothesis
+    23. 'processed' — extra in hypothesis
+    24. 'and' — extra in hypothesis
+    25. 'will' — extra in hypothesis
+    26. 'be' — extra in hypothesis
+    27. 'delivered' — extra in hypothesis
+    28. 'by' — extra in hypothesis
+    29. 'today' — extra in hypothesis
+    30. 'please' — extra in hypothesis
+    31. 'tell' — extra in hypothesis
+    32. 'me' — extra in hypothesis
+    33. 'is' — extra in hypothesis
+    34. 'there' — extra in hypothesis
+    35. 'anything' — extra in hypothesis
+    36. 'else' — extra in hypothesis
+    37. 'i' — extra in hypothesis
+    38. 'can' — extra in hypothesis
+    39. 'help' — extra in hypothesis
+    40. 'you' — extra in hypothesis
+    41. 'with' — extra in hypothesis
+    42. 'they' — extra in hypothesis
+🏁 [d7c521ce-dbcb-4c23-a776-66b38d8127b4] completed at 12:55:39, took 14.41s
+🚀 [d9aa182c-b21e-4ad5-8138-18d0e9f69b84] started at 12:55:39
+🎯 Filtered 15 assistant utterances from 26 total utterances
+🎯 Filtered 13 Agent utterances from 23 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3346 characters
+    📝 Hypothesis (Agent): 2877 characters
+✅ Saved canonical reference → calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 41 mismatches and measures to calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1450
+  Total GT NERs: 23
+  Total Ref NERs: 36
+  Unique GT NERs: 18
+  Unique Ref NERs: 24
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000598 seconds
+
+  Substitutions:
+    1. 'lakme' -> 'laamic'
+    2. 'all' -> 'alright'
+    3. 'love' -> 'lavender'
+    4. '50' -> '50g'
+    5. 'all' -> 'alright'
+    6. '400' -> '400ml'
+    7. 'sms' -> 'smsyour'
+  Deletions:
+    1. 'and' — missing in hypothesis
+    2. 'right' — missing in hypothesis
+    3. 'and' — missing in hypothesis
+    4. 'gd' — missing in hypothesis
+    5. 'right' — missing in hypothesis
+    6. 'and' — missing in hypothesis
+    7. '10' — missing in hypothesis
+    8. 'and' — missing in hypothesis
+    9. '80' — missing in hypothesis
+    10. 'd' — missing in hypothesis
+    11. '80' — missing in hypothesis
+    12. 'milli' — missing in hypothesis
+    13. 'your' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'could' — extra in hypothesis
+    3. 'you' — extra in hypothesis
+    4. 'please' — extra in hypothesis
+    5. 'tell' — extra in hypothesis
+    6. 'me' — extra in hypothesis
+    7. 'the' — extra in hypothesis
+    8. 'product' — extra in hypothesis
+    9. 'name' — extra in hypothesis
+    10. 'please' — extra in hypothesis
+    11. 'tell' — extra in hypothesis
+    12. 'me' — extra in hypothesis
+    13. 'is' — extra in hypothesis
+    14. 'there' — extra in hypothesis
+    15. 'anything' — extra in hypothesis
+    16. 'else' — extra in hypothesis
+    17. 'i' — extra in hypothesis
+    18. 'can' — extra in hypothesis
+    19. 'help' — extra in hypothesis
+    20. 'you' — extra in hypothesis
+    21. 'with' — extra in hypothesis
+🏁 [d9aa182c-b21e-4ad5-8138-18d0e9f69b84] completed at 12:55:58, took 18.71s
+🚀 [e69e62f6-954a-4d0a-9989-2a2d562f66fe] started at 12:55:58
+🎯 Filtered 14 assistant utterances from 27 total utterances
+🎯 Filtered 12 Agent utterances from 22 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 3090 characters
+    📝 Hypothesis (Agent): 2597 characters
+✅ Saved canonical reference → calls/e69e62f6-954a-4d0a-9989-2a2d562f66fe/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/e69e62f6-954a-4d0a-9989-2a2d562f66fe/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 22 mismatches and measures to calls/e69e62f6-954a-4d0a-9989-2a2d562f66fe/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/e69e62f6-954a-4d0a-9989-2a2d562f66fe/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0895
+  Total GT NERs: 12
+  Total Ref NERs: 16
+  Unique GT NERs: 8
+  Unique Ref NERs: 12
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000519 seconds
+
+  Substitutions:
+    1. 'batayen' -> 'bataen'
+    2. 'batayen' -> 'bataen'
+    3. 'jayega' -> 'jaega'
+    4. 'batayiye' -> 'bataiye'
+    5. 'chij' -> 'chiz'
+    6. 'batayiye' -> 'bataiye'
+    7. 'chij' -> 'chiz'
+    8. 'chij' -> 'chiz'
+    9. 'jayega' -> 'jaega'
+    10. 'batayiye' -> 'bataiye'
+    11. 'chij' -> 'chiz'
+  Deletions:
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'i' — extra in hypothesis
+    3. 'am' — extra in hypothesis
+    4. 'hindi' — extra in hypothesis
+    5. 'or' — extra in hypothesis
+    6. 'english' — extra in hypothesis
+    7. 'ke' — extra in hypothesis
+    8. 'liye' — extra in hypothesis
+    9. 'return' — extra in hypothesis
+    10. 'policy' — extra in hypothesis
+    11. 'sms' — extra in hypothesis
+🏁 [e69e62f6-954a-4d0a-9989-2a2d562f66fe] completed at 12:56:15, took 17.61s
+🚀 [eacbcb92-6172-41f7-b2a9-0c4df5a3a597] started at 12:56:15
+🎯 Filtered 22 assistant utterances from 38 total utterances
+🎯 Filtered 19 Agent utterances from 31 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4632 characters
+    📝 Hypothesis (Agent): 4155 characters
+✅ Saved canonical reference → calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 17 mismatches and measures to calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0448
+  Total GT NERs: 27
+  Total Ref NERs: 22
+  Unique GT NERs: 14
+  Unique Ref NERs: 15
+  Total Concerned GT NERs (PERSON/ORG): 1
+  Total Concerned Ref NERs (PERSON/ORG): 1
+  Unique Concerned GT NERs: 1
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000541 seconds
+
+  Substitutions:
+    1. 'midrise' -> 'rise'
+    2. '1' -> 'one'
+    3. '1' -> 'one'
+    4. '1' -> 'one'
+    5. '1' -> 'one'
+    6. '1' -> 'one'
+    7. '1' -> 'one'
+    8. 'all' -> 'alright'
+    9. '1' -> 'one'
+    10. '25th' -> '25'
+  Deletions:
+    1. 'english' — missing in hypothesis
+    2. 'please' — missing in hypothesis
+    3. 'and' — missing in hypothesis
+    4. 'right' — missing in hypothesis
+    5. 'and' — missing in hypothesis
+    6. 'and' — missing in hypothesis
+  Insertions:
+    1. 'mid' — extra in hypothesis
+🏁 [eacbcb92-6172-41f7-b2a9-0c4df5a3a597] completed at 12:56:33, took 17.61s
+🚀 [ec85480e-604c-4070-938f-b832e4904e9e] started at 12:56:33
+🎯 Filtered 18 assistant utterances from 30 total utterances
+🎯 Filtered 14 Agent utterances from 25 total utterances
+⚙️  Sending FILTERED bot-only transcripts to Gemini in parallel...
+    📝 Reference (assistant): 4453 characters
+    📝 Hypothesis (Agent): 3720 characters
+✅ Saved canonical reference → calls/ec85480e-604c-4070-938f-b832e4904e9e/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/ec85480e-604c-4070-938f-b832e4904e9e/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 17 mismatches and measures to calls/ec85480e-604c-4070-938f-b832e4904e9e/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/ec85480e-604c-4070-938f-b832e4904e9e/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0398
+  Total GT NERs: 20
+  Total Ref NERs: 17
+  Unique GT NERs: 11
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 6
+  Total Concerned Ref NERs (PERSON/ORG): 4
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 2
+  Time taken: 0.001172 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'the' -> 'their'
+    3. 'hen' -> 'then'
+    4. 'up' -> 'upfront'
+    5. 'elevate' -> 'elevatenow'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'front' — missing in hypothesis
+    3. 'now' — missing in hypothesis
+  Insertions:
+    1. 'i' — extra in hypothesis
+    2. 'great' — extra in hypothesis
+    3. 'absolutely' — extra in hypothesis
+    4. 'have' — extra in hypothesis
+    5. 'two' — extra in hypothesis
+    6. 'payment' — extra in hypothesis
+    7. 'options' — extra in hypothesis
+    8. 'you' — extra in hypothesis
+    9. 'great' — extra in hypothesis
+🏁 [ec85480e-604c-4070-938f-b832e4904e9e] completed at 12:56:48, took 15.09s
+================================================================================
+📈 Processing Summary:
+   Processed calls: 26
+   Failed calls: 1
+
+🏷️  All entity types encountered across all calls:
+   - DATE
+   - DATE/TIME
+   - GPE
+   - LANGUAGE
+   - LOCATION/GPE
+   - MONEY
+   - ORG
+   - ORGANIZATION
+   - OTHER
+   - PERSON
+   - PRODUCT
+   - TIME
+
+📊 Average WER across 26 calls: 18.4549
+🌍 Calculating Global WER from bot-only canonical texts...
+   📊 Total calls processed: 26
+   📏 Total reference text length: 67313 characters
+   📏 Total hypothesis text length: 62769 characters
+   🎯 Reference word count: 12231
+   🎯 Hypothesis word count: 11314
+🎯 Global WER (entire system performance): 0.2511
+   ➕ Global insertions: 927
+   ➖ Global deletions: 1844
+   🔄 Global substitutions: 300
+
+📋 Generating summary report...
+✅ Summary report saved to: calls/wer_summary.csv
+🌍 Global WER report saved to: calls/global_wer_report.json
+
+⏱️  Total processing time: 459.49 seconds
+🎉 Processing complete!

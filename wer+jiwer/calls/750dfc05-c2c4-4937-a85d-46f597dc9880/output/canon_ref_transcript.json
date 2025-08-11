@@ -1,8 +1,8 @@
 {
-  "canonical_transcript": "hello this is priya from elevatenow am i speaking with yogesh deshmukh i noticed youve been quiet are you still there great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are i noticed youve been quiet are you still there based on your bmi of 25 its clear your body is sending signals about how its handling weight and metabolism right now were genuinely excited to support your goals and the nano plan is designed to work with your bodys current state to make weight loss easier and more effective would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss great have you had any past experiences with other weight loss programs if yes did they work for you youre in the right place let me give you a quick intro to what we offer the nano plan includes a blood test a consultation with a doctor specialized in obesity and a session with a senior health coach these are designed to help you achieve your weight loss goals unless you have any specific questions related to these offerings can i explain how they can benefit your journey sure heres a brief overview of how the nano plan works for you it starts with a comprehensive blood test to identify key metabolic issues like insulin resistance and hormonal imbalances then a senior obesity specialist will review your results and discuss how they impact your health finally a health coach will create a personalized plan tailored to your needs now that weve covered the offerings would you like to know about the pricing the nano plan is designed to be affordable at rupees 1799 including the blood test metabolic report and doctor consultation this is a 1 time payment giving you access to premium services at a fraction of the typical cost which can be around rupees 6000 otherwise what do you think about the pricing now that weve talked about the offerings and pricing i really think the nano plan can be a great starting point for you to achieve your weight loss goals would you like to proceed with the payment great you can choose between two payment options a partial payment of rupees 499 now and the remaining rupees 1399 at the time of blood sample collection or a full payment of rupees 1799 upfront ill send both payment links to your registered mobile number via whatsapp do you have any more questions before we proceed perfect ill send the payment links to your registered mobile number if you have any more questions in the future feel free to reach out goodbye and have a great day i noticed youve been quiet are you still there",
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with yogesh deshmukh i noticed you've been quiet are you still there great i noticed you were checking out our nano plan but didn't complete the payment i'd love to understand what motivated you to consider our program and what your weight loss goals are i noticed you've been quiet are you still there based on your bmi of 25 it's clear your body is sending signals about how it's handling weight and metabolism right now we're genuinely excited to support your goals and the nano plan is designed to work with your body's current state to make weight loss easier and more effective would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss great have you had any past experiences with other weight loss programs if yes did they work for you you're in the right place let me give you a quick intro to what we offer the nano plan includes a blood test a consultation with a doctor specialized in obesity and a session with a senior health coach these are designed to help you achieve your weight loss goals unless you have any specific questions related to these offerings can i explain how they can benefit your journey sure here's a brief overview of how the nano plan works for you it starts with a comprehensive blood test to identify key metabolic issues like insulin resistance and hormonal imbalances then a senior obesity specialist will review your results and discuss how they impact your health finally a health coach will create a personalized plan tailored to your needs now that we've covered the offerings would you like to know about the pricing the nano plan is designed to be affordable at rupees 1799 including the blood test metabolic report and doctor consultation this is a one-time payment giving you access to premium services at a fraction of the typical cost which can be around rupees 6000 otherwise what do you think about the pricing now that we've talked about the offerings and pricing i really think the nano plan can be a great starting point for you to achieve your weight loss goals would you like to proceed with the payment great you can choose between two payment options a partial payment of rupees 499 now and the remaining rupees 1399 at the time of blood sample collection or a full payment of rupees 1799 upfront i'll send both payment links to your registered mobile number via whatsapp do you have any more questions before we proceed perfect i'll send the payment links to your registered mobile number if you have any more questions in the future feel free to reach out goodbye and have a great day i noticed you've been quiet are you still there",
   "entities": [
     {
-      "index": 4,
+      "index": 5,
       "value": "priya",
       "type": "PERSON"
     },
@@ -12,72 +12,77 @@
       "type": "ORGANIZATION"
     },
     {
-      "index": 12,
+      "index": 13,
       "value": "yogesh deshmukh",
       "type": "PERSON"
     },
     {
-      "index": 40,
+      "index": 32,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 134,
-      "value": "25",
-      "type": "OTHER"
-    },
-    {
-      "index": 190,
+      "index": 108,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 296,
+      "index": 156,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 464,
+      "index": 176,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 554,
+      "index": 204,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 598,
-      "value": "1799",
+      "index": 227,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 282,
+      "value": "rupees 1799",
       "type": "MONEY"
     },
     {
-      "index": 645,
-      "value": "6000",
+      "index": 302,
+      "value": "rupees 6000",
       "type": "MONEY"
     },
     {
-      "index": 695,
+      "index": 318,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 765,
-      "value": "499",
+      "index": 344,
+      "value": "rupees 499",
       "type": "MONEY"
     },
     {
-      "index": 792,
-      "value": "1399",
+      "index": 349,
+      "value": "rupees 1399",
       "type": "MONEY"
     },
     {
-      "index": 822,
-      "value": "1799",
+      "index": 354,
+      "value": "rupees 1799",
       "type": "MONEY"
     },
     {
-      "index": 845,
+      "index": 362,
       "value": "whatsapp",
       "type": "PRODUCT"
     }

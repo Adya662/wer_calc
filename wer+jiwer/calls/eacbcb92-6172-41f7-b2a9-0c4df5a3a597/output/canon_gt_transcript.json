@@ -12,17 +12,17 @@
       "type": "ORG"
     },
     {
-      "index": 23,
+      "index": 22,
       "value": "hindi",
       "type": "LANGUAGE"
     },
     {
-      "index": 25,
+      "index": 24,
       "value": "english",
       "type": "LANGUAGE"
     },
     {
-      "index": 27,
+      "index": 26,
       "value": "english",
       "type": "LANGUAGE"
     },
@@ -32,67 +32,87 @@
       "type": "PRODUCT"
     },
     {
-      "index": 86,
+      "index": 78,
+      "value": "yesterday",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 88,
       "value": "gap boys camouflage printed relaxed fit midrise joggers",
       "type": "PRODUCT"
     },
     {
-      "index": 134,
-      "value": "jack and jones junior",
-      "type": "PRODUCT"
-    },
-    {
       "index": 144,
-      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 176,
-      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 192,
-      "value": "jack and jones junior boys relaxed fit mid rise joggers",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 216,
-      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 220,
-      "value": "jack and jones junior boys relaxed fit mid rise joggers",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 258,
       "value": "jack and jones junior",
       "type": "PRODUCT"
     },
     {
-      "index": 270,
+      "index": 156,
+      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 166,
+      "value": "end of day today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 186,
+      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 204,
+      "value": "jack and jones junior boys relaxed fit mid rise joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 214,
+      "value": "end of day today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 224,
+      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 228,
+      "value": "jack and jones junior boys relaxed fit mid rise joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 238,
+      "value": "the end of today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 296,
+      "value": "jack and jones junior",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 308,
       "value": "jack and jones junior boys jogger mid rice pure cotton stretchable jeans",
       "type": "PRODUCT"
     },
     {
-      "index": 288,
+      "index": 324,
       "value": "jack and jones junior boys jogger mid rice pure cotton stretchable jeans",
       "type": "PRODUCT"
     },
     {
-      "index": 297,
+      "index": 334,
       "value": "25th june",
       "type": "DATE/TIME"
     },
     {
-      "index": 315,
+      "index": 360,
       "value": "sms",
       "type": "PRODUCT"
     },
     {
-      "index": 328,
+      "index": 375,
       "value": "myntra",
       "type": "ORG"
     }

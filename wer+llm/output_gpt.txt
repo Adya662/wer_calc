@@ -1,0 +1,648 @@
+adyasrivastava@NURIX-37 wer+llm % python3 llm_wer_gpt.py 
+INFO:__main__:Processing call: ec85480e-604c-4070-938f-b832e4904e9e
+INFO:__main__:Normalizing reference transcript for call ec85480e-604c-4070-938f-b832e4904e9e
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2756 to 2368
+INFO:__main__:Normalizing ground truth transcript for call ec85480e-604c-4070-938f-b832e4904e9e
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2527 to 2493
+INFO:__main__:Calculating conversational WER for call ec85480e-604c-4070-938f-b832e4904e9e
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call ec85480e-604c-4070-938f-b832e4904e9e - Conversational WER: 0.0682
+
+⟡ CONCERNED DIFFERENCES (Call: ec85480e-604c-4070-938f-b832e4904e9e)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 332017b6-9f62-444d-a657-7b733bc727fc
+INFO:__main__:Normalizing reference transcript for call 332017b6-9f62-444d-a657-7b733bc727fc
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1770 to 1635
+INFO:__main__:Normalizing ground truth transcript for call 332017b6-9f62-444d-a657-7b733bc727fc
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1593 to 1534
+INFO:__main__:Calculating conversational WER for call 332017b6-9f62-444d-a657-7b733bc727fc
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 332017b6-9f62-444d-a657-7b733bc727fc - Conversational WER: 0.0627
+
+⟡ CONCERNED DIFFERENCES (Call: 332017b6-9f62-444d-a657-7b733bc727fc)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 7fd6b5f9-8b11-4085-b864-a16f92504e53
+INFO:__main__:Normalizing reference transcript for call 7fd6b5f9-8b11-4085-b864-a16f92504e53
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3628 to 3527
+INFO:__main__:Normalizing ground truth transcript for call 7fd6b5f9-8b11-4085-b864-a16f92504e53
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3780 to 3716
+INFO:__main__:Calculating conversational WER for call 7fd6b5f9-8b11-4085-b864-a16f92504e53
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 7fd6b5f9-8b11-4085-b864-a16f92504e53 - Conversational WER: 0.0570
+
+⟡ CONCERNED DIFFERENCES (Call: 7fd6b5f9-8b11-4085-b864-a16f92504e53)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 5cdef144-9d6a-4100-9be6-8489f90fc466
+INFO:__main__:Normalizing reference transcript for call 5cdef144-9d6a-4100-9be6-8489f90fc466
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2892 to 2748
+INFO:__main__:Normalizing ground truth transcript for call 5cdef144-9d6a-4100-9be6-8489f90fc466
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2755 to 2737
+INFO:__main__:Calculating conversational WER for call 5cdef144-9d6a-4100-9be6-8489f90fc466
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 5cdef144-9d6a-4100-9be6-8489f90fc466 - Conversational WER: 0.0000
+
+⟡ CONCERNED DIFFERENCES (Call: 5cdef144-9d6a-4100-9be6-8489f90fc466)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: d521ea56-2e7b-4908-8cca-acf4a0f89337
+INFO:__main__:Normalizing reference transcript for call d521ea56-2e7b-4908-8cca-acf4a0f89337
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2953 to 2830
+INFO:__main__:Normalizing ground truth transcript for call d521ea56-2e7b-4908-8cca-acf4a0f89337
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2825 to 2779
+INFO:__main__:Calculating conversational WER for call d521ea56-2e7b-4908-8cca-acf4a0f89337
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call d521ea56-2e7b-4908-8cca-acf4a0f89337 - Conversational WER: 0.0144
+
+⟡ CONCERNED DIFFERENCES (Call: d521ea56-2e7b-4908-8cca-acf4a0f89337)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 3502253e-259a-42d3-ab70-7aedabeb81fa
+INFO:__main__:Normalizing reference transcript for call 3502253e-259a-42d3-ab70-7aedabeb81fa
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3628 to 3521
+INFO:__main__:Normalizing ground truth transcript for call 3502253e-259a-42d3-ab70-7aedabeb81fa
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3114 to 3272
+INFO:__main__:Calculating conversational WER for call 3502253e-259a-42d3-ab70-7aedabeb81fa
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 3502253e-259a-42d3-ab70-7aedabeb81fa - Conversational WER: 0.0857
+
+⟡ CONCERNED DIFFERENCES (Call: 3502253e-259a-42d3-ab70-7aedabeb81fa)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 1bf3729b-c0a7-4f65-a846-88c8aa31a473
+INFO:__main__:Normalizing reference transcript for call 1bf3729b-c0a7-4f65-a846-88c8aa31a473
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1420 to 1342
+INFO:__main__:Normalizing ground truth transcript for call 1bf3729b-c0a7-4f65-a846-88c8aa31a473
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1322 to 1283
+INFO:__main__:Calculating conversational WER for call 1bf3729b-c0a7-4f65-a846-88c8aa31a473
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 1bf3729b-c0a7-4f65-a846-88c8aa31a473 - Conversational WER: 0.0656
+
+⟡ CONCERNED DIFFERENCES (Call: 1bf3729b-c0a7-4f65-a846-88c8aa31a473)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
+INFO:__main__:Normalizing reference transcript for call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1624 to 1513
+INFO:__main__:Normalizing ground truth transcript for call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1488 to 1457
+INFO:__main__:Calculating conversational WER for call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba - Conversational WER: 0.0396
+
+⟡ CONCERNED DIFFERENCES (Call: 79e02e46-ea93-4669-9dc1-6c4339dcc6ba)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
+INFO:__main__:Normalizing reference transcript for call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2183 to 2062
+INFO:__main__:Normalizing ground truth transcript for call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2105 to 2062
+INFO:__main__:Calculating conversational WER for call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5 - Conversational WER: 0.0053
+
+⟡ CONCERNED DIFFERENCES (Call: 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
+INFO:__main__:Normalizing reference transcript for call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2947 to 2740
+INFO:__main__:Normalizing ground truth transcript for call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2816 to 2734
+INFO:__main__:Calculating conversational WER for call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567 - Conversational WER: 0.0061
+
+⟡ CONCERNED DIFFERENCES (Call: 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 8daee0cc-cbda-4cdf-b8ed-f120e3329138
+INFO:__main__:Normalizing reference transcript for call 8daee0cc-cbda-4cdf-b8ed-f120e3329138
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2049 to 1932
+INFO:__main__:Normalizing ground truth transcript for call 8daee0cc-cbda-4cdf-b8ed-f120e3329138
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1818 to 1788
+INFO:__main__:Calculating conversational WER for call 8daee0cc-cbda-4cdf-b8ed-f120e3329138
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 8daee0cc-cbda-4cdf-b8ed-f120e3329138 - Conversational WER: 0.0744
+
+⟡ CONCERNED DIFFERENCES (Call: 8daee0cc-cbda-4cdf-b8ed-f120e3329138)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 268dbd88-173b-41a1-8363-4a6ba62b9aae
+INFO:__main__:Normalizing reference transcript for call 268dbd88-173b-41a1-8363-4a6ba62b9aae
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2989 to 2944
+INFO:__main__:Normalizing ground truth transcript for call 268dbd88-173b-41a1-8363-4a6ba62b9aae
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2937 to 2869
+INFO:__main__:Calculating conversational WER for call 268dbd88-173b-41a1-8363-4a6ba62b9aae
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 268dbd88-173b-41a1-8363-4a6ba62b9aae - Conversational WER: 0.0240
+
+⟡ CONCERNED DIFFERENCES (Call: 268dbd88-173b-41a1-8363-4a6ba62b9aae)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
+INFO:__main__:Normalizing reference transcript for call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3214 to 3086
+INFO:__main__:Normalizing ground truth transcript for call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3160 to 3081
+INFO:__main__:Calculating conversational WER for call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f - Conversational WER: 0.0019
+
+⟡ CONCERNED DIFFERENCES (Call: b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: eacbcb92-6172-41f7-b2a9-0c4df5a3a597
+INFO:__main__:Normalizing reference transcript for call eacbcb92-6172-41f7-b2a9-0c4df5a3a597
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2553 to 2440
+INFO:__main__:Normalizing ground truth transcript for call eacbcb92-6172-41f7-b2a9-0c4df5a3a597
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2537 to 2467
+INFO:__main__:Calculating conversational WER for call eacbcb92-6172-41f7-b2a9-0c4df5a3a597
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call eacbcb92-6172-41f7-b2a9-0c4df5a3a597 - Conversational WER: 0.0319
+
+⟡ CONCERNED DIFFERENCES (Call: eacbcb92-6172-41f7-b2a9-0c4df5a3a597)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: d7c521ce-dbcb-4c23-a776-66b38d8127b4
+INFO:__main__:Normalizing reference transcript for call d7c521ce-dbcb-4c23-a776-66b38d8127b4
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2053 to 1865
+INFO:__main__:Normalizing ground truth transcript for call d7c521ce-dbcb-4c23-a776-66b38d8127b4
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1778 to 1733
+INFO:__main__:Calculating conversational WER for call d7c521ce-dbcb-4c23-a776-66b38d8127b4
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call d7c521ce-dbcb-4c23-a776-66b38d8127b4 - Conversational WER: 0.0671
+
+⟡ CONCERNED DIFFERENCES (Call: d7c521ce-dbcb-4c23-a776-66b38d8127b4)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
+INFO:__main__:Normalizing reference transcript for call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3310 to 3217
+INFO:__main__:Normalizing ground truth transcript for call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3253 to 3200
+INFO:__main__:Calculating conversational WER for call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c - Conversational WER: 0.0035
+
+⟡ CONCERNED DIFFERENCES (Call: d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
+INFO:__main__:Normalizing reference transcript for call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2408 to 2336
+INFO:__main__:Normalizing ground truth transcript for call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2363 to 2327
+INFO:__main__:Calculating conversational WER for call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215 - Conversational WER: 0.0024
+
+⟡ CONCERNED DIFFERENCES (Call: 5f4d919f-b1bc-4a3d-9d98-1f8279d51215)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 09f69426-e7e6-4f2a-a20a-75416d945306
+INFO:__main__:Normalizing reference transcript for call 09f69426-e7e6-4f2a-a20a-75416d945306
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 4094 to 4151
+INFO:__main__:Normalizing ground truth transcript for call 09f69426-e7e6-4f2a-a20a-75416d945306
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3909 to 4069
+INFO:__main__:Calculating conversational WER for call 09f69426-e7e6-4f2a-a20a-75416d945306
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 09f69426-e7e6-4f2a-a20a-75416d945306 - Conversational WER: 0.0140
+
+⟡ CONCERNED DIFFERENCES (Call: 09f69426-e7e6-4f2a-a20a-75416d945306)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 482181f8-15e2-4ced-8a9a-67facdd9c6fc
+INFO:__main__:Normalizing reference transcript for call 482181f8-15e2-4ced-8a9a-67facdd9c6fc
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2008 to 1903
+INFO:__main__:Normalizing ground truth transcript for call 482181f8-15e2-4ced-8a9a-67facdd9c6fc
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1955 to 1896
+INFO:__main__:Calculating conversational WER for call 482181f8-15e2-4ced-8a9a-67facdd9c6fc
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 482181f8-15e2-4ced-8a9a-67facdd9c6fc - Conversational WER: 0.0027
+
+⟡ CONCERNED DIFFERENCES (Call: 482181f8-15e2-4ced-8a9a-67facdd9c6fc)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: d9aa182c-b21e-4ad5-8138-18d0e9f69b84
+INFO:__main__:Normalizing reference transcript for call d9aa182c-b21e-4ad5-8138-18d0e9f69b84
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1925 to 1811
+INFO:__main__:Normalizing ground truth transcript for call d9aa182c-b21e-4ad5-8138-18d0e9f69b84
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1776 to 1720
+INFO:__main__:Calculating conversational WER for call d9aa182c-b21e-4ad5-8138-18d0e9f69b84
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call d9aa182c-b21e-4ad5-8138-18d0e9f69b84 - Conversational WER: 0.0395
+
+⟡ CONCERNED DIFFERENCES (Call: d9aa182c-b21e-4ad5-8138-18d0e9f69b84)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 429ac8a5-6f19-46b3-97bb-8e55feec389e
+INFO:__main__:Normalizing reference transcript for call 429ac8a5-6f19-46b3-97bb-8e55feec389e
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2753 to 2648
+INFO:__main__:Normalizing ground truth transcript for call 429ac8a5-6f19-46b3-97bb-8e55feec389e
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 4552 to 4501
+INFO:__main__:Calculating conversational WER for call 429ac8a5-6f19-46b3-97bb-8e55feec389e
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 429ac8a5-6f19-46b3-97bb-8e55feec389e - Conversational WER: 0.4214
+
+⟡ CONCERNED DIFFERENCES (Call: 429ac8a5-6f19-46b3-97bb-8e55feec389e)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: e69e62f6-954a-4d0a-9989-2a2d562f66fe
+INFO:__main__:Normalizing reference transcript for call e69e62f6-954a-4d0a-9989-2a2d562f66fe
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1758 to 1802
+INFO:__main__:Normalizing ground truth transcript for call e69e62f6-954a-4d0a-9989-2a2d562f66fe
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1581 to 1754
+INFO:__main__:Calculating conversational WER for call e69e62f6-954a-4d0a-9989-2a2d562f66fe
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call e69e62f6-954a-4d0a-9989-2a2d562f66fe - Conversational WER: 0.0247
+
+⟡ CONCERNED DIFFERENCES (Call: e69e62f6-954a-4d0a-9989-2a2d562f66fe)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: c5f1aee1-8170-4c1b-93e0-1f8366882689
+INFO:__main__:Normalizing reference transcript for call c5f1aee1-8170-4c1b-93e0-1f8366882689
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2088 to 1960
+INFO:__main__:Normalizing ground truth transcript for call c5f1aee1-8170-4c1b-93e0-1f8366882689
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 5907 to 3844
+INFO:__main__:Calculating conversational WER for call c5f1aee1-8170-4c1b-93e0-1f8366882689
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call c5f1aee1-8170-4c1b-93e0-1f8366882689 - Conversational WER: 0.4893
+
+⟡ CONCERNED DIFFERENCES (Call: c5f1aee1-8170-4c1b-93e0-1f8366882689)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: a26f3d38-ed43-4289-8d34-9ee376fb779d
+INFO:__main__:Normalizing reference transcript for call a26f3d38-ed43-4289-8d34-9ee376fb779d
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 3485 to 3292
+INFO:__main__:Normalizing ground truth transcript for call a26f3d38-ed43-4289-8d34-9ee376fb779d
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 6670 to 6423
+INFO:__main__:Calculating conversational WER for call a26f3d38-ed43-4289-8d34-9ee376fb779d
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call a26f3d38-ed43-4289-8d34-9ee376fb779d - Conversational WER: 0.4876
+
+⟡ CONCERNED DIFFERENCES (Call: a26f3d38-ed43-4289-8d34-9ee376fb779d)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 750dfc05-c2c4-4937-a85d-46f597dc9880
+INFO:__main__:Normalizing reference transcript for call 750dfc05-c2c4-4937-a85d-46f597dc9880
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2896 to 2715
+INFO:__main__:Normalizing ground truth transcript for call 750dfc05-c2c4-4937-a85d-46f597dc9880
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2745 to 2704
+INFO:__main__:Calculating conversational WER for call 750dfc05-c2c4-4937-a85d-46f597dc9880
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 750dfc05-c2c4-4937-a85d-46f597dc9880 - Conversational WER: 0.0020
+
+⟡ CONCERNED DIFFERENCES (Call: 750dfc05-c2c4-4937-a85d-46f597dc9880)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 03261666-7d82-49ec-8d6e-78c2f716ad73
+INFO:__main__:Normalizing reference transcript for call 03261666-7d82-49ec-8d6e-78c2f716ad73
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 1035 to 1075
+INFO:__main__:Normalizing ground truth transcript for call 03261666-7d82-49ec-8d6e-78c2f716ad73
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 846 to 700
+INFO:__main__:Calculating conversational WER for call 03261666-7d82-49ec-8d6e-78c2f716ad73
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 03261666-7d82-49ec-8d6e-78c2f716ad73 - Conversational WER: 0.5669
+
+⟡ CONCERNED DIFFERENCES (Call: 03261666-7d82-49ec-8d6e-78c2f716ad73)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+INFO:__main__:Processing call: 03856e6b-6925-4012-8eb8-0a0289019b7e
+INFO:__main__:Normalizing reference transcript for call 03856e6b-6925-4012-8eb8-0a0289019b7e
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2820 to 2743
+INFO:__main__:Normalizing ground truth transcript for call 03856e6b-6925-4012-8eb8-0a0289019b7e
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:__main__:Successfully normalized text of length 2464 to 2406
+INFO:__main__:Calculating conversational WER for call 03856e6b-6925-4012-8eb8-0a0289019b7e
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+INFO:__main__:Call 03856e6b-6925-4012-8eb8-0a0289019b7e - Conversational WER: 0.1306
+
+⟡ CONCERNED DIFFERENCES (Call: 03856e6b-6925-4012-8eb8-0a0289019b7e)
+  Substitutions (S=0):
+  Deletions (D=0):
+  Insertions (I=0):
+ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
+
+============================================================
+GLOBAL CONVERSATIONAL QUALITY WER METRICS
+============================================================
+total_calls: 27
+average_conversational_wer: 0.1033
+global_conversational_wer_aggregate: 0.1316
+global_conversational_wer_concatenated: 0.0824
+total_substitutions: 0
+total_deletions: 1391
+total_insertions: 320
+total_reference_words: 12997
+concatenated_analysis:
+  substitutions: 0
+  deletions: 1071
+  insertions: 0
+  total_reference_words: 12997
+  conversational_wer: 0.0824
+  explanation: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+============================================================
+PER-CALL CONVERSATIONAL WER RESULTS
+============================================================
+
+Call: ec85480e-604c-4070-938f-b832e4904e9e
+  Conversational WER: 0.0682
+  Substitutions: 0
+  Deletions: 30
+  Insertions: 0
+  Reference Words: 440
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 332017b6-9f62-444d-a657-7b733bc727fc
+  Conversational WER: 0.0627
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 18
+  Reference Words: 287
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 7fd6b5f9-8b11-4085-b864-a16f92504e53
+  Conversational WER: 0.0570
+  Substitutions: 0
+  Deletions: 36
+  Insertions: 0
+  Reference Words: 632
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 5cdef144-9d6a-4100-9be6-8489f90fc466
+  Conversational WER: 0.0000
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 0
+  Reference Words: 483
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: d521ea56-2e7b-4908-8cca-acf4a0f89337
+  Conversational WER: 0.0144
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 7
+  Reference Words: 487
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 3502253e-259a-42d3-ab70-7aedabeb81fa
+  Conversational WER: 0.0857
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 49
+  Reference Words: 572
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 1bf3729b-c0a7-4f65-a846-88c8aa31a473
+  Conversational WER: 0.0656
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 16
+  Reference Words: 244
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
+  Conversational WER: 0.0396
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 11
+  Reference Words: 278
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
+  Conversational WER: 0.0053
+  Substitutions: 0
+  Deletions: 2
+  Insertions: 0
+  Reference Words: 376
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
+  Conversational WER: 0.0061
+  Substitutions: 0
+  Deletions: 3
+  Insertions: 0
+  Reference Words: 493
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 8daee0cc-cbda-4cdf-b8ed-f120e3329138
+  Conversational WER: 0.0744
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 25
+  Reference Words: 336
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 268dbd88-173b-41a1-8363-4a6ba62b9aae
+  Conversational WER: 0.0240
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 12
+  Reference Words: 501
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
+  Conversational WER: 0.0019
+  Substitutions: 0
+  Deletions: 1
+  Insertions: 0
+  Reference Words: 538
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: eacbcb92-6172-41f7-b2a9-0c4df5a3a597
+  Conversational WER: 0.0319
+  Substitutions: 0
+  Deletions: 15
+  Insertions: 0
+  Reference Words: 470
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: d7c521ce-dbcb-4c23-a776-66b38d8127b4
+  Conversational WER: 0.0671
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 21
+  Reference Words: 313
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
+  Conversational WER: 0.0035
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 2
+  Reference Words: 565
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
+  Conversational WER: 0.0024
+  Substitutions: 0
+  Deletions: 1
+  Insertions: 0
+  Reference Words: 419
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 09f69426-e7e6-4f2a-a20a-75416d945306
+  Conversational WER: 0.0140
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 10
+  Reference Words: 712
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 482181f8-15e2-4ced-8a9a-67facdd9c6fc
+  Conversational WER: 0.0027
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 1
+  Reference Words: 371
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: d9aa182c-b21e-4ad5-8138-18d0e9f69b84
+  Conversational WER: 0.0395
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 13
+  Reference Words: 329
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 429ac8a5-6f19-46b3-97bb-8e55feec389e
+  Conversational WER: 0.4214
+  Substitutions: 0
+  Deletions: 370
+  Insertions: 0
+  Reference Words: 878
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: e69e62f6-954a-4d0a-9989-2a2d562f66fe
+  Conversational WER: 0.0247
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 8
+  Reference Words: 324
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: c5f1aee1-8170-4c1b-93e0-1f8366882689
+  Conversational WER: 0.4893
+  Substitutions: 0
+  Deletions: 344
+  Insertions: 0
+  Reference Words: 703
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: a26f3d38-ed43-4289-8d34-9ee376fb779d
+  Conversational WER: 0.4876
+  Substitutions: 0
+  Deletions: 588
+  Insertions: 0
+  Reference Words: 1206
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 750dfc05-c2c4-4937-a85d-46f597dc9880
+  Conversational WER: 0.0020
+  Substitutions: 0
+  Deletions: 1
+  Insertions: 0
+  Reference Words: 492
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 03261666-7d82-49ec-8d6e-78c2f716ad73
+  Conversational WER: 0.5669
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 72
+  Reference Words: 127
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Call: 03856e6b-6925-4012-8eb8-0a0289019b7e
+  Conversational WER: 0.1306
+  Substitutions: 0
+  Deletions: 0
+  Insertions: 55
+  Reference Words: 421
+  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+
+Results saved to conversational_wer_analysis.json

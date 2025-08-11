@@ -12,27 +12,47 @@
       "type": "ORGANIZATION"
     },
     {
-      "index": 19,
+      "index": 15,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 18,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 22,
       "value": "ray",
       "type": "PERSON"
     },
     {
-      "index": 21,
+      "index": 24,
       "value": "mintra",
       "type": "ORGANIZATION"
     },
     {
-      "index": 68,
+      "index": 39,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 45,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 80,
       "value": "h and m regular fit roundneck tshirt",
       "type": "PRODUCT"
     },
     {
-      "index": 78,
+      "index": 92,
       "value": "20 june",
       "type": "DATE/TIME"
     },
     {
-      "index": 82,
+      "index": 96,
       "value": "20 june",
       "type": "DATE/TIME"
     },
@@ -42,7 +62,7 @@
       "type": "PRODUCT"
     },
     {
-      "index": 166,
+      "index": 168,
       "value": "22 june",
       "type": "DATE/TIME"
     }

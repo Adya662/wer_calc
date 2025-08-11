@@ -2,236 +2,232 @@
   "call_id": "a26f3d38-ed43-4289-8d34-9ee376fb779d",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "reference_sentence": "Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
         [
-          "Hey, I am Rey from",
-          "Myntra"
+          "Myntra",
+          "Hey, I am Rey from"
         ]
       ]
     },
     {
-      "reference_sentence": "It seems there are multiple items in your order. Could you please tell me which item you are referring to? For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties?",
-      "hypothesis_sentence": "It seems there are multiple items in your order. Could you please tell me which item you're referring to?",
+      "reference_sentence": "It seems there are multiple items in your order. Could you please tell me which item you're referring to?",
+      "hypothesis_sentence": "It seems there are multiple items in your order. Could you please tell me which item you are referring to? For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties?",
       "word_differences": [
         [
-          "you are",
-          "you're"
+          "you're",
+          "you are"
         ],
         [
-          "For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties?",
-          "[missing]"
+          "[missing]",
+          "For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?",
+      "hypothesis_sentence": "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately.",
+      "word_differences": [
+        [
+          "[missing]",
+          "Could you clarify the item you're asking about?"
+        ],
+        [
+          "example,",
+          "instance,"
+        ],
+        [
+          "[missing]",
+          "related to"
+        ],
+        [
+          "[missing]",
+          "This will help me locate your order accurately."
         ]
       ]
     },
     {
       "reference_sentence": "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately.",
-      "hypothesis_sentence": "For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?",
+      "hypothesis_sentence": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent who can",
       "word_differences": [
         [
-          "Could you clarify the item you're asking about?",
-          "[missing]"
+          "Could",
+          "I understand"
         ],
         [
-          "instance,",
-          "example,"
+          "clarify",
+          "might be finding it difficult to specify"
         ],
         [
-          "related to",
-          "[missing]"
+          "item you're asking about? For instance, is it related",
+          "product name. Do you want"
         ],
         [
-          "This will help me locate your order accurately.",
-          "[missing]"
+          "the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately.",
+          "speak with another agent who can"
         ]
       ]
     },
     {
-      "reference_sentence": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent who can",
-      "hypothesis_sentence": "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately.",
+      "reference_sentence": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent?",
+      "hypothesis_sentence": "Alright! Could you confirm if you are referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me provide the correct details.",
       "word_differences": [
         [
           "I understand",
-          "Could"
+          "Alright! Could"
         ],
         [
-          "might be finding",
-          "clarify the item you're asking about? For instance, is"
-        ],
-        [
-          "difficult",
-          "related"
+          "might be finding it difficult",
+          "confirm if you are referring"
         ],
         [
           "specify",
           "[missing]"
         ],
         [
-          "product name. Do you want to speak with another agent who can",
-          "Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately."
+          "product name. Do you want to speak with another agent?",
+          "Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me provide the correct details."
         ]
       ]
     },
     {
-      "reference_sentence": "Alright! Could you confirm if you are referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me provide the correct details.",
-      "hypothesis_sentence": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent?",
+      "reference_sentence": "Alright, Could you confirm if you're referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?",
+      "hypothesis_sentence": "Your \u092a\u094d\u0932\u092e 10% Niacinamide Brightening Face Serum With Rice Ferment Extract & Licorice - 50ml is scheduled to arrive by end of day today.\nPlease tell me, is there anything else I can help you with?",
       "word_differences": [
         [
-          "Alright! Could",
-          "I understand"
+          "Alright, Could you confirm if you're referring to the Plum",
+          "Your \u092a\u094d\u0932\u092e 10% Niacinamide"
         ],
         [
-          "confirm if",
-          "might be finding it difficult to specify the product name. Do"
-        ],
-        [
-          "are referring",
-          "want"
-        ],
-        [
-          "the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me provide the correct details.",
-          "speak with another agent?"
+          "Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?",
+          "Serum With Rice Ferment Extract & Licorice - 50ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can"
         ]
       ]
     },
     {
-      "reference_sentence": "Your \u092a\u094d\u0932\u092e 10% Niacinamide Brightening Face Serum With Rice Ferment Extract & Licorice - 50ml is scheduled to arrive by end of day today.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Alright, Could you confirm if you're referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?",
+      "reference_sentence": "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Yes,",
       "word_differences": [
         [
-          "Your \u092a\u094d\u0932\u092e 10% Niacinamide",
-          "Alright, Could you confirm if you're referring to the Plum"
-        ],
-        [
-          "Serum With Rice Ferment Extract & Licorice - 50ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can",
-          "Jockey gym towel, Bigen beard color, Kalenji running shorts or Sirona period panties?"
+          "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?",
+          "Yes,"
         ]
       ]
     },
     {
-      "reference_sentence": "Yes,",
-      "hypothesis_sentence": "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?",
+      "reference_sentence": "Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time. Is there anything else I can assist you with?",
+      "hypothesis_sentence": "Your order is scheduled to be delivered by the end of today. This means anytime before the end of the day, regardless of the current time. Is there anything else I can assist you with?",
       "word_differences": [
         [
-          "Yes,",
-          "Your Plum 10% niacinamide brightening face serum with rice ferment extract and licorice 15 ml is scheduled to arrive by end of day today. Please tell me, is there anything else I can help you with?"
+          "any time",
+          "anytime"
         ]
       ]
     },
     {
-      "reference_sentence": "Your order is scheduled to be delivered by the end of today. This means anytime before the end of the day, regardless of the current time. Is there anything else I can assist you with?",
-      "hypothesis_sentence": "Your order is scheduled to be delivered by the end of today. This means any time before the end of the day, regardless of the current time. Is there anything else I can assist you with?",
+      "reference_sentence": "I really apologize. But I'm unable to share the delivery address. However, you can double check the delivery address in the Myntra app under your order details. Let me know if there's anything else I can assist you with.",
+      "hypothesis_sentence": "I really apologize, but I am unable to share the delivery address. However, you can double-check the delivery address in the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app under your order details. Let me know if there\u2019s anything else I can assist you with!",
       "word_differences": [
         [
-          "anytime",
-          "any time"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I really apologize, but I am unable to share the delivery address. However, you can double-check the delivery address in the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app under your order details. Let me know if there\u2019s anything else I can assist you with!",
-      "hypothesis_sentence": "I really apologize. But I'm unable to share the delivery address. However, you can double check the delivery address in the Myntra app under your order details. Let me know if there's anything else I can assist you with.",
-      "word_differences": [
-        [
-          "I am",
-          "I'm"
+          "I'm",
+          "I am"
         ],
         [
-          "double-check",
-          "double check"
+          "double check",
+          "double-check"
         ],
         [
-          "[missing]",
-          "Myntra"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "To create a return for your order, you can follow these steps directly on the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app: Open the app, go to the 'Orders' section, select the item you want to return, tap 'Return', choose a reason for the return, provide the required details, and then submit the return request. Let me know if you need further assistance!",
-      "hypothesis_sentence": "To create a return for your order, you can follow these steps directly on the Myntra app. Open the app, go to the order section, select the item you want to return, tap return, choose a reason for the return, provide the required details, and then submit the return request.",
-      "word_differences": [
-        [
-          "[missing]",
-          "Myntra"
-        ],
-        [
-          "the",
-          "order"
-        ],
-        [
-          "request. Let me know if you need further",
+          "Myntra",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Sure! To create a return for your order, follow these steps: \n\n1. Open the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app.  \n2. Go to the 'Orders' section.  \n3. Select the item you want to return.  \n4. Tap on 'Return'.  \n5. Choose a reason for the return and provide the required details.  \n6. Submit the return request.\n\nIf you'd like me to explain any step again, let me know!",
-      "hypothesis_sentence": "Sure. To create a return for your order, follow these steps. One, open the Myntra app. Two, go to the order section. Three, select the item you want to return. Four, tap on return. Five, choose a reason for the return and provide the required details. Six, submit the return request. If you'd like me to explain any step again, let me know.",
+      "reference_sentence": "To create a return for your order, you can follow these steps directly on the Myntra app. Open the app, go to the order section, select the item you want to return, tap return, choose a reason for the return, provide the required details, and then submit the return request.",
+      "hypothesis_sentence": "To create a return for your order, you can follow these steps directly on the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app: Open the app, go to the 'Orders' section, select the item you want to return, tap 'Return', choose a reason for the return, provide the required details, and then submit the return request. Let me know if you need further assistance!",
       "word_differences": [
         [
-          "1.",
-          "One,"
+          "Myntra",
+          "[missing]"
+        ],
+        [
+          "order",
+          "the"
         ],
         [
           "[missing]",
-          "Myntra"
-        ],
-        [
-          "app.",
-          "Two,"
-        ],
-        [
-          "the",
-          "order"
-        ],
-        [
-          "section.",
-          "Three,"
-        ],
-        [
-          "return.",
-          "Four,"
-        ],
-        [
-          "'Return'.",
-          "Five,"
-        ],
-        [
-          "details.",
-          "Six,"
+          "request. Let me know if you need further"
         ]
       ]
     },
     {
-      "reference_sentence": "Alright! In the second step, once you open the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app, look for the 'Orders' section. This is usually located at the bottom menu of the app. Tap on 'Orders,' and you\u2019ll see a list of all the items you\u2019ve purchased. From there, select the specific item you want to return. If you're unsure, let me know, and I'll guide you further.",
-      "hypothesis_sentence": "All right, in the second step, once you open the Myntra app, look for the order section. This is usually located at the bottom menu of the app. Tap on orders and you'll see a list of all the items you've purchased. From there, select the specific item you want to return. If you're unsure, let me know and I'll guide you further.",
+      "reference_sentence": "Sure. To create a return for your order, follow these steps. One, open the Myntra app. Two, go to the order section. Three, select the item you want to return. Four, tap on return. Five, choose a reason for the return and provide the required details. Six, submit the return request. If you'd like me to explain any step again, let me know.",
+      "hypothesis_sentence": "Sure! To create a return for your order, follow these steps: \n\n1. Open the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app.  \n2. Go to the 'Orders' section.  \n3. Select the item you want to return.  \n4. Tap on 'Return'.  \n5. Choose a reason for the return and provide the required details.  \n6. Submit the return request.\n\nIf you'd like me to explain any step again, let me know!",
       "word_differences": [
         [
-          "Alright!",
-          "All right,"
+          "One,",
+          "1."
         ],
         [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ],
         [
-          "the",
-          "order"
+          "Two,",
+          "app."
+        ],
+        [
+          "order",
+          "the"
+        ],
+        [
+          "Three,",
+          "section."
+        ],
+        [
+          "Four,",
+          "return."
+        ],
+        [
+          "Five,",
+          "'Return'."
+        ],
+        [
+          "Six,",
+          "details."
         ]
       ]
     },
     {
-      "reference_sentence": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. Tap on the 'Orders' section, select your item, and then choose the 'Return' option. Is there anything else you'd like me to clarify or assist with?",
-      "hypothesis_sentence": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the Myntra app. Tap on the order section, select your item, and then choose the return option. Is there anything else you'd like me to clarify or assist with?",
+      "reference_sentence": "All right, in the second step, once you open the Myntra app, look for the order section. This is usually located at the bottom menu of the app. Tap on orders and you'll see a list of all the items you've purchased. From there, select the specific item you want to return. If you're unsure, let me know and I'll guide you further.",
+      "hypothesis_sentence": "Alright! In the second step, once you open the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app, look for the 'Orders' section. This is usually located at the bottom menu of the app. Tap on 'Orders,' and you\u2019ll see a list of all the items you\u2019ve purchased. From there, select the specific item you want to return. If you're unsure, let me know, and I'll guide you further.",
       "word_differences": [
         [
-          "[missing]",
-          "Myntra"
+          "All right,",
+          "Alright!"
         ],
         [
-          "the",
-          "order"
+          "Myntra",
+          "[missing]"
+        ],
+        [
+          "order",
+          "the"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the Myntra app. Tap on the order section, select your item, and then choose the return option. Is there anything else you'd like me to clarify or assist with?",
+      "hypothesis_sentence": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app. Tap on the 'Orders' section, select your item, and then choose the 'Return' option. Is there anything else you'd like me to clarify or assist with?",
+      "word_differences": [
+        [
+          "Myntra",
+          "[missing]"
+        ],
+        [
+          "order",
+          "the"
         ]
       ]
     }

@@ -2,254 +2,224 @@
   "call_id": "d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c",
   "mismatches": [
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Nupur?",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Nupur? I noticed you've been quiet. Are you still there?",
+      "reference_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Nupur? I noticed you've been quiet. Are you still there?",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Nupur?",
       "word_differences": [
         [
-          "ElevateNow.",
-          "Elevate Now."
+          "Elevate Now.",
+          "ElevateNow."
         ],
         [
-          "[missing]",
-          "I noticed you've been quiet. Are you still there?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I noticed you've been quiet. Are you still there?",
-      "hypothesis_sentence": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
-      "word_differences": [
-        [
-          "[missing]",
-          "Great,"
-        ],
-        [
-          "you've been quiet.",
-          "you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals"
-        ],
-        [
-          "you still there?",
+          "I noticed you've been quiet. Are you still there?",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
-      "hypothesis_sentence": "Absolutely, Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this pre-obesity stage, many individuals experience low energy levels and slow metabolism due to iron and vitamin D deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+      "reference_sentence": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
       "word_differences": [
         [
-          "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love",
-          "Absolutely, Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this pre-obesity stage, many individuals experience low energy levels and slow metabolism due"
-        ],
-        [
-          "understand what motivated you to consider",
-          "iron and vitamin D deficiency."
-        ],
-        [
-          "[missing]",
-          "focuses on fixing these first, so your body naturally boosts metabolism"
-        ],
-        [
-          "what your",
-          "accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable"
-        ],
-        [
-          "goals are.",
+          "Great,",
           "[missing]"
+        ],
+        [
+          "[missing]",
+          "you've been quiet. Are"
+        ],
+        [
+          "were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+          "still there?"
         ]
       ]
     },
     {
-      "reference_sentence": "Absolutely! Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Pre-Obesity Stage, many individuals experience low energy levels and slow metabolism due to Iron & Vitamin D Deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
-      "hypothesis_sentence": "Have you had any past experiences with other weight loss programs? If so",
+      "reference_sentence": "Absolutely, Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this pre-obesity stage, many individuals experience low energy levels and slow metabolism due to iron and vitamin D deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+      "hypothesis_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
       "word_differences": [
         [
-          "Absolutely! Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Pre-Obesity Stage, many individuals experience low energy levels and slow metabolism due to Iron & Vitamin D Deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss.",
-          "Have"
+          "Absolutely, Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this pre-obesity stage, many individuals experience low energy levels and slow metabolism due",
+          "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love"
         ],
         [
-          "you like to discuss a personalized plan to address these challenges and achieve",
-          "had any past experiences with other"
+          "iron and vitamin D deficiency.",
+          "understand what motivated you to consider"
+        ],
+        [
+          "focuses on fixing these first, so",
+          "and what"
+        ],
+        [
+          "body naturally boosts metabolism and accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable",
+          "[missing]"
         ],
         [
           "[missing]",
-          "programs? If so"
+          "goals are."
         ]
       ]
     },
     {
-      "reference_sentence": "Have you had any past experiences with other weight loss programs? If so, were",
-      "hypothesis_sentence": "You're in the right place. Our Nano plan includes a blood test, doctor consultation, and a session with a senior health coach. Unless you have any specific questions related to any of these offerings, can I explain how these can help you achieve your weight loss goals?",
+      "reference_sentence": "Have you had any past experiences with other weight loss programs? If so",
+      "hypothesis_sentence": "Absolutely! Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Pre-Obesity Stage, many individuals experience low energy levels and slow metabolism due to Iron & Vitamin D Deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
       "word_differences": [
         [
-          "[missing]",
-          "You're in the right place. Our Nano plan includes a blood test, doctor consultation, and a session with a senior health coach. Unless you"
-        ],
-        [
-          "[missing]",
-          "any specific questions related to any of these offerings, can I explain how these can help"
+          "Have",
+          "Absolutely! Based on your BMI of 26.81, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Pre-Obesity Stage, many individuals experience low energy levels and slow metabolism due to Iron & Vitamin D Deficiency. Our program focuses on fixing these first, so your body naturally boosts metabolism and accelerates fat loss."
         ],
         [
           "had any past experiences with other",
-          "achieve your"
+          "you like to discuss a personalized plan to address these challenges and achieve"
         ],
         [
-          "programs? If so, were",
+          "programs? If so",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "You're in the right place. Our Nano plan includes a blood test, doctor consultation, and a session with a senior health coach. Unless you have any specific questions related to any of these offerings, can I explain how these can help you achieve your weight loss goals?",
+      "hypothesis_sentence": "Have you had any past experiences with other weight loss programs? If so, were",
+      "word_differences": [
+        [
+          "You're in the right place. Our Nano plan includes a blood test, doctor consultation, and a session",
+          "Have you had any past experiences"
+        ],
+        [
+          "a senior health coach. Unless you have any specific questions related to any of these offerings, can I explain how these can help you achieve your",
+          "other"
+        ],
+        [
+          "goals?",
+          "programs? If so, were"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Our Nano plan starts with a comprehensive blood test to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have a consultation with an obesity specialist doctor who will explain your results in detail. \"Lastly, a senior health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?",
+      "hypothesis_sentence": "You're in the right place! Our Nano Plan includes a blood test, doctor consultation, and a session with a senior health coach. Unless you have any specific questions related to any of these offerings, can I explain how these can help you achieve your weight loss goals?",
+      "word_differences": [
+        [
+          "[missing]",
+          "You're in the right place!"
+        ],
+        [
+          "starts with",
+          "includes"
+        ],
+        [
+          "comprehensive",
+          "[missing]"
+        ],
+        [
+          "to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have",
+          "doctor consultation, and"
+        ],
+        [
+          "consultation",
+          "session"
+        ],
+        [
+          "an obesity specialist doctor who will explain your results in detail. \"Lastly,",
+          "[missing]"
+        ],
+        [
+          "will work with",
+          "Unless"
+        ],
+        [
+          "[missing]",
+          "have any specific questions related"
+        ],
+        [
+          "create a personalized",
+          "any of these offerings, can I explain how these can help you achieve your"
+        ],
+        [
+          "plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?",
           "goals?"
         ]
       ]
     },
     {
-      "reference_sentence": "You're in the right place! Our Nano Plan includes a blood test, doctor consultation, and a session with a senior health coach. Unless you have any specific questions related to any of these offerings, can I explain how these can help you achieve your weight loss goals?",
-      "hypothesis_sentence": "Our Nano plan starts with a comprehensive blood test to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have a consultation with an obesity specialist doctor who will explain your results in detail. \"Lastly, a senior health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?",
+      "reference_sentence": "The Nano plan is priced at Rs 1,799, which includes the blood test, metabolic report, and doctor consultation. This is quite affordable compared to the market price of similar services, which can total up to Rs 6,000. This makes our plan a cost-effective option for personalized weight loss management. Would you like to proceed with the payment options?",
+      "hypothesis_sentence": "Our Nano Plan starts with a comprehensive blood test to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have a consultation with an obesity specialist doctor who will explain your results in detail. Lastly, a senior health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?",
       "word_differences": [
         [
-          "You're in the right place!",
-          "[missing]"
+          "The",
+          "Our"
         ],
         [
-          "includes",
-          "starts with"
+          "is priced at Rs 1,799, which includes the",
+          "starts with a comprehensive"
         ],
         [
-          "[missing]",
-          "comprehensive"
-        ],
-        [
-          "[missing]",
+          "metabolic report, and",
           "to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have a consultation with an obesity specialist"
         ],
         [
-          "consultation, and a session with",
-          "who will explain your results in detail. \"Lastly,"
+          "consultation. This is quite affordable compared",
+          "who will explain your results in detail. Lastly, a senior health coach will work with you"
         ],
         [
-          "Unless",
-          "will work with"
+          "the market price of similar services, which can total up to Rs 6,000. This makes our plan",
+          "create"
         ],
         [
-          "have any specific questions related",
+          "cost-effective option for",
           "[missing]"
         ],
         [
-          "any of these offerings, can I explain how these can help you achieve your",
-          "create a personalized"
+          "management. Would",
+          "plan tailored to your needs. Now that we've covered the offerings, do"
         ],
         [
-          "goals?",
-          "plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?"
+          "like",
+          "want me"
+        ],
+        [
+          "proceed with",
+          "go over"
+        ],
+        [
+          "payment options?",
+          "pricing information?"
         ]
       ]
     },
     {
-      "reference_sentence": "Our Nano Plan starts with a comprehensive blood test to identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have a consultation with an obesity specialist doctor who will explain your results in detail. Lastly, a senior health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, do you want me to go over the pricing information?",
-      "hypothesis_sentence": "The Nano plan is priced at Rs 1,799, which includes the blood test, metabolic report, and doctor consultation. This is quite affordable compared to the market price of similar services, which can total up to Rs 6,000. This makes our plan a cost-effective option for personalized weight loss management. Would you like to proceed with the payment options?",
+      "reference_sentence": "No worries, if you have anymore questions or need further information about the nano plan, feel free to reach out. I'm here to help whenever you are ready. Goodbye and have a great day.",
+      "hypothesis_sentence": "The Nano Plan is priced at Rupees one thousand seven hundred ninety-nine, which includes the blood test, metabolic report, and doctor consultation. This is quite affordable compared to the market price of similar services, which can total up to Rupees six thousand. This makes our plan a cost-effective option for personalized weight loss management. Would you like to proceed with the payment options?",
       "word_differences": [
         [
-          "Our",
-          "The"
-        ],
-        [
-          "starts with a comprehensive",
-          "is priced at Rs 1,799, which includes the"
-        ],
-        [
-          "[missing]",
-          "metabolic report, and doctor consultation. This is quite affordable compared"
-        ],
-        [
-          "identify any underlying issues like insulin resistance or hormonal imbalances that might be affecting your weight. Following that, you'll have",
-          "the market price of similar services, which can total up to Rs 6,000. This makes our plan"
-        ],
-        [
-          "consultation with an obesity specialist doctor who will explain your results in detail. Lastly, a senior health coach will work with you to create a",
-          "cost-effective option for"
-        ],
-        [
-          "plan tailored",
-          "management. Would you like"
-        ],
-        [
-          "your needs. Now that we've covered",
-          "proceed with"
-        ],
-        [
-          "offerings, do you want me to go over the pricing information?",
-          "payment options?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "The Nano Plan is priced at Rupees one thousand seven hundred ninety-nine, which includes the blood test, metabolic report, and doctor consultation. This is quite affordable compared to the market price of similar services, which can total up to Rupees six thousand. This makes our plan a cost-effective option for personalized weight loss management. Would you like to proceed with the payment options?",
-      "hypothesis_sentence": "No worries, if you have anymore questions or need further information about the nano plan, feel free to reach out. I'm here to help whenever you are ready. Goodbye and have a great day.",
-      "word_differences": [
-        [
-          "[missing]",
-          "No worries, if you have anymore questions or need further information about"
-        ],
-        [
-          "is priced at Rupees one thousand seven hundred ninety-nine, which includes the blood test, metabolic report,",
-          "feel free to reach out. I'm here to help whenever you are ready. Goodbye"
-        ],
-        [
-          "doctor consultation. This is quite affordable compared to the market price of similar services, which can total up to Rupees six thousand. This makes our plan",
-          "have"
-        ],
-        [
-          "cost-effective option for personalized weight loss management. Would you like to proceed with the payment options?",
-          "great day."
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "No worries! If you have any more questions or need further information about the Nano Plan, feel free to reach out. I'm here to help you whenever you're ready. Goodbye, and have a great day!",
-      "hypothesis_sentence": "I understand your concern. Rest assured, once the payment is made, the blood test is scheduled promptly. We partner with reliable labs to ensure everything is carried out smoothly. If you have any other worries or questions, feel free to ask.",
-      "word_differences": [
-        [
-          "No worries!",
-          "I understand your concern. Rest assured, once the payment is made, the blood test is scheduled promptly. We partner with reliable labs to ensure everything is carried out smoothly."
-        ],
-        [
-          "more",
-          "other worries or"
-        ],
-        [
-          "or need further information about the Nano Plan,",
+          "No worries, if you have anymore questions or need further information about",
           "[missing]"
         ],
         [
-          "reach out. I'm here to help you whenever you're ready. Goodbye, and have a great day!",
-          "ask."
+          "feel free",
+          "is priced at Rupees one thousand seven hundred ninety-nine, which includes the blood test, metabolic report, and doctor consultation. This is quite affordable compared"
+        ],
+        [
+          "reach out. I'm here",
+          "the market price of similar services, which can total up"
+        ],
+        [
+          "help whenever",
+          "Rupees six thousand. This makes our plan a cost-effective option for personalized weight loss management. Would"
+        ],
+        [
+          "are ready. Goodbye and have a great day.",
+          "like to proceed with the payment options?"
         ]
       ]
     },
     {
       "reference_sentence": "I understand your concern. Rest assured, once the payment is made, the blood test is scheduled promptly. We partner with reliable labs to ensure everything is carried out smoothly. If you have any other worries or questions, feel free to ask.",
-      "hypothesis_sentence": "I understand your concern. Once the payment is completed, we promptly schedule your blood test and ensure you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed to be transparent and efficient and our team is committed to supporting you every step of the way. If you have any more questions or need further details, feel free to ask.",
+      "hypothesis_sentence": "No worries! If you have any more questions or need further information about the Nano Plan, feel free to reach out. I'm here to help you whenever you're ready. Goodbye, and have a great day!",
       "word_differences": [
         [
-          "Rest assured,",
-          "[missing]"
-        ],
-        [
-          "made, the",
-          "completed, we promptly schedule your"
-        ],
-        [
-          "[missing]",
-          "and ensure you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process"
-        ],
-        [
-          "scheduled promptly. We partner with reliable labs",
-          "designed"
-        ],
-        [
-          "ensure everything",
-          "be transparent and efficient and our team"
-        ],
-        [
-          "carried out smoothly.",
-          "committed to supporting you every step of the way."
+          "I understand your concern. Rest assured, once the payment is made, the blood test is scheduled promptly. We partner with reliable labs to ensure everything is carried out smoothly.",
+          "No worries!"
         ],
         [
           "other worries",
@@ -257,83 +227,117 @@
         ],
         [
           "questions,",
-          "need further details,"
+          "need further information about the Nano Plan,"
+        ],
+        [
+          "ask.",
+          "reach out. I'm here to help you whenever you're ready. Goodbye, and have a great day!"
         ]
       ]
     },
     {
-      "reference_sentence": "I understand your concern. Once the payment is completed, we promptly schedule your blood test and ensure you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed to be transparent and efficient, and our team is committed to supporting you every step of the way. If you have any more questions or need further details, feel free to ask!",
-      "hypothesis_sentence": "I understand, I'll connect you to an agent from our team who can assist you further. Could you please let me know your preferred time for a call?",
+      "reference_sentence": "I understand your concern. Once the payment is completed, we promptly schedule your blood test and ensure you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed to be transparent and efficient and our team is committed to supporting you every step of the way. If you have any more questions or need further details, feel free to ask.",
+      "hypothesis_sentence": "I understand your concern. Rest assured, once the payment is made, the blood test is scheduled promptly. We partner with reliable labs to ensure everything is carried out smoothly. If you have any other worries or questions, feel free to ask.",
       "word_differences": [
         [
-          "your concern. Once the payment is completed, we promptly schedule your blood test and ensure",
-          "I'll connect"
+          "[missing]",
+          "Rest assured,"
         ],
         [
-          "receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed",
+          "completed, we promptly schedule your",
+          "made, the"
+        ],
+        [
+          "and",
+          "is scheduled promptly. We partner with reliable labs to"
+        ],
+        [
+          "you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process",
+          "everything"
+        ],
+        [
+          "designed to be transparent and efficient and our team is committed to supporting you every step of the way.",
+          "carried out smoothly."
+        ],
+        [
+          "more",
+          "other worries or"
+        ],
+        [
+          "or need further details,",
           "[missing]"
-        ],
-        [
-          "be transparent and efficient, and",
-          "an agent from"
-        ],
-        [
-          "is committed to supporting",
-          "who can assist"
-        ],
-        [
-          "every step of the way. If",
-          "further. Could"
-        ],
-        [
-          "have any more questions or need further details, feel free to ask!",
-          "please let me know your preferred time for a call?"
         ]
       ]
     },
     {
-      "reference_sentence": "I understand. I'll connect you to an agent from our team who can assist you further. Could you please let me know your preferred time for a call?",
-      "hypothesis_sentence": "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly. Goodbye and have a great day.",
+      "reference_sentence": "I understand, I'll connect you to an agent from our team who can assist you further. Could you please let me know your preferred time for a call?",
+      "hypothesis_sentence": "I understand your concern. Once the payment is completed, we promptly schedule your blood test and ensure you receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed to be transparent and efficient, and our team is committed to supporting you every step of the way. If you have any more questions or need further details, feel free to ask!",
       "word_differences": [
         [
-          "I understand.",
+          "I'll connect",
+          "your concern. Once the payment is completed, we promptly schedule your blood test and ensure"
+        ],
+        [
+          "[missing]",
+          "receive a comprehensive report. Following that, you'll have a one-on-one consultation with a senior obesity specialist doctor who will guide you through your results. This process is designed"
+        ],
+        [
+          "an agent from",
+          "be transparent and efficient, and"
+        ],
+        [
+          "who can assist",
+          "is committed to supporting"
+        ],
+        [
+          "[missing]",
+          "every step of the way. If you have any more questions or need"
+        ],
+        [
+          "Could you please let me know your preferred time for a call?",
+          "details, feel free to ask!"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly. Goodbye and have a great day.",
+      "hypothesis_sentence": "I understand. I'll connect you to an agent from our team who can assist you further. Could you please let me know your preferred time for a call?",
+      "word_differences": [
+        [
+          "[missing]",
+          "I understand."
+        ],
+        [
+          "arrange for",
+          "connect you to"
+        ],
+        [
+          "to",
+          "from our team who can assist you further. Could you please let me know your preferred time for a"
+        ],
+        [
+          "you as soon as possible. They should be in touch shortly. Goodbye and have a great day.",
           "[missing]"
-        ],
-        [
-          "connect you to",
-          "arrange for"
-        ],
-        [
-          "from our team who can assist",
-          "to call"
-        ],
-        [
-          "further. Could you please let me know your preferred time for",
-          "as soon as possible. They should be in touch shortly. Goodbye and have"
-        ],
-        [
-          "call?",
-          "great day."
         ]
       ]
     },
     {
-      "reference_sentence": "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly. Goodbye, and have a great day!",
-      "hypothesis_sentence": "You're welcome. Goodbye and have a great day.",
+      "reference_sentence": "You're welcome. Goodbye and have a great day.",
+      "hypothesis_sentence": "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly. Goodbye, and have a great day!",
       "word_differences": [
         [
-          "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly.",
-          "You're welcome."
+          "You're welcome.",
+          "I'll arrange for an agent to call you as soon as possible. They should be in touch shortly."
         ]
       ]
     },
     {
-      "reference_sentence": "You're welcome! Goodbye, and have a great day!",
-      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
+      "reference_sentence": "I noticed you've been quiet. Are you still there?",
+      "hypothesis_sentence": "You're welcome! Goodbye, and have a great day!",
       "word_differences": [
         [
-          "You're welcome! Goodbye, and have a great day!",
-          "I noticed you've been quiet. Are you still there?"
+          "I noticed you've been quiet. Are you still there?",
+          "You're welcome! Goodbye, and have a great day!"
         ]
       ]
     }

@@ -13,71 +13,71 @@
     },
     {
       "index": 24,
-      "value": "myntra",
-      "type": "ORGANIZATION"
-    },
-    {
-      "index": 30,
       "value": "hindi",
       "type": "LANGUAGE"
     },
     {
-      "index": 34,
+      "index": 28,
       "value": "english",
       "type": "LANGUAGE"
     },
     {
-      "index": 98,
+      "index": 35,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 108,
       "value": "biotique morning nectar nourish and hydrate skin moisturizer",
       "type": "PRODUCT"
     },
     {
-      "index": 112,
+      "index": 122,
       "value": "fabinaliv kids silver toned umbrella",
       "type": "PRODUCT"
     },
     {
-      "index": 148,
+      "index": 160,
       "value": "fabinaliv kids silver toned and brown cartoon character printed automatic threefold umbrella",
       "type": "PRODUCT"
     },
     {
-      "index": 159,
+      "index": 168,
       "value": "today",
       "type": "DATE/TIME"
     },
     {
-      "index": 164,
+      "index": 173,
       "value": "biotech morning nectar",
       "type": "PRODUCT"
     },
     {
-      "index": 195,
+      "index": 205,
       "value": "today",
       "type": "DATE/TIME"
     },
     {
-      "index": 221,
+      "index": 228,
       "value": "biotech moisturizer",
       "type": "PRODUCT"
     },
     {
-      "index": 228,
+      "index": 235,
       "value": "today",
       "type": "DATE/TIME"
     },
     {
-      "index": 233,
+      "index": 240,
       "value": "v construct",
       "type": "PRODUCT"
     },
     {
-      "index": 245,
+      "index": 250,
       "value": "deconstruct vitamin c and ferulic acid serum",
       "type": "PRODUCT"
     },
     {
-      "index": 260,
+      "index": 264,
       "value": "deconstruct vitamin c and and ferulic acid serum",
       "type": "PRODUCT"
     },
@@ -92,17 +92,17 @@
       "type": "OTHER"
     },
     {
-      "index": 287,
+      "index": 285,
       "value": "today",
       "type": "DATE/TIME"
     },
     {
-      "index": 318,
+      "index": 315,
       "value": "sms",
       "type": "OTHER"
     },
     {
-      "index": 332,
+      "index": 328,
       "value": "myntra",
       "type": "ORGANIZATION"
     }

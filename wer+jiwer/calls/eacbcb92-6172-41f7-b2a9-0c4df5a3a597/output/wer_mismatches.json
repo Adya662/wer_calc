@@ -1,0 +1,430 @@
+{
+  "wer": 0.0851063829787234,
+  "insertions": 0,
+  "deletions": 17,
+  "substitutions": 23,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 18,
+      "index_hyp": 18,
+      "ref_word": "english",
+      "hyp_word": "",
+      "ref_context": "further in hindi or english english please got it how can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 19,
+      "index_hyp": 18,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "in hindi or english english please got it how can i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 67,
+      "index_hyp": 65,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "order gap boys camouflage printed relaxed fit mid rise joggers has",
+      "hyp_context": "order gap boys camouflage printed relaxedfit midrise joggers has already been"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 68,
+      "index_hyp": 66,
+      "ref_word": "fit",
+      "hyp_word": "midrise",
+      "ref_context": "gap boys camouflage printed relaxed fit mid rise joggers has already",
+      "hyp_context": "gap boys camouflage printed relaxedfit midrise joggers has already been delivered"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 69,
+      "index_hyp": 67,
+      "ref_word": "mid",
+      "hyp_word": "",
+      "ref_context": "boys camouflage printed relaxed fit mid rise joggers has already been",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 70,
+      "index_hyp": 67,
+      "ref_word": "rise",
+      "hyp_word": "",
+      "ref_context": "camouflage printed relaxed fit mid rise joggers has already been delivered",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 95,
+      "index_hyp": 91,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "the gap boys camouflage printed relaxed fit midrise joggers has already",
+      "hyp_context": "the gap boys camouflage printed relaxedfit midrise joggers has already been"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 96,
+      "index_hyp": 92,
+      "ref_word": "fit",
+      "hyp_word": "",
+      "ref_context": "gap boys camouflage printed relaxed fit midrise joggers has already been",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 155,
+      "index_hyp": 150,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "to check talking about jack and jones junior products please give",
+      "hyp_context": "to check talking about jack & jones junior products please give"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 174,
+      "index_hyp": 169,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "jones junior boys pure cotton relaxed fit joggers is scheduled to",
+      "hyp_context": "jones junior boys pure cotton relaxedfit joggers is scheduled to arrive"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 175,
+      "index_hyp": 170,
+      "ref_word": "fit",
+      "hyp_word": "",
+      "ref_context": "junior boys pure cotton relaxed fit joggers is scheduled to arrive",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 212,
+      "index_hyp": 206,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "jones junior boys pure cotton relaxed fit joggers let me check",
+      "hyp_context": "jones junior boys pure cotton relaxedfit joggers let me check the"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 213,
+      "index_hyp": 207,
+      "ref_word": "fit",
+      "hyp_word": "",
+      "ref_context": "junior boys pure cotton relaxed fit joggers let me check the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 237,
+      "index_hyp": 230,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "jack and jones junior boys relaxed fit mid rise joggers is",
+      "hyp_context": "jack and jones junior boys relaxedfit midrise joggers is scheduled to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 238,
+      "index_hyp": 231,
+      "ref_word": "fit",
+      "hyp_word": "midrise",
+      "ref_context": "and jones junior boys relaxed fit mid rise joggers is scheduled",
+      "hyp_context": "and jones junior boys relaxedfit midrise joggers is scheduled to arrive"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 239,
+      "index_hyp": 232,
+      "ref_word": "mid",
+      "hyp_word": "",
+      "ref_context": "jones junior boys relaxed fit mid rise joggers is scheduled to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 240,
+      "index_hyp": 232,
+      "ref_word": "rise",
+      "hyp_word": "",
+      "ref_context": "junior boys relaxed fit mid rise joggers is scheduled to arrive",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 275,
+      "index_hyp": 266,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "jones junior boys pure cotton relaxed fit joggers and jack and",
+      "hyp_context": "jones junior boys pure cotton relaxedfit joggers and jack and jones"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 276,
+      "index_hyp": 267,
+      "ref_word": "fit",
+      "hyp_word": "",
+      "ref_context": "junior boys pure cotton relaxed fit joggers and jack and jones",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 284,
+      "index_hyp": 274,
+      "ref_word": "relaxed",
+      "hyp_word": "relaxedfit",
+      "ref_context": "jack and jones junior boys relaxed fit mid rise joggers are",
+      "hyp_context": "jack and jones junior boys relaxedfit midrise joggers are scheduled to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 285,
+      "index_hyp": 275,
+      "ref_word": "fit",
+      "hyp_word": "midrise",
+      "ref_context": "and jones junior boys relaxed fit mid rise joggers are scheduled",
+      "hyp_context": "and jones junior boys relaxedfit midrise joggers are scheduled to arrive"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 286,
+      "index_hyp": 276,
+      "ref_word": "mid",
+      "hyp_word": "",
+      "ref_context": "jones junior boys relaxed fit mid rise joggers are scheduled to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 287,
+      "index_hyp": 276,
+      "ref_word": "rise",
+      "hyp_word": "",
+      "ref_context": "junior boys relaxed fit mid rise joggers are scheduled to arrive",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 337,
+      "index_hyp": 325,
+      "ref_word": "all",
+      "hyp_word": "alright",
+      "ref_context": "you'd like to start with all right let me check for",
+      "hyp_context": "you’d like to start with alright let me check for the"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 338,
+      "index_hyp": 326,
+      "ref_word": "right",
+      "hyp_word": "",
+      "ref_context": "like to start with all right let me check for the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 374,
+      "index_hyp": 361,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "your order list from jack and jones junior let me confirm",
+      "hyp_context": "your order list from jack & jones junior let me confirm"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 383,
+      "index_hyp": 370,
+      "ref_word": "items",
+      "hyp_word": "items—jack",
+      "ref_context": "me confirm one of the items jack and jones junior boys",
+      "hyp_context": "me confirm one of the items—jack & jones junior boys jogger"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 384,
+      "index_hyp": 371,
+      "ref_word": "jack",
+      "hyp_word": "&",
+      "ref_context": "confirm one of the items jack and jones junior boys jogger",
+      "hyp_context": "confirm one of the items—jack & jones junior boys jogger midrise"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 385,
+      "index_hyp": 372,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "one of the items jack and jones junior boys jogger mid",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 390,
+      "index_hyp": 376,
+      "ref_word": "mid",
+      "hyp_word": "midrise",
+      "ref_context": "and jones junior boys jogger mid rice pure cotton stretchable jeans",
+      "hyp_context": "& jones junior boys jogger midrise pure cotton stretchable jeans would"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 391,
+      "index_hyp": 377,
+      "ref_word": "rice",
+      "hyp_word": "",
+      "ref_context": "jones junior boys jogger mid rice pure cotton stretchable jeans would",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 419,
+      "index_hyp": 404,
+      "ref_word": "mid",
+      "hyp_word": "midrise",
+      "ref_context": "and jones junior boys jogger mid rice pure cotton stretchable jeans",
+      "hyp_context": "and jones junior boys jogger midrise pure cotton stretchable jeans has"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 420,
+      "index_hyp": 405,
+      "ref_word": "rice",
+      "hyp_word": "",
+      "ref_context": "jones junior boys jogger mid rice pure cotton stretchable jeans has",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 430,
+      "index_hyp": 414,
+      "ref_word": "25th",
+      "hyp_word": "25",
+      "ref_context": "has already been delivered on 25th june do you need any",
+      "hyp_context": "has already been delivered on 25 june do you need any"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 453,
+      "index_hyp": 437,
+      "ref_word": "sms",
+      "hyp_word": "sms—your",
+      "ref_context": "a quick feedback form via sms your input would really help",
+      "hyp_context": "a quick feedback form via sms—your input would really help us"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 454,
+      "index_hyp": 438,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "quick feedback form via sms your input would really help us",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "fit",
+      "hypothesis": "midrise"
+    },
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "&"
+    },
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "fit",
+      "hypothesis": "midrise"
+    },
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "relaxed",
+      "hypothesis": "relaxedfit"
+    },
+    {
+      "reference": "fit",
+      "hypothesis": "midrise"
+    },
+    {
+      "reference": "all",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "&"
+    },
+    {
+      "reference": "items",
+      "hypothesis": "items—jack"
+    },
+    {
+      "reference": "jack",
+      "hypothesis": "&"
+    },
+    {
+      "reference": "mid",
+      "hypothesis": "midrise"
+    },
+    {
+      "reference": "mid",
+      "hypothesis": "midrise"
+    },
+    {
+      "reference": "25th",
+      "hypothesis": "25"
+    },
+    {
+      "reference": "sms",
+      "hypothesis": "sms—your"
+    }
+  ],
+  "deletion_words": [
+    "english",
+    "please",
+    "mid",
+    "rise",
+    "fit",
+    "fit",
+    "fit",
+    "mid",
+    "rise",
+    "fit",
+    "mid",
+    "rise",
+    "right",
+    "and",
+    "rice",
+    "rice",
+    "your"
+  ],
+  "insertion_words": []
+}

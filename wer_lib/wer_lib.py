@@ -349,13 +349,53 @@ def process_call_dir(call_dir: Path) -> Tuple[List[str], List[str]]:
 
     mismatches = []
     for ref, hyp in zip(refs, hyps):
-        _, _, diffs = compute_normalized_wer(ref, hyp)
+        # IMPORTANT: Use GT (hyp) as reference and REF (ref) as hypothesis
+        # Also compute explicit substitutions/insertions/deletions for terminal output
+        errors, total, diffs = compute_normalized_wer(hyp, ref)
+        # Simple token comparison on normalized text to extract S/I/D
+        ref_norm = canonicalize_and_normalize(hyp)
+        hyp_norm = canonicalize_and_normalize(ref)
+        ref_tokens = ref_norm.split()
+        hyp_tokens = hyp_norm.split()
+        # Build edit ops using difflib-based alignment
+        sm = difflib.SequenceMatcher(None, ref_tokens, hyp_tokens)
+        substitution_pairs = []
+        deletion_words = []
+        insertion_words = []
+        for tag, i1, i2, j1, j2 in sm.get_opcodes():
+            if tag == 'replace':
+                # Pair words roughly position-wise within the span
+                span_len = max(i2 - i1, j2 - j1)
+                for k in range(span_len):
+                    r = ref_tokens[i1 + k] if i1 + k < i2 else ''
+                    h = hyp_tokens[j1 + k] if j1 + k < j2 else ''
+                    if r and h:
+                        substitution_pairs.append({"reference": r, "hypothesis": h})
+                    elif r and not h:
+                        deletion_words.append(r)
+                    elif h and not r:
+                        insertion_words.append(h)
+            elif tag == 'delete':
+                deletion_words.extend(ref_tokens[i1:i2])
+            elif tag == 'insert':
+                insertion_words.extend(hyp_tokens[j1:j2])
         if diffs:
             mismatches.append({
-                "reference_sentence": ref,
-                "hypothesis_sentence": hyp,
+                # IMPORTANT: reference is GT, hypothesis is REF
+                "reference_sentence": hyp,
+                "hypothesis_sentence": ref,
                 "word_differences": diffs
             })
+        # Print explicit differences for each pair
+        print("  Substitutions:")
+        for idx, p in enumerate(substitution_pairs, 1):
+            print(f"    {idx}. '{p['reference']}' -> '{p['hypothesis']}'")
+        print("  Deletions:")
+        for idx, w in enumerate(deletion_words, 1):
+            print(f"    {idx}. '{w}' — missing in hypothesis")
+        print("  Insertions:")
+        for idx, w in enumerate(insertion_words, 1):
+            print(f"    {idx}. '{w}' — extra in hypothesis")
 
     with open(output_dir / "mismatches.json", "w", encoding="utf-8") as f:
         json.dump({"call_id": call_dir.name, "mismatches": mismatches}, f, indent=2)
@@ -376,8 +416,9 @@ def main():
             print(f"Checkpoint: processed {len(global_refs)} utterances so far, elapsed time: {time.time() - start_time:.2f} sec")
 
     # Calculate global WER by concatenating all utterances and computing WER
-    concatenated_ref = " ".join(global_refs)
-    concatenated_hyp = " ".join(global_hyps)
+    # IMPORTANT: Use concatenated GT as reference and REF as hypothesis
+    concatenated_ref = " ".join(global_hyps)
+    concatenated_hyp = " ".join(global_refs)
     print(f"Token counts - Ref: {len(concatenated_ref.split())}, Hyp: {len(concatenated_hyp.split())}")
     start_wer_time = time.time()
     errors, total, _ = compute_normalized_wer(concatenated_ref, concatenated_hyp)

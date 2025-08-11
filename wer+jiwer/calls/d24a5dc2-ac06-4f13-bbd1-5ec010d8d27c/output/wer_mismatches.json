@@ -1,0 +1,215 @@
+{
+  "wer": 0.05807622504537205,
+  "insertions": 8,
+  "deletions": 3,
+  "substitutions": 21,
+  "mismatches": [
+    {
+      "operation": "replace",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "elevate",
+      "hyp_word": "elevatenow",
+      "ref_context": "hello this is priya from elevate now am i speaking with",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with nupur"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with nupur",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 93,
+      "index_hyp": 92,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "slow metabolism due to iron and vitamin d deficiency our program",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 144,
+      "index_hyp": 142,
+      "ref_word": "",
+      "hyp_word": "were",
+      "ref_context": "",
+      "hyp_context": "weight loss programs if so were you're in the right place"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 276,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "nano plan is priced at rupees one thousand seven hundred ninetynine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 277,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "plan is priced at rupees one thousand seven hundred ninetynine which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 278,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "is priced at rupees one thousand seven hundred ninetynine which includes"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 279,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "priced at rupees one thousand seven hundred ninetynine which includes the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 277,
+      "index_hyp": 280,
+      "ref_word": "rs",
+      "hyp_word": "hundred",
+      "ref_context": "nano plan is priced at rs 1799 which includes the blood",
+      "hyp_context": "at rupees one thousand seven hundred ninetynine which includes the blood"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 278,
+      "index_hyp": 281,
+      "ref_word": "1799",
+      "hyp_word": "ninetynine",
+      "ref_context": "plan is priced at rs 1799 which includes the blood test",
+      "hyp_context": "rupees one thousand seven hundred ninetynine which includes the blood test"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 306,
+      "index_hyp": 309,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "which can total up to rupees six thousand this makes our"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 306,
+      "index_hyp": 310,
+      "ref_word": "rs",
+      "hyp_word": "six",
+      "ref_context": "which can total up to rs 6000 this makes our plan",
+      "hyp_context": "can total up to rupees six thousand this makes our plan"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 307,
+      "index_hyp": 311,
+      "ref_word": "6000",
+      "hyp_word": "thousand",
+      "ref_context": "can total up to rs 6000 this makes our plan a",
+      "hyp_context": "total up to rupees six thousand this makes our plan a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 334,
+      "index_hyp": 338,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "no worries if you have any more questions or need further"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 334,
+      "index_hyp": 339,
+      "ref_word": "anymore",
+      "hyp_word": "more",
+      "ref_context": "no worries if you have anymore questions or need further information",
+      "hyp_context": "worries if you have any more questions or need further information"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 353,
+      "index_hyp": 358,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "out i'm here to help you whenever you're ready goodbye and"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 354,
+      "index_hyp": 360,
+      "ref_word": "you",
+      "hyp_word": "you're",
+      "ref_context": "im here to help whenever you are ready goodbye and have",
+      "hyp_context": "here to help you whenever you're ready goodbye and have a"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 355,
+      "index_hyp": 361,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "here to help whenever you are ready goodbye and have a",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "elevate",
+      "hypothesis": "elevatenow"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "hundred"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "ninetynine"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "six"
+    },
+    {
+      "reference": "6000",
+      "hypothesis": "thousand"
+    },
+    {
+      "reference": "anymore",
+      "hypothesis": "more"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "you're"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "and",
+    "are"
+  ],
+  "insertion_words": [
+    "were",
+    "rupees",
+    "one",
+    "thousand",
+    "seven",
+    "rupees",
+    "any",
+    "you"
+  ]
+}

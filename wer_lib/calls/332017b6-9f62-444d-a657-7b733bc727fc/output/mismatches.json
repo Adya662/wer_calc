@@ -2,188 +2,188 @@
   "call_id": "332017b6-9f62-444d-a657-7b733bc727fc",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
-      "word_differences": [
-        [
-          "Hey,",
-          "[missing]"
-        ],
-        [
-          "[missing]",
-          "Myntra,"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Please give me a moment to fetch your products",
-      "hypothesis_sentence": "I'm sorry, but we currently don't offer a packing service for your order. I'm sorry, but we currently don't offer a packing service for your order. How else can I assist you with your order?",
-      "word_differences": [
-        [
-          "Please give me",
-          "I'm sorry, but we currently don't offer"
-        ],
-        [
-          "moment to fetch",
-          "packing service for"
-        ],
-        [
-          "products",
-          "order. I'm sorry, but we currently don't offer a packing service for your order. How else can I assist you with your order?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I'm sorry, but we currently don't offer a packing service for your order. However, your items will arrive securely packed as per our standard procedures. How else can I assist you with your",
-      "hypothesis_sentence": "Your most recent order was placed today, July 17th at 10:24 a.m. It includes two items, Mango extended sleeves high neck top and Forever new women top. Could you confirm which one you'd like to track?",
-      "word_differences": [
-        [
-          "I'm sorry, but we currently don't offer a packing service for",
-          "[missing]"
-        ],
-        [
-          "[missing]",
-          "most recent"
-        ],
-        [
-          "However, your",
-          "was placed today, July 17th at 10:24 a.m. It includes two"
-        ],
-        [
-          "will arrive securely packed as per our standard procedures. How else can I assist",
-          "Mango extended sleeves high neck top and Forever new women top. Could"
-        ],
-        [
-          "with your",
-          "confirm which one you'd like to track?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Your most recent order was placed today, July seventeenth, at ten twenty-four AM. It includes two items: \u092e\u0948\u0902\u0917\u094b Extended Sleeves High Neck Top and Forever New Women Top. Could you confirm which one you'd like to track?",
-      "hypothesis_sentence": "Your Forever new women top is being processed and will be delivered by 28th July. Please tell me, is there anything else I can help you with?",
-      "word_differences": [
-        [
-          "most recent order was placed today, July seventeenth, at ten twenty-four AM. It includes two items: \u092e\u0948\u0902\u0917\u094b Extended Sleeves High Neck Top",
-          "[missing]"
-        ],
-        [
-          "Top.",
-          "is being processed and will be delivered by 28th July. Please tell me, is there anything else I can help"
-        ],
-        [
-          "you confirm which one you'd like to",
-          "with?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Your Forever New Women Top is being processed and will be delivered by 28 July.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "I'm here to help.",
-      "word_differences": [
-        [
-          "Your Forever New Women Top is being processed and will be delivered by 28 July. Please tell me, is there anything else I can",
-          "I'm here to"
-        ],
-        [
-          "you with?",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I\u2019m here to help! What else",
-      "hypothesis_sentence": "I believe you're asking about",
-      "word_differences": [
-        [
-          "I\u2019m here to help! What else",
-          "I believe you're asking about"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I believe you're asking about something",
-      "hypothesis_sentence": "Could you clarify what you mean by excite to lipid?",
-      "word_differences": [
-        [
-          "I believe you're asking about something",
-          "Could you clarify what you mean by excite to lipid?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Could you clarify what you mean by \"Exide to lipid\"? If it's related to your order or delivery, I'm happy to assist!",
-      "hypothesis_sentence": "If it's related to your order or delivery, I'm happy to assist.",
-      "word_differences": [
-        [
-          "Could you clarify what you mean by \"Exide to lipid\"?",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Is there anything else you'd",
-      "hypothesis_sentence": "Is there anything else I can assist you with?",
-      "word_differences": [
-        [
-          "you'd",
-          "I can assist you with?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Currently, I cannot assist with cancellations directly over the call. To cancel your order, please visit the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website, go to your 'Orders' section, select the Forever New Women Top, and follow the",
-      "hypothesis_sentence": "Currently, I cannot assist with cancellation directly over the call. To cancel your order, please visit the Myntra app or website. Go to your order section, select the Forever new women top.",
-      "word_differences": [
-        [
-          "cancellations",
-          "cancellation"
-        ],
-        [
-          "[missing]",
-          "Myntra"
-        ],
-        [
-          "your",
-          "order"
-        ],
-        [
-          "Top, and follow",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I",
-      "hypothesis_sentence": "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the Myntra app or website, selecting the specific item.",
+      "reference_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
         [
           "[missing]",
-          "Currently,"
+          "Hey,"
+        ],
+        [
+          "Myntra,",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'm sorry, but we currently don't offer a packing service for your order. I'm sorry, but we currently don't offer a packing service for your order. How else can I assist you with your order?",
+      "hypothesis_sentence": "Please give me a moment to fetch your products",
+      "word_differences": [
+        [
+          "I'm sorry, but we currently don't offer",
+          "Please give me"
+        ],
+        [
+          "packing service for",
+          "moment to fetch"
+        ],
+        [
+          "order. I'm sorry, but we currently don't offer a packing service for your order. How else can I assist you with your order?",
+          "products"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your most recent order was placed today, July 17th at 10:24 a.m. It includes two items, Mango extended sleeves high neck top and Forever new women top. Could you confirm which one you'd like to track?",
+      "hypothesis_sentence": "I'm sorry, but we currently don't offer a packing service for your order. However, your items will arrive securely packed as per our standard procedures. How else can I assist you with your",
+      "word_differences": [
+        [
+          "[missing]",
+          "I'm sorry, but we currently don't offer a packing service for"
+        ],
+        [
+          "most recent",
+          "[missing]"
+        ],
+        [
+          "was placed today, July 17th at 10:24 a.m. It includes two",
+          "However, your"
+        ],
+        [
+          "Mango extended sleeves high neck top and Forever new women top. Could",
+          "will arrive securely packed as per our standard procedures. How else can I assist"
+        ],
+        [
+          "confirm which one you'd like to track?",
+          "with your"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your Forever new women top is being processed and will be delivered by 28th July. Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your most recent order was placed today, July seventeenth, at ten twenty-four AM. It includes two items: \u092e\u0948\u0902\u0917\u094b Extended Sleeves High Neck Top and Forever New Women Top. Could you confirm which one you'd like to track?",
+      "word_differences": [
+        [
+          "[missing]",
+          "most recent order was placed today, July seventeenth, at ten twenty-four AM. It includes two items: \u092e\u0948\u0902\u0917\u094b Extended Sleeves High Neck Top"
+        ],
+        [
+          "is being processed and will be delivered by 28th July. Please tell me, is there anything else I can help",
+          "Top."
+        ],
+        [
+          "with?",
+          "you confirm which one you'd like to"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'm here to help.",
+      "hypothesis_sentence": "Your Forever New Women Top is being processed and will be delivered by 28 July.\nPlease tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "I'm here to",
+          "Your Forever New Women Top is being processed and will be delivered by 28 July. Please tell me, is there anything else I can"
         ],
         [
           "[missing]",
-          "cannot cancel orders directly for you. You can easily cancel your order by visiting the Myntra app or website, selecting the specific item."
+          "you with?"
         ]
       ]
     },
     {
-      "reference_sentence": "Got it!",
-      "hypothesis_sentence": "Alright, Please",
+      "reference_sentence": "I believe you're asking about",
+      "hypothesis_sentence": "I\u2019m here to help! What else",
       "word_differences": [
         [
-          "Got it!",
-          "Alright, Please"
+          "I believe you're asking about",
+          "I\u2019m here to help! What else"
         ]
       ]
     },
     {
-      "reference_sentence": "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website, selecting the specific item, and following",
-      "hypothesis_sentence": "You're",
+      "reference_sentence": "Could you clarify what you mean by excite to lipid?",
+      "hypothesis_sentence": "I believe you're asking about something",
       "word_differences": [
         [
-          "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website, selecting the specific item, and",
-          "You're"
+          "Could you clarify what you mean by excite to lipid?",
+          "I believe you're asking about something"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "If it's related to your order or delivery, I'm happy to assist.",
+      "hypothesis_sentence": "Could you clarify what you mean by \"Exide to lipid\"? If it's related to your order or delivery, I'm happy to assist!",
+      "word_differences": [
+        [
+          "[missing]",
+          "Could you clarify what you mean by \"Exide to lipid\"?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Is there anything else I can assist you with?",
+      "hypothesis_sentence": "Is there anything else you'd",
+      "word_differences": [
+        [
+          "I can assist you with?",
+          "you'd"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Currently, I cannot assist with cancellation directly over the call. To cancel your order, please visit the Myntra app or website. Go to your order section, select the Forever new women top.",
+      "hypothesis_sentence": "Currently, I cannot assist with cancellations directly over the call. To cancel your order, please visit the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website, go to your 'Orders' section, select the Forever New Women Top, and follow the",
+      "word_differences": [
+        [
+          "cancellation",
+          "cancellations"
+        ],
+        [
+          "Myntra",
+          "[missing]"
+        ],
+        [
+          "order",
+          "your"
+        ],
+        [
+          "[missing]",
+          "Top, and follow"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the Myntra app or website, selecting the specific item.",
+      "hypothesis_sentence": "I",
+      "word_differences": [
+        [
+          "Currently,",
+          "[missing]"
+        ],
+        [
+          "cannot cancel orders directly for you. You can easily cancel your order by visiting the Myntra app or website, selecting the specific item.",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Alright, Please",
+      "hypothesis_sentence": "Got it!",
+      "word_differences": [
+        [
+          "Alright, Please",
+          "Got it!"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "You're",
+      "hypothesis_sentence": "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website, selecting the specific item, and following",
+      "word_differences": [
+        [
+          "You're",
+          "Currently, I cannot cancel orders directly for you. You can easily cancel your order by visiting the \u092e\u093f\u0902\u0924\u094d\u0930\u093e app or website, selecting the specific item, and"
         ]
       ]
     }

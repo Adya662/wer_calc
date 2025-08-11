@@ -1,0 +1,658 @@
+{
+  "wer": 0.14711033274956217,
+  "insertions": 49,
+  "deletions": 5,
+  "substitutions": 30,
+  "mismatches": [
+    {
+      "operation": "replace",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "elevate",
+      "hyp_word": "elevatenow",
+      "ref_context": "hello this is priya from elevate now am i speaking with",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with taruna"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with taruna",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 22,
+      "index_hyp": 21,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "quiet are you still there great i noticed you were checking"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 77,
+      "index_hyp": 77,
+      "ref_word": "we",
+      "hyp_word": "we're",
+      "ref_context": "weight and metabolism right now we are genuinely excited to support",
+      "hyp_context": "weight and metabolism right now we're genuinely excited to support your"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 78,
+      "index_hyp": 78,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "and metabolism right now we are genuinely excited to support your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 158,
+      "index_hyp": 157,
+      "ref_word": "scientifically",
+      "hyp_word": "scientificallybacked",
+      "ref_context": "hai kyonki yeh personalized aur scientifically backed approach par aadharit hai",
+      "hyp_context": "hai kyonki yah personalized aur scientificallybacked approach par aadharit hai chaliye"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 159,
+      "index_hyp": 158,
+      "ref_word": "backed",
+      "hyp_word": "",
+      "ref_context": "kyonki yeh personalized aur scientifically backed approach par aadharit hai chaliye",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 223,
+      "index_hyp": 221,
+      "ref_word": "design",
+      "hyp_word": "dizain",
+      "ref_context": "plan ko is tarah se design kiya gaya hai ki yeh",
+      "hyp_context": "plan ko is tarah se dizain kiya gaya hai ki ye"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 245,
+      "ref_word": "",
+      "hyp_word": "kya",
+      "ref_context": "",
+      "hyp_context": "health coach consultation shamil hai kya main aapko explain kar sakti"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 246,
+      "ref_word": "",
+      "hyp_word": "main",
+      "ref_context": "",
+      "hyp_context": "coach consultation shamil hai kya main aapko explain kar sakti hoon"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 247,
+      "ref_word": "",
+      "hyp_word": "aapko",
+      "ref_context": "",
+      "hyp_context": "consultation shamil hai kya main aapko explain kar sakti hoon ki"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 248,
+      "ref_word": "",
+      "hyp_word": "explain",
+      "ref_context": "",
+      "hyp_context": "shamil hai kya main aapko explain kar sakti hoon ki ye"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 249,
+      "ref_word": "",
+      "hyp_word": "kar",
+      "ref_context": "",
+      "hyp_context": "hai kya main aapko explain kar sakti hoon ki ye offerings"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 250,
+      "ref_word": "",
+      "hyp_word": "sakti",
+      "ref_context": "",
+      "hyp_context": "kya main aapko explain kar sakti hoon ki ye offerings aapki"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 251,
+      "ref_word": "",
+      "hyp_word": "hoon",
+      "ref_context": "",
+      "hyp_context": "main aapko explain kar sakti hoon ki ye offerings aapki weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 252,
+      "ref_word": "",
+      "hyp_word": "ki",
+      "ref_context": "",
+      "hyp_context": "aapko explain kar sakti hoon ki ye offerings aapki weight nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 253,
+      "ref_word": "",
+      "hyp_word": "ye",
+      "ref_context": "",
+      "hyp_context": "explain kar sakti hoon ki ye offerings aapki weight nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 254,
+      "ref_word": "",
+      "hyp_word": "offerings",
+      "ref_context": "",
+      "hyp_context": "kar sakti hoon ki ye offerings aapki weight nano plan ke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "aapki",
+      "ref_context": "",
+      "hyp_context": "sakti hoon ki ye offerings aapki weight nano plan ke tahat"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 247,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "hoon ki ye offerings aapki weight nano plan ke tahat sabse"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 329,
+      "index_hyp": 339,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "chahenge nano plan ki keemat rupees 1799 hai jo ki hamari"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 422,
+      "index_hyp": 433,
+      "ref_word": "up",
+      "hyp_word": "upfront",
+      "ref_context": "full payment of rupees 1799 up front i'll send both payment",
+      "hyp_context": "full payment of rupees 1799 upfront i’ll send both payment links"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 423,
+      "index_hyp": 434,
+      "ref_word": "front",
+      "hyp_word": "i’ll",
+      "ref_context": "payment of rupees 1799 up front i'll send both payment links",
+      "hyp_context": "payment of rupees 1799 upfront i’ll send both payment links to"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 424,
+      "index_hyp": 435,
+      "ref_word": "i'll",
+      "hyp_word": "",
+      "ref_context": "of rupees 1799 up front i'll send both payment links to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 471,
+      "index_hyp": 481,
+      "ref_word": "12",
+      "hyp_word": "barah",
+      "ref_context": "hoga jismein teen chhah ya 12 mahine ke subscription plans shamil",
+      "hyp_context": "hoga jismein teen chhah ya barah mahine ki subscription plans shamil"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 501,
+      "index_hyp": 511,
+      "ref_word": "longer",
+      "hyp_word": "longerterm",
+      "ref_context": "tarah se aapka hoga hamare longer term programs mein 100 money",
+      "hyp_context": "tarah se aapka hoga hamare longerterm programs mein 100 money back"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 502,
+      "index_hyp": 512,
+      "ref_word": "term",
+      "hyp_word": "",
+      "ref_context": "se aapka hoga hamare longer term programs mein 100 money back",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 547,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "se madad kar sakti hoon great i'll send you the payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 548,
+      "ref_word": "",
+      "hyp_word": "i'll",
+      "ref_context": "",
+      "hyp_context": "madad kar sakti hoon great i'll send you the payment links"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 549,
+      "ref_word": "",
+      "hyp_word": "send",
+      "ref_context": "",
+      "hyp_context": "kar sakti hoon great i'll send you the payment links on"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 550,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "sakti hoon great i'll send you the payment links on your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 551,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "hoon great i'll send you the payment links on your registered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 552,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "great i'll send you the payment links on your registered mobile"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 553,
+      "ref_word": "",
+      "hyp_word": "links",
+      "ref_context": "",
+      "hyp_context": "i'll send you the payment links on your registered mobile number"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 554,
+      "ref_word": "",
+      "hyp_word": "on",
+      "ref_context": "",
+      "hyp_context": "send you the payment links on your registered mobile number via"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 555,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "you the payment links on your registered mobile number via whatsapp"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 556,
+      "ref_word": "",
+      "hyp_word": "registered",
+      "ref_context": "",
+      "hyp_context": "the payment links on your registered mobile number via whatsapp if"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 557,
+      "ref_word": "",
+      "hyp_word": "mobile",
+      "ref_context": "",
+      "hyp_context": "payment links on your registered mobile number via whatsapp if you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 558,
+      "ref_word": "",
+      "hyp_word": "number",
+      "ref_context": "",
+      "hyp_context": "links on your registered mobile number via whatsapp if you have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 559,
+      "ref_word": "",
+      "hyp_word": "via",
+      "ref_context": "",
+      "hyp_context": "on your registered mobile number via whatsapp if you have any"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 560,
+      "ref_word": "",
+      "hyp_word": "whatsapp",
+      "ref_context": "",
+      "hyp_context": "your registered mobile number via whatsapp if you have any more"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 561,
+      "ref_word": "",
+      "hyp_word": "if",
+      "ref_context": "",
+      "hyp_context": "registered mobile number via whatsapp if you have any more doubts"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 562,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "mobile number via whatsapp if you have any more doubts in"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 563,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "number via whatsapp if you have any more doubts in the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 564,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "via whatsapp if you have any more doubts in the future"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 565,
+      "ref_word": "",
+      "hyp_word": "more",
+      "ref_context": "",
+      "hyp_context": "whatsapp if you have any more doubts in the future feel"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 566,
+      "ref_word": "",
+      "hyp_word": "doubts",
+      "ref_context": "",
+      "hyp_context": "if you have any more doubts in the future feel free"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 567,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "you have any more doubts in the future feel free to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 568,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "have any more doubts in the future feel free to reach"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 569,
+      "ref_word": "",
+      "hyp_word": "future",
+      "ref_context": "",
+      "hyp_context": "any more doubts in the future feel free to reach out"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 570,
+      "ref_word": "",
+      "hyp_word": "feel",
+      "ref_context": "",
+      "hyp_context": "more doubts in the future feel free to reach out goodbye"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 571,
+      "ref_word": "",
+      "hyp_word": "free",
+      "ref_context": "",
+      "hyp_context": "doubts in the future feel free to reach out goodbye and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 572,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "in the future feel free to reach out goodbye and have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 573,
+      "ref_word": "",
+      "hyp_word": "reach",
+      "ref_context": "",
+      "hyp_context": "the future feel free to reach out goodbye and have a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 574,
+      "ref_word": "",
+      "hyp_word": "out",
+      "ref_context": "",
+      "hyp_context": "future feel free to reach out goodbye and have a great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 575,
+      "ref_word": "",
+      "hyp_word": "goodbye",
+      "ref_context": "",
+      "hyp_context": "feel free to reach out goodbye and have a great day"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 576,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "free to reach out goodbye and have a great day great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 577,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "to reach out goodbye and have a great day great i'll"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 578,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "reach out goodbye and have a great day great i'll send"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 579,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "out goodbye and have a great day great i'll send you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 580,
+      "ref_word": "",
+      "hyp_word": "day",
+      "ref_context": "",
+      "hyp_context": "goodbye and have a great day great i'll send you the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 538,
+      "index_hyp": 581,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "and have a great day great i'll send you the payment"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "elevate",
+      "hypothesis": "elevatenow"
+    },
+    {
+      "reference": "we",
+      "hypothesis": "we're"
+    },
+    {
+      "reference": "scientifically",
+      "hypothesis": "scientificallybacked"
+    },
+    {
+      "reference": "design",
+      "hypothesis": "dizain"
+    },
+    {
+      "reference": "up",
+      "hypothesis": "upfront"
+    },
+    {
+      "reference": "front",
+      "hypothesis": "i’ll"
+    },
+    {
+      "reference": "12",
+      "hypothesis": "barah"
+    },
+    {
+      "reference": "longer",
+      "hypothesis": "longerterm"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "are",
+    "backed",
+    "i'll",
+    "term"
+  ],
+  "insertion_words": [
+    "great",
+    "kya",
+    "main",
+    "aapko",
+    "explain",
+    "kar",
+    "sakti",
+    "hoon",
+    "ki",
+    "ye",
+    "offerings",
+    "aapki",
+    "weight",
+    "rupees",
+    "great",
+    "i'll",
+    "send",
+    "you",
+    "the",
+    "payment",
+    "links",
+    "on",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "via",
+    "whatsapp",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "doubts",
+    "in",
+    "the",
+    "future",
+    "feel",
+    "free",
+    "to",
+    "reach",
+    "out",
+    "goodbye",
+    "and",
+    "have",
+    "a",
+    "great",
+    "day",
+    "great"
+  ]
+}

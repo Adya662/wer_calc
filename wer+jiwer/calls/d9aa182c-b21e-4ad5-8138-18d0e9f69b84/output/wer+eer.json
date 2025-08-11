@@ -1,6 +1,6 @@
 {
-  "wer": 0.14912280701754385,
-  "wer_value": 0.14912280701754385,
+  "wer": 0.1580547112462006,
+  "wer_value": 0.1580547112462006,
   "entities_gt": [
     {
       "index": 3,
@@ -58,32 +58,42 @@
       "type": "PRODUCT"
     },
     {
-      "index": 165,
+      "index": 172,
       "value": "lakme youth infinity antiaging night cream with pro retinol c",
       "type": "PRODUCT"
     },
     {
-      "index": 183,
+      "index": 192,
+      "value": "lakme youth infinity antiaging night cream with pro retinol c 50 gd",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 200,
       "value": "27 july",
       "type": "DATE/TIME"
     },
     {
-      "index": 199,
+      "index": 221,
       "value": "love beauty and planet 10 argan oil and lavender shampoo",
       "type": "PRODUCT"
     },
     {
-      "index": 215,
+      "index": 238,
       "value": "love beauty and planet 80 d 80 argan oil and lavender shampoo for frizzy hair 400 milli",
       "type": "PRODUCT"
     },
     {
-      "index": 231,
+      "index": 253,
       "value": "tomorrow",
       "type": "DATE/TIME"
     },
     {
-      "index": 248,
+      "index": 273,
+      "value": "sms",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 283,
       "value": "myntra",
       "type": "ORG"
     }
@@ -91,7 +101,7 @@
   "entities_ref": [
     {
       "index": 5,
-      "value": "rey",
+      "value": "ray",
       "type": "PERSON"
     },
     {
@@ -145,7 +155,7 @@
       "type": "PRODUCT"
     },
     {
-      "index": 153,
+      "index": 152,
       "value": "love beauty & planet argan oil and lavender",
       "type": "PRODUCT"
     },
@@ -155,75 +165,70 @@
       "type": "PRODUCT"
     },
     {
-      "index": 172,
-      "value": "lakme youth infinity anti aging night cream with proretinol c 50g",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 179,
+      "index": 174,
       "value": "27 july",
       "type": "DATE/TIME"
     },
     {
-      "index": 204,
+      "index": 198,
       "value": "love beauty & planet argan oil and lavender shampoo",
       "type": "PRODUCT"
     },
     {
-      "index": 221,
+      "index": 218,
       "value": "love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml",
       "type": "PRODUCT"
     },
     {
-      "index": 228,
+      "index": 231,
       "value": "tomorrow",
       "type": "DATE/TIME"
     },
     {
-      "index": 244,
+      "index": 248,
       "value": "mintra",
       "type": "ORG"
     }
   ],
   "unique_entities_gt": [
     [
-      "love beauty and planet 80 d 80 argan oil and lavender shampoo for frizzy hair 400 milli",
-      "PRODUCT"
-    ],
-    [
-      "hindi",
-      "LANGUAGE"
-    ],
-    [
       "27 july",
       "DATE/TIME"
+    ],
+    [
+      "love beauty and planet 10 argan oil and lavender shampoo",
+      "PRODUCT"
     ],
     [
       "dressberry",
       "PRODUCT"
     ],
     [
-      "lakme youth infinity antiaging night cream with pro retinol c",
+      "love beauty and planet 80 d 80 argan oil and lavender shampoo for frizzy hair 400 milli",
       "PRODUCT"
-    ],
-    [
-      "lakme",
-      "PRODUCT"
-    ],
-    [
-      "tomorrow",
-      "DATE/TIME"
     ],
     [
       "myntra",
       "ORG"
     ],
     [
-      "lakala",
+      "lakme youth infinity antiaging night cream with pro retinol c",
       "PRODUCT"
     ],
     [
-      "love beauty and planet 10 argan oil and lavender shampoo",
+      "ray",
+      "PERSON"
+    ],
+    [
+      "tomorrow",
+      "DATE/TIME"
+    ],
+    [
+      "lakme",
+      "PRODUCT"
+    ],
+    [
+      "love beauty and planet",
       "PRODUCT"
     ],
     [
@@ -235,45 +240,65 @@
       "PRODUCT"
     ],
     [
-      "ray",
-      "PERSON"
+      "sms",
+      "PRODUCT"
+    ],
+    [
+      "lakme youth infinity antiaging night cream with pro retinol c 50 gd",
+      "PRODUCT"
+    ],
+    [
+      "lakala",
+      "PRODUCT"
     ],
     [
       "english",
       "LANGUAGE"
     ],
     [
-      "love beauty and planet",
-      "PRODUCT"
+      "hindi",
+      "LANGUAGE"
     ]
   ],
   "unique_entities_ref": [
     [
-      "mintra",
-      "ORG"
-    ],
-    [
-      "lakme youth infinity anti aging night cream with proretinol c",
+      "laamic",
       "PRODUCT"
-    ],
-    [
-      "hindi",
-      "LANGUAGE"
     ],
     [
       "27 july",
       "DATE/TIME"
     ],
     [
-      "rey",
+      "lecalla",
+      "ORG"
+    ],
+    [
+      "ray",
       "PERSON"
+    ],
+    [
+      "tomorrow",
+      "DATE/TIME"
+    ],
+    [
+      "mintra",
+      "ORG"
     ],
     [
       "dressberry",
       "ORG"
     ],
     [
-      "lecalla",
+      "love beauty & planet argan oil and lavender shampoo",
+      "PRODUCT"
+    ],
+    [
+      "lakme youth infinity anti aging night cream with proretinol c",
+      "PRODUCT"
+    ],
+    [
+      "lakme",
       "ORG"
     ],
     [
@@ -281,36 +306,8 @@
       "ORG"
     ],
     [
-      "love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml",
-      "PRODUCT"
-    ],
-    [
-      "lakme youth infinity anti aging night cream with proretinol c 50g",
-      "PRODUCT"
-    ],
-    [
-      "tomorrow",
-      "DATE/TIME"
-    ],
-    [
-      "love beauty & planet argan oil and lavender shampoo",
-      "PRODUCT"
-    ],
-    [
-      "laamic",
-      "PRODUCT"
-    ],
-    [
       "trim hand shampoo",
       "PRODUCT"
-    ],
-    [
-      "english",
-      "LANGUAGE"
-    ],
-    [
-      "lakme",
-      "ORG"
     ],
     [
       "love beauty & planet argan oil and lavender",
@@ -319,6 +316,18 @@
     [
       "carlton london",
       "ORG"
+    ],
+    [
+      "love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml",
+      "PRODUCT"
+    ],
+    [
+      "english",
+      "LANGUAGE"
+    ],
+    [
+      "hindi",
+      "LANGUAGE"
     ]
   ],
   "concerned_entities_gt": [
@@ -333,7 +342,67 @@
       "type": "ORG"
     },
     {
-      "index": 248,
+      "index": 97,
+      "value": "lakme",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "love beauty and planet",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 110,
+      "value": "lakme",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 112,
+      "value": "dressberry",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 114,
+      "value": "lakala",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 116,
+      "value": "carlton london",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 156,
+      "value": "love beauty and planet argan oil and love",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 172,
+      "value": "lakme youth infinity antiaging night cream with pro retinol c",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "lakme youth infinity antiaging night cream with pro retinol c 50 gd",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 221,
+      "value": "love beauty and planet 10 argan oil and lavender shampoo",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 238,
+      "value": "love beauty and planet 80 d 80 argan oil and lavender shampoo for frizzy hair 400 milli",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 273,
+      "value": "sms",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 283,
       "value": "myntra",
       "type": "ORG"
     }
@@ -341,13 +410,18 @@
   "concerned_entities_ref": [
     {
       "index": 5,
-      "value": "rey",
+      "value": "ray",
       "type": "PERSON"
     },
     {
       "index": 7,
       "value": "mintra",
       "type": "ORG"
+    },
+    {
+      "index": 97,
+      "value": "laamic",
+      "type": "PRODUCT"
     },
     {
       "index": 105,
@@ -375,397 +449,146 @@
       "type": "ORG"
     },
     {
-      "index": 244,
+      "index": 139,
+      "value": "trim hand shampoo",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 152,
+      "value": "love beauty & planet argan oil and lavender",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 159,
+      "value": "lakme youth infinity anti aging night cream with proretinol c",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 198,
+      "value": "love beauty & planet argan oil and lavender shampoo",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 218,
+      "value": "love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 248,
       "value": "mintra",
       "type": "ORG"
     }
   ],
   "unique_concerned_ner_gt": [
     [
-      "ray",
-      "PERSON"
+      "dressberry",
+      "PRODUCT"
+    ],
+    [
+      "love beauty and planet 80 d 80 argan oil and lavender shampoo for frizzy hair 400 milli",
+      "PRODUCT"
     ],
     [
       "myntra",
       "ORG"
+    ],
+    [
+      "lakme youth infinity antiaging night cream with pro retinol c",
+      "PRODUCT"
+    ],
+    [
+      "ray",
+      "PERSON"
+    ],
+    [
+      "lakme",
+      "PRODUCT"
+    ],
+    [
+      "love beauty and planet",
+      "PRODUCT"
+    ],
+    [
+      "carlton london",
+      "PRODUCT"
+    ],
+    [
+      "love beauty and planet argan oil and love",
+      "PRODUCT"
+    ],
+    [
+      "sms",
+      "PRODUCT"
+    ],
+    [
+      "lakme youth infinity antiaging night cream with pro retinol c 50 gd",
+      "PRODUCT"
+    ],
+    [
+      "lakala",
+      "PRODUCT"
+    ],
+    [
+      "love beauty and planet 10 argan oil and lavender shampoo",
+      "PRODUCT"
     ]
   ],
   "unique_concerned_ner_ref": [
     [
-      "mintra",
-      "ORG"
-    ],
-    [
-      "rey",
-      "PERSON"
-    ],
-    [
-      "dressberry",
-      "ORG"
+      "laamic",
+      "PRODUCT"
     ],
     [
       "lecalla",
       "ORG"
     ],
     [
-      "love beauty & planet",
+      "ray",
+      "PERSON"
+    ],
+    [
+      "mintra",
       "ORG"
+    ],
+    [
+      "dressberry",
+      "ORG"
+    ],
+    [
+      "love beauty & planet argan oil and lavender shampoo",
+      "PRODUCT"
+    ],
+    [
+      "lakme youth infinity anti aging night cream with proretinol c",
+      "PRODUCT"
     ],
     [
       "lakme",
       "ORG"
     ],
     [
+      "love beauty & planet argan oil and lavender",
+      "PRODUCT"
+    ],
+    [
+      "trim hand shampoo",
+      "PRODUCT"
+    ],
+    [
       "carlton london",
+      "ORG"
+    ],
+    [
+      "love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml",
+      "PRODUCT"
+    ],
+    [
+      "love beauty & planet",
       "ORG"
     ]
   ],
-  "time_taken": 0.0014910697937011719,
+  "time_taken": 0.0026938915252685547,
   "ref_tokens": [
-    "hey",
-    "i",
-    "am",
-    "rey",
-    "from",
-    "mintra",
-    "here",
-    "to",
-    "assist",
-    "you",
-    "shall",
-    "we",
-    "proceed",
-    "further",
-    "in",
-    "hindi",
-    "or",
-    "english",
-    "great",
-    "how",
-    "can",
-    "i",
-    "help",
-    "you",
-    "today",
-    "i",
-    "can",
-    "help",
-    "you",
-    "with",
-    "tracking",
-    "your",
-    "order",
-    "could",
-    "you",
-    "please",
-    "tell",
-    "me",
-    "the",
-    "product",
-    "name",
-    "i'm",
-    "sorry",
-    "i",
-    "can't",
-    "provide",
-    "the",
-    "names",
-    "or",
-    "details",
-    "of",
-    "products",
-    "in",
-    "your",
-    "order",
-    "list",
-    "directly",
-    "could",
-    "you",
-    "please",
-    "let",
-    "me",
-    "know",
-    "the",
-    "product",
-    "name",
-    "you're",
-    "asking",
-    "about",
-    "got",
-    "it",
-    "could",
-    "you",
-    "please",
-    "tell",
-    "me",
-    "the",
-    "product",
-    "name",
-    "or",
-    "brand",
-    "this",
-    "will",
-    "help",
-    "me",
-    "track",
-    "your",
-    "order",
-    "please",
-    "give",
-    "me",
-    "a",
-    "moment",
-    "to",
-    "fetch",
-    "your",
-    "products",
-    "i",
-    "couldn't",
-    "find",
-    "laamic",
-    "in",
-    "your",
-    "orders",
-    "but",
-    "i",
-    "see",
-    "items",
-    "from",
-    "brands",
-    "like",
-    "love",
-    "beauty",
-    "&",
-    "planet",
-    "lakme",
-    "dressberry",
-    "lecalla",
-    "and",
-    "carlton",
-    "london",
-    "could",
-    "you",
-    "confirm",
-    "if",
-    "it's",
-    "one",
-    "of",
-    "these",
-    "or",
-    "provide",
-    "more",
-    "details",
-    "about",
-    "the",
-    "product",
-    "alright",
-    "could",
-    "you",
-    "let",
-    "me",
-    "know",
-    "which",
-    "type",
-    "of",
-    "product",
-    "you're",
-    "asking",
-    "about",
-    "such",
-    "as",
-    "a",
-    "cream",
-    "shampoo",
-    "socks",
-    "earrings",
-    "or",
-    "studs",
-    "this",
-    "will",
-    "help",
-    "me",
-    "locate",
-    "your",
-    "order",
-    "i",
-    "didn't",
-    "find",
-    "a",
-    "product",
-    "matching",
-    "trim",
-    "hand",
-    "shampoo",
-    "could",
-    "you",
-    "confirm",
-    "if",
-    "you're",
-    "referring",
-    "to",
-    "any",
-    "of",
-    "these",
-    "items",
-    "there's",
-    "a",
-    "love",
-    "beauty",
-    "&",
-    "planet",
-    "argan",
-    "oil",
-    "and",
-    "lavender",
-    "got",
-    "it",
-    "you",
-    "might",
-    "be",
-    "referring",
-    "to",
-    "the",
-    "lakme",
-    "youth",
-    "infinity",
-    "anti",
-    "aging",
-    "night",
-    "cream",
-    "with",
-    "proretinol",
-    "c",
-    "let",
-    "me",
-    "check",
-    "its",
-    "delivery",
-    "status",
-    "for",
-    "you",
-    "your",
-    "lakme",
-    "youth",
-    "infinity",
-    "anti",
-    "aging",
-    "night",
-    "cream",
-    "with",
-    "proretinol",
-    "c",
-    "50g",
-    "will",
-    "be",
-    "delivered",
-    "on",
-    "or",
-    "before",
-    "27",
-    "july",
-    "please",
-    "tell",
-    "me",
-    "is",
-    "there",
-    "anything",
-    "else",
-    "i",
-    "can",
-    "help",
-    "you",
-    "with",
-    "sure",
-    "what",
-    "else",
-    "can",
-    "i",
-    "assist",
-    "you",
-    "with",
-    "alright",
-    "let",
-    "me",
-    "check",
-    "the",
-    "delivery",
-    "status",
-    "for",
-    "your",
-    "love",
-    "beauty",
-    "&",
-    "planet",
-    "argan",
-    "oil",
-    "and",
-    "lavender",
-    "shampoo",
-    "give",
-    "me",
-    "a",
-    "moment",
-    "your",
-    "love",
-    "beauty",
-    "&",
-    "planet",
-    "argan",
-    "oil",
-    "and",
-    "lavender",
-    "shampoo",
-    "for",
-    "frizzy",
-    "hair",
-    "400ml",
-    "will",
-    "be",
-    "delivered",
-    "on",
-    "or",
-    "before",
-    "tomorrow",
-    "please",
-    "tell",
-    "me",
-    "is",
-    "there",
-    "anything",
-    "else",
-    "i",
-    "can",
-    "help",
-    "you",
-    "with",
-    "we'll",
-    "be",
-    "sending",
-    "you",
-    "a",
-    "quick",
-    "feedback",
-    "form",
-    "via",
-    "sms",
-    "your",
-    "input",
-    "would",
-    "really",
-    "help",
-    "us",
-    "improve",
-    "thank",
-    "you",
-    "for",
-    "choosing",
-    "mintra",
-    "have",
-    "a",
-    "great",
-    "day"
-  ],
-  "hyp_tokens": [
     "i",
     "am",
     "ray",
@@ -1096,5 +919,348 @@
     "great",
     "day"
   ],
-  "mismatches_count": 46
+  "hyp_tokens": [
+    "hey",
+    "i",
+    "am",
+    "ray",
+    "from",
+    "mintra",
+    "here",
+    "to",
+    "assist",
+    "you",
+    "shall",
+    "we",
+    "proceed",
+    "further",
+    "in",
+    "hindi",
+    "or",
+    "english",
+    "great",
+    "how",
+    "can",
+    "i",
+    "help",
+    "you",
+    "today",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "tracking",
+    "your",
+    "order",
+    "could",
+    "you",
+    "please",
+    "tell",
+    "me",
+    "the",
+    "product",
+    "name",
+    "i'm",
+    "sorry",
+    "i",
+    "can't",
+    "provide",
+    "the",
+    "names",
+    "or",
+    "details",
+    "of",
+    "products",
+    "in",
+    "your",
+    "order",
+    "list",
+    "directly",
+    "could",
+    "you",
+    "please",
+    "let",
+    "me",
+    "know",
+    "the",
+    "product",
+    "name",
+    "you're",
+    "asking",
+    "about",
+    "got",
+    "it",
+    "could",
+    "you",
+    "please",
+    "tell",
+    "me",
+    "the",
+    "product",
+    "name",
+    "or",
+    "brand",
+    "this",
+    "will",
+    "help",
+    "me",
+    "track",
+    "your",
+    "order",
+    "please",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "to",
+    "fetch",
+    "your",
+    "products",
+    "i",
+    "couldn't",
+    "find",
+    "laamic",
+    "in",
+    "your",
+    "orders",
+    "but",
+    "i",
+    "see",
+    "items",
+    "from",
+    "brands",
+    "like",
+    "love",
+    "beauty",
+    "&",
+    "planet",
+    "lakme",
+    "dressberry",
+    "lecalla",
+    "and",
+    "carlton",
+    "london",
+    "could",
+    "you",
+    "confirm",
+    "if",
+    "it's",
+    "one",
+    "of",
+    "these",
+    "or",
+    "provide",
+    "more",
+    "details",
+    "about",
+    "the",
+    "product",
+    "alright",
+    "could",
+    "you",
+    "let",
+    "me",
+    "know",
+    "which",
+    "type",
+    "of",
+    "product",
+    "you're",
+    "asking",
+    "about",
+    "such",
+    "as",
+    "a",
+    "cream",
+    "shampoo",
+    "socks",
+    "earrings",
+    "or",
+    "studs",
+    "this",
+    "will",
+    "help",
+    "me",
+    "locate",
+    "your",
+    "order",
+    "i",
+    "didn't",
+    "find",
+    "a",
+    "product",
+    "matching",
+    "trim",
+    "hand",
+    "shampoo",
+    "could",
+    "you",
+    "confirm",
+    "if",
+    "you're",
+    "referring",
+    "to",
+    "any",
+    "of",
+    "these",
+    "items",
+    "there's",
+    "a",
+    "love",
+    "beauty",
+    "&",
+    "planet",
+    "argan",
+    "oil",
+    "and",
+    "lavender",
+    "got",
+    "it",
+    "you",
+    "might",
+    "be",
+    "referring",
+    "to",
+    "the",
+    "lakme",
+    "youth",
+    "infinity",
+    "anti",
+    "aging",
+    "night",
+    "cream",
+    "with",
+    "proretinol",
+    "c",
+    "let",
+    "me",
+    "check",
+    "its",
+    "delivery",
+    "status",
+    "for",
+    "you",
+    "your",
+    "lakme",
+    "youth",
+    "infinity",
+    "anti",
+    "aging",
+    "night",
+    "cream",
+    "with",
+    "proretinol",
+    "c",
+    "50g",
+    "will",
+    "be",
+    "delivered",
+    "on",
+    "or",
+    "before",
+    "27",
+    "july",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "sure",
+    "what",
+    "else",
+    "can",
+    "i",
+    "assist",
+    "you",
+    "with",
+    "alright",
+    "let",
+    "me",
+    "check",
+    "the",
+    "delivery",
+    "status",
+    "for",
+    "your",
+    "love",
+    "beauty",
+    "&",
+    "planet",
+    "argan",
+    "oil",
+    "and",
+    "lavender",
+    "shampoo",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "your",
+    "love",
+    "beauty",
+    "&",
+    "planet",
+    "argan",
+    "oil",
+    "and",
+    "lavender",
+    "shampoo",
+    "for",
+    "frizzy",
+    "hair",
+    "400ml",
+    "will",
+    "be",
+    "delivered",
+    "on",
+    "or",
+    "before",
+    "tomorrow",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "we'll",
+    "be",
+    "sending",
+    "you",
+    "a",
+    "quick",
+    "feedback",
+    "form",
+    "via",
+    "sms—your",
+    "input",
+    "would",
+    "really",
+    "help",
+    "us",
+    "improve",
+    "thank",
+    "you",
+    "for",
+    "choosing",
+    "mintra",
+    "have",
+    "a",
+    "great",
+    "day"
+  ],
+  "mismatches_count": 49
 }

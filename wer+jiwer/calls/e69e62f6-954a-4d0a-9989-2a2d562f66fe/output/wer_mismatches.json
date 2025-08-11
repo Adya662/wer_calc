@@ -1,0 +1,266 @@
+{
+  "wer": 0.08950617283950617,
+  "insertions": 11,
+  "deletions": 0,
+  "substitutions": 18,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 12,
+      "index_hyp": 15,
+      "ref_word": "",
+      "hyp_word": "hindi",
+      "ref_context": "",
+      "hyp_context": "shall we proceed further in hindi or english thik hai main"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 12,
+      "index_hyp": 16,
+      "ref_word": "",
+      "hyp_word": "or",
+      "ref_context": "",
+      "hyp_context": "we proceed further in hindi or english thik hai main aapki"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 12,
+      "index_hyp": 17,
+      "ref_word": "",
+      "hyp_word": "english",
+      "ref_context": "",
+      "hyp_context": "proceed further in hindi or english thik hai main aapki kaise"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 61,
+      "index_hyp": 67,
+      "ref_word": "batayen",
+      "hyp_word": "bataen",
+      "ref_context": "chunav kiya hai kripya mujhe batayen ki aap kis product ya",
+      "hyp_context": "chunaav kiya hai kripya mujhe bataen ki aap kis product ya"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 129,
+      "index_hyp": 135,
+      "ref_word": "batayen",
+      "hyp_word": "bataen",
+      "ref_context": "pure cotton straight skirt kripya batayen inmein se kis item ke",
+      "hyp_context": "pure cotton straight skirt kripya bataen inmein se kis item ke"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 161,
+      "index_hyp": 167,
+      "ref_word": "jayega",
+      "hyp_word": "jaega",
+      "ref_context": "usse pahle deliver kar diya jayega kripya batayiye kya main aapki",
+      "hyp_context": "usse pahle deliver kar diya jaega kripya bataiye kya main aapki"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 163,
+      "index_hyp": 169,
+      "ref_word": "batayiye",
+      "hyp_word": "bataiye",
+      "ref_context": "deliver kar diya jayega kripya batayiye kya main aapki kisi aur",
+      "hyp_context": "deliver kar diya jaega kripya bataiye kya main aapki kisi aur"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 169,
+      "index_hyp": 175,
+      "ref_word": "chij",
+      "hyp_word": "chiz",
+      "ref_context": "kya main aapki kisi aur chij mein madad kar sakti hun",
+      "hyp_context": "kya main aapki kisi aur chiz mein madad kar sakti hun"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 214,
+      "index_hyp": 220,
+      "ref_word": "batayiye",
+      "hyp_word": "bataiye",
+      "ref_context": "check kar sakte hain kripya batayiye kya main aapki kisi aur",
+      "hyp_context": "check kar sakte hain kripya bataiye kya main aapki kisi aur"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 220,
+      "index_hyp": 226,
+      "ref_word": "chij",
+      "hyp_word": "chiz",
+      "ref_context": "kya main aapki kisi aur chij mein madad kar sakti hun",
+      "hyp_context": "kya main aapki kisi aur chiz mein madad kar sakti hun"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 248,
+      "index_hyp": 254,
+      "ref_word": "chij",
+      "hyp_word": "chiz",
+      "ref_context": "kya main aapki kisi aur chij mein madad kar sakti hun",
+      "hyp_context": "kya main aapki kisi aur chiz mein madad kar sakti hun"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 266,
+      "index_hyp": 272,
+      "ref_word": "",
+      "hyp_word": "ke",
+      "ref_context": "",
+      "hyp_context": "sleeves pure cotton applique tshirt ke liye return policy aapke order"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 266,
+      "index_hyp": 273,
+      "ref_word": "",
+      "hyp_word": "liye",
+      "ref_context": "",
+      "hyp_context": "pure cotton applique tshirt ke liye return policy aapke order ke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 266,
+      "index_hyp": 274,
+      "ref_word": "",
+      "hyp_word": "return",
+      "ref_context": "",
+      "hyp_context": "cotton applique tshirt ke liye return policy aapke order ke liye"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 266,
+      "index_hyp": 275,
+      "ref_word": "",
+      "hyp_word": "policy",
+      "ref_context": "",
+      "hyp_context": "applique tshirt ke liye return policy aapke order ke liye refund"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 304,
+      "index_hyp": 314,
+      "ref_word": "jayega",
+      "hyp_word": "jaega",
+      "ref_context": "andar refund process kar diya jayega kripya batayiye kya main aapki",
+      "hyp_context": "andar refund process kar diya jaega kripya bataiye kya main aapki"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 306,
+      "index_hyp": 316,
+      "ref_word": "batayiye",
+      "hyp_word": "bataiye",
+      "ref_context": "process kar diya jayega kripya batayiye kya main aapki kisi aur",
+      "hyp_context": "process kar diya jaega kripya bataiye kya main aapki kisi aur"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 312,
+      "index_hyp": 322,
+      "ref_word": "chij",
+      "hyp_word": "chiz",
+      "ref_context": "kya main aapki kisi aur chij mein madad kar sakti hun",
+      "hyp_context": "kya main aapki kisi aur chiz mein madad kar sakti hun"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 324,
+      "index_hyp": 334,
+      "ref_word": "",
+      "hyp_word": "sms",
+      "ref_context": "",
+      "hyp_context": "aapko ek quick feedback form sms"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "batayen",
+      "hypothesis": "bataen"
+    },
+    {
+      "reference": "batayen",
+      "hypothesis": "bataen"
+    },
+    {
+      "reference": "jayega",
+      "hypothesis": "jaega"
+    },
+    {
+      "reference": "batayiye",
+      "hypothesis": "bataiye"
+    },
+    {
+      "reference": "chij",
+      "hypothesis": "chiz"
+    },
+    {
+      "reference": "batayiye",
+      "hypothesis": "bataiye"
+    },
+    {
+      "reference": "chij",
+      "hypothesis": "chiz"
+    },
+    {
+      "reference": "chij",
+      "hypothesis": "chiz"
+    },
+    {
+      "reference": "jayega",
+      "hypothesis": "jaega"
+    },
+    {
+      "reference": "batayiye",
+      "hypothesis": "bataiye"
+    },
+    {
+      "reference": "chij",
+      "hypothesis": "chiz"
+    }
+  ],
+  "deletion_words": [],
+  "insertion_words": [
+    "hey",
+    "i",
+    "am",
+    "hindi",
+    "or",
+    "english",
+    "ke",
+    "liye",
+    "return",
+    "policy",
+    "sms"
+  ]
+}

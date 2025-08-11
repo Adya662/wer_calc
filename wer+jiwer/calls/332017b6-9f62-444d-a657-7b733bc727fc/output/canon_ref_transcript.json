@@ -1,80 +1,85 @@
 {
-  "canonical_transcript": "hey i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today got it i can help you track your order could you please tell me the product name or the brand name of the item you ordered please give me a moment to fetch your products im sorry but we currently dont offer a packing service for your order however your items will arrive securely packed as per our standard procedures how else can i assist you with your your most recent order was placed today july seventeenth at 10 twenty four am it includes 2 items mango extended sleeves high neck top and forever new women top could you confirm which one youd like to track your forever new women top is being processed and will be delivered by 28 july please tell me is there anything else i can help you with im here to help what else i believe youre asking about something could you clarify what you mean by exide to lipid if its related to your order or delivery im happy to assist i understand youd like to expedite the delivery currently we are unable to accommodate changes to the delivery speed the fastest available option has already been chosen for your order is there anything else i can assist you with is there anything else youd currently i cannot assist with cancellations directly over the call to cancel your order please visit the myntra app or website go to your orders section select the forever new women top and follow the i got it currently i cannot cancel orders directly for you you can easily cancel your order by visiting the myntra app or website selecting the specific item and following alright please let me youre",
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english great how can i help you today got it i can help you track your order could you please tell me the product name or the brand name of the item you ordered please give me a moment to fetch your products i'm sorry but we currently don't offer a packing service for your order however your items will arrive securely packed as per our standard procedures how else can i assist you with your your most recent order was placed today july seventeenth at ten twentyfour am it includes two items mango extended sleeves high neck top and forever new women top could you confirm which one you'd like to track your forever new women top is being processed and will be delivered by 28 july please tell me is there anything else i can help you with i\u2019m here to help what else i believe you're asking about something could you clarify what you mean by exide to lipid if it's related to your order or delivery i'm happy to assist i understand you'd like to expedite the delivery currently we are unable to accommodate changes to the delivery speed the fastest available option has already been chosen for your order is there anything else i can assist you with is there anything else you'd currently i cannot assist with cancellations directly over the call to cancel your order please visit the mintra app or website go to your orders section select the forever new women top and follow the i got it currently i cannot cancel orders directly for you you can easily cancel your order by visiting the mintra app or website selecting the specific item and following alright please let me you're",
   "entities": [
     {
-      "index": 7,
+      "index": 5,
       "value": "ray",
       "type": "PERSON"
     },
     {
-      "index": 9,
-      "value": "myntra",
-      "type": "ORGANIZATION"
+      "index": 7,
+      "value": "mintra",
+      "type": "ORG"
     },
     {
-      "index": 21,
+      "index": 37,
       "value": "hindi",
       "type": "LANGUAGE"
     },
     {
-      "index": 24,
+      "index": 39,
       "value": "english",
       "type": "LANGUAGE"
     },
     {
-      "index": 112,
+      "index": 108,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 110,
       "value": "july seventeenth",
-      "type": "DATE"
+      "type": "DATE/TIME"
     },
     {
-      "index": 116,
-      "value": "10 twenty four am",
-      "type": "DATE"
+      "index": 113,
+      "value": "ten twentyfour am",
+      "type": "DATE/TIME"
     },
     {
-      "index": 120,
-      "value": "2",
-      "type": "NUMBER"
-    },
-    {
-      "index": 122,
+      "index": 118,
       "value": "mango extended sleeves high neck top",
       "type": "PRODUCT"
     },
     {
-      "index": 128,
+      "index": 123,
       "value": "forever new women top",
       "type": "PRODUCT"
     },
     {
-      "index": 146,
+      "index": 137,
       "value": "forever new women top",
       "type": "PRODUCT"
     },
     {
-      "index": 156,
+      "index": 144,
       "value": "28 july",
-      "type": "DATE"
+      "type": "DATE/TIME"
     },
     {
-      "index": 202,
-      "value": "exide to lipid",
+      "index": 186,
+      "value": "exide",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 188,
+      "value": "lipid",
       "type": "OTHER"
     },
     {
-      "index": 270,
-      "value": "myntra",
-      "type": "ORGANIZATION"
-    },
-    {
-      "index": 284,
+      "index": 232,
       "value": "forever new women top",
       "type": "PRODUCT"
     },
     {
-      "index": 314,
-      "value": "myntra",
-      "type": "ORGANIZATION"
+      "index": 238,
+      "value": "mintra",
+      "type": "ORG"
+    },
+    {
+      "index": 262,
+      "value": "mintra",
+      "type": "ORG"
     }
   ]
 }

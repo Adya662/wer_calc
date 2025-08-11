@@ -1,0 +1,207 @@
+[
+  {
+    "timestamp": "2025-07-16 18:54:16",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-07-16 18:54:20",
+    "speaker": "user",
+    "content": "English."
+  },
+  {
+    "timestamp": "2025-07-16 18:54:20",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-07-16 18:54:28",
+    "speaker": "user",
+    "content": "I want to know where is my order?"
+  },
+  {
+    "timestamp": "2025-07-16 18:54:28",
+    "speaker": "assistant",
+    "content": "I can help you track your order. Could you please tell me the product name or brand name?"
+  },
+  {
+    "timestamp": "2025-07-16 18:54:46",
+    "speaker": "user",
+    "content": "A specific item from my order section. Why you want me to repeat? The brand name or product name?"
+  },
+  {
+    "timestamp": "2025-07-16 18:54:46",
+    "speaker": "assistant",
+    "content": "I understand your concern. To locate the exact status of your order, I need the product name or brand name from your order. Could you please share that with me?"
+  },
+  {
+    "timestamp": "2025-07-16 18:55:00",
+    "speaker": "user",
+    "content": "Item."
+  },
+  {
+    "timestamp": "2025-07-16 18:55:00",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-16 18:55:02",
+    "speaker": "user",
+    "content": "Which I orderd. In Mira."
+  },
+  {
+    "timestamp": "2025-07-16 18:55:06",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-16 18:55:06",
+    "speaker": "assistant",
+    "content": "It seems there are multiple items in your order. Could you please tell me which item you are referring to? For example, is it the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties?"
+  },
+  {
+    "timestamp": "2025-07-16 18:55:25",
+    "speaker": "user",
+    "content": "From"
+  },
+  {
+    "timestamp": "2025-07-16 18:55:25",
+    "speaker": "assistant",
+    "content": "Could you clarify the item you're asking about? For instance, is it related to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me locate your order accurately."
+  },
+  {
+    "timestamp": "2025-07-16 18:55:40",
+    "speaker": "user",
+    "content": "मतलब"
+  },
+  {
+    "timestamp": "2025-07-16 18:55:40",
+    "speaker": "assistant",
+    "content": "I understand you might be finding it difficult to specify the product name. Do you want to speak with another agent who can"
+  },
+  {
+    "timestamp": "2025-07-16 18:55:50",
+    "speaker": "user",
+    "content": "No no, I already told the brand name."
+  },
+  {
+    "timestamp": "2025-07-16 18:55:50",
+    "speaker": "assistant",
+    "content": "Alright! Could you confirm if you are referring to the Plum face serum, Jockey gym towel, Bigen beard color, Kalenji running shorts, or Sirona period panties? This will help me provide the correct details."
+  },
+  {
+    "timestamp": "2025-07-16 18:56:08",
+    "speaker": "user",
+    "content": "This is the first 1."
+  },
+  {
+    "timestamp": "2025-07-16 18:56:21",
+    "speaker": "assistant",
+    "content": "Your प्लम 10% Niacinamide Brightening Face Serum With Rice Ferment Extract & Licorice - 50ml is scheduled to arrive by end of day today.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-16 18:56:28",
+    "speaker": "user",
+    "content": "End of today, as in now it's almost"
+  },
+  {
+    "timestamp": "2025-07-16 18:56:28",
+    "speaker": "assistant",
+    "content": "Yes,"
+  },
+  {
+    "timestamp": "2025-07-16 18:56:33",
+    "speaker": "user",
+    "content": "after 02:00 are I talking about today or are you talking about"
+  },
+  {
+    "timestamp": "2025-07-16 18:56:33",
+    "speaker": "assistant",
+    "content": "Your order is scheduled to be delivered by the end of today. This means anytime before the end of the day, regardless of the current time. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "2025-07-16 18:56:51",
+    "speaker": "user",
+    "content": "yesterday? No, I'm not actually clear but to which address this will be delivered?"
+  },
+  {
+    "timestamp": "2025-07-16 18:56:51",
+    "speaker": "assistant",
+    "content": "I really apologize, but I am unable to share the delivery address. However, you can double-check the delivery address in the मिंत्रा app under your order details. Let me know if there’s anything else I can assist you with!"
+  },
+  {
+    "timestamp": "2025-07-16 18:57:09",
+    "speaker": "user",
+    "content": "Yeah, I want to create a return for this order."
+  },
+  {
+    "timestamp": "2025-07-16 18:57:09",
+    "speaker": "assistant",
+    "content": "To create a return for your order, you can follow these steps directly on the मिंत्रा app: Open the app, go to the 'Orders' section, select the item you want to return, tap 'Return', choose a reason for the return, provide the required details, and then submit the return request. Let me know if you need further assistance!"
+  },
+  {
+    "timestamp": "2025-07-16 18:57:33",
+    "speaker": "user",
+    "content": "Yeah, you were telling so fast, I could not follow. Can you tell it slowly?"
+  },
+  {
+    "timestamp": "2025-07-16 18:57:33",
+    "speaker": "assistant",
+    "content": "Sure! To create a return for your order, follow these steps: \n\n1. Open the मिंत्रा app.  \n2. Go to the 'Orders' section.  \n3. Select the item you want to return.  \n4. Tap on 'Return'.  \n5. Choose a reason for the return and provide the required details.  \n6. Submit the return request.\n\nIf you'd like me to explain any step again, let me know!"
+  },
+  {
+    "timestamp": "2025-07-16 18:58:05",
+    "speaker": "user",
+    "content": "Second step, I want you to elaborate."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:05",
+    "speaker": "assistant",
+    "content": "Alright! In the second step, once you open the मिंत्रा app, look for the 'Orders' section. This is usually located at the bottom menu of the app. Tap on 'Orders,' and you’ll see a list of all the items you’ve purchased. From there, select the specific item you want to return. If you're unsure, let me know, and I'll guide you further."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:28",
+    "speaker": "user",
+    "content": "I'm sure."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:28",
+    "speaker": "assistant",
+    "content": "That's great! Please let me know if there's anything else I can help you with."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:37",
+    "speaker": "user",
+    "content": "No no, I told I'm sure."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:37",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-07-16 18:58:39",
+    "speaker": "user",
+    "content": "So then you had to help me."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:39",
+    "speaker": "assistant",
+    "content": "I apologize for the confusion earlier. Since you're sure about the item, you can proceed directly to the next step in the मिंत्रा app. Tap on the 'Orders' section, select your item, and then choose the 'Return' option. Is there anything else you'd like me to clarify or assist with?"
+  },
+  {
+    "timestamp": "2025-07-16 18:58:59",
+    "speaker": "user",
+    "content": "I'm not seeing the return option."
+  },
+  {
+    "timestamp": "2025-07-16 18:58:59",
+    "speaker": "assistant",
+    "content": "I really apologize for the inconvenience. It’s possible that the return window might have expired or there may be some restrictions on the item. Do you want to speak with another agent who can assist you better regarding this issue?"
+  },
+  {
+    "timestamp": "2025-07-16 18:59:18",
+    "speaker": "user",
+    "content": "Ok,"
+  }
+]

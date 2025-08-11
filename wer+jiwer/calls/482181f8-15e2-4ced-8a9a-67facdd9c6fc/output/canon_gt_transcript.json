@@ -22,32 +22,32 @@
       "type": "LANGUAGE"
     },
     {
-      "index": 78,
+      "index": 66,
       "value": "h and m",
       "type": "ORGANIZATION"
     },
     {
-      "index": 100,
+      "index": 88,
       "value": "h and m",
       "type": "ORGANIZATION"
     },
     {
-      "index": 118,
+      "index": 112,
       "value": "20 june",
       "type": "DATE"
     },
     {
-      "index": 126,
+      "index": 120,
       "value": "20 june",
       "type": "DATE"
     },
     {
-      "index": 176,
+      "index": 172,
       "value": "mango",
       "type": "ORGANIZATION"
     },
     {
-      "index": 204,
+      "index": 200,
       "value": "mango",
       "type": "ORGANIZATION"
     },
@@ -62,7 +62,7 @@
       "type": "ORGANIZATION"
     },
     {
-      "index": 352,
+      "index": 354,
       "value": "all about you",
       "type": "ORGANIZATION"
     }

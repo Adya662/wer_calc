@@ -2,166 +2,166 @@
   "call_id": "3502253e-259a-42d3-ab70-7aedabeb81fa",
   "mismatches": [
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Taruna Yadav?",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate now. Am I speaking with Taruna Yadav? I noticed you've been quiet. Are you still there?\"",
+      "reference_sentence": "Hello, this is Priya from Elevate now. Am I speaking with Taruna Yadav? I noticed you've been quiet. Are you still there?\"",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Taruna Yadav?",
       "word_differences": [
         [
-          "ElevateNow.",
-          "Elevate now."
+          "Elevate now.",
+          "ElevateNow."
         ],
         [
-          "[missing]",
-          "I noticed you've been quiet. Are you still there?\""
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I noticed you've been quiet. Are you still there?",
-      "hypothesis_sentence": "I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
-      "word_differences": [
-        [
-          "you've been quiet.",
-          "you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals"
-        ],
-        [
-          "you still there?",
+          "I noticed you've been quiet. Are you still there?\"",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
-      "hypothesis_sentence": "Hi. Based on your BMI of 32.03, it's clear your body is sending signals about how it's handling weight and metabolism right now.We are genuinely excited to support your goals, and the Nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
-      "word_differences": [
-        [
-          "Great! I noticed you were checking out our",
-          "Hi. Based on your BMI of 32.03, it's clear your body is sending signals about how it's handling weight and metabolism right now.We are genuinely excited to support your goals, and the"
-        ],
-        [
-          "but didn't complete the payment. I'd love",
-          "is designed"
-        ],
-        [
-          "understand what motivated you",
-          "work with your body's current state"
-        ],
-        [
-          "consider our program and what your",
-          "make"
-        ],
-        [
-          "goals are.",
-          "easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Hi! Based on your BMI of thirty-two point zero three, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals, and the Nano Plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
-      "hypothesis_sentence": "Perfect. Have you had any past experiences with other weight loss programs? If so, did they work for you?",
-      "word_differences": [
-        [
-          "Hi! Based on your BMI of thirty-two point zero three, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals, and the Nano Plan is designed to work",
-          "Perfect. Have you had any past experiences"
-        ],
-        [
-          "your body's current state to make",
-          "other"
-        ],
-        [
-          "easier and more effective. Would",
-          "programs? If so, did they work for"
-        ],
-        [
-          "like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Perfect! Have you had any past experiences with other weight loss programs? If so, did they work for you?",
-      "hypothesis_sentence": "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902\u0964 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u092a\u0930\u092b\u0947\u0915\u094d\u091f \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u092a\u0930\u094d\u0938\u0928\u0932\u093e\u0907\u091c\u094d\u0921 \u0914\u0930 \u0938\u093e\u0907\u0902\u091f\u093f\u092b\u093f\u0915\u0932\u0940 \u092c\u0948\u0915\u094d\u0921 \u0905\u092a\u094d\u0930\u094b\u091a \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u0939\u0948\u0964 \u091a\u0932\u093f\u090f, \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0911\u092b\u0930\u093f\u0902\u0917\u094d\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0938\u0940\u0928\u093f\u092f\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964\u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u0915\u093f\u0938\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947 \u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092c\u0924\u093e\u090a\u0902 \u0915\u093f \u092f\u0939 \u0915\u0948\u0938\u0947 \u0906\u092a\u0915\u0947 \u0935\u0947\u091f \u0932\u0949\u0938 \u0917\u094b\u0932\u094d\u0938 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948? \u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0906\u092a\u0915\u0940 \u0938\u094d\u092a\u0947\u0938\u093f\u092b\u093f\u0915 \u0928\u0940\u0921\u094d\u0938 \u0915\u094b \u090f\u0921\u094d\u0930\u0947\u0938 \u0915\u0930 \u0938\u0915\u0947\u0964 \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964\"",
-      "word_differences": [
-        [
-          "Perfect! Have you had any past experiences with other weight loss programs? If so, did they work for you?",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902! Nano Plan \u0906\u092a\u0915\u0947 \u0932\u093f\u090f perfect \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 personalized \u0914\u0930 scientifically-backed approach \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u0939\u0948\u0964 \u091a\u0932\u093f\u090f Nano Plan \u0915\u0947 offerings \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0907\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 senior health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u0915\u093f\u0938\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947 \u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092c\u0924\u093e\u090a\u0901 \u0915\u093f \u092f\u0939 \u0915\u0948\u0938\u0947 \u0906\u092a\u0915\u0947 weight loss goals \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948?",
-      "hypothesis_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0924\u0939\u0924 \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 \u092e\u0947\u091f\u093e\u092c\u0949\u0932\u093f\u091c\u094d\u092e \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u0938\u094d\u092a\u0947\u0938\u093f\u092b\u093f\u0915 \u092a\u0948\u0930\u093e\u092e\u0940\u091f\u0930\u094d\u0938 \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u090f\u0915 \u0938\u0940\u0928\u093f\u092f\u0930 \u0913\u092c\u0947\u0938\u093f\u091f\u0940 \u0938\u094d\u092a\u0947\u0936\u0932\u093f\u0938\u094d\u091f \u0921\u0949\u0915\u094d\u091f\u0930 \u0906\u092a\u0915\u0947 \u0930\u093f\u091c\u0932\u094d\u091f\u094d\u0938 \u0915\u094b \u0921\u093f\u091f\u0947\u0932 \u092e\u0947\u0902 \u0938\u092e\u091d\u093e\u090f\u0902\u0917\u0947 \u0914\u0930 \u0909\u0928\u0915\u0940 \u0939\u0947\u0932\u094d\u0925 \u092a\u0930 \u0907\u0902\u092a\u0948\u0915\u094d\u091f \u0915\u094b \u0921\u093f\u0938\u094d\u0915\u0938 \u0915\u0930\u0947\u0902\u0917\u0947\u0964\u0905\u0902\u0924 \u092e\u0947\u0902, \u0939\u092e\u093e\u0930\u093e \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u090f\u0915 \u092a\u0930\u094d\u0938\u0928\u0932\u093e\u0907\u091c\u094d\u0921 \u0935\u0947\u091f \u0932\u0949\u0938 \u092a\u094d\u0932\u093e\u0928 \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0947\u0917\u093e \u091c\u094b \u0906\u092a\u0915\u0940 \u0928\u0940\u0921\u094d\u0938 \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915 \u0939\u094b\u0917\u093e\u0964\u0905\u092c \u091c\u092c \u0939\u092e\u0928\u0947 \u0907\u0928 \u0911\u092b\u0930\u093f\u0902\u0917\u094d\u0938 \u0915\u094b \u0915\u0935\u0930 \u0915\u0930 \u0932\u093f\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u093e \u0906\u092a \u092a\u094d\u0930\u093e\u0907\u0938\u093f\u0902\u0917 \u0907\u0902\u092b\u0949\u0930\u094d\u092e\u0947\u0936\u0928 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?\"",
-      "word_differences": [
-        [
-          "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902! Nano Plan \u0906\u092a\u0915\u0947 \u0932\u093f\u090f perfect \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 personalized \u0914\u0930 scientifically-backed approach \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "\u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 Nano Plan \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0947 \u0906\u092a\u0915\u0940 specific needs \u0915\u094b address \u0915\u0930 \u0938\u0915\u0947\u0964 \u0907\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b explain \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901 \u0915\u093f \u092f\u0947 offerings \u0906\u092a\u0915\u0940 weight",
-      "hypothesis_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0940 \u0915\u0940\u092e\u0924 1799 \u0939\u0948 \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 \u092a\u094d\u0930\u0940\u092e\u093f\u092f\u092e \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u0915\u094b \u0905\u092b\u094b\u0930\u094d\u0921\u0947\u092c\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 \u092a\u094d\u0930\u093e\u0907\u0938 \u092a\u0949\u0907\u0902\u091f \u092a\u0930 \u092f\u0939 \u0915\u0949\u092e\u094d\u092a\u094d\u0930\u093f\u0939\u0947\u0902\u0938\u093f\u0935 \u0938\u0930\u094d\u0935\u093f\u0938 \u092e\u093f\u0932\u0928\u093e \u0930\u0947\u092f\u0930 \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092c \u092a\u0947\u092e\u0947\u0902\u091f \u0911\u092a\u094d\u0936\u0902\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
-      "word_differences": [
-        [
-          "\u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 Nano Plan \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0947",
-          "\u0928\u0948\u0928\u094b"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Nano Plan \u0915\u0947 \u0924\u0939\u0924, \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 blood test \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 metabolism \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 specific parameters \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926, \u090f\u0915 senior obesity specialist doctor \u0906\u092a\u0915\u0947 results \u0915\u094b detail \u092e\u0947\u0902 \u0938\u092e\u091d\u093e\u090f\u0902\u0917\u0947 \u0914\u0930 \u0909\u0928\u0915\u0940 health \u092a\u0930 impact \u0915\u094b discuss \u0915\u0930\u0947\u0902\u0917\u0947\u0964 \u0905\u0902\u0924 \u092e\u0947\u0902, \u0939\u092e\u093e\u0930\u093e health coach \u090f\u0915 personalized weight loss plan \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0947\u0917\u093e \u091c\u094b \u0906\u092a\u0915\u0940 needs \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915 \u0939\u094b\u0917\u093e\u0964 \u0905\u092c \u091c\u092c \u0939\u092e\u0928\u0947 \u0907\u0928 offerings \u0915\u094b cover \u0915\u0930 \u0932\u093f\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u093e \u0906\u092a pricing information \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
-      "hypothesis_sentence": "Great. You have two payment options for the Nano plan. You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of blood sample collection, which totals rupees 1,898. Or you can make a full payment of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?",
+      "reference_sentence": "I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
       "word_differences": [
         [
           "[missing]",
-          "Great. You have two payment options for the"
+          "you've been quiet. Are"
         ],
         [
-          "[missing]",
-          "You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of"
-        ],
-        [
-          "\u0924\u0939\u0924, \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 blood test \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 metabolism \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 specific parameters \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926, \u090f\u0915 senior",
-          "sample collection, which totals rupees 1,898. Or you can make a full payment of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?"
+          "were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+          "still there?"
         ]
       ]
     },
     {
-      "reference_sentence": "Nano Plan \u0915\u0940 \u0915\u0940\u092e\u0924 Rupees one thousand seven hundred ninety-nine \u0939\u0948, \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 premium services \u0915\u094b affordable \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 price point \u092a\u0930 \u092f\u0939 comprehensive service \u092e\u093f\u0932\u0928\u093e rare \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0907\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092c payment options \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
-      "hypothesis_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0915\u0902\u092a\u094d\u0932\u0940\u091f \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926, \u0906\u092a\u0915\u0947 \u092a\u093e\u0938 \u0939\u092e\u093e\u0930\u0947 \u092b\u094d\u0932\u0948\u0917\u0936\u093f\u092a \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u092e\u0947\u0902 \u0905\u092a\u0917\u094d\u0930\u0947\u0921 \u0915\u0930\u0928\u0947 \u0915\u093e \u0911\u092a\u094d\u0936\u0928 \u0939\u094b\u0917\u093e, \u091c\u093f\u0938\u092e\u0947\u0902 \u0924\u0940\u0928, \u091b\u0939 \u092f\u093e 12 \u092e\u0939\u0940\u0928\u0947 \u0915\u0947 \u0938\u092c\u094d\u0938\u094d\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964\u092f\u0939 \u092a\u094d\u0932\u093e\u0928\u094d\u0938 \u0906\u092a\u0915\u0947 \u092f\u0942\u0928\u093f\u0915 \u092e\u0947\u091f\u093e\u092c\u0949\u0932\u093f\u0915 \u0915\u0902\u0921\u0940\u0936\u0928 \u0915\u0947 \u0939\u093f\u0938\u093e\u092c \u0938\u0947 \u091f\u0947\u0932\u0930\u094d\u0921 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964\u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0915\u0902\u091f\u093f\u0928\u094d\u092f\u0942 \u0915\u0930\u0928\u0947 \u0915\u093e \u0921\u093f\u0938\u0940\u091c\u0928 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0906\u092a\u0915\u093e \u0939\u094b\u0917\u093e\u0964\u0939\u092e\u093e\u0930\u0947 \u0932\u0949\u0928\u094d\u0917\u0930 \u091f\u0930\u094d\u092e \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u094d\u0938 \u092e\u0947\u0902 100% \u092e\u0928\u0940 \u092c\u0948\u0915 \u0917\u093e\u0930\u0902\u091f\u0940 \u0911\u0928 \u0935\u0947\u091f \u0932\u0949\u0938 \u092d\u0940 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948, \u091c\u093f\u0938\u0938\u0947 \u0906\u092a\u0915\u094b \u0905\u092a\u0928\u0947 \u0939\u0947\u0932\u094d\u0925 \u0917\u094b\u0932\u094d\u0938 \u0905\u091a\u0940\u0935 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u0942\u0930\u093e \u0938\u092a\u094b\u0930\u094d\u091f \u092e\u093f\u0932\u0947\u0917\u093e\u0964 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0914\u0930 \u0915\u093f\u0938\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?",
+      "reference_sentence": "Hi. Based on your BMI of 32.03, it's clear your body is sending signals about how it's handling weight and metabolism right now.We are genuinely excited to support your goals, and the Nano plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+      "hypothesis_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
       "word_differences": [
         [
-          "Nano Plan \u0915\u0940 \u0915\u0940\u092e\u0924 Rupees one thousand seven hundred ninety-nine \u0939\u0948, \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 premium services \u0915\u094b affordable \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 price point",
-          "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Great! You have two payment options for the Nano Plan. You can either make a partial payment of Rupees four hundred ninety-nine now and pay the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection, which totals Rupees one thousand eight hundred ninety-eight. Or, you can make a full payment of Rupees one thousand seven hundred ninety-nine upfront. I\u2019ll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?",
-      "hypothesis_sentence": "I'll send you the payment links on your registered mobile number via WhatsApp. If you have any more doubts in the future, feel free to reach out.Goodbye and have a great day.",
-      "word_differences": [
+          "Hi. Based on your BMI of 32.03, it's clear your body is sending signals about how it's handling weight and metabolism right now.We are genuinely excited to support your goals, and the",
+          "Great! I noticed you were checking out our"
+        ],
         [
-          "Great! You have two payment options for the Nano Plan. You can either make a partial payment of Rupees four hundred ninety-nine now and pay the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection, which totals Rupees one thousand eight hundred ninety-eight. Or, you can make a full payment of Rupees one thousand seven hundred ninety-nine upfront.",
+          "is designed",
+          "but didn't complete the payment. I'd love"
+        ],
+        [
+          "work with",
+          "understand what motivated you to consider our program and what"
+        ],
+        [
+          "body's current state to make",
           "[missing]"
         ],
         [
-          "both",
-          "you the"
+          "easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+          "goals are."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Perfect. Have you had any past experiences with other weight loss programs? If so, did they work for you?",
+      "hypothesis_sentence": "Hi! Based on your BMI of thirty-two point zero three, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals, and the Nano Plan is designed to work with your body's current state to make weight loss easier and more effective. Would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?",
+      "word_differences": [
+        [
+          "Perfect. Have you had any past experiences",
+          "Hi! Based on your BMI of thirty-two point zero three, it's clear your body is sending signals about how it's handling weight and metabolism right now. We're genuinely excited to support your goals, and the Nano Plan is designed to work"
         ],
         [
-          "to",
-          "on"
+          "other",
+          "your body's current state to make"
         ],
         [
-          "Do",
-          "If"
+          "programs? If so, did they work for",
+          "easier and more effective. Would"
         ],
         [
-          "or should we proceed with",
-          "in"
+          "[missing]",
+          "like to discuss a personalized plan to address these challenges and achieve sustainable weight loss?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902\u0964 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0906\u092a\u0915\u0947 \u0932\u093f\u090f \u092a\u0930\u092b\u0947\u0915\u094d\u091f \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 \u092a\u0930\u094d\u0938\u0928\u0932\u093e\u0907\u091c\u094d\u0921 \u0914\u0930 \u0938\u093e\u0907\u0902\u091f\u093f\u092b\u093f\u0915\u0932\u0940 \u092c\u0948\u0915\u094d\u0921 \u0905\u092a\u094d\u0930\u094b\u091a \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u0939\u0948\u0964 \u091a\u0932\u093f\u090f, \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0911\u092b\u0930\u093f\u0902\u0917\u094d\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0938\u0940\u0928\u093f\u092f\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964\u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u0915\u093f\u0938\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947 \u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092c\u0924\u093e\u090a\u0902 \u0915\u093f \u092f\u0939 \u0915\u0948\u0938\u0947 \u0906\u092a\u0915\u0947 \u0935\u0947\u091f \u0932\u0949\u0938 \u0917\u094b\u0932\u094d\u0938 \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948? \u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0902\u0964 \u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0939 \u0906\u092a\u0915\u0940 \u0938\u094d\u092a\u0947\u0938\u093f\u092b\u093f\u0915 \u0928\u0940\u0921\u094d\u0938 \u0915\u094b \u090f\u0921\u094d\u0930\u0947\u0938 \u0915\u0930 \u0938\u0915\u0947\u0964 \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964\"",
+      "hypothesis_sentence": "Perfect! Have you had any past experiences with other weight loss programs? If so, did they work for you?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Perfect! Have you had any past experiences with other weight loss programs? If so, did they work for you?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0947 \u0924\u0939\u0924 \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 \u092e\u0947\u091f\u093e\u092c\u0949\u0932\u093f\u091c\u094d\u092e \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u0938\u094d\u092a\u0947\u0938\u093f\u092b\u093f\u0915 \u092a\u0948\u0930\u093e\u092e\u0940\u091f\u0930\u094d\u0938 \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926 \u090f\u0915 \u0938\u0940\u0928\u093f\u092f\u0930 \u0913\u092c\u0947\u0938\u093f\u091f\u0940 \u0938\u094d\u092a\u0947\u0936\u0932\u093f\u0938\u094d\u091f \u0921\u0949\u0915\u094d\u091f\u0930 \u0906\u092a\u0915\u0947 \u0930\u093f\u091c\u0932\u094d\u091f\u094d\u0938 \u0915\u094b \u0921\u093f\u091f\u0947\u0932 \u092e\u0947\u0902 \u0938\u092e\u091d\u093e\u090f\u0902\u0917\u0947 \u0914\u0930 \u0909\u0928\u0915\u0940 \u0939\u0947\u0932\u094d\u0925 \u092a\u0930 \u0907\u0902\u092a\u0948\u0915\u094d\u091f \u0915\u094b \u0921\u093f\u0938\u094d\u0915\u0938 \u0915\u0930\u0947\u0902\u0917\u0947\u0964\u0905\u0902\u0924 \u092e\u0947\u0902, \u0939\u092e\u093e\u0930\u093e \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u090f\u0915 \u092a\u0930\u094d\u0938\u0928\u0932\u093e\u0907\u091c\u094d\u0921 \u0935\u0947\u091f \u0932\u0949\u0938 \u092a\u094d\u0932\u093e\u0928 \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0947\u0917\u093e \u091c\u094b \u0906\u092a\u0915\u0940 \u0928\u0940\u0921\u094d\u0938 \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915 \u0939\u094b\u0917\u093e\u0964\u0905\u092c \u091c\u092c \u0939\u092e\u0928\u0947 \u0907\u0928 \u0911\u092b\u0930\u093f\u0902\u0917\u094d\u0938 \u0915\u094b \u0915\u0935\u0930 \u0915\u0930 \u0932\u093f\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u093e \u0906\u092a \u092a\u094d\u0930\u093e\u0907\u0938\u093f\u0902\u0917 \u0907\u0902\u092b\u0949\u0930\u094d\u092e\u0947\u0936\u0928 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?\"",
+      "hypothesis_sentence": "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902! Nano Plan \u0906\u092a\u0915\u0947 \u0932\u093f\u090f perfect \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 personalized \u0914\u0930 scientifically-backed approach \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924 \u0939\u0948\u0964 \u091a\u0932\u093f\u090f Nano Plan \u0915\u0947 offerings \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u092c\u093e\u0924 \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964 \u0907\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 senior health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0907\u0928\u092e\u0947\u0902 \u0938\u0947 \u0915\u093f\u0938\u0940 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u0914\u0930 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947 \u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b \u092c\u0924\u093e\u090a\u0901 \u0915\u093f \u092f\u0939 \u0915\u0948\u0938\u0947 \u0906\u092a\u0915\u0947 weight loss goals \u092e\u0947\u0902 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u093e \u0939\u0948?",
+      "word_differences": [
+        [
+          "[missing]",
+          "\u0906\u092a \u0938\u0939\u0940 \u091c\u0917\u0939 \u092a\u0930 \u0906\u090f \u0939\u0948\u0902! Nano Plan \u0906\u092a\u0915\u0947 \u0932\u093f\u090f perfect \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u092f\u0939 personalized \u0914\u0930 scientifically-backed approach \u092a\u0930 \u0906\u0927\u093e\u0930\u093f\u0924"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u0940 \u0915\u0940\u092e\u0924 1799 \u0939\u0948 \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 \u092a\u094d\u0930\u0940\u092e\u093f\u092f\u092e \u0938\u0930\u094d\u0935\u093f\u0938\u0947\u091c \u0915\u094b \u0905\u092b\u094b\u0930\u094d\u0921\u0947\u092c\u0932 \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 \u092a\u094d\u0930\u093e\u0907\u0938 \u092a\u0949\u0907\u0902\u091f \u092a\u0930 \u092f\u0939 \u0915\u0949\u092e\u094d\u092a\u094d\u0930\u093f\u0939\u0947\u0902\u0938\u093f\u0935 \u0938\u0930\u094d\u0935\u093f\u0938 \u092e\u093f\u0932\u0928\u093e \u0930\u0947\u092f\u0930 \u0939\u0948 \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0907\u0938\u092e\u0947\u0902 \u092c\u094d\u0932\u0921 \u091f\u0947\u0938\u094d\u091f, \u0921\u0949\u0915\u094d\u091f\u0930 \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0914\u0930 \u0939\u0947\u0932\u094d\u0925 \u0915\u094b\u091a \u0915\u0902\u0938\u0932\u094d\u091f\u0947\u0936\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092c \u092a\u0947\u092e\u0947\u0902\u091f \u0911\u092a\u094d\u0936\u0902\u0938 \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "hypothesis_sentence": "\u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 Nano Plan \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0947 \u0906\u092a\u0915\u0940 specific needs \u0915\u094b address \u0915\u0930 \u0938\u0915\u0947\u0964 \u0907\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0964 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u094b explain \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0901 \u0915\u093f \u092f\u0947 offerings \u0906\u092a\u0915\u0940 weight",
+      "word_differences": [
+        [
+          "\u0928\u0948\u0928\u094b",
+          "\u0938\u092e\u091d \u0938\u0915\u0924\u0940 \u0939\u0942\u0901\u0964 Nano Plan \u0915\u094b \u0907\u0938 \u0924\u0930\u0939 \u0938\u0947 \u0921\u093f\u091c\u093c\u093e\u0907\u0928 \u0915\u093f\u092f\u093e \u0917\u092f\u093e \u0939\u0948 \u0915\u093f \u092f\u0947"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Great. You have two payment options for the Nano plan. You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of blood sample collection, which totals rupees 1,898. Or you can make a full payment of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?",
+      "hypothesis_sentence": "Nano Plan \u0915\u0947 \u0924\u0939\u0924, \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 blood test \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 metabolism \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 specific parameters \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926, \u090f\u0915 senior obesity specialist doctor \u0906\u092a\u0915\u0947 results \u0915\u094b detail \u092e\u0947\u0902 \u0938\u092e\u091d\u093e\u090f\u0902\u0917\u0947 \u0914\u0930 \u0909\u0928\u0915\u0940 health \u092a\u0930 impact \u0915\u094b discuss \u0915\u0930\u0947\u0902\u0917\u0947\u0964 \u0905\u0902\u0924 \u092e\u0947\u0902, \u0939\u092e\u093e\u0930\u093e health coach \u090f\u0915 personalized weight loss plan \u0924\u0948\u092f\u093e\u0930 \u0915\u0930\u0947\u0917\u093e \u091c\u094b \u0906\u092a\u0915\u0940 needs \u0915\u0947 \u092e\u0941\u0924\u093e\u092c\u093f\u0915 \u0939\u094b\u0917\u093e\u0964 \u0905\u092c \u091c\u092c \u0939\u092e\u0928\u0947 \u0907\u0928 offerings \u0915\u094b cover \u0915\u0930 \u0932\u093f\u092f\u093e \u0939\u0948, \u0915\u094d\u092f\u093e \u0906\u092a pricing information \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "word_differences": [
+        [
+          "Great. You have two payment options for the",
+          "[missing]"
         ],
         [
-          "payment?",
-          "future, feel free to reach out.Goodbye and have a great day."
+          "You can either make a partial payment of rupees 499 now and pay the remaining rupees 1,399 at the time of",
+          "[missing]"
+        ],
+        [
+          "sample collection, which totals rupees 1,898. Or you can make a full payment of rupees 1,799 up front. I'll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?",
+          "\u0924\u0939\u0924, \u0938\u092c\u0938\u0947 \u092a\u0939\u0932\u0947 \u0939\u092e \u090f\u0915 blood test \u0915\u0930\u0924\u0947 \u0939\u0948\u0902 \u091c\u094b \u0906\u092a\u0915\u0947 metabolism \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 specific parameters \u0915\u094b \u091a\u0947\u0915 \u0915\u0930\u0924\u093e \u0939\u0948\u0964 \u0907\u0938\u0915\u0947 \u092c\u093e\u0926, \u090f\u0915 senior"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928 \u0915\u094b \u0915\u0902\u092a\u094d\u0932\u0940\u091f \u0915\u0930\u0928\u0947 \u0915\u0947 \u092c\u093e\u0926, \u0906\u092a\u0915\u0947 \u092a\u093e\u0938 \u0939\u092e\u093e\u0930\u0947 \u092b\u094d\u0932\u0948\u0917\u0936\u093f\u092a \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e \u092e\u0947\u0902 \u0905\u092a\u0917\u094d\u0930\u0947\u0921 \u0915\u0930\u0928\u0947 \u0915\u093e \u0911\u092a\u094d\u0936\u0928 \u0939\u094b\u0917\u093e, \u091c\u093f\u0938\u092e\u0947\u0902 \u0924\u0940\u0928, \u091b\u0939 \u092f\u093e 12 \u092e\u0939\u0940\u0928\u0947 \u0915\u0947 \u0938\u092c\u094d\u0938\u094d\u0915\u094d\u0930\u093f\u092a\u094d\u0936\u0928 \u092a\u094d\u0932\u093e\u0928 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964\u092f\u0939 \u092a\u094d\u0932\u093e\u0928\u094d\u0938 \u0906\u092a\u0915\u0947 \u092f\u0942\u0928\u093f\u0915 \u092e\u0947\u091f\u093e\u092c\u0949\u0932\u093f\u0915 \u0915\u0902\u0921\u0940\u0936\u0928 \u0915\u0947 \u0939\u093f\u0938\u093e\u092c \u0938\u0947 \u091f\u0947\u0932\u0930\u094d\u0921 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902\u0964\u0939\u093e\u0932\u093e\u0902\u0915\u093f, \u0915\u0902\u091f\u093f\u0928\u094d\u092f\u0942 \u0915\u0930\u0928\u0947 \u0915\u093e \u0921\u093f\u0938\u0940\u091c\u0928 \u092a\u0942\u0930\u0940 \u0924\u0930\u0939 \u0938\u0947 \u0906\u092a\u0915\u093e \u0939\u094b\u0917\u093e\u0964\u0939\u092e\u093e\u0930\u0947 \u0932\u0949\u0928\u094d\u0917\u0930 \u091f\u0930\u094d\u092e \u092a\u094d\u0930\u094b\u0917\u094d\u0930\u093e\u092e\u094d\u0938 \u092e\u0947\u0902 100% \u092e\u0928\u0940 \u092c\u0948\u0915 \u0917\u093e\u0930\u0902\u091f\u0940 \u0911\u0928 \u0935\u0947\u091f \u0932\u0949\u0938 \u092d\u0940 \u0936\u093e\u092e\u093f\u0932 \u0939\u0948, \u091c\u093f\u0938\u0938\u0947 \u0906\u092a\u0915\u094b \u0905\u092a\u0928\u0947 \u0939\u0947\u0932\u094d\u0925 \u0917\u094b\u0932\u094d\u0938 \u0905\u091a\u0940\u0935 \u0915\u0930\u0928\u0947 \u0915\u0947 \u0932\u093f\u090f \u092a\u0942\u0930\u093e \u0938\u092a\u094b\u0930\u094d\u091f \u092e\u093f\u0932\u0947\u0917\u093e\u0964 \u0915\u094d\u092f\u093e \u092e\u0948\u0902 \u0906\u092a\u0915\u0940 \u0914\u0930 \u0915\u093f\u0938\u0940 \u0924\u0930\u0939 \u0938\u0947 \u092e\u0926\u0926 \u0915\u0930 \u0938\u0915\u0924\u0940 \u0939\u0942\u0902?",
+      "hypothesis_sentence": "Nano Plan \u0915\u0940 \u0915\u0940\u092e\u0924 Rupees one thousand seven hundred ninety-nine \u0939\u0948, \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 premium services \u0915\u094b affordable \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 price point \u092a\u0930 \u092f\u0939 comprehensive service \u092e\u093f\u0932\u0928\u093e rare \u0939\u0948, \u0915\u094d\u092f\u094b\u0902\u0915\u093f \u0907\u0938\u092e\u0947\u0902 blood test, doctor consultation \u0914\u0930 health coach consultation \u0936\u093e\u092e\u093f\u0932 \u0939\u0948\u0902\u0964 \u0915\u094d\u092f\u093e \u0906\u092a \u0905\u092c payment options \u0915\u0947 \u092c\u093e\u0930\u0947 \u092e\u0947\u0902 \u091c\u093e\u0928\u0928\u093e \u091a\u093e\u0939\u0947\u0902\u0917\u0947?",
+      "word_differences": [
+        [
+          "\u0928\u0948\u0928\u094b \u092a\u094d\u0932\u093e\u0928",
+          "Nano Plan \u0915\u0940 \u0915\u0940\u092e\u0924 Rupees one thousand seven hundred ninety-nine \u0939\u0948, \u091c\u094b \u0915\u093f \u0939\u092e\u093e\u0930\u0940 premium services \u0915\u094b affordable \u092c\u0928\u093e\u0924\u093e \u0939\u0948\u0964 \u092c\u093e\u091c\u093e\u0930 \u092e\u0947\u0902 \u0907\u0938 price point"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'll send you the payment links on your registered mobile number via WhatsApp. If you have any more doubts in the future, feel free to reach out.Goodbye and have a great day.",
+      "hypothesis_sentence": "Great! You have two payment options for the Nano Plan. You can either make a partial payment of Rupees four hundred ninety-nine now and pay the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection, which totals Rupees one thousand eight hundred ninety-eight. Or, you can make a full payment of Rupees one thousand seven hundred ninety-nine upfront. I\u2019ll send both payment links to your registered mobile number via WhatsApp. Do you have any more doubts or should we proceed with the payment?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Great! You have two payment options for the Nano Plan. You can either make a partial payment of Rupees four hundred ninety-nine now and pay the remaining Rupees one thousand three hundred ninety-nine at the time of blood sample collection, which totals Rupees one thousand eight hundred ninety-eight. Or, you can make a full payment of Rupees one thousand seven hundred ninety-nine upfront."
+        ],
+        [
+          "you the",
+          "both"
+        ],
+        [
+          "on",
+          "to"
+        ],
+        [
+          "If",
+          "Do"
+        ],
+        [
+          "in",
+          "or should we proceed with"
+        ],
+        [
+          "future, feel free to reach out.Goodbye and have a great day.",
+          "payment?"
         ]
       ]
     }

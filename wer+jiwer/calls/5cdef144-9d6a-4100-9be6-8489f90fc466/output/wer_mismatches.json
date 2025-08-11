@@ -1,0 +1,446 @@
+{
+  "wer": 0.10359408033826638,
+  "insertions": 21,
+  "deletions": 4,
+  "substitutions": 24,
+  "mismatches": [
+    {
+      "operation": "replace",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "elevate",
+      "hyp_word": "elevatenow",
+      "ref_context": "hello this is priya from elevate now am i speaking with",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with minal"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with minal",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 95,
+      "index_hyp": 94,
+      "ref_word": "road",
+      "hyp_word": "roadmap",
+      "ref_context": "create a personalized weight loss road map would you like me",
+      "hyp_context": "create a personalized weight loss roadmap would you like me to"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 96,
+      "index_hyp": 95,
+      "ref_word": "map",
+      "hyp_word": "",
+      "ref_context": "a personalized weight loss road map would you like me to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 113,
+      "index_hyp": 111,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "achieve your weight loss goals i absolutely the nano plan is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "the nano plan costs rupees one thousand seven hundred ninety nine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "nano plan costs rupees one thousand seven hundred ninety nine which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 257,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "plan costs rupees one thousand seven hundred ninety nine which includes"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 258,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "costs rupees one thousand seven hundred ninety nine which includes the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 259,
+      "ref_word": "",
+      "hyp_word": "ninety",
+      "ref_context": "",
+      "hyp_context": "rupees one thousand seven hundred ninety nine which includes the blood"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 256,
+      "index_hyp": 260,
+      "ref_word": "1799",
+      "hyp_word": "nine",
+      "ref_context": "the nano plan costs rupees 1799 which includes the blood test",
+      "hyp_context": "one thousand seven hundred ninety nine which includes the blood test"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 266,
+      "index_hyp": 270,
+      "ref_word": "court",
+      "hyp_word": "coach",
+      "ref_context": "test doctor consultation and health court session this is a onetime",
+      "hyp_context": "test doctor consultation and health coach session this is a one"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 271,
+      "index_hyp": 275,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "coach session this is a one time payment offering you access"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 271,
+      "index_hyp": 276,
+      "ref_word": "onetime",
+      "hyp_word": "time",
+      "ref_context": "court session this is a onetime payment offering you access to",
+      "hyp_context": "session this is a one time payment offering you access to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 311,
+      "index_hyp": 316,
+      "ref_word": "he",
+      "hyp_word": "the",
+      "ref_context": "would meet your needs sure he nano plan costs rs 1799",
+      "hyp_context": "would meet your needs sure the nano plan costs rupees one"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 315,
+      "index_hyp": 320,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "sure the nano plan costs rupees one thousand seven hundred ninety"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 315,
+      "index_hyp": 321,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "the nano plan costs rupees one thousand seven hundred ninety nine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 315,
+      "index_hyp": 322,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "nano plan costs rupees one thousand seven hundred ninety nine now"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 315,
+      "index_hyp": 323,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "plan costs rupees one thousand seven hundred ninety nine now that"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 315,
+      "index_hyp": 324,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "costs rupees one thousand seven hundred ninety nine now that we've"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 315,
+      "index_hyp": 325,
+      "ref_word": "rs",
+      "hyp_word": "ninety",
+      "ref_context": "sure he nano plan costs rs 1799 now that now that",
+      "hyp_context": "rupees one thousand seven hundred ninety nine now that we've now"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 316,
+      "index_hyp": 326,
+      "ref_word": "1799",
+      "hyp_word": "nine",
+      "ref_context": "he nano plan costs rs 1799 now that now that we",
+      "hyp_context": "one thousand seven hundred ninety nine now that we've now that"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 319,
+      "index_hyp": 329,
+      "ref_word": "",
+      "hyp_word": "we've",
+      "ref_context": "",
+      "hyp_context": "hundred ninety nine now that we've now that we've covered now"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 321,
+      "index_hyp": 332,
+      "ref_word": "we",
+      "hyp_word": "we've",
+      "ref_context": "1799 now that now that we have cover now that weve",
+      "hyp_context": "now that we've now that we've covered now that we've covered"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 322,
+      "index_hyp": 333,
+      "ref_word": "have",
+      "hyp_word": "covered",
+      "ref_context": "now that now that we have cover now that weve covered",
+      "hyp_context": "that we've now that we've covered now that we've covered all"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 323,
+      "index_hyp": 334,
+      "ref_word": "cover",
+      "hyp_word": "",
+      "ref_context": "that now that we have cover now that weve covered all",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 368,
+      "index_hyp": 378,
+      "ref_word": "",
+      "hyp_word": "four",
+      "ref_context": "",
+      "hyp_context": "options a partial payment of four hundred ninety nine rupees now"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 368,
+      "index_hyp": 379,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "a partial payment of four hundred ninety nine rupees now with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 368,
+      "index_hyp": 380,
+      "ref_word": "",
+      "hyp_word": "ninety",
+      "ref_context": "",
+      "hyp_context": "partial payment of four hundred ninety nine rupees now with the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 368,
+      "index_hyp": 381,
+      "ref_word": "499",
+      "hyp_word": "nine",
+      "ref_context": "options a partial payment of 499 rupees now with the remaining",
+      "hyp_context": "payment of four hundred ninety nine rupees now with the remaining"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 387,
+      "index_hyp": 400,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "or a full payment of one thousand seven hundred ninety nine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 387,
+      "index_hyp": 401,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "a full payment of one thousand seven hundred ninety nine rupees"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 387,
+      "index_hyp": 402,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "full payment of one thousand seven hundred ninety nine rupees upfront"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 387,
+      "index_hyp": 403,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "payment of one thousand seven hundred ninety nine rupees upfront i'll"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 387,
+      "index_hyp": 404,
+      "ref_word": "",
+      "hyp_word": "ninety",
+      "ref_context": "",
+      "hyp_context": "of one thousand seven hundred ninety nine rupees upfront i'll send"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 387,
+      "index_hyp": 405,
+      "ref_word": "1799",
+      "hyp_word": "nine",
+      "ref_context": "or a full payment of 1799 rupees up front ill send",
+      "hyp_context": "one thousand seven hundred ninety nine rupees upfront i'll send you"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 389,
+      "index_hyp": 407,
+      "ref_word": "up",
+      "hyp_word": "upfront",
+      "ref_context": "full payment of 1799 rupees up front ill send you the",
+      "hyp_context": "seven hundred ninety nine rupees upfront i'll send you the payment"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 390,
+      "index_hyp": 408,
+      "ref_word": "front",
+      "hyp_word": "i'll",
+      "ref_context": "payment of 1799 rupees up front ill send you the payment",
+      "hyp_context": "hundred ninety nine rupees upfront i'll send you the payment links"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 391,
+      "index_hyp": 409,
+      "ref_word": "ill",
+      "hyp_word": "",
+      "ref_context": "of 1799 rupees up front ill send you the payment links",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "elevate",
+      "hypothesis": "elevatenow"
+    },
+    {
+      "reference": "road",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "nine"
+    },
+    {
+      "reference": "court",
+      "hypothesis": "coach"
+    },
+    {
+      "reference": "onetime",
+      "hypothesis": "time"
+    },
+    {
+      "reference": "he",
+      "hypothesis": "the"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "ninety"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "nine"
+    },
+    {
+      "reference": "we",
+      "hypothesis": "we've"
+    },
+    {
+      "reference": "have",
+      "hypothesis": "covered"
+    },
+    {
+      "reference": "499",
+      "hypothesis": "nine"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "nine"
+    },
+    {
+      "reference": "up",
+      "hypothesis": "upfront"
+    },
+    {
+      "reference": "front",
+      "hypothesis": "i'll"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "map",
+    "cover",
+    "ill"
+  ],
+  "insertion_words": [
+    "i",
+    "one",
+    "thousand",
+    "seven",
+    "hundred",
+    "ninety",
+    "one",
+    "rupees",
+    "one",
+    "thousand",
+    "seven",
+    "hundred",
+    "we've",
+    "four",
+    "hundred",
+    "ninety",
+    "one",
+    "thousand",
+    "seven",
+    "hundred",
+    "ninety"
+  ]
+}

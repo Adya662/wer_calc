@@ -1,9 +1,9 @@
 {
-  "canonical_transcript": "hey i am rey from mintra here to assist you shall we proceed further in hindi or english great how can i help you today i can help you with tracking your order could you please tell me the product name i'm sorry i can't provide the names or details of products in your order list directly could you please let me know the product name you're asking about got it could you please tell me the product name or brand this will help me track your order please give me a moment to fetch your products i couldn't find laamic in your orders but i see items from brands like love beauty & planet lakme dressberry lecalla and carlton london could you confirm if it's one of these or provide more details about the product alright could you let me know which type of product you're asking about such as a cream shampoo socks earrings or studs this will help me locate your order i didn't find a product matching trim hand shampoo could you confirm if you're referring to any of these items there's a love beauty & planet argan oil and lavender got it you might be referring to the lakme youth infinity anti aging night cream with proretinol c let me check its delivery status for you your lakme youth infinity anti aging night cream with proretinol c 50g will be delivered on or before 27 july please tell me is there anything else i can help you with sure what else can i assist you with alright let me check the delivery status for your love beauty & planet argan oil and lavender shampoo give me a moment your love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml will be delivered on or before tomorrow please tell me is there anything else i can help you with we'll be sending you a quick feedback form via sms your input would really help us improve thank you for choosing mintra have a great day",
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english great how can i help you today i can help you with tracking your order could you please tell me the product name i'm sorry i can't provide the names or details of products in your order list directly could you please let me know the product name you're asking about got it could you please tell me the product name or brand this will help me track your order please give me a moment to fetch your products i couldn't find laamic in your orders but i see items from brands like love beauty & planet lakme dressberry lecalla and carlton london could you confirm if it's one of these or provide more details about the product alright could you let me know which type of product you're asking about such as a cream shampoo socks earrings or studs this will help me locate your order i didn't find a product matching trim hand shampoo could you confirm if you're referring to any of these items there's a love beauty & planet argan oil and lavender got it you might be referring to the lakme youth infinity anti aging night cream with proretinol c let me check its delivery status for you your lakme youth infinity anti aging night cream with proretinol c 50g will be delivered on or before 27 july please tell me is there anything else i can help you with sure what else can i assist you with alright let me check the delivery status for your love beauty & planet argan oil and lavender shampoo give me a moment your love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml will be delivered on or before tomorrow please tell me is there anything else i can help you with we'll be sending you a quick feedback form via sms\u2014your input would really help us improve thank you for choosing mintra have a great day",
   "entities": [
     {
       "index": 5,
-      "value": "rey",
+      "value": "ray",
       "type": "PERSON"
     },
     {
@@ -57,7 +57,7 @@
       "type": "PRODUCT"
     },
     {
-      "index": 153,
+      "index": 152,
       "value": "love beauty & planet argan oil and lavender",
       "type": "PRODUCT"
     },
@@ -67,32 +67,27 @@
       "type": "PRODUCT"
     },
     {
-      "index": 172,
-      "value": "lakme youth infinity anti aging night cream with proretinol c 50g",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 179,
+      "index": 174,
       "value": "27 july",
       "type": "DATE/TIME"
     },
     {
-      "index": 204,
+      "index": 198,
       "value": "love beauty & planet argan oil and lavender shampoo",
       "type": "PRODUCT"
     },
     {
-      "index": 221,
+      "index": 218,
       "value": "love beauty & planet argan oil and lavender shampoo for frizzy hair 400ml",
       "type": "PRODUCT"
     },
     {
-      "index": 228,
+      "index": 231,
       "value": "tomorrow",
       "type": "DATE/TIME"
     },
     {
-      "index": 244,
+      "index": 248,
       "value": "mintra",
       "type": "ORG"
     }

@@ -1,0 +1,157 @@
+[
+  {
+    "timestamp": "2025-06-19 09:55:19",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-06-19 09:55:22",
+    "speaker": "user",
+    "content": "Can you repeat that?"
+  },
+  {
+    "timestamp": "2025-06-19 09:55:31",
+    "speaker": "assistant",
+    "content": "Hey, This is Rey from मिंत्रा. To provide you with the best experience, would you prefer to continue in English, or would you like to speak in Hindi?"
+  },
+  {
+    "timestamp": "2025-06-19 09:55:34",
+    "speaker": "user",
+    "content": "In English please."
+  },
+  {
+    "timestamp": "2025-06-19 09:55:37",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-06-19 09:55:42",
+    "speaker": "user",
+    "content": "I wanted to enquire about 1 of my orders"
+  },
+  {
+    "timestamp": "2025-06-19 09:55:47",
+    "speaker": "assistant",
+    "content": "Alright! Could you please tell me the product name or the brand you're referring to?"
+  },
+  {
+    "timestamp": "2025-06-19 09:55:50",
+    "speaker": "user",
+    "content": "It's an HNM shirt."
+  },
+  {
+    "timestamp": "2025-06-19 09:55:54",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-06-19 09:56:07",
+    "speaker": "assistant",
+    "content": "Your एच एंड एम Regular Fit Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20 June.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-06-19 09:56:11",
+    "speaker": "user",
+    "content": "But I wanted soon."
+  },
+  {
+    "timestamp": "2025-06-19 09:56:12",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-19 09:56:12",
+    "speaker": "user",
+    "content": "Is it possible?"
+  },
+  {
+    "timestamp": "2025-06-19 09:56:29",
+    "speaker": "assistant",
+    "content": "I am sorry, but we are currently unable to expedite the delivery or change the delivery time. Delivery speeds depend on multiple factors, and the fastest available delivery option has already been chosen for your order. \n\nIf you have any other questions or need assistance, let me know!"
+  },
+  {
+    "timestamp": "2025-06-19 09:56:37",
+    "speaker": "user",
+    "content": "Yeah, but I actually needed quite urgency. Is it possible that I get it soon?"
+  },
+  {
+    "timestamp": "2025-06-19 09:56:56",
+    "speaker": "assistant",
+    "content": "I understand the urgency, and I really apologize for the situation. Unfortunately, we are unable to expedite the delivery or make changes to the current schedule. Your order has already been processed with the fastest delivery option available.\n\nWould you like me to connect you to another agent who might assist you further regarding this?"
+  },
+  {
+    "timestamp": "2025-06-19 09:57:01",
+    "speaker": "user",
+    "content": "No, I think it's ok. I wanted to enquire about another order of mine."
+  },
+  {
+    "timestamp": "2025-06-19 09:57:07",
+    "speaker": "assistant",
+    "content": "Alright! I can definitely help you with that. Could you please tell me the product name or the"
+  },
+  {
+    "timestamp": "2025-06-19 09:57:16",
+    "speaker": "user",
+    "content": "Yeah, the product is h m short. I had actually placed for return but"
+  },
+  {
+    "timestamp": "2025-06-19 09:57:17",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-19 09:57:20",
+    "speaker": "user",
+    "content": "delivery guy has not yet come to pick up my return. Order."
+  },
+  {
+    "timestamp": "2025-06-19 09:57:25",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch the details of your return."
+  },
+  {
+    "timestamp": "2025-06-19 09:57:28",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-06-19 09:57:40",
+    "speaker": "assistant",
+    "content": "Your एच एंड एम Cotton Dungaree Shorts is expected to be picked up by 22 June (subject to quality check). \n Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-06-19 09:57:46",
+    "speaker": "user",
+    "content": "Actually I won't be available at my home during that time. We will need to prepone that pickup"
+  },
+  {
+    "timestamp": "2025-06-19 09:58:01",
+    "speaker": "assistant",
+    "content": "I understand your concern, but unfortunately, we are currently unable to accommodate changes to the return pickup date or time. Once the pickup is scheduled, it will proceed as planned. \n\nIf there's anything else you'd like assistance with, let me know!"
+  },
+  {
+    "timestamp": "2025-06-19 09:58:09",
+    "speaker": "user",
+    "content": "Yeah, actually I wanted to be picked up sooner."
+  },
+  {
+    "timestamp": "2025-06-19 09:58:10",
+    "speaker": "assistant",
+    "content": ""
+  },
+  {
+    "timestamp": "2025-06-19 09:58:11",
+    "speaker": "user",
+    "content": "I can't rearrange it myself because I won't be available on 20 second in India itself."
+  },
+  {
+    "timestamp": "2025-06-19 09:58:29",
+    "speaker": "assistant",
+    "content": "I understand the inconvenience this might cause, and I truly apologize. Unfortunately, we are unable to prepone the return pickup. The pickup schedule is fixed based on various logistical factors.\n\nWould you like me to connect you to another agent who might assist you further with this?"
+  },
+  {
+    "timestamp": "2025-06-19 09:58:31",
+    "speaker": "user",
+    "content": "Yes, please do that."
+  }
+]

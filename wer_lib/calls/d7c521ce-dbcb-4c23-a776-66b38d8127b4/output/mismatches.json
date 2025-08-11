@@ -2,132 +2,132 @@
   "call_id": "d7c521ce-dbcb-4c23-a776-66b38d8127b4",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "Hey, I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "reference_sentence": "Hey, I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
         [
-          "[missing]",
-          "Myntra,"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Hi there! How can I assist you with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e order today?",
-      "hypothesis_sentence": "Hi there. How can I assist you with your Myntra order today?",
-      "word_differences": [
-        [
-          "[missing]",
-          "Myntra"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I see two orders in your list related to your input. One is the Biotique Morning Nectar Nourish & Hydrate Skin Moisturizer, and the other is the FABINALIV Kids Silver-Toned Umbrella. Which one would you like me to check the delivery status for first?",
-      "hypothesis_sentence": "I see two orders in your list related to your input. One is the Biotique Morning nectar nourish and hydrate skin moisturizer, and the other is the FABINALIV kids silver toned umbrella. Which one would you like me to check the delivery status for first?",
-      "word_differences": [
-        [
-          "[missing]",
-          "and"
-        ],
-        [
-          "Kids",
-          "silver toned"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Your FABINALIV Kids Silver-Toned & Brown Cartoon Character Printed Automatic 3 Fold Umbrella is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Your FABINALIV kids' silver-toned and brown cartoon character printed automatic threefold umbrella is being processed and will be delivered by today.",
-      "word_differences": [
-        [
-          "[missing]",
-          "and"
-        ],
-        [
-          "Automatic 3",
-          "threefold"
-        ],
-        [
-          "today. Please tell me, is there anything else I can help you",
+          "Myntra,",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Your \u092c\u093e\u092f\u094b\u091f\u093f\u0915 Morning Nectar Nourish & Hydrate Visibly Flawless Skin Moisturizer - 120ml is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Your biotech Morning nectar.",
+      "reference_sentence": "Hi there. How can I assist you with your Myntra order today?",
+      "hypothesis_sentence": "Hi there! How can I assist you with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e order today?",
       "word_differences": [
         [
-          "[missing]",
-          "biotech"
-        ],
-        [
-          "Nectar Nourish & Hydrate Visibly Flawless Skin Moisturizer - 120ml is being processed and will be delivered by today. Please tell me, is there anything else I can",
+          "Myntra",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Delivery times can depend on various factors, but your orders are scheduled for delivery today. The delivery agent will call you once they are close to your location. If you have any specific concerns, I can assist you further!",
-      "hypothesis_sentence": "Delivery times can depend on various factors, but your orders are scheduled for delivery today. The delivery agent will call you once they're close to your location. If you have any specific concerns, I can assist you further.",
+      "reference_sentence": "I see two orders in your list related to your input. One is the Biotique Morning nectar nourish and hydrate skin moisturizer, and the other is the FABINALIV kids silver toned umbrella. Which one would you like me to check the delivery status for first?",
+      "hypothesis_sentence": "I see two orders in your list related to your input. One is the Biotique Morning Nectar Nourish & Hydrate Skin Moisturizer, and the other is the FABINALIV Kids Silver-Toned Umbrella. Which one would you like me to check the delivery status for first?",
       "word_differences": [
         [
-          "they are",
-          "they're"
+          "and",
+          "[missing]"
+        ],
+        [
+          "silver toned",
+          "Kids"
         ]
       ]
     },
     {
-      "reference_sentence": "Your Biotique Moisturizer is already scheduled for delivery today. Regarding \"We Construct,\" I believe you may be referring to \"Deconstruct Vitamin C & Ferulic Acid Serum.\" Let me check its delivery status for you.",
-      "hypothesis_sentence": "Your biotech moisturizer is already scheduled for delivery today. Regarding V Construct, I believe you may be referring to deconstruct Vitamin C and ferulic acid serum. Let me check its delivery status for you.",
+      "reference_sentence": "Your FABINALIV kids' silver-toned and brown cartoon character printed automatic threefold umbrella is being processed and will be delivered by today.",
+      "hypothesis_sentence": "Your FABINALIV Kids Silver-Toned & Brown Cartoon Character Printed Automatic 3 Fold Umbrella is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?",
       "word_differences": [
         [
-          "Biotique",
-          "biotech"
+          "and",
+          "[missing]"
         ],
         [
-          "\"We",
-          "V"
+          "threefold",
+          "Automatic 3"
         ],
         [
           "[missing]",
-          "and"
+          "today. Please tell me, is there anything else I can help you"
         ]
       ]
     },
     {
-      "reference_sentence": "Your \u0921\u0940\u0915\u0902\u0938\u094d\u091f\u094d\u0930\u0915\u094d\u091f Vitamin C & Ferulic Acid Serum For Brighten Skin - 20ml is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Your deconstruct vitamin C and and ferulic acid serum for Brighton skin, 20 ML is being processed and will be delivered by today. Please tell me, is there anything else I can help you with?",
+      "reference_sentence": "Your biotech Morning nectar.",
+      "hypothesis_sentence": "Your \u092c\u093e\u092f\u094b\u091f\u093f\u0915 Morning Nectar Nourish & Hydrate Visibly Flawless Skin Moisturizer - 120ml is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?",
       "word_differences": [
         [
-          "[missing]",
-          "deconstruct"
+          "biotech",
+          "[missing]"
         ],
         [
           "[missing]",
-          "and and"
-        ],
-        [
-          "Serum",
-          "Brighton"
-        ],
-        [
-          "Brighten",
-          "20 ML"
+          "Nectar Nourish & Hydrate Visibly Flawless Skin Moisturizer - 120ml is being processed and will be delivered by today. Please tell me, is there anything else I can"
         ]
       ]
     },
     {
-      "reference_sentence": "Thank you for your kind words! We'll be sending you a quick feedback form via SMS\u2014your input would really help us improve. Thank you for choosing \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Have a great day!",
-      "hypothesis_sentence": "Thank you for your kind words. We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day.",
+      "reference_sentence": "Delivery times can depend on various factors, but your orders are scheduled for delivery today. The delivery agent will call you once they're close to your location. If you have any specific concerns, I can assist you further.",
+      "hypothesis_sentence": "Delivery times can depend on various factors, but your orders are scheduled for delivery today. The delivery agent will call you once they are close to your location. If you have any specific concerns, I can assist you further!",
       "word_differences": [
         [
-          "SMS\u2014your",
-          "SMS. Your"
+          "they're",
+          "they are"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your biotech moisturizer is already scheduled for delivery today. Regarding V Construct, I believe you may be referring to deconstruct Vitamin C and ferulic acid serum. Let me check its delivery status for you.",
+      "hypothesis_sentence": "Your Biotique Moisturizer is already scheduled for delivery today. Regarding \"We Construct,\" I believe you may be referring to \"Deconstruct Vitamin C & Ferulic Acid Serum.\" Let me check its delivery status for you.",
+      "word_differences": [
+        [
+          "biotech",
+          "Biotique"
         ],
         [
-          "[missing]",
-          "Myntra."
+          "V",
+          "\"We"
+        ],
+        [
+          "and",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your deconstruct vitamin C and and ferulic acid serum for Brighton skin, 20 ML is being processed and will be delivered by today. Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Your \u0921\u0940\u0915\u0902\u0938\u094d\u091f\u094d\u0930\u0915\u094d\u091f Vitamin C & Ferulic Acid Serum For Brighten Skin - 20ml is being processed and will be delivered by today.\nPlease tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "deconstruct",
+          "[missing]"
+        ],
+        [
+          "and and",
+          "[missing]"
+        ],
+        [
+          "Brighton",
+          "Serum"
+        ],
+        [
+          "20 ML",
+          "Brighten"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Thank you for your kind words. We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day.",
+      "hypothesis_sentence": "Thank you for your kind words! We'll be sending you a quick feedback form via SMS\u2014your input would really help us improve. Thank you for choosing \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Have a great day!",
+      "word_differences": [
+        [
+          "SMS. Your",
+          "SMS\u2014your"
+        ],
+        [
+          "Myntra.",
+          "[missing]"
         ]
       ]
     }

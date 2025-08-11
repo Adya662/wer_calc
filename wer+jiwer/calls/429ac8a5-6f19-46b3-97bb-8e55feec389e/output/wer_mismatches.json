@@ -1,0 +1,2104 @@
+{
+  "wer": 0.4682926829268293,
+  "insertions": 108,
+  "deletions": 10,
+  "substitutions": 74,
+  "mismatches": [
+    {
+      "operation": "replace",
+      "index_ref": 28,
+      "index_hyp": 28,
+      "ref_word": "i",
+      "hyp_word": "i'm",
+      "ref_context": "you today i apologize but i am here to assist you",
+      "hyp_context": "you today i apologize but i'm here to assist you with"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 29,
+      "index_hyp": 29,
+      "ref_word": "am",
+      "hyp_word": "",
+      "ref_context": "today i apologize but i am here to assist you with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 48,
+      "index_hyp": 47,
+      "ref_word": "",
+      "hyp_word": "got",
+      "ref_context": "",
+      "hyp_context": "help you with those today got it could you please tell"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 48,
+      "index_hyp": 48,
+      "ref_word": "",
+      "hyp_word": "it",
+      "ref_context": "",
+      "hyp_context": "you with those today got it could you please tell me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "moment to fetch your products please give me a moment to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "give",
+      "ref_context": "",
+      "hyp_context": "to fetch your products please give me a moment to fetch"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 82,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "fetch your products please give me a moment to fetch your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 83,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "your products please give me a moment to fetch your products"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 84,
+      "ref_word": "",
+      "hyp_word": "moment",
+      "ref_context": "",
+      "hyp_context": "products please give me a moment to fetch your products i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 85,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "please give me a moment to fetch your products i found"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 86,
+      "ref_word": "",
+      "hyp_word": "fetch",
+      "ref_context": "",
+      "hyp_context": "give me a moment to fetch your products i found a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 87,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "me a moment to fetch your products i found a product"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 88,
+      "ref_word": "",
+      "hyp_word": "products",
+      "ref_context": "",
+      "hyp_context": "a moment to fetch your products i found a product that"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 92,
+      "index_hyp": 102,
+      "ref_word": "story",
+      "hyp_word": "shtori",
+      "ref_context": "are you referring to the story plus size reflective detail tshirt",
+      "hyp_context": "are you referring to the shtori plus size reflective detail tshirt"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 101,
+      "index_hyp": 111,
+      "ref_word": "you",
+      "hyp_word": "you're",
+      "ref_context": "detail tshirt it sounds like you are referring to the story",
+      "hyp_context": "detail tshirt it sounds like you're referring to the shtori plus"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 102,
+      "index_hyp": 112,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "tshirt it sounds like you are referring to the story great",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 115,
+      "ref_word": "",
+      "hyp_word": "shtori",
+      "ref_context": "",
+      "hyp_context": "like you're referring to the shtori plus your shtori plus size"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 116,
+      "ref_word": "",
+      "hyp_word": "plus",
+      "ref_context": "",
+      "hyp_context": "you're referring to the shtori plus your shtori plus size reflective"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 117,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "referring to the shtori plus your shtori plus size reflective detail"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 118,
+      "ref_word": "",
+      "hyp_word": "shtori",
+      "ref_context": "",
+      "hyp_context": "to the shtori plus your shtori plus size reflective detail tshirt"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 119,
+      "ref_word": "",
+      "hyp_word": "plus",
+      "ref_context": "",
+      "hyp_context": "the shtori plus your shtori plus size reflective detail tshirt is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 120,
+      "ref_word": "",
+      "hyp_word": "size",
+      "ref_context": "",
+      "hyp_context": "shtori plus your shtori plus size reflective detail tshirt is expected"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 121,
+      "ref_word": "",
+      "hyp_word": "reflective",
+      "ref_context": "",
+      "hyp_context": "plus your shtori plus size reflective detail tshirt is expected to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 122,
+      "ref_word": "",
+      "hyp_word": "detail",
+      "ref_context": "",
+      "hyp_context": "your shtori plus size reflective detail tshirt is expected to be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 123,
+      "ref_word": "",
+      "hyp_word": "tshirt",
+      "ref_context": "",
+      "hyp_context": "shtori plus size reflective detail tshirt is expected to be picked"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 124,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "plus size reflective detail tshirt is expected to be picked up"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 125,
+      "ref_word": "",
+      "hyp_word": "expected",
+      "ref_context": "",
+      "hyp_context": "size reflective detail tshirt is expected to be picked up by"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 126,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "reflective detail tshirt is expected to be picked up by 7"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 127,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "detail tshirt is expected to be picked up by 7 july"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 128,
+      "ref_word": "",
+      "hyp_word": "picked",
+      "ref_context": "",
+      "hyp_context": "tshirt is expected to be picked up by 7 july subject"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 129,
+      "ref_word": "",
+      "hyp_word": "up",
+      "ref_context": "",
+      "hyp_context": "is expected to be picked up by 7 july subject to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 130,
+      "ref_word": "",
+      "hyp_word": "by",
+      "ref_context": "",
+      "hyp_context": "expected to be picked up by 7 july subject to quality"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 131,
+      "ref_word": "",
+      "hyp_word": "7",
+      "ref_context": "",
+      "hyp_context": "to be picked up by 7 july subject to quality check"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 132,
+      "ref_word": "",
+      "hyp_word": "july",
+      "ref_context": "",
+      "hyp_context": "be picked up by 7 july subject to quality check please"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 133,
+      "ref_word": "",
+      "hyp_word": "subject",
+      "ref_context": "",
+      "hyp_context": "picked up by 7 july subject to quality check please tell"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 134,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "up by 7 july subject to quality check please tell me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 135,
+      "ref_word": "",
+      "hyp_word": "quality",
+      "ref_context": "",
+      "hyp_context": "by 7 july subject to quality check please tell me is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 136,
+      "ref_word": "",
+      "hyp_word": "check",
+      "ref_context": "",
+      "hyp_context": "7 july subject to quality check please tell me is there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 137,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "july subject to quality check please tell me is there anything"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 138,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "subject to quality check please tell me is there anything else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 139,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "to quality check please tell me is there anything else i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 140,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "quality check please tell me is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 141,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "check please tell me is there anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 142,
+      "ref_word": "",
+      "hyp_word": "anything",
+      "ref_context": "",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 143,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 144,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "me is there anything else i can help you with great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 145,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "is there anything else i can help you with great is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 146,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "there anything else i can help you with great is there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 106,
+      "index_hyp": 147,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "anything else i can help you with great is there is"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 106,
+      "index_hyp": 148,
+      "ref_word": "story",
+      "hyp_word": "with",
+      "ref_context": "you are referring to the story great is there anything else",
+      "hyp_context": "else i can help you with great is there is there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 110,
+      "index_hyp": 152,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "you with great is there is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 110,
+      "index_hyp": 153,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "with great is there is there anything else i can help"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 117,
+      "index_hyp": 161,
+      "ref_word": "our",
+      "hyp_word": "your",
+      "ref_context": "i can help you with our story plus size reflective detail",
+      "hyp_context": "i can help you with your shtori plus size reflective detail"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 118,
+      "index_hyp": 162,
+      "ref_word": "story",
+      "hyp_word": "shtori",
+      "ref_context": "can help you with our story plus size reflective detail tshirt",
+      "hyp_context": "can help you with your shtori plus size reflective detail tshirt"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 163,
+      "index_hyp": 207,
+      "ref_word": "you",
+      "hyp_word": "you're",
+      "ref_context": "brand name of the item you are referring to that is",
+      "hyp_context": "brand name of the item you're referring to that is out"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 164,
+      "index_hyp": 208,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "name of the item you are referring to that is out",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 215,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "that is out for delivery please give me a moment to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 216,
+      "ref_word": "",
+      "hyp_word": "give",
+      "ref_context": "",
+      "hyp_context": "is out for delivery please give me a moment to fetch"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 217,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "out for delivery please give me a moment to fetch your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 218,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "for delivery please give me a moment to fetch your products"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 219,
+      "ref_word": "",
+      "hyp_word": "moment",
+      "ref_context": "",
+      "hyp_context": "delivery please give me a moment to fetch your products i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 220,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "please give me a moment to fetch your products i see"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 221,
+      "ref_word": "",
+      "hyp_word": "fetch",
+      "ref_context": "",
+      "hyp_context": "give me a moment to fetch your products i see a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 222,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "me a moment to fetch your products i see a few"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 172,
+      "index_hyp": 223,
+      "ref_word": "",
+      "hyp_word": "products",
+      "ref_context": "",
+      "hyp_context": "a moment to fetch your products i see a few recent"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 185,
+      "index_hyp": 237,
+      "ref_word": "royal",
+      "hyp_word": "royalcat",
+      "ref_context": "referring to the puma women royal cat comfort soft ride sliders",
+      "hyp_context": "referring to the puma women royalcat comfort softride sliders i understand"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 186,
+      "index_hyp": 238,
+      "ref_word": "cat",
+      "hyp_word": "",
+      "ref_context": "to the puma women royal cat comfort soft ride sliders i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 188,
+      "index_hyp": 239,
+      "ref_word": "soft",
+      "hyp_word": "softride",
+      "ref_context": "puma women royal cat comfort soft ride sliders i understand could",
+      "hyp_context": "the puma women royalcat comfort softride sliders i understand could you"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 189,
+      "index_hyp": 240,
+      "ref_word": "ride",
+      "hyp_word": "",
+      "ref_context": "women royal cat comfort soft ride sliders i understand could you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 201,
+      "index_hyp": 251,
+      "ref_word": "agnia",
+      "hyp_word": "aaghnya",
+      "ref_context": "if it might be the agnia women floral print mandarin collar",
+      "hyp_context": "if it might be the aaghnya women floral print mandarin collar"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 218,
+      "index_hyp": 268,
+      "ref_word": "agnia",
+      "hyp_word": "aaghnya",
+      "ref_context": "is out for delivery your agnia women floral print mandarin collar",
+      "hyp_context": "is out for delivery your aaghnya women floral print mandarin collar"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 267,
+      "index_hyp": 317,
+      "ref_word": "do",
+      "hyp_word": "don't",
+      "ref_context": "one to make sure we do not miss any details could",
+      "hyp_context": "one to make sure we don't miss any details could you"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 268,
+      "index_hyp": 318,
+      "ref_word": "not",
+      "hyp_word": "",
+      "ref_context": "to make sure we do not miss any details could you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 283,
+      "index_hyp": 332,
+      "ref_word": "i",
+      "hyp_word": "istyle",
+      "ref_context": "other product might be the i style can top your istyle",
+      "hyp_context": "other product might be the istyle can top your istyle can"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 284,
+      "index_hyp": 333,
+      "ref_word": "style",
+      "hyp_word": "",
+      "ref_context": "product might be the i style can top your istyle can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 311,
+      "index_hyp": 359,
+      "ref_word": "",
+      "hyp_word": "need",
+      "ref_context": "",
+      "hyp_context": "it by end of day need to reach your delivery partner"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 311,
+      "index_hyp": 360,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "by end of day need to reach your delivery partner find"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 311,
+      "index_hyp": 361,
+      "ref_word": "",
+      "hyp_word": "reach",
+      "ref_context": "",
+      "hyp_context": "end of day need to reach your delivery partner find their"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 311,
+      "index_hyp": 362,
+      "ref_word": "zaroor",
+      "hyp_word": "your",
+      "ref_context": "it by end of day zaroor main hindi mein bata sakti",
+      "hyp_context": "of day need to reach your delivery partner find their contact"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 312,
+      "index_hyp": 363,
+      "ref_word": "main",
+      "hyp_word": "delivery",
+      "ref_context": "by end of day zaroor main hindi mein bata sakti hoon",
+      "hyp_context": "day need to reach your delivery partner find their contact on"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 313,
+      "index_hyp": 364,
+      "ref_word": "hindi",
+      "hyp_word": "partner",
+      "ref_context": "end of day zaroor main hindi mein bata sakti hoon aapka",
+      "hyp_context": "need to reach your delivery partner find their contact on the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 314,
+      "index_hyp": 365,
+      "ref_word": "mein",
+      "hyp_word": "find",
+      "ref_context": "of day zaroor main hindi mein bata sakti hoon aapka i",
+      "hyp_context": "to reach your delivery partner find their contact on the my"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 315,
+      "index_hyp": 366,
+      "ref_word": "bata",
+      "hyp_word": "their",
+      "ref_context": "day zaroor main hindi mein bata sakti hoon aapka i style",
+      "hyp_context": "reach your delivery partner find their contact on the my orders"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 316,
+      "index_hyp": 367,
+      "ref_word": "sakti",
+      "hyp_word": "contact",
+      "ref_context": "zaroor main hindi mein bata sakti hoon aapka i style can",
+      "hyp_context": "your delivery partner find their contact on the my orders page"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 317,
+      "index_hyp": 368,
+      "ref_word": "hoon",
+      "hyp_word": "on",
+      "ref_context": "main hindi mein bata sakti hoon aapka i style can top",
+      "hyp_context": "delivery partner find their contact on the my orders page in"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 318,
+      "index_hyp": 369,
+      "ref_word": "aapka",
+      "hyp_word": "the",
+      "ref_context": "hindi mein bata sakti hoon aapka i style can top aaj",
+      "hyp_context": "partner find their contact on the my orders page in your"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 319,
+      "index_hyp": 370,
+      "ref_word": "i",
+      "hyp_word": "my",
+      "ref_context": "mein bata sakti hoon aapka i style can top aaj delivery",
+      "hyp_context": "find their contact on the my orders page in your myntra"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 320,
+      "index_hyp": 371,
+      "ref_word": "style",
+      "hyp_word": "orders",
+      "ref_context": "bata sakti hoon aapka i style can top aaj delivery ke",
+      "hyp_context": "their contact on the my orders page in your myntra app"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 321,
+      "index_hyp": 372,
+      "ref_word": "can",
+      "hyp_word": "page",
+      "ref_context": "sakti hoon aapka i style can top aaj delivery ke liye",
+      "hyp_context": "contact on the my orders page in your myntra app please"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 322,
+      "index_hyp": 373,
+      "ref_word": "top",
+      "hyp_word": "in",
+      "ref_context": "hoon aapka i style can top aaj delivery ke liye bahar",
+      "hyp_context": "on the my orders page in your myntra app please tell"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 323,
+      "index_hyp": 374,
+      "ref_word": "aaj",
+      "hyp_word": "your",
+      "ref_context": "aapka i style can top aaj delivery ke liye bahar hai",
+      "hyp_context": "the my orders page in your myntra app please tell me"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 324,
+      "index_hyp": 375,
+      "ref_word": "delivery",
+      "hyp_word": "myntra",
+      "ref_context": "i style can top aaj delivery ke liye bahar hai hi",
+      "hyp_context": "my orders page in your myntra app please tell me is"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 325,
+      "index_hyp": 376,
+      "ref_word": "ke",
+      "hyp_word": "app",
+      "ref_context": "style can top aaj delivery ke liye bahar hai hi there",
+      "hyp_context": "orders page in your myntra app please tell me is there"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 326,
+      "index_hyp": 377,
+      "ref_word": "liye",
+      "hyp_word": "please",
+      "ref_context": "can top aaj delivery ke liye bahar hai hi there how",
+      "hyp_context": "page in your myntra app please tell me is there anything"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 327,
+      "index_hyp": 378,
+      "ref_word": "bahar",
+      "hyp_word": "tell",
+      "ref_context": "top aaj delivery ke liye bahar hai hi there how can",
+      "hyp_context": "in your myntra app please tell me is there anything else"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 328,
+      "index_hyp": 379,
+      "ref_word": "hai",
+      "hyp_word": "me",
+      "ref_context": "aaj delivery ke liye bahar hai hi there how can i",
+      "hyp_context": "your myntra app please tell me is there anything else i"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 329,
+      "index_hyp": 380,
+      "ref_word": "hi",
+      "hyp_word": "is",
+      "ref_context": "delivery ke liye bahar hai hi there how can i continue",
+      "hyp_context": "myntra app please tell me is there anything else i can"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 331,
+      "index_hyp": 382,
+      "ref_word": "how",
+      "hyp_word": "anything",
+      "ref_context": "liye bahar hai hi there how can i continue to help",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 332,
+      "index_hyp": 383,
+      "ref_word": "can",
+      "hyp_word": "else",
+      "ref_context": "bahar hai hi there how can i continue to help you",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 334,
+      "index_hyp": 385,
+      "ref_word": "continue",
+      "hyp_word": "can",
+      "ref_context": "hi there how can i continue to help you with your",
+      "hyp_context": "is there anything else i can help you with your istyle"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 335,
+      "index_hyp": 386,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "there how can i continue to help you with your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 340,
+      "index_hyp": 390,
+      "ref_word": "",
+      "hyp_word": "istyle",
+      "ref_context": "",
+      "hyp_context": "can help you with your istyle can top is out for"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 340,
+      "index_hyp": 391,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "help you with your istyle can top is out for delivery"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 340,
+      "index_hyp": 392,
+      "ref_word": "",
+      "hyp_word": "top",
+      "ref_context": "",
+      "hyp_context": "you with your istyle can top is out for delivery today"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 340,
+      "index_hyp": 393,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "with your istyle can top is out for delivery today the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 340,
+      "index_hyp": 394,
+      "ref_word": "order",
+      "hyp_word": "out",
+      "ref_context": "to help you with your order yes i shared the status",
+      "hyp_context": "your istyle can top is out for delivery today the delivery"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 341,
+      "index_hyp": 395,
+      "ref_word": "yes",
+      "hyp_word": "for",
+      "ref_context": "help you with your order yes i shared the status for",
+      "hyp_context": "istyle can top is out for delivery today the delivery attempt"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 342,
+      "index_hyp": 396,
+      "ref_word": "i",
+      "hyp_word": "delivery",
+      "ref_context": "you with your order yes i shared the status for your",
+      "hyp_context": "can top is out for delivery today the delivery attempt started"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 343,
+      "index_hyp": 397,
+      "ref_word": "shared",
+      "hyp_word": "today",
+      "ref_context": "with your order yes i shared the status for your agnia",
+      "hyp_context": "top is out for delivery today the delivery attempt started at"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 399,
+      "ref_word": "",
+      "hyp_word": "delivery",
+      "ref_context": "",
+      "hyp_context": "out for delivery today the delivery attempt started at 1044 am"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 400,
+      "ref_word": "",
+      "hyp_word": "attempt",
+      "ref_context": "",
+      "hyp_context": "for delivery today the delivery attempt started at 1044 am you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 401,
+      "ref_word": "",
+      "hyp_word": "started",
+      "ref_context": "",
+      "hyp_context": "delivery today the delivery attempt started at 1044 am you can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 402,
+      "ref_word": "",
+      "hyp_word": "at",
+      "ref_context": "",
+      "hyp_context": "today the delivery attempt started at 1044 am you can expect"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 403,
+      "ref_word": "",
+      "hyp_word": "1044",
+      "ref_context": "",
+      "hyp_context": "the delivery attempt started at 1044 am you can expect it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 404,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "delivery attempt started at 1044 am you can expect it by"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 405,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "attempt started at 1044 am you can expect it by end"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 345,
+      "index_hyp": 406,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "started at 1044 am you can expect it by end of"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 345,
+      "index_hyp": 407,
+      "ref_word": "status",
+      "hyp_word": "expect",
+      "ref_context": "order yes i shared the status for your agnia women floral",
+      "hyp_context": "at 1044 am you can expect it by end of day"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 346,
+      "index_hyp": 408,
+      "ref_word": "for",
+      "hyp_word": "it",
+      "ref_context": "yes i shared the status for your agnia women floral print",
+      "hyp_context": "1044 am you can expect it by end of day please"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 347,
+      "index_hyp": 409,
+      "ref_word": "your",
+      "hyp_word": "by",
+      "ref_context": "i shared the status for your agnia women floral print mandarin",
+      "hyp_context": "am you can expect it by end of day please tell"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 348,
+      "index_hyp": 410,
+      "ref_word": "agnia",
+      "hyp_word": "end",
+      "ref_context": "shared the status for your agnia women floral print mandarin collar",
+      "hyp_context": "you can expect it by end of day please tell zarur"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 349,
+      "index_hyp": 411,
+      "ref_word": "women",
+      "hyp_word": "of",
+      "ref_context": "the status for your agnia women floral print mandarin collar flared",
+      "hyp_context": "can expect it by end of day please tell zarur main"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 350,
+      "index_hyp": 412,
+      "ref_word": "floral",
+      "hyp_word": "day",
+      "ref_context": "status for your agnia women floral print mandarin collar flared sleeve",
+      "hyp_context": "expect it by end of day please tell zarur main hindi"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 351,
+      "index_hyp": 413,
+      "ref_word": "print",
+      "hyp_word": "please",
+      "ref_context": "for your agnia women floral print mandarin collar flared sleeve shirt",
+      "hyp_context": "it by end of day please tell zarur main hindi mein"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 352,
+      "index_hyp": 414,
+      "ref_word": "mandarin",
+      "hyp_word": "tell",
+      "ref_context": "your agnia women floral print mandarin collar flared sleeve shirt style",
+      "hyp_context": "by end of day please tell zarur main hindi mein bata"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 353,
+      "index_hyp": 415,
+      "ref_word": "collar",
+      "hyp_word": "zarur",
+      "ref_context": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "hyp_context": "end of day please tell zarur main hindi mein bata sakti"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 354,
+      "index_hyp": 416,
+      "ref_word": "flared",
+      "hyp_word": "main",
+      "ref_context": "women floral print mandarin collar flared sleeve shirt style top and",
+      "hyp_context": "of day please tell zarur main hindi mein bata sakti hoon"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 355,
+      "index_hyp": 417,
+      "ref_word": "sleeve",
+      "hyp_word": "hindi",
+      "ref_context": "floral print mandarin collar flared sleeve shirt style top and your",
+      "hyp_context": "day please tell zarur main hindi mein bata sakti hoon aapka"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 356,
+      "index_hyp": 418,
+      "ref_word": "shirt",
+      "hyp_word": "mein",
+      "ref_context": "print mandarin collar flared sleeve shirt style top and your istyle",
+      "hyp_context": "please tell zarur main hindi mein bata sakti hoon aapka istyle"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 357,
+      "index_hyp": 419,
+      "ref_word": "style",
+      "hyp_word": "bata",
+      "ref_context": "mandarin collar flared sleeve shirt style top and your istyle can",
+      "hyp_context": "tell zarur main hindi mein bata sakti hoon aapka istyle can"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 358,
+      "index_hyp": 420,
+      "ref_word": "top",
+      "hyp_word": "sakti",
+      "ref_context": "collar flared sleeve shirt style top and your istyle can top",
+      "hyp_context": "zarur main hindi mein bata sakti hoon aapka istyle can top"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 359,
+      "index_hyp": 421,
+      "ref_word": "and",
+      "hyp_word": "hoon",
+      "ref_context": "flared sleeve shirt style top and your istyle can top if",
+      "hyp_context": "main hindi mein bata sakti hoon aapka istyle can top aaj"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 360,
+      "index_hyp": 422,
+      "ref_word": "your",
+      "hyp_word": "aapka",
+      "ref_context": "sleeve shirt style top and your istyle can top if there",
+      "hyp_context": "hindi mein bata sakti hoon aapka istyle can top aaj delivery"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 426,
+      "ref_word": "",
+      "hyp_word": "aaj",
+      "ref_context": "",
+      "hyp_context": "hoon aapka istyle can top aaj delivery ke liye bahar hai"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 427,
+      "ref_word": "",
+      "hyp_word": "delivery",
+      "ref_context": "",
+      "hyp_context": "aapka istyle can top aaj delivery ke liye bahar hai delivery"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 428,
+      "ref_word": "",
+      "hyp_word": "ke",
+      "ref_context": "",
+      "hyp_context": "istyle can top aaj delivery ke liye bahar hai delivery ka"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 429,
+      "ref_word": "",
+      "hyp_word": "liye",
+      "ref_context": "",
+      "hyp_context": "can top aaj delivery ke liye bahar hai delivery ka prayas"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 430,
+      "ref_word": "",
+      "hyp_word": "bahar",
+      "ref_context": "",
+      "hyp_context": "top aaj delivery ke liye bahar hai delivery ka prayas subah"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 431,
+      "ref_word": "",
+      "hyp_word": "hai",
+      "ref_context": "",
+      "hyp_context": "aaj delivery ke liye bahar hai delivery ka prayas subah das"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 432,
+      "ref_word": "",
+      "hyp_word": "delivery",
+      "ref_context": "",
+      "hyp_context": "delivery ke liye bahar hai delivery ka prayas subah das bajkar"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 433,
+      "ref_word": "",
+      "hyp_word": "ka",
+      "ref_context": "",
+      "hyp_context": "ke liye bahar hai delivery ka prayas subah das bajkar chavalis"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 434,
+      "ref_word": "",
+      "hyp_word": "prayas",
+      "ref_context": "",
+      "hyp_context": "liye bahar hai delivery ka prayas subah das bajkar chavalis minute"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 435,
+      "ref_word": "",
+      "hyp_word": "subah",
+      "ref_context": "",
+      "hyp_context": "bahar hai delivery ka prayas subah das bajkar chavalis minute par"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 436,
+      "ref_word": "",
+      "hyp_word": "das",
+      "ref_context": "",
+      "hyp_context": "hai delivery ka prayas subah das bajkar chavalis minute par shuru"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 437,
+      "ref_word": "",
+      "hyp_word": "bajkar",
+      "ref_context": "",
+      "hyp_context": "delivery ka prayas subah das bajkar chavalis minute par shuru hua"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 438,
+      "ref_word": "",
+      "hyp_word": "chavalis",
+      "ref_context": "",
+      "hyp_context": "ka prayas subah das bajkar chavalis minute par shuru hua ise"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 439,
+      "ref_word": "",
+      "hyp_word": "minute",
+      "ref_context": "",
+      "hyp_context": "prayas subah das bajkar chavalis minute par shuru hua ise aaj"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 440,
+      "ref_word": "",
+      "hyp_word": "par",
+      "ref_context": "",
+      "hyp_context": "subah das bajkar chavalis minute par shuru hua ise aaj ke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 441,
+      "ref_word": "",
+      "hyp_word": "shuru",
+      "ref_context": "",
+      "hyp_context": "das bajkar chavalis minute par shuru hua ise aaj ke ant"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 442,
+      "ref_word": "",
+      "hyp_word": "hua",
+      "ref_context": "",
+      "hyp_context": "bajkar chavalis minute par shuru hua ise aaj ke ant tak"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 443,
+      "ref_word": "",
+      "hyp_word": "ise",
+      "ref_context": "",
+      "hyp_context": "chavalis minute par shuru hua ise aaj ke ant tak aap"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 444,
+      "ref_word": "",
+      "hyp_word": "aaj",
+      "ref_context": "",
+      "hyp_context": "minute par shuru hua ise aaj ke ant tak aap tak"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 445,
+      "ref_word": "",
+      "hyp_word": "ke",
+      "ref_context": "",
+      "hyp_context": "par shuru hua ise aaj ke ant tak aap tak pahunchne"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 446,
+      "ref_word": "",
+      "hyp_word": "ant",
+      "ref_context": "",
+      "hyp_context": "shuru hua ise aaj ke ant tak aap tak pahunchne ki"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 447,
+      "ref_word": "",
+      "hyp_word": "tak",
+      "ref_context": "",
+      "hyp_context": "hua ise aaj ke ant tak aap tak pahunchne ki ummeed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 448,
+      "ref_word": "",
+      "hyp_word": "aap",
+      "ref_context": "",
+      "hyp_context": "ise aaj ke ant tak aap tak pahunchne ki ummeed hai"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 449,
+      "ref_word": "",
+      "hyp_word": "tak",
+      "ref_context": "",
+      "hyp_context": "aaj ke ant tak aap tak pahunchne ki ummeed hai kya"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 450,
+      "ref_word": "",
+      "hyp_word": "pahunchne",
+      "ref_context": "",
+      "hyp_context": "ke ant tak aap tak pahunchne ki ummeed hai kya hi"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 451,
+      "ref_word": "",
+      "hyp_word": "ki",
+      "ref_context": "",
+      "hyp_context": "ant tak aap tak pahunchne ki ummeed hai kya hi there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 452,
+      "ref_word": "",
+      "hyp_word": "ummeed",
+      "ref_context": "",
+      "hyp_context": "tak aap tak pahunchne ki ummeed hai kya hi there how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 453,
+      "ref_word": "",
+      "hyp_word": "hai",
+      "ref_context": "",
+      "hyp_context": "aap tak pahunchne ki ummeed hai kya hi there how can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 364,
+      "index_hyp": 454,
+      "ref_word": "",
+      "hyp_word": "kya",
+      "ref_context": "",
+      "hyp_context": "tak pahunchne ki ummeed hai kya hi there how can i"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 364,
+      "index_hyp": 455,
+      "ref_word": "if",
+      "hyp_word": "hi",
+      "ref_context": "and your istyle can top if there is anything more you",
+      "hyp_context": "pahunchne ki ummeed hai kya hi there how can i continue"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 366,
+      "index_hyp": 457,
+      "ref_word": "",
+      "hyp_word": "how",
+      "ref_context": "",
+      "hyp_context": "ummeed hai kya hi there how can i continue hi there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 366,
+      "index_hyp": 458,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "hai kya hi there how can i continue hi there how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 366,
+      "index_hyp": 459,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "kya hi there how can i continue hi there how can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 366,
+      "index_hyp": 460,
+      "ref_word": "",
+      "hyp_word": "continue",
+      "ref_context": "",
+      "hyp_context": "hi there how can i continue hi there how can i"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 366,
+      "index_hyp": 461,
+      "ref_word": "is",
+      "hyp_word": "hi",
+      "ref_context": "istyle can top if there is anything more you would like",
+      "hyp_context": "there how can i continue hi there how can i continue"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 367,
+      "index_hyp": 462,
+      "ref_word": "anything",
+      "hyp_word": "there",
+      "ref_context": "can top if there is anything more you would like to",
+      "hyp_context": "how can i continue hi there how can i continue to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 368,
+      "index_hyp": 463,
+      "ref_word": "more",
+      "hyp_word": "how",
+      "ref_context": "top if there is anything more you would like to know",
+      "hyp_context": "can i continue hi there how can i continue to help"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 369,
+      "index_hyp": 464,
+      "ref_word": "you",
+      "hyp_word": "can",
+      "ref_context": "if there is anything more you would like to know please",
+      "hyp_context": "i continue hi there how can i continue to help you"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 370,
+      "index_hyp": 465,
+      "ref_word": "would",
+      "hyp_word": "i",
+      "ref_context": "there is anything more you would like to know please let",
+      "hyp_context": "continue hi there how can i continue to help you with"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 371,
+      "index_hyp": 466,
+      "ref_word": "like",
+      "hyp_word": "continue",
+      "ref_context": "is anything more you would like to know please let me",
+      "hyp_context": "hi there how can i continue to help you with your"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 373,
+      "index_hyp": 468,
+      "ref_word": "know",
+      "hyp_word": "help",
+      "ref_context": "more you would like to know please let me know yes",
+      "hyp_context": "how can i continue to help you with your order yes"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 374,
+      "index_hyp": 469,
+      "ref_word": "please",
+      "hyp_word": "you",
+      "ref_context": "you would like to know please let me know yes i",
+      "hyp_context": "can i continue to help you with your order yes i"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 375,
+      "index_hyp": 470,
+      "ref_word": "let",
+      "hyp_word": "with",
+      "ref_context": "would like to know please let me know yes i shared",
+      "hyp_context": "i continue to help you with your order yes i shared"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 376,
+      "index_hyp": 471,
+      "ref_word": "me",
+      "hyp_word": "your",
+      "ref_context": "like to know please let me know yes i shared the",
+      "hyp_context": "continue to help you with your order yes i shared the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 377,
+      "index_hyp": 472,
+      "ref_word": "know",
+      "hyp_word": "order",
+      "ref_context": "to know please let me know yes i shared the status",
+      "hyp_context": "to help you with your order yes i shared the status"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 385,
+      "index_hyp": 480,
+      "ref_word": "agnia",
+      "hyp_word": "aaghnya",
+      "ref_context": "shared the status for your agnia women floral print mandarin collar",
+      "hyp_context": "shared the status for your aaghnya women floral print mandarin collar"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 402,
+      "index_hyp": 497,
+      "ref_word": "there",
+      "hyp_word": "there's",
+      "ref_context": "your istyle can top if there is anything more you would",
+      "hyp_context": "your istyle can top if there's anything more you'd like to"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 403,
+      "index_hyp": 498,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "istyle can top if there is anything more you would like",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 406,
+      "index_hyp": 500,
+      "ref_word": "you",
+      "hyp_word": "you'd",
+      "ref_context": "if there is anything more you would like to",
+      "hyp_context": "top if there's anything more you'd like to know please let"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 407,
+      "index_hyp": 501,
+      "ref_word": "would",
+      "hyp_word": "",
+      "ref_context": "there is anything more you would like to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 410,
+      "index_hyp": 503,
+      "ref_word": "",
+      "hyp_word": "know",
+      "ref_context": "",
+      "hyp_context": "anything more you'd like to know please let me know"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 410,
+      "index_hyp": 504,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "more you'd like to know please let me know"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 410,
+      "index_hyp": 505,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "you'd like to know please let me know"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 410,
+      "index_hyp": 506,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "like to know please let me know"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 410,
+      "index_hyp": 507,
+      "ref_word": "",
+      "hyp_word": "know",
+      "ref_context": "",
+      "hyp_context": "to know please let me know"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "i",
+      "hypothesis": "i'm"
+    },
+    {
+      "reference": "story",
+      "hypothesis": "shtori"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "you're"
+    },
+    {
+      "reference": "story",
+      "hypothesis": "with"
+    },
+    {
+      "reference": "our",
+      "hypothesis": "your"
+    },
+    {
+      "reference": "story",
+      "hypothesis": "shtori"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "you're"
+    },
+    {
+      "reference": "royal",
+      "hypothesis": "royalcat"
+    },
+    {
+      "reference": "soft",
+      "hypothesis": "softride"
+    },
+    {
+      "reference": "agnia",
+      "hypothesis": "aaghnya"
+    },
+    {
+      "reference": "agnia",
+      "hypothesis": "aaghnya"
+    },
+    {
+      "reference": "do",
+      "hypothesis": "don't"
+    },
+    {
+      "reference": "i",
+      "hypothesis": "istyle"
+    },
+    {
+      "reference": "zaroor",
+      "hypothesis": "your"
+    },
+    {
+      "reference": "main",
+      "hypothesis": "delivery"
+    },
+    {
+      "reference": "hindi",
+      "hypothesis": "partner"
+    },
+    {
+      "reference": "mein",
+      "hypothesis": "find"
+    },
+    {
+      "reference": "bata",
+      "hypothesis": "their"
+    },
+    {
+      "reference": "sakti",
+      "hypothesis": "contact"
+    },
+    {
+      "reference": "hoon",
+      "hypothesis": "on"
+    },
+    {
+      "reference": "aapka",
+      "hypothesis": "the"
+    },
+    {
+      "reference": "i",
+      "hypothesis": "my"
+    },
+    {
+      "reference": "style",
+      "hypothesis": "orders"
+    },
+    {
+      "reference": "can",
+      "hypothesis": "page"
+    },
+    {
+      "reference": "top",
+      "hypothesis": "in"
+    },
+    {
+      "reference": "aaj",
+      "hypothesis": "your"
+    },
+    {
+      "reference": "delivery",
+      "hypothesis": "myntra"
+    },
+    {
+      "reference": "ke",
+      "hypothesis": "app"
+    },
+    {
+      "reference": "liye",
+      "hypothesis": "please"
+    },
+    {
+      "reference": "bahar",
+      "hypothesis": "tell"
+    },
+    {
+      "reference": "hai",
+      "hypothesis": "me"
+    },
+    {
+      "reference": "hi",
+      "hypothesis": "is"
+    },
+    {
+      "reference": "how",
+      "hypothesis": "anything"
+    },
+    {
+      "reference": "can",
+      "hypothesis": "else"
+    },
+    {
+      "reference": "continue",
+      "hypothesis": "can"
+    },
+    {
+      "reference": "order",
+      "hypothesis": "out"
+    },
+    {
+      "reference": "yes",
+      "hypothesis": "for"
+    },
+    {
+      "reference": "i",
+      "hypothesis": "delivery"
+    },
+    {
+      "reference": "shared",
+      "hypothesis": "today"
+    },
+    {
+      "reference": "status",
+      "hypothesis": "expect"
+    },
+    {
+      "reference": "for",
+      "hypothesis": "it"
+    },
+    {
+      "reference": "your",
+      "hypothesis": "by"
+    },
+    {
+      "reference": "agnia",
+      "hypothesis": "end"
+    },
+    {
+      "reference": "women",
+      "hypothesis": "of"
+    },
+    {
+      "reference": "floral",
+      "hypothesis": "day"
+    },
+    {
+      "reference": "print",
+      "hypothesis": "please"
+    },
+    {
+      "reference": "mandarin",
+      "hypothesis": "tell"
+    },
+    {
+      "reference": "collar",
+      "hypothesis": "zarur"
+    },
+    {
+      "reference": "flared",
+      "hypothesis": "main"
+    },
+    {
+      "reference": "sleeve",
+      "hypothesis": "hindi"
+    },
+    {
+      "reference": "shirt",
+      "hypothesis": "mein"
+    },
+    {
+      "reference": "style",
+      "hypothesis": "bata"
+    },
+    {
+      "reference": "top",
+      "hypothesis": "sakti"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "hoon"
+    },
+    {
+      "reference": "your",
+      "hypothesis": "aapka"
+    },
+    {
+      "reference": "if",
+      "hypothesis": "hi"
+    },
+    {
+      "reference": "is",
+      "hypothesis": "hi"
+    },
+    {
+      "reference": "anything",
+      "hypothesis": "there"
+    },
+    {
+      "reference": "more",
+      "hypothesis": "how"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "can"
+    },
+    {
+      "reference": "would",
+      "hypothesis": "i"
+    },
+    {
+      "reference": "like",
+      "hypothesis": "continue"
+    },
+    {
+      "reference": "know",
+      "hypothesis": "help"
+    },
+    {
+      "reference": "please",
+      "hypothesis": "you"
+    },
+    {
+      "reference": "let",
+      "hypothesis": "with"
+    },
+    {
+      "reference": "me",
+      "hypothesis": "your"
+    },
+    {
+      "reference": "know",
+      "hypothesis": "order"
+    },
+    {
+      "reference": "agnia",
+      "hypothesis": "aaghnya"
+    },
+    {
+      "reference": "there",
+      "hypothesis": "there's"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "you'd"
+    }
+  ],
+  "deletion_words": [
+    "am",
+    "are",
+    "are",
+    "cat",
+    "ride",
+    "not",
+    "style",
+    "to",
+    "is",
+    "would"
+  ],
+  "insertion_words": [
+    "got",
+    "it",
+    "please",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "to",
+    "fetch",
+    "your",
+    "products",
+    "shtori",
+    "plus",
+    "your",
+    "shtori",
+    "plus",
+    "size",
+    "reflective",
+    "detail",
+    "tshirt",
+    "is",
+    "expected",
+    "to",
+    "be",
+    "picked",
+    "up",
+    "by",
+    "7",
+    "july",
+    "subject",
+    "to",
+    "quality",
+    "check",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "is",
+    "there",
+    "please",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "to",
+    "fetch",
+    "your",
+    "products",
+    "need",
+    "to",
+    "reach",
+    "istyle",
+    "can",
+    "top",
+    "is",
+    "delivery",
+    "attempt",
+    "started",
+    "at",
+    "1044",
+    "am",
+    "you",
+    "can",
+    "aaj",
+    "delivery",
+    "ke",
+    "liye",
+    "bahar",
+    "hai",
+    "delivery",
+    "ka",
+    "prayas",
+    "subah",
+    "das",
+    "bajkar",
+    "chavalis",
+    "minute",
+    "par",
+    "shuru",
+    "hua",
+    "ise",
+    "aaj",
+    "ke",
+    "ant",
+    "tak",
+    "aap",
+    "tak",
+    "pahunchne",
+    "ki",
+    "ummeed",
+    "hai",
+    "kya",
+    "how",
+    "can",
+    "i",
+    "continue",
+    "know",
+    "please",
+    "let",
+    "me",
+    "know"
+  ]
+}

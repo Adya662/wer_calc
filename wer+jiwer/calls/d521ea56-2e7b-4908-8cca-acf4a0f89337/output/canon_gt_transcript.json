@@ -17,7 +17,7 @@
       "type": "PERSON"
     },
     {
-      "index": 32,
+      "index": 33,
       "value": "nano plan",
       "type": "PRODUCT"
     },
@@ -27,67 +27,67 @@
       "type": "PRODUCT"
     },
     {
-      "index": 144,
+      "index": 157,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 186,
+      "index": 209,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 238,
+      "index": 253,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 282,
+      "index": 297,
       "value": "rupees 1799",
       "type": "MONEY"
     },
     {
-      "index": 302,
+      "index": 315,
       "value": "rupees 6000",
       "type": "MONEY"
     },
     {
-      "index": 322,
+      "index": 337,
       "value": "india",
       "type": "LOCATION/GPE"
     },
     {
-      "index": 324,
+      "index": 339,
       "value": "delhi",
       "type": "LOCATION/GPE"
     },
     {
-      "index": 328,
+      "index": 343,
       "value": "redcliffe",
       "type": "ORG"
     },
     {
-      "index": 329,
+      "index": 345,
       "value": "tata 1 mg",
       "type": "ORG"
     },
     {
-      "index": 367,
+      "index": 391,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 373,
+      "index": 397,
       "value": "5000 users",
       "type": "OTHER"
     },
     {
-      "index": 375,
+      "index": 399,
       "value": "india",
       "type": "LOCATION/GPE"
     },
     {
-      "index": 395,
+      "index": 423,
       "value": "200 years",
       "type": "DATE/TIME"
     }

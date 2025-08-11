@@ -1,0 +1,132 @@
+[
+  {
+    "timestamp": "2025-07-24 11:07:28",
+    "speaker": "assistant",
+    "content": " Hey,                  I am Rey from मिंत्रा,        here to assist you;                     shall we proceed further in Hindi,    or    English ? "
+  },
+  {
+    "timestamp": "2025-07-24 11:07:31",
+    "speaker": "user",
+    "content": "English"
+  },
+  {
+    "timestamp": "2025-07-24 11:07:31",
+    "speaker": "assistant",
+    "content": "Great! How can I help you today?"
+  },
+  {
+    "timestamp": "2025-07-24 11:07:37",
+    "speaker": "user",
+    "content": "Where is my order?"
+  },
+  {
+    "timestamp": "2025-07-24 11:07:37",
+    "speaker": "assistant",
+    "content": "I can help you with tracking your order. Could you please tell me the product name?"
+  },
+  {
+    "timestamp": "2025-07-24 11:07:48",
+    "speaker": "user",
+    "content": "Can you tell me what is in my list?"
+  },
+  {
+    "timestamp": "2025-07-24 11:07:48",
+    "speaker": "assistant",
+    "content": "I'm sorry, I can't provide the names or details of products in your order list directly. Could you please let me know the product name you're asking about?"
+  },
+  {
+    "timestamp": "2025-07-24 11:08:01",
+    "speaker": "user",
+    "content": "Black में"
+  },
+  {
+    "timestamp": "2025-07-24 11:08:01",
+    "speaker": "assistant",
+    "content": "Got it! Could you please tell me the product name or brand? This will help me track your order."
+  },
+  {
+    "timestamp": "2025-07-24 11:08:11",
+    "speaker": "user",
+    "content": "The brand is Laamic."
+  },
+  {
+    "timestamp": "2025-07-24 11:08:14",
+    "speaker": "assistant",
+    "content": "Please give me a moment to fetch your products"
+  },
+  {
+    "timestamp": "2025-07-24 11:08:15",
+    "speaker": "assistant",
+    "content": "I couldn't find \"Laamic\" in your orders, but I see items from brands like Love Beauty & Planet, लैक्मे, ड्रेसबेरी, LeCalla, and Carlton London. Could you confirm if it's one of these or provide more details about the product?"
+  },
+  {
+    "timestamp": "2025-07-24 11:08:32",
+    "speaker": "user",
+    "content": "It's 1 of these."
+  },
+  {
+    "timestamp": "2025-07-24 11:08:32",
+    "speaker": "assistant",
+    "content": "Alright, could you let me know which type of product you're asking about, such as a cream, shampoo, socks, earrings, or studs? This will help me locate your order."
+  },
+  {
+    "timestamp": "2025-07-24 11:08:46",
+    "speaker": "user",
+    "content": "Trim hand shampoo."
+  },
+  {
+    "timestamp": "2025-07-24 11:08:46",
+    "speaker": "assistant",
+    "content": "I didn't find a product matching \"Trim hand shampoo.\" Could you confirm if you're referring to any of these items? There's a Love Beauty & Planet Argan Oil and Lavender"
+  },
+  {
+    "timestamp": "2025-07-24 11:08:56",
+    "speaker": "user",
+    "content": "Cream."
+  },
+  {
+    "timestamp": "2025-07-24 11:08:56",
+    "speaker": "assistant",
+    "content": "Got it! You might be referring to the लैक्मे Youth Infinity Anti Aging Night Cream with Pro-Retinol C. Let me check its delivery status for you."
+  },
+  {
+    "timestamp": "2025-07-24 11:09:17",
+    "speaker": "assistant",
+    "content": "Your लैक्मे Youth Infinity Anti Aging Night Cream with Pro-Retinol C - 50g will be delivered on or before 27 July.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-24 11:09:20",
+    "speaker": "user",
+    "content": "Yes,"
+  },
+  {
+    "timestamp": "2025-07-24 11:09:20",
+    "speaker": "assistant",
+    "content": "Sure! What else can I assist you with?"
+  },
+  {
+    "timestamp": "2025-07-24 11:09:27",
+    "speaker": "user",
+    "content": "Where is the shampoo?"
+  },
+  {
+    "timestamp": "2025-07-24 11:09:27",
+    "speaker": "assistant",
+    "content": "Alright, let me check the delivery status for your Love Beauty & Planet Argan Oil and Lavender Shampoo. Give me a moment."
+  },
+  {
+    "timestamp": "2025-07-24 11:09:54",
+    "speaker": "assistant",
+    "content": "Your Love Beauty & Planet Argan Oil and Lavender Shampoo for Frizzy Hair - 400ml will be delivered on or before tomorrow.\nPlease tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "2025-07-24 11:09:57",
+    "speaker": "user",
+    "content": "No, that's it."
+  },
+  {
+    "timestamp": "2025-07-24 11:09:57",
+    "speaker": "assistant",
+    "content": "We'll be sending you a quick feedback form via SMS—your input would really help us improve! Thank you for choosing मिंत्रा. Have a great day!"
+  }
+]

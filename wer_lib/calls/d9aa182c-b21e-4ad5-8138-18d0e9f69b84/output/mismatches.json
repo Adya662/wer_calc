@@ -2,144 +2,140 @@
   "call_id": "d9aa182c-b21e-4ad5-8138-18d0e9f69b84",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "reference_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
-        [
-          "Hey,",
-          "[missing]"
-        ],
         [
           "[missing]",
-          "Myntra,"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I can help you with tracking your order. Could you please tell me the product name?",
-      "hypothesis_sentence": "I can help you with tracking your order.",
-      "word_differences": [
+          "Hey,"
+        ],
         [
-          "Could you please tell me the product name?",
+          "Myntra,",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "I couldn't find \"Laamic\" in your orders, but I see items from brands like Love Beauty & Planet, \u0932\u0948\u0915\u094d\u092e\u0947, \u0921\u094d\u0930\u0947\u0938\u092c\u0947\u0930\u0940, LeCalla, and Carlton London. Could you confirm if it's one of these or provide more details about the product?",
-      "hypothesis_sentence": "I couldn't find Lakme in your orders. But I see items from brands like Love Beauty and Planet, Lakme, Dressberry, Lakala and Carlton London. Could you confirm if it's one of these or provide more details about the product?",
+      "reference_sentence": "I can help you with tracking your order.",
+      "hypothesis_sentence": "I can help you with tracking your order. Could you please tell me the product name?",
       "word_differences": [
         [
-          "\"Laamic\"",
-          "Lakme"
-        ],
-        [
           "[missing]",
-          "and"
-        ],
-        [
-          "Planet,",
-          "Lakme, Dressberry, Lakala"
+          "Could you please tell me the product name?"
         ]
       ]
     },
     {
-      "reference_sentence": "Alright, could you let me know which type of product you're asking about, such as a cream, shampoo, socks, earrings, or studs? This will help me locate your order.",
-      "hypothesis_sentence": "All right. Could you let me know which type of product you're asking about such as a cream, shampoo, socks, earrings or studs? This will help me locate your order.",
+      "reference_sentence": "I couldn't find Lakme in your orders. But I see items from brands like Love Beauty and Planet, Lakme, Dressberry, Lakala and Carlton London. Could you confirm if it's one of these or provide more details about the product?",
+      "hypothesis_sentence": "I couldn't find \"Laamic\" in your orders, but I see items from brands like Love Beauty & Planet, \u0932\u0948\u0915\u094d\u092e\u0947, \u0921\u094d\u0930\u0947\u0938\u092c\u0947\u0930\u0940, LeCalla, and Carlton London. Could you confirm if it's one of these or provide more details about the product?",
       "word_differences": [
         [
-          "Alright,",
-          "All right."
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I didn't find a product matching \"Trim hand shampoo.\" Could you confirm if you're referring to any of these items? There's a Love Beauty & Planet Argan Oil and Lavender",
-      "hypothesis_sentence": "I didn't find a product matching trim hand shampoo. Could you confirm if you're referring to any of these items? There's a Love Beauty and Planet Argan Oil and Love.",
-      "word_differences": [
-        [
-          "[missing]",
-          "and"
+          "Lakme",
+          "\"Laamic\""
         ],
         [
           "and",
-          "Love."
+          "[missing]"
+        ],
+        [
+          "Lakme, Dressberry, Lakala",
+          "Planet,"
         ]
       ]
     },
     {
-      "reference_sentence": "Got it! You might be referring to the \u0932\u0948\u0915\u094d\u092e\u0947 Youth Infinity Anti Aging Night Cream with Pro-Retinol C. Let me check its delivery status for you.",
-      "hypothesis_sentence": "Got it. You might be referring to the Lakme Youth Infinity anti-aging night cream with Pro retinol C. Let me check its delivery status for you. Your Lakme Youth Infinity anti-aging night cream with Pro retinol C 50 GD will be delivered on or before 27 July.",
+      "reference_sentence": "All right. Could you let me know which type of product you're asking about such as a cream, shampoo, socks, earrings or studs? This will help me locate your order.",
+      "hypothesis_sentence": "Alright, could you let me know which type of product you're asking about, such as a cream, shampoo, socks, earrings, or studs? This will help me locate your order.",
       "word_differences": [
         [
-          "[missing]",
-          "Lakme"
-        ],
-        [
-          "Infinity Anti",
-          "anti-aging"
-        ],
-        [
-          "with",
-          "Pro retinol"
-        ],
-        [
-          "[missing]",
-          "Your Lakme Youth Infinity anti-aging night cream with Pro retinol C 50 GD will be delivered on or before 27 July."
+          "All right.",
+          "Alright,"
         ]
       ]
     },
     {
-      "reference_sentence": "Your \u0932\u0948\u0915\u094d\u092e\u0947 Youth Infinity Anti Aging Night Cream with Pro-Retinol C - 50g will be delivered on or before 27 July.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Sure, what else can I assist you with?",
+      "reference_sentence": "I didn't find a product matching trim hand shampoo. Could you confirm if you're referring to any of these items? There's a Love Beauty and Planet Argan Oil and Love.",
+      "hypothesis_sentence": "I didn't find a product matching \"Trim hand shampoo.\" Could you confirm if you're referring to any of these items? There's a Love Beauty & Planet Argan Oil and Lavender",
       "word_differences": [
         [
-          "Your \u0932\u0948\u0915\u094d\u092e\u0947 Youth Infinity Anti Aging Night Cream with Pro-Retinol C - 50g will be delivered on or before 27 July. Please tell me, is",
-          "Sure, what"
+          "and",
+          "[missing]"
+        ],
+        [
+          "Love.",
+          "and"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Got it. You might be referring to the Lakme Youth Infinity anti-aging night cream with Pro retinol C. Let me check its delivery status for you. Your Lakme Youth Infinity anti-aging night cream with Pro retinol C 50 GD will be delivered on or before 27 July.",
+      "hypothesis_sentence": "Got it! You might be referring to the \u0932\u0948\u0915\u094d\u092e\u0947 Youth Infinity Anti Aging Night Cream with Pro-Retinol C. Let me check its delivery status for you.",
+      "word_differences": [
+        [
+          "Lakme",
+          "[missing]"
+        ],
+        [
+          "anti-aging",
+          "Infinity Anti"
+        ],
+        [
+          "Pro retinol",
+          "with"
+        ],
+        [
+          "Your Lakme Youth Infinity anti-aging night cream with Pro retinol C 50 GD will be delivered on or before 27 July.",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Sure, what else can I assist you with?",
+      "hypothesis_sentence": "Your \u0932\u0948\u0915\u094d\u092e\u0947 Youth Infinity Anti Aging Night Cream with Pro-Retinol C - 50g will be delivered on or before 27 July.\nPlease tell me, is there anything else I can help you with?",
+      "word_differences": [
+        [
+          "Sure, what",
+          "Your \u0932\u0948\u0915\u094d\u092e\u0947 Youth Infinity Anti Aging Night Cream with Pro-Retinol C - 50g will be delivered on or before 27 July. Please tell me, is"
+        ],
+        [
+          "[missing]",
+          "anything"
+        ],
+        [
+          "I assist",
+          "I"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "All right. Let me check the delivery status for your Love Beauty and Planet 10 Argan oil and lavender shampoo. Give me a moment. Your love beauty and planet 80 D 80 Argan oil and lavender shampoo for frizzy hair 400 milli will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Sure! What else can I assist you with?",
+      "word_differences": [
+        [
+          "All right. Let me check the delivery status for your Love Beauty and Planet 10 Argan oil and lavender shampoo. Give me a moment. Your love beauty and planet 80 D 80 Argan oil and lavender shampoo for frizzy hair 400 milli will be delivered on or before tomorrow. Please tell me, is there anything",
+          "Sure! What"
         ],
         [
           "[missing]",
           "can"
         ],
         [
-          "else I",
+          "can help",
           "assist"
         ]
       ]
     },
     {
-      "reference_sentence": "Sure! What else can I assist you with?",
-      "hypothesis_sentence": "All right. Let me check the delivery status for your Love Beauty and Planet 10 Argan oil and lavender shampoo. Give me a moment. Your love beauty and planet 80 D 80 Argan oil and lavender shampoo for frizzy hair 400 milli will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?",
+      "reference_sentence": "We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day.",
+      "hypothesis_sentence": "Alright, let me check the delivery status for your Love Beauty & Planet Argan Oil and Lavender Shampoo. Give me a moment.",
       "word_differences": [
         [
-          "Sure! What",
-          "All right. Let me check the delivery status for your Love Beauty and Planet 10 Argan oil and lavender shampoo. Give me a moment. Your love beauty and planet 80 D 80 Argan oil and lavender shampoo for frizzy hair 400 milli will be delivered on or before tomorrow. Please tell me, is there anything"
+          "We'll be sending you",
+          "Alright, let me check the delivery status for your Love Beauty & Planet Argan Oil and Lavender Shampoo. Give"
         ],
         [
-          "[missing]",
-          "I"
-        ],
-        [
-          "I assist",
-          "help"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Alright, let me check the delivery status for your Love Beauty & Planet Argan Oil and Lavender Shampoo. Give me a moment.",
-      "hypothesis_sentence": "We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day.",
-      "word_differences": [
-        [
-          "Alright, let me check the delivery status",
-          "We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you"
-        ],
-        [
-          "your Love Beauty & Planet Argan Oil and Lavender Shampoo. Give",
-          "choosing Myntra. Have"
-        ],
-        [
-          "a",
-          "great day."
+          "quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day.",
+          "a"
         ]
       ]
     }

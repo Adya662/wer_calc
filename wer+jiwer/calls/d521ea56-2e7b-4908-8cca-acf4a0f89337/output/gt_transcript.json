@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp": "0:00:13.994928",
+    "speaker": "Agent",
+    "content": "Hello, this is Priya from Elevate Now. Am I speaking with Sanjana Kumar? I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:00:24.507833",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:00:26.882865",
+    "speaker": "Agent",
+    "content": "Great. I noticed you were checking out our Nano plan, but didn't complete the payment. \"I'd love to understand what motivated you to consider our program and what your weight loss goals are."
+  },
+  {
+    "timestamp": "0:00:43.948856",
+    "speaker": "Customer",
+    "content": "Yeah, it it was motivating. I want to lose weight, but I I'm not sure about your program."
+  },
+  {
+    "timestamp": "0:00:54.523455",
+    "speaker": "Agent",
+    "content": "I understand your hesitation. Based on your BMI of 29.0, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this pre-obesity stage, many experience low energy levels and slow metabolism due to iron and vitamin D deficiency, making it harder to stay active and burn fat efficiently. A Nano plan focuses on addressing these issues first, so your body naturally boosts metabolism and accelerates fat loss. Would you like to discuss how this personalized plan can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:01:27.240146",
+    "speaker": "Customer",
+    "content": "Yeah sure."
+  },
+  {
+    "timestamp": "0:01:32.211316",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:01:34.395973",
+    "speaker": "Agent",
+    "content": "Have you tried any other weight loss programs before? If yes, did the"
+  },
+  {
+    "timestamp": "0:01:39.816277",
+    "speaker": "Agent",
+    "content": "You're in the right place. It includes a blood test, doctor consultation and a session with a senior health coach. Unless you have specific questions about these, can I explain how these offerings can help you achieve your weight loss goals?"
+  },
+  {
+    "timestamp": "0:02:02.015994",
+    "speaker": "Customer",
+    "content": "Not sure."
+  },
+  {
+    "timestamp": "0:02:04.902059",
+    "speaker": "Agent",
+    "content": "No worries. Let me briefly explain how each part of the nano plan can help. The blood test identifies underlying issues like insulin resistance or hormonal imbalances. Then a senior obesity specialist will explain how these affect your health and weight. Finally, our health coach will create a personalized plan tailored just for you. Now, would you like to know about the pricing and how it compares to other programs?"
+  },
+  {
+    "timestamp": "0:02:30.038302",
+    "speaker": "Customer",
+    "content": "Yes please."
+  },
+  {
+    "timestamp": "0:02:32.766081",
+    "speaker": "Agent",
+    "content": "The Nano plan is priced at rupees 1,799, which is designed to be affordable. This includes the blood test, doctor consultation and personalized health coaching. Compared to other weight loss services, which can total up to rupees 6,000, our plan offers a significant value. Would you like to proceed with this plan?"
+  },
+  {
+    "timestamp": "0:02:55.846112",
+    "speaker": "Customer",
+    "content": "Yes, I would like to proceed but where are you placed in Delhi?"
+  },
+  {
+    "timestamp": "0:03:02.414645",
+    "speaker": "Agent",
+    "content": "We have partnerships with labs throughout most parts of India, including Delhi, through partners like Redcliffe, Tata 1 MG and others. This ensures that we can provide our services conveniently in your area. Would you like to proceed with the payment? I can send you the payment link on your registered mobile number."
+  },
+  {
+    "timestamp": "0:03:24.650979",
+    "speaker": "Customer",
+    "content": "I would like to be more sure about you, then only I'll make payment."
+  },
+  {
+    "timestamp": "0:03:34.885408",
+    "speaker": "Agent",
+    "content": "Absolutely. I understand the need to be sure. Our nano plan is crafted after helping over 5,000 users across India. It's a scientifically backed approach with personalized insights from our expert team, including doctors with over 200 years of combined experience. This ensures that you receive a tailored road map to address your specific weight loss challenges. Let me know if there's anything else you'd like to know."
+  },
+  {
+    "timestamp": "0:03:58.855160",
+    "speaker": "Customer",
+    "content": "No thank you."
+  },
+  {
+    "timestamp": "0:04:01.899392",
+    "speaker": "Agent",
+    "content": "You're welcome. I'll be here if you have any more questions or need assistance in the future. Goodbye and have a great day."
+  },
+  {
+    "timestamp": "0:04:19.101421",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  }
+]

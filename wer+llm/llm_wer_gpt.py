@@ -61,14 +61,17 @@ Please normalize the following text and return only the normalized version witho
    - I = Insertions (extra words that change meaning)
    - N = Total number of words in reference
 
-4. Provide your analysis in this exact JSON format:
+ 4. Provide your analysis in this exact JSON format (ensure valid JSON):
 {
     "substitutions": <number>,
     "deletions": <number>,
     "insertions": <number>,
     "total_reference_words": <number>,
     "conversational_wer": <decimal>,
-    "explanation": "<brief explanation of what errors were counted and why>"
+    "explanation": "<brief explanation of what errors were counted and why>",
+    "substitution_pairs": [{"reference": "<ref_word_or_phrase>", "hypothesis": "<hyp_word_or_phrase>"}],
+    "deletion_words": ["<word_or_phrase_missing_in_hypothesis>", ...],
+    "insertion_words": ["<word_or_phrase_extra_in_hypothesis>", ...]
 }
 
 Reference (Ground Truth): {reference}
@@ -253,7 +256,8 @@ Analyze these transcripts and return only the JSON response:"""
                 
                 # Calculate conversational WER using LLM
                 logger.info(f"Calculating conversational WER for call {call_dir}")
-                wer_metrics = self.calculate_conversational_wer_with_llm(normalized_ref, normalized_gt)
+                # IMPORTANT: Use GT as the reference and REF as hypothesis
+                wer_metrics = self.calculate_conversational_wer_with_llm(normalized_gt, normalized_ref)
                 
                 results[call_dir] = {
                     'raw_ref_utterances': ref_utterances,
@@ -264,6 +268,25 @@ Analyze these transcripts and return only the JSON response:"""
                 }
                 
                 logger.info(f"Call {call_dir} - Conversational WER: {wer_metrics.get('conversational_wer', 0):.4f}")
+                # Print detailed errors similar to the screenshot style
+                try:
+                    subs = wer_metrics.get('substitution_pairs', []) or []
+                    dels = wer_metrics.get('deletion_words', []) or []
+                    ins = wer_metrics.get('insertion_words', []) or []
+                    print(f"\n⟡ CONCERNED DIFFERENCES (Call: {call_dir})")
+                    print(f"  Substitutions (S={len(subs)}):")
+                    for idx, item in enumerate(subs, 1):
+                        ref_w = item.get('reference', '')
+                        hyp_w = item.get('hypothesis', '')
+                        print(f"    {idx}. '{ref_w}' -> '{hyp_w}'")
+                    print(f"  Deletions (D={len(dels)}):")
+                    for idx, w in enumerate(dels, 1):
+                        print(f"    {idx}. '{w}' — missing in hypothesis")
+                    print(f"  Insertions (I={len(ins)}):")
+                    for idx, w in enumerate(ins, 1):
+                        print(f"    {idx}. '{w}' — extra in hypothesis")
+                except Exception:
+                    pass
                 
             except Exception as e:
                 logger.error(f"Error processing call {call_dir}: {e}")
@@ -319,7 +342,8 @@ Analyze these transcripts and return only the JSON response:"""
         global_ref = ' '.join(all_ref)
         global_gt = ' '.join(all_gt)
         
-        concatenated_wer_metrics = self.calculate_conversational_wer_with_llm(global_ref, global_gt)
+        # IMPORTANT: Use concatenated GT as reference and REF as hypothesis
+        concatenated_wer_metrics = self.calculate_conversational_wer_with_llm(global_gt, global_ref)
         
         return {
             'total_calls': len(results),

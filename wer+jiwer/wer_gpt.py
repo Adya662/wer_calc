@@ -205,8 +205,9 @@ def process_transcripts(folder: str, ref_name: str, hyp_name: str):
     t_script2["canonical_transcript"] = clean_transcript(t_script2["canonical_transcript"])
     
     # Tokenize and compute WER
-    ref_tokens = t_script2["canonical_transcript"].split()
-    hyp_tokens = t_script1["canonical_transcript"].split()
+    # IMPORTANT: Use GT (t_script1) as reference and REF (t_script2) as hypothesis
+    ref_tokens = t_script1["canonical_transcript"].split()
+    hyp_tokens = t_script2["canonical_transcript"].split()
     
     t_start = time.time()
     
@@ -220,10 +221,13 @@ def process_transcripts(folder: str, ref_name: str, hyp_name: str):
     deletions = output.deletions
     substitutions = output.substitutions
     
-    # Generate mismatches
+    # Generate mismatches and collect explicit S/I/D lists
     ops = Levenshtein.editops(ref_tokens, hyp_tokens)
     mismatches = []
     window_size = 5
+    substitution_pairs = []
+    deletion_words = []
+    insertion_words = []
     
     for op, i, j in ops:
         if op == "delete":
@@ -231,11 +235,13 @@ def process_transcripts(folder: str, ref_name: str, hyp_name: str):
             hyp_word = ""
             ref_context = " ".join(ref_tokens[max(0, i-window_size):i+window_size+1])
             hyp_context = ""
+            deletion_words.append(ref_word)
         elif op == "insert":
             ref_word = ""
             hyp_word = hyp_tokens[j]
             ref_context = ""
             hyp_context = " ".join(hyp_tokens[max(0, j-window_size):j+window_size+1])
+            insertion_words.append(hyp_word)
         elif op == "replace":
             ref_word = ref_tokens[i]
             hyp_word = hyp_tokens[j]
@@ -243,6 +249,7 @@ def process_transcripts(folder: str, ref_name: str, hyp_name: str):
                 continue
             ref_context = " ".join(ref_tokens[max(0, i-window_size):i+window_size+1])
             hyp_context = " ".join(hyp_tokens[max(0, j-window_size):j+window_size+1])
+            substitution_pairs.append({"reference": ref_word, "hypothesis": hyp_word})
         
         mismatches.append({
             "operation": op,
@@ -260,7 +267,10 @@ def process_transcripts(folder: str, ref_name: str, hyp_name: str):
         "insertions": insertions,
         "deletions": deletions,
         "substitutions": substitutions,
-        "mismatches": mismatches
+        "mismatches": mismatches,
+        "substitution_pairs": substitution_pairs,
+        "deletion_words": deletion_words,
+        "insertion_words": insertion_words
     }
     mismatches_path = out_dir / "wer_mismatches.json"
     with open(mismatches_path, "w", encoding="utf-8") as mmf:
@@ -319,6 +329,16 @@ def process_transcripts(folder: str, ref_name: str, hyp_name: str):
     print(f"  Unique Concerned GT NERs: {len(unique_concerned_ner_gt)}")
     print(f"  Unique Concerned Ref NERs: {len(unique_concerned_ner_ref)}")
     print(f"  Time taken: {time_taken:.6f} seconds\n")
+    # Print explicit differences per call in terminal
+    print("  Substitutions:")
+    for idx, p in enumerate(substitution_pairs, 1):
+        print(f"    {idx}. '{p['reference']}' -> '{p['hypothesis']}'")
+    print("  Deletions:")
+    for idx, w in enumerate(deletion_words, 1):
+        print(f"    {idx}. '{w}' — missing in hypothesis")
+    print("  Insertions:")
+    for idx, w in enumerate(insertion_words, 1):
+        print(f"    {idx}. '{w}' — extra in hypothesis")
     
     # Return canonical texts for global WER calculation
     return ref_str, hyp_str, results

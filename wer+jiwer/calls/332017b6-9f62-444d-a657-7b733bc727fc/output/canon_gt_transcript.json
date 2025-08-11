@@ -1,5 +1,5 @@
 {
-  "canonical_transcript": "i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today got it i can help you track your order could you please tell me the product name or the brand name of the item you ordered im sorry but we currently dont offer a packing service for your order im sorry but we currently dont offer a packing service for your order how else can i assist you with your order your most recent order was placed today july 17th at 1024 am it includes two items mango extended sleeves high neck top and forever new women top could you confirm which one youd like to track your forever new women top is being processed and will be delivered by 28th july please tell me is there anything else i can help you with im here to help i believe youre asking about could you clarify what you mean by excite to lipid if its related to your order or delivery im happy to assist i understand youd like to expedite the delivery currently we are unable to accommodate changes to the delivery speed the fastest available option has already been chosen for your order is there anything else i can assist you with is there anything else i can assist you with currently i cannot assist with cancellation directly over the call to cancel your order please visit the myntra app or website go to your order section select the forever new women top currently i cannot cancel orders directly for you you can easily cancel your order by visiting the myntra app or website selecting the specific item alright please youre",
+  "canonical_transcript": "i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today got it i can help you track your order could you please tell me the product name or the brand name of the item you ordered i'm sorry but we currently don't offer a packing service for your order i'm sorry but we currently don't offer a packing service for your order how else can i assist you with your order your most recent order was placed today july 17th at 1024 am it includes two items mango extended sleeves high neck top and forever new women top could you confirm which one you'd like to track your forever new women top is being processed and will be delivered by 28th july please tell me is there anything else i can help you with i'm here to help i believe you're asking about could you clarify what you mean by excite to lipid if it's related to your order or delivery i'm happy to assist i understand you'd like to expedite the delivery currently we are unable to accommodate changes to the delivery speed the fastest available option has already been chosen for your order is there anything else i can assist you with is there anything else i can assist you with currently i cannot assist with cancellation directly over the call to cancel your order please visit the myntra app or website go to your order section select the forever new women top currently i cannot cancel orders directly for you you can easily cancel your order by visiting the myntra app or website selecting the specific item alright please you're",
   "entities": [
     {
       "index": 3,
@@ -9,67 +9,57 @@
     {
       "index": 5,
       "value": "myntra",
-      "type": "ORGANIZATION"
+      "type": "ORG"
     },
     {
-      "index": 15,
+      "index": 19,
       "value": "hindi",
       "type": "LANGUAGE"
     },
     {
-      "index": 19,
+      "index": 21,
       "value": "english",
       "type": "LANGUAGE"
     },
     {
-      "index": 78,
-      "value": "july 17th",
-      "type": "DATE"
-    },
-    {
-      "index": 81,
-      "value": "1024 am",
-      "type": "TIME"
-    },
-    {
-      "index": 86,
-      "value": "mango extended sleeves high neck top",
+      "index": 97,
+      "value": "mango",
       "type": "PRODUCT"
     },
     {
-      "index": 92,
+      "index": 102,
       "value": "forever new women top",
       "type": "PRODUCT"
     },
     {
-      "index": 112,
-      "value": "forever new women top",
-      "type": "PRODUCT"
+      "index": 108,
+      "value": "today july 17th at 1024 am",
+      "type": "DATE/TIME"
     },
     {
       "index": 120,
-      "value": "28th july",
-      "type": "DATE"
-    },
-    {
-      "index": 162,
-      "value": "excite to lipid",
-      "type": "OTHER"
-    },
-    {
-      "index": 256,
-      "value": "myntra",
-      "type": "ORGANIZATION"
-    },
-    {
-      "index": 275,
       "value": "forever new women top",
       "type": "PRODUCT"
     },
     {
-      "index": 288,
+      "index": 128,
+      "value": "28th july",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 186,
       "value": "myntra",
-      "type": "ORGANIZATION"
+      "type": "ORG"
+    },
+    {
+      "index": 198,
+      "value": "forever new women top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 209,
+      "value": "myntra",
+      "type": "ORG"
     }
   ]
 }

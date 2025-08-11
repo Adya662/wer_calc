@@ -2,69 +2,69 @@
   "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english great how can i help you today got it let me check the status of your order could you confirm the product name or brand name for me let me check on that for you ill look up the product details for delivery please give me a moment to fetch your products alright i see an item matching your description is it the h and m regular fit round neck t shirt your ech end em regular fit round neck t shirt is being processed and will be packed by 20 june then delivered by 20 june please tell me is there anything else i can help you with im sorry to hear about this issue lets look into it together could you please tell me the product name or brand name of the order youre referring to let me check your order details for the mango shirt please hold on for a moment please give me a moment to fetch your products i found a mango item in your order list is it the mango plunge neck ruched top with asymmetric hem i am able to see your refund is processed do you need any further assistance regarding this order got it i can assist you with your orders one by one could you tell me the product name or brand name for the next order youd like to check please give me a moment to fetch your products im sorry i couldnt find an item matching all about you ethnic top in your return list could you confirm if this was a return query or if youd like me to check your delivery orders instead please give me a moment to fetch your products i found an item matching your description is it the all about you ethnic printed full puff sleeves casual shirt i can see that your order all about you ethnic printed full puff sleeves casual shirt has already been delivered do you need any further assistance regarding this order im sorry to hear about this issue do you want me to connect you to another agent who can assist you in resolving the matter",
   "entities": [
     {
-      "index": 7,
+      "index": 5,
       "value": "ray",
       "type": "PERSON"
     },
     {
-      "index": 9,
+      "index": 7,
       "value": "mintra",
       "type": "ORGANIZATION"
     },
     {
-      "index": 22,
+      "index": 18,
       "value": "hindi",
       "type": "LANGUAGE"
     },
     {
-      "index": 26,
+      "index": 21,
       "value": "english",
       "type": "LANGUAGE"
     },
     {
-      "index": 96,
-      "value": "h and m regular fit round neck t shirt",
-      "type": "PRODUCT"
+      "index": 86,
+      "value": "h and m",
+      "type": "ORGANIZATION"
     },
     {
-      "index": 102,
-      "value": "ech end em regular fit round neck t shirt",
-      "type": "PRODUCT"
+      "index": 110,
+      "value": "ech end em",
+      "type": "ORGANIZATION"
     },
     {
-      "index": 118,
+      "index": 140,
       "value": "20 june",
-      "type": "DATE"
+      "type": "DATE/TIME"
     },
     {
-      "index": 124,
+      "index": 145,
       "value": "20 june",
-      "type": "DATE"
+      "type": "DATE/TIME"
     },
     {
-      "index": 162,
+      "index": 202,
       "value": "mango",
-      "type": "PRODUCT"
+      "type": "ORGANIZATION"
     },
     {
-      "index": 190,
-      "value": "mango plunge neck ruched top with asymmetric hem",
-      "type": "PRODUCT"
+      "index": 240,
+      "value": "mango",
+      "type": "ORGANIZATION"
     },
     {
-      "index": 250,
-      "value": "all about you ethnic top",
-      "type": "PRODUCT"
+      "index": 313,
+      "value": "all about you",
+      "type": "ORGANIZATION"
     },
     {
-      "index": 284,
-      "value": "all about you ethnic printed full puff sleeves casual shirt",
-      "type": "PRODUCT"
+      "index": 365,
+      "value": "all about you",
+      "type": "ORGANIZATION"
     },
     {
-      "index": 298,
-      "value": "all about you ethnic printed full puff sleeves casual shirt",
-      "type": "PRODUCT"
+      "index": 396,
+      "value": "all about you",
+      "type": "ORGANIZATION"
     }
   ]
 }

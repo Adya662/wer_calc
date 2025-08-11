@@ -1,0 +1,127 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Ray from Myntra here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:23.984893",
+    "speaker": "Customer",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "0:00:26.268840",
+    "speaker": "Agent",
+    "content": "Hi, this is Ray from Myntra. Would you like to continue in English or should we go ahead in Hindi?"
+  },
+  {
+    "timestamp": "0:00:32.755417",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:34.835845",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:40.258936",
+    "speaker": "Customer",
+    "content": "I have placed one order, I need to know info about that order."
+  },
+  {
+    "timestamp": "0:00:44.270995",
+    "speaker": "Agent",
+    "content": "Alright. Could you please tell me the product name or the brand name of the order you'd like to check?"
+  },
+  {
+    "timestamp": "0:00:51.486690",
+    "speaker": "Customer",
+    "content": "Calvin Klein"
+  },
+  {
+    "timestamp": "0:00:58.360070",
+    "speaker": "Customer",
+    "content": "I have ordered one watch of Calvin Klein."
+  },
+  {
+    "timestamp": "0:01:02.617307",
+    "speaker": "Agent",
+    "content": "I'll check the details for you. Could you clarify the brand name or any additional details about the product to help me identify it?"
+  },
+  {
+    "timestamp": "0:01:11.061276",
+    "speaker": "Customer",
+    "content": "#unknown"
+  },
+  {
+    "timestamp": "0:01:23.800060",
+    "speaker": "Customer",
+    "content": "Hello?"
+  },
+  {
+    "timestamp": "0:01:26.448613",
+    "speaker": "Agent",
+    "content": "Yes, I'm here. Could you please confirm the brand name or give me more details about the product you mentioned, claim? This will help me find your order."
+  },
+  {
+    "timestamp": "0:01:35.246128",
+    "speaker": "Customer",
+    "content": "I have ordered one wallet of tommy hilfiger. I need to know information regarding that wallet."
+  },
+  {
+    "timestamp": "0:01:43.938373",
+    "speaker": "Agent",
+    "content": "I'm sorry, I couldn't locate any recent orders in your account. Is there anything else I can help you with today?"
+  },
+  {
+    "timestamp": "0:01:52.250389",
+    "speaker": "Customer",
+    "content": "Is it possible for you to tell me the weather of Ranchi?"
+  },
+  {
+    "timestamp": "0:01:57.374752",
+    "speaker": "Agent",
+    "content": "I'm sorry. I can only assist with your Myntra orders or return related queries. Could you please let me know if there's anything else I can help you with regarding your Myntra order?"
+  },
+  {
+    "timestamp": "0:02:07.393272",
+    "speaker": "Customer",
+    "content": "Could you please give me the detail of my Flipkart orders?"
+  },
+  {
+    "timestamp": "0:02:12.495638",
+    "speaker": "Agent",
+    "content": "I'm sorry. I can only assist with your Myntra orders or return related queries. Could you let me know if there's anything else I can help you with regarding your Myntra order?"
+  },
+  {
+    "timestamp": "0:02:27.125458",
+    "speaker": "Customer",
+    "content": "Okay, I have one order of the beer house shirt."
+  },
+  {
+    "timestamp": "0:02:32.332394",
+    "speaker": "Agent",
+    "content": "Could you please confirm the product name or brand name of the item you ordered? This will help me locate your order."
+  },
+  {
+    "timestamp": "0:02:38.792899",
+    "speaker": "Customer",
+    "content": "Beer house shirt."
+  },
+  {
+    "timestamp": "0:02:42.640951",
+    "speaker": "Agent",
+    "content": "I understand you're having difficulty with the product name. Do you want to speak with another agent who can assist you better?"
+  },
+  {
+    "timestamp": "0:02:51.301609",
+    "speaker": "Customer",
+    "content": "Yes, go ahead."
+  },
+  {
+    "timestamp": "0:02:55.528026",
+    "speaker": "Customer",
+    "content": "Simulating human transfer."
+  }
+]

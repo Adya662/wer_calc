@@ -1,21 +1,118 @@
 {
-  "wer": 0.1504237288135593,
-  "wer_value": 0.1504237288135593,
+  "wer": 0.16864608076009502,
+  "wer_value": 0.16864608076009502,
   "entities_gt": [
     {
-      "index": 10,
+      "index": 4,
       "value": "priya",
       "type": "PERSON"
     },
     {
-      "index": 14,
+      "index": 9,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 11,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 16,
       "value": "priya",
       "type": "PERSON"
     },
     {
       "index": 18,
       "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 26,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 31,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 33,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 41,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 57,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 96,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 118,
+      "value": "3556",
+      "type": "MONEY"
+    },
+    {
+      "index": 158,
+      "value": "healthify",
+      "type": "ORG"
+    },
+    {
+      "index": 160,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 221,
+      "value": "mbbs",
+      "type": "OTHER"
+    },
+    {
+      "index": 223,
+      "value": "md",
+      "type": "OTHER"
+    },
+    {
+      "index": 258,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 278,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 297,
+      "value": "elevate now's ai",
+      "type": "PRODUCT"
+    }
+  ],
+  "entities_ref": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevatenow",
       "type": "ORGANIZATION"
+    },
+    {
+      "index": 15,
+      "value": "atul sinha",
+      "type": "PERSON"
     },
     {
       "index": 22,
@@ -23,139 +120,37 @@
       "type": "PERSON"
     },
     {
-      "index": 26,
-      "value": "elevate now",
+      "index": 24,
+      "value": "elevatenow",
       "type": "ORGANIZATION"
     },
     {
       "index": 32,
-      "value": "atul sinha",
-      "type": "PERSON"
-    },
-    {
-      "index": 36,
       "value": "priya",
       "type": "PERSON"
     },
     {
-      "index": 40,
-      "value": "elevate now",
+      "index": 34,
+      "value": "elevatenow",
       "type": "ORGANIZATION"
     },
     {
-      "index": 46,
+      "index": 42,
       "value": "atul sinha",
       "type": "PERSON"
     },
     {
-      "index": 54,
-      "value": "nano plan",
-      "type": "PRODUCT"
+      "index": 49,
+      "value": "priya",
+      "type": "PERSON"
     },
     {
-      "index": 88,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 154,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 168,
-      "value": "3556",
-      "type": "OTHER"
-    },
-    {
-      "index": 200,
-      "value": "y",
-      "type": "OTHER"
-    },
-    {
-      "index": 262,
-      "value": "healthify",
+      "index": 51,
+      "value": "elevatenow",
       "type": "ORGANIZATION"
     },
     {
-      "index": 264,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 362,
-      "value": "mbbs",
-      "type": "OTHER"
-    },
-    {
-      "index": 363,
-      "value": "md",
-      "type": "OTHER"
-    },
-    {
-      "index": 386,
-      "value": "whatsapp",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 440,
-      "value": "elevate nows",
-      "type": "ORGANIZATION"
-    }
-  ],
-  "entities_ref": [
-    {
-      "index": 10,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 12,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 18,
-      "value": "atul sinha",
-      "type": "PERSON"
-    },
-    {
-      "index": 24,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 26,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 36,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 38,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 44,
-      "value": "atul sinha",
-      "type": "PERSON"
-    },
-    {
-      "index": 50,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 52,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 58,
+      "index": 59,
       "value": "atul sinha",
       "type": "PERSON"
     },
@@ -165,86 +160,148 @@
       "type": "PRODUCT"
     },
     {
-      "index": 96,
-      "value": "india",
-      "type": "GPE"
-    },
-    {
       "index": 98,
-      "value": "patna",
-      "type": "GPE"
+      "value": "india",
+      "type": "LOCATION/GPE"
     },
     {
-      "index": 108,
+      "index": 100,
+      "value": "patna",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 110,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 120,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
       "index": 128,
-      "value": "nano plan",
-      "type": "PRODUCT"
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
     },
     {
-      "index": 182,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 198,
-      "value": "3556",
+      "index": 152,
+      "value": "kidney transplant",
       "type": "OTHER"
     },
     {
-      "index": 264,
-      "value": "healthifi",
-      "type": "ORG"
-    },
-    {
-      "index": 266,
+      "index": 172,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 322,
+      "index": 192,
+      "value": "bmi of 3556",
+      "type": "OTHER"
+    },
+    {
+      "index": 213,
+      "value": "obesity stage category i",
+      "type": "OTHER"
+    },
+    {
+      "index": 233,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 237,
+      "value": "high blood sugar",
+      "type": "OTHER"
+    },
+    {
+      "index": 255,
+      "value": "healthifi",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 259,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 285,
+      "value": "obesity specialized doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 291,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 301,
       "value": "mbbs",
       "type": "OTHER"
     },
     {
-      "index": 323,
+      "index": 303,
       "value": "md",
       "type": "OTHER"
     },
     {
-      "index": 338,
+      "index": 313,
+      "value": "endocrinology diabetes",
+      "type": "OTHER"
+    },
+    {
+      "index": 334,
       "value": "whatsapp",
       "type": "PRODUCT"
     },
     {
-      "index": 400,
-      "value": "elevatenows",
-      "type": "ORG"
+      "index": 346,
+      "value": "payment process",
+      "type": "OTHER"
+    },
+    {
+      "index": 354,
+      "value": "payment links",
+      "type": "OTHER"
+    },
+    {
+      "index": 366,
+      "value": "elevatenow's aiassisted health expert",
+      "type": "PERSON"
     }
   ],
   "unique_entities_gt": [
     [
-      "priya",
-      "PERSON"
-    ],
-    [
-      "healthify",
-      "ORGANIZATION"
+      "elevate now's ai",
+      "PRODUCT"
     ],
     [
       "md",
       "OTHER"
     ],
     [
+      "healthify",
+      "ORG"
+    ],
+    [
+      "mbbs",
+      "OTHER"
+    ],
+    [
+      "3556",
+      "MONEY"
+    ],
+    [
+      "elevate now",
+      "ORG"
+    ],
+    [
       "atul sinha",
       "PERSON"
     ],
     [
-      "elevate nows",
-      "ORGANIZATION"
+      "priya",
+      "PERSON"
     ],
     [
       "whatsapp",
@@ -253,83 +310,189 @@
     [
       "nano plan",
       "PRODUCT"
-    ],
-    [
-      "y",
-      "OTHER"
-    ],
-    [
-      "3556",
-      "OTHER"
-    ],
-    [
-      "mbbs",
-      "OTHER"
-    ],
-    [
-      "elevate now",
-      "ORGANIZATION"
     ]
   ],
   "unique_entities_ref": [
     [
-      "priya",
+      "elevatenow",
+      "ORGANIZATION"
+    ],
+    [
+      "india",
+      "LOCATION/GPE"
+    ],
+    [
+      "elevatenow's aiassisted health expert",
       "PERSON"
     ],
     [
-      "md",
+      "payment process",
+      "OTHER"
+    ],
+    [
+      "insulin resistance",
+      "OTHER"
+    ],
+    [
+      "payment links",
+      "OTHER"
+    ],
+    [
+      "obesity stage category i",
       "OTHER"
     ],
     [
       "patna",
-      "GPE"
+      "LOCATION/GPE"
     ],
     [
-      "atul sinha",
+      "obesity specialized doctor",
       "PERSON"
     ],
     [
-      "healthifi",
-      "ORG"
-    ],
-    [
-      "whatsapp",
-      "PRODUCT"
-    ],
-    [
-      "elevatenows",
-      "ORG"
+      "obesity specialist doctor",
+      "PERSON"
     ],
     [
       "nano plan",
       "PRODUCT"
     ],
     [
-      "india",
-      "GPE"
+      "senior health coach",
+      "PERSON"
     ],
     [
-      "3556",
+      "priya",
+      "PERSON"
+    ],
+    [
+      "bmi of 3556",
       "OTHER"
     ],
     [
-      "elevatenow",
-      "ORG"
+      "kidney transplant",
+      "OTHER"
+    ],
+    [
+      "high blood sugar",
+      "OTHER"
+    ],
+    [
+      "md",
+      "OTHER"
     ],
     [
       "mbbs",
       "OTHER"
+    ],
+    [
+      "healthifi",
+      "ORGANIZATION"
+    ],
+    [
+      "endocrinology diabetes",
+      "OTHER"
+    ],
+    [
+      "atul sinha",
+      "PERSON"
+    ],
+    [
+      "whatsapp",
+      "PRODUCT"
     ]
   ],
   "concerned_entities_gt": [
     {
-      "index": 10,
+      "index": 4,
       "value": "priya",
       "type": "PERSON"
     },
     {
-      "index": 14,
+      "index": 9,
       "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 11,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 16,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 18,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 26,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 31,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 33,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 41,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 57,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 96,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 158,
+      "value": "healthify",
+      "type": "ORG"
+    },
+    {
+      "index": 160,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 258,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 278,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 297,
+      "value": "elevate now's ai",
+      "type": "PRODUCT"
+    }
+  ],
+  "concerned_entities_ref": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 15,
+      "value": "atul sinha",
       "type": "PERSON"
     },
     {
@@ -339,99 +502,123 @@
     },
     {
       "index": 32,
-      "value": "atul sinha",
-      "type": "PERSON"
-    },
-    {
-      "index": 36,
       "value": "priya",
       "type": "PERSON"
     },
     {
-      "index": 46,
-      "value": "atul sinha",
-      "type": "PERSON"
-    }
-  ],
-  "concerned_entities_ref": [
-    {
-      "index": 10,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 12,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 18,
+      "index": 42,
       "value": "atul sinha",
       "type": "PERSON"
     },
     {
-      "index": 24,
+      "index": 49,
       "value": "priya",
       "type": "PERSON"
     },
     {
-      "index": 26,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 36,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 38,
-      "value": "elevatenow",
-      "type": "ORG"
-    },
-    {
-      "index": 44,
+      "index": 59,
       "value": "atul sinha",
       "type": "PERSON"
     },
     {
-      "index": 50,
-      "value": "priya",
+      "index": 66,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 110,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 120,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 128,
+      "value": "obesity specialist doctor",
       "type": "PERSON"
     },
     {
-      "index": 52,
-      "value": "elevatenow",
-      "type": "ORG"
+      "index": 172,
+      "value": "nano plan",
+      "type": "PRODUCT"
     },
     {
-      "index": 58,
-      "value": "atul sinha",
+      "index": 259,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 285,
+      "value": "obesity specialized doctor",
       "type": "PERSON"
     },
     {
-      "index": 264,
-      "value": "healthifi",
-      "type": "ORG"
+      "index": 291,
+      "value": "senior health coach",
+      "type": "PERSON"
     },
     {
-      "index": 400,
-      "value": "elevatenows",
-      "type": "ORG"
+      "index": 334,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 366,
+      "value": "elevatenow's aiassisted health expert",
+      "type": "PERSON"
     }
   ],
   "unique_concerned_ner_gt": [
     [
+      "elevate now's ai",
+      "PRODUCT"
+    ],
+    [
+      "healthify",
+      "ORG"
+    ],
+    [
+      "elevate now",
+      "ORG"
+    ],
+    [
       "priya",
       "PERSON"
     ],
     [
       "atul sinha",
       "PERSON"
+    ],
+    [
+      "whatsapp",
+      "PRODUCT"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
     ]
   ],
   "unique_concerned_ner_ref": [
     [
+      "elevatenow's aiassisted health expert",
+      "PERSON"
+    ],
+    [
+      "obesity specialized doctor",
+      "PERSON"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ],
+    [
+      "senior health coach",
+      "PERSON"
+    ],
+    [
       "priya",
       "PERSON"
     ],
@@ -440,503 +627,28 @@
       "PERSON"
     ],
     [
-      "healthifi",
-      "ORG"
+      "whatsapp",
+      "PRODUCT"
     ],
     [
-      "elevatenows",
-      "ORG"
-    ],
-    [
-      "elevatenow",
-      "ORG"
+      "obesity specialist doctor",
+      "PERSON"
     ]
   ],
-  "time_taken": 0.0019919872283935547,
+  "time_taken": 0.0007851123809814453,
   "ref_tokens": [
+    "hello",
     "this",
     "is",
     "priya",
-    "from",
-    "elevatenow",
-    "am",
-    "i",
-    "speaking",
-    "with",
-    "atul",
-    "sinha",
-    "this",
-    "is",
-    "priya",
-    "from",
-    "elevatenow",
-    "am",
-    "this",
-    "is",
-    "priya",
-    "from",
-    "elevatenow",
-    "am",
-    "i",
-    "speaking",
-    "with",
-    "atul",
-    "sinha",
-    "this",
-    "is",
-    "priya",
-    "from",
-    "elevatenow",
-    "am",
-    "i",
-    "speaking",
-    "with",
-    "atul",
-    "sinha",
-    "great",
-    "i",
-    "noticed",
-    "you",
-    "were",
-    "checking",
-    "out",
-    "our",
-    "nano",
-    "plan",
-    "but",
-    "didnt",
-    "complete",
-    "the",
-    "payment",
-    "id",
-    "love",
-    "to",
-    "understand",
-    "what",
-    "motivated",
-    "you",
-    "to",
-    "consider",
-    "our",
-    "program",
-    "and",
-    "what",
-    "your",
-    "weight",
-    "loss",
-    "goals",
-    "are",
-    "we",
-    "are",
-    "serviceable",
-    "for",
-    "most",
-    "parts",
-    "of",
-    "india",
-    "including",
-    "patna",
-    "as",
-    "we",
-    "have",
-    "partnered",
-    "with",
-    "several",
-    "lab",
-    "test",
-    "providers",
-    "you",
-    "can",
-    "definitely",
-    "access",
-    "the",
-    "nano",
-    "plan",
-    "there",
-    "would",
-    "you",
-    "like",
-    "to",
-    "know",
-    "more",
-    "about",
-    "how",
-    "it",
-    "can",
-    "help",
-    "you",
-    "achieve",
-    "your",
-    "weight",
-    "loss",
-    "goals",
-    "the",
-    "nano",
-    "plan",
-    "is",
-    "supervised",
-    "by",
-    "a",
-    "senior",
-    "obesity",
-    "specialist",
-    "doctor",
-    "and",
-    "is",
-    "designed",
-    "to",
-    "be",
-    "safe",
-    "and",
-    "simple",
-    "all",
-    "pre",
-    "existing",
-    "conditions",
-    "including",
-    "a",
-    "kidney",
-    "transplant",
-    "will",
-    "be",
-    "considered",
-    "during",
-    "your",
-    "consultation",
-    "with",
-    "the",
-    "doctor",
-    "and",
-    "health",
-    "coach",
-    "they",
-    "will",
-    "ensure",
-    "the",
-    "plan",
-    "is",
-    "tailored",
-    "to",
-    "your",
-    "specific",
-    "needs",
-    "would",
-    "you",
-    "like",
-    "to",
-    "explore",
-    "how",
-    "the",
-    "nano",
-    "plan",
-    "can",
-    "support",
-    "your",
-    "health",
-    "journey",
-    "based",
-    "on",
-    "your",
-    "bmi",
-    "of",
-    "3556",
-    "its",
-    "clear",
-    "your",
-    "body",
-    "is",
-    "sending",
-    "signals",
-    "about",
-    "how",
-    "its",
-    "handling",
-    "weight",
-    "and",
-    "metabolism",
-    "right",
-    "now",
-    "at",
-    "this",
-    "obesity",
-    "stage",
-    "category",
-    "1",
-    "most",
-    "people",
-    "struggle",
-    "with",
-    "insulin",
-    "resistance",
-    "and",
-    "high",
-    "blood",
-    "sugar",
-    "leading",
-    "to",
-    "intense",
-    "cravings",
-    "and",
-    "stubborn",
-    "fat",
-    "storage",
-    "our",
-    "plan",
-    "is",
-    "designed",
-    "to",
-    "stabilize",
-    "blood",
-    "sugar",
-    "and",
-    "improve",
-    "insulin",
-    "sensitivity",
-    "making",
-    "fat",
-    "loss",
-    "easier",
-    "and",
-    "more",
-    "sustainable",
-    "have",
-    "you",
-    "had",
-    "any",
-    "past",
-    "experiences",
-    "with",
-    "other",
-    "weight",
-    "loss",
-    "programs",
-    "im",
-    "glad",
-    "to",
-    "hear",
-    "that",
-    "you",
-    "had",
-    "some",
-    "success",
-    "with",
-    "healthifi",
-    "our",
-    "nano",
-    "plan",
-    "is",
-    "designed",
-    "to",
-    "address",
-    "specific",
-    "metabolic",
-    "challenges",
-    "that",
-    "might",
-    "still",
-    "affect",
-    "your",
-    "weight",
-    "loss",
-    "journey",
-    "let",
-    "me",
-    "tell",
-    "you",
-    "more",
-    "about",
-    "how",
-    "it",
-    "can",
-    "support",
-    "your",
-    "goals",
-    "it",
-    "starts",
-    "with",
-    "a",
-    "blood",
-    "test",
-    "followed",
-    "by",
-    "a",
-    "consultation",
-    "with",
-    "an",
-    "obesity",
-    "specialized",
-    "doctor",
-    "and",
-    "a",
-    "session",
-    "with",
-    "a",
-    "senior",
-    "health",
-    "coach",
-    "would",
-    "you",
-    "like",
-    "to",
-    "know",
-    "how",
-    "these",
-    "offerings",
-    "can",
-    "help",
-    "you",
-    "achieve",
-    "your",
-    "weight",
-    "loss",
-    "goals",
-    "our",
-    "team",
-    "of",
-    "doctors",
-    "is",
-    "highly",
-    "qualified",
-    "with",
-    "degrees",
-    "such",
-    "as",
-    "mbbs",
-    "md",
-    "and",
-    "advanced",
-    "certifications",
-    "from",
-    "prestigious",
-    "institutions",
-    "worldwide",
-    "they",
-    "have",
-    "extensive",
-    "experience",
-    "in",
-    "fields",
-    "like",
-    "endocrinology",
-    "diabetes",
-    "thats",
-    "great",
-    "to",
-    "hear",
-    "you",
-    "can",
-    "choose",
-    "between",
-    "partial",
-    "or",
-    "full",
-    "ill",
-    "send",
-    "both",
-    "the",
-    "payment",
-    "links",
-    "to",
-    "you",
-    "over",
-    "whatsapp",
-    "on",
-    "your",
-    "registered",
-    "mobile",
-    "number",
-    "if",
-    "you",
-    "have",
-    "any",
-    "more",
-    "doubts",
-    "feel",
-    "free",
-    "to",
-    "ask",
-    "otherwise",
-    "we",
-    "can",
-    "proceed",
-    "with",
-    "the",
-    "payment",
-    "process",
-    "perfect",
-    "ill",
-    "send",
-    "the",
-    "payment",
-    "links",
-    "to",
-    "your",
-    "registered",
-    "mobile",
-    "number",
-    "right",
-    "away",
-    "if",
-    "you",
-    "have",
-    "any",
-    "more",
-    "doubts",
-    "later",
-    "feel",
-    "free",
-    "to",
-    "reach",
-    "out",
-    "goodbye",
-    "and",
-    "have",
-    "a",
-    "great",
-    "day",
-    "youre",
-    "i",
-    "am",
-    "elevatenows",
-    "ai",
-    "assisted",
-    "health",
-    "expert",
-    "here",
-    "to",
-    "guide",
-    "you",
-    "on",
-    "your",
-    "health",
-    "and",
-    "wellness",
-    "journey",
-    "if",
-    "you",
-    "have",
-    "any",
-    "more",
-    "questions",
-    "or",
-    "need",
-    "further",
-    "assistance",
-    "feel",
-    "free",
-    "to",
-    "ask"
-  ],
-  "hyp_tokens": [
-    "this",
-    "is",
-    "priya",
+    "hello",
     "this",
     "is",
     "priya",
     "from",
     "elevate",
     "now",
+    "hello",
     "this",
     "is",
     "priya",
@@ -949,6 +661,7 @@
     "with",
     "atul",
     "sinha",
+    "hello",
     "this",
     "is",
     "priya",
@@ -972,11 +685,11 @@
     "nano",
     "plan",
     "but",
-    "didnt",
+    "didn't",
     "complete",
     "the",
     "payment",
-    "id",
+    "i'd",
     "love",
     "to",
     "understand",
@@ -1063,7 +776,7 @@
     "bmi",
     "of",
     "3556",
-    "its",
+    "it's",
     "clear",
     "your",
     "body",
@@ -1072,7 +785,7 @@
     "signals",
     "about",
     "how",
-    "its",
+    "it's",
     "handling",
     "weight",
     "and",
@@ -1133,7 +846,7 @@
     "weight",
     "loss",
     "programs",
-    "im",
+    "i'm",
     "glad",
     "to",
     "hear",
@@ -1212,6 +925,7 @@
     "weight",
     "loss",
     "goals",
+    "yes",
     "our",
     "team",
     "of",
@@ -1239,7 +953,7 @@
     "in",
     "fields",
     "like",
-    "thats",
+    "that's",
     "great",
     "to",
     "hear",
@@ -1247,7 +961,8 @@
     "can",
     "choose",
     "between",
-    "ill",
+    "yes",
+    "i'll",
     "send",
     "both",
     "the",
@@ -1281,7 +996,7 @@
     "payment",
     "process",
     "perfect",
-    "ill",
+    "i'll",
     "send",
     "the",
     "payment",
@@ -1314,7 +1029,7 @@
     "i",
     "am",
     "elevate",
-    "nows",
+    "now's",
     "ai",
     "assisted",
     "health",
@@ -1344,5 +1059,483 @@
     "to",
     "ask"
   ],
-  "mismatches_count": 69
+  "hyp_tokens": [
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "atul",
+    "sinha",
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "atul",
+    "sinha",
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "atul",
+    "sinha",
+    "great",
+    "i",
+    "noticed",
+    "you",
+    "were",
+    "checking",
+    "out",
+    "our",
+    "nano",
+    "plan",
+    "but",
+    "didn't",
+    "complete",
+    "the",
+    "payment",
+    "i'd",
+    "love",
+    "to",
+    "understand",
+    "what",
+    "motivated",
+    "you",
+    "to",
+    "consider",
+    "our",
+    "program",
+    "and",
+    "what",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "are",
+    "we",
+    "are",
+    "serviceable",
+    "for",
+    "most",
+    "parts",
+    "of",
+    "india",
+    "including",
+    "patna",
+    "as",
+    "we",
+    "have",
+    "partnered",
+    "with",
+    "several",
+    "lab",
+    "test",
+    "providers",
+    "you",
+    "can",
+    "definitely",
+    "access",
+    "the",
+    "nano",
+    "plan",
+    "there",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "more",
+    "about",
+    "how",
+    "it",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "supervised",
+    "by",
+    "a",
+    "senior",
+    "obesity",
+    "specialist",
+    "doctor",
+    "and",
+    "is",
+    "designed",
+    "to",
+    "be",
+    "safe",
+    "and",
+    "simple",
+    "all",
+    "preexisting",
+    "conditions",
+    "including",
+    "a",
+    "kidney",
+    "transplant",
+    "will",
+    "be",
+    "considered",
+    "during",
+    "your",
+    "consultation",
+    "with",
+    "the",
+    "doctor",
+    "and",
+    "health",
+    "coach",
+    "they",
+    "will",
+    "ensure",
+    "the",
+    "plan",
+    "is",
+    "tailored",
+    "to",
+    "your",
+    "specific",
+    "needs",
+    "would",
+    "you",
+    "like",
+    "to",
+    "explore",
+    "how",
+    "the",
+    "nano",
+    "plan",
+    "can",
+    "support",
+    "your",
+    "health",
+    "journey",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "3556",
+    "it's",
+    "clear",
+    "your",
+    "body",
+    "is",
+    "sending",
+    "signals",
+    "about",
+    "how",
+    "it's",
+    "handling",
+    "weight",
+    "and",
+    "metabolism",
+    "right",
+    "now",
+    "at",
+    "this",
+    "obesity",
+    "stage",
+    "category",
+    "i",
+    "most",
+    "people",
+    "struggle",
+    "with",
+    "insulin",
+    "resistance",
+    "and",
+    "high",
+    "blood",
+    "sugar",
+    "leading",
+    "to",
+    "intense",
+    "cravings",
+    "and",
+    "stubborn",
+    "fat",
+    "storage",
+    "our",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "stabilize",
+    "blood",
+    "sugar",
+    "and",
+    "improve",
+    "insulin",
+    "sensitivity",
+    "making",
+    "fat",
+    "loss",
+    "easier",
+    "and",
+    "more",
+    "sustainable",
+    "have",
+    "you",
+    "had",
+    "any",
+    "past",
+    "experiences",
+    "with",
+    "other",
+    "weight",
+    "loss",
+    "programs",
+    "i'm",
+    "glad",
+    "to",
+    "hear",
+    "that",
+    "you",
+    "had",
+    "some",
+    "success",
+    "with",
+    "healthifi",
+    "our",
+    "nano",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "address",
+    "specific",
+    "metabolic",
+    "challenges",
+    "that",
+    "might",
+    "still",
+    "affect",
+    "your",
+    "weight",
+    "loss",
+    "journey",
+    "let",
+    "me",
+    "tell",
+    "you",
+    "more",
+    "about",
+    "how",
+    "it",
+    "can",
+    "support",
+    "your",
+    "goals",
+    "it",
+    "starts",
+    "with",
+    "a",
+    "blood",
+    "test",
+    "followed",
+    "by",
+    "a",
+    "consultation",
+    "with",
+    "an",
+    "obesity",
+    "specialized",
+    "doctor",
+    "and",
+    "a",
+    "session",
+    "with",
+    "a",
+    "senior",
+    "health",
+    "coach",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "how",
+    "these",
+    "offerings",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "yes",
+    "our",
+    "team",
+    "of",
+    "doctors",
+    "is",
+    "highly",
+    "qualified",
+    "with",
+    "degrees",
+    "such",
+    "as",
+    "mbbs",
+    "md",
+    "and",
+    "advanced",
+    "certifications",
+    "from",
+    "prestigious",
+    "institutions",
+    "worldwide",
+    "they",
+    "have",
+    "extensive",
+    "experience",
+    "in",
+    "fields",
+    "like",
+    "endocrinology",
+    "diabetes",
+    "that's",
+    "great",
+    "to",
+    "hear",
+    "you",
+    "can",
+    "choose",
+    "between",
+    "partial",
+    "or",
+    "full",
+    "yes",
+    "i'll",
+    "send",
+    "both",
+    "the",
+    "payment",
+    "links",
+    "to",
+    "you",
+    "over",
+    "whatsapp",
+    "on",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "doubts",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "otherwise",
+    "we",
+    "can",
+    "proceed",
+    "with",
+    "the",
+    "payment",
+    "process",
+    "perfect",
+    "i'll",
+    "send",
+    "the",
+    "payment",
+    "links",
+    "to",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "right",
+    "away",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "doubts",
+    "later",
+    "feel",
+    "free",
+    "to",
+    "reach",
+    "out",
+    "goodbye",
+    "and",
+    "have",
+    "a",
+    "great",
+    "day",
+    "you're",
+    "i",
+    "am",
+    "elevatenow's",
+    "aiassisted",
+    "health",
+    "expert",
+    "here",
+    "to",
+    "guide",
+    "you",
+    "on",
+    "your",
+    "health",
+    "and",
+    "wellness",
+    "journey",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "or",
+    "need",
+    "further",
+    "assistance",
+    "feel",
+    "free",
+    "to",
+    "ask"
+  ],
+  "mismatches_count": 71
 }

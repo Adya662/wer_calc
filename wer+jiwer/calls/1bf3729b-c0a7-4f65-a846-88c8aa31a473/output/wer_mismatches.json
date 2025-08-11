@@ -1,0 +1,350 @@
+{
+  "wer": 0.14754098360655737,
+  "insertions": 16,
+  "deletions": 2,
+  "substitutions": 18,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 58,
+      "index_hyp": 61,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "brand name of the order you would like to check i"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 58,
+      "index_hyp": 62,
+      "ref_word": "youd",
+      "hyp_word": "would",
+      "ref_context": "brand name of the order youd like to check ill check",
+      "hyp_context": "name of the order you would like to check i will"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 62,
+      "index_hyp": 66,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "you would like to check i will check the details for"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 62,
+      "index_hyp": 67,
+      "ref_word": "ill",
+      "hyp_word": "will",
+      "ref_context": "order youd like to check ill check the details for you",
+      "hyp_context": "would like to check i will check the details for you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 87,
+      "index_hyp": 92,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "help me identify it yes i am here could you please"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 87,
+      "index_hyp": 93,
+      "ref_word": "im",
+      "hyp_word": "am",
+      "ref_context": "help me identify it yes im here could you please confirm",
+      "hyp_context": "me identify it yes i am here could you please confirm"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 114,
+      "index_hyp": 120,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "help me find your order i am sorry i could not"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 114,
+      "index_hyp": 121,
+      "ref_word": "im",
+      "hyp_word": "am",
+      "ref_context": "help me find your order im sorry i couldnt locate any",
+      "hyp_context": "me find your order i am sorry i could not locate"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 117,
+      "index_hyp": 124,
+      "ref_word": "",
+      "hyp_word": "could",
+      "ref_context": "",
+      "hyp_context": "order i am sorry i could not locate any recent orders"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 117,
+      "index_hyp": 125,
+      "ref_word": "couldnt",
+      "hyp_word": "not",
+      "ref_context": "your order im sorry i couldnt locate any recent orders in",
+      "hyp_context": "i am sorry i could not locate any recent orders in"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 135,
+      "index_hyp": 143,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "can help you with today i am sorry i can only"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 135,
+      "index_hyp": 144,
+      "ref_word": "im",
+      "hyp_word": "am",
+      "ref_context": "can help you with today im sorry i can only assist",
+      "hyp_context": "help you with today i am sorry i can only assist"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 146,
+      "index_hyp": 155,
+      "ref_word": "return",
+      "hyp_word": "returnrelated",
+      "ref_context": "with your myntra orders or return related queries could you please",
+      "hyp_context": "with your mintra orders or returnrelated queries could you please let"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 147,
+      "index_hyp": 156,
+      "ref_word": "related",
+      "hyp_word": "",
+      "ref_context": "your myntra orders or return related queries could you please let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 156,
+      "index_hyp": 164,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "please let me know if there is anything else i can"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 156,
+      "index_hyp": 165,
+      "ref_word": "theres",
+      "hyp_word": "is",
+      "ref_context": "please let me know if theres anything else i can help",
+      "hyp_context": "let me know if there is anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 168,
+      "index_hyp": 177,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "with regarding your mintra order i am sorry i can only"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 168,
+      "index_hyp": 178,
+      "ref_word": "im",
+      "hyp_word": "am",
+      "ref_context": "with regarding your myntra order im sorry i can only assist",
+      "hyp_context": "regarding your mintra order i am sorry i can only assist"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 179,
+      "index_hyp": 189,
+      "ref_word": "return",
+      "hyp_word": "returnrelated",
+      "ref_context": "with your myntra orders or return related queries could you let",
+      "hyp_context": "with your mintra orders or returnrelated queries could you let me"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 180,
+      "index_hyp": 190,
+      "ref_word": "related",
+      "hyp_word": "",
+      "ref_context": "your myntra orders or return related queries could you let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 188,
+      "index_hyp": 197,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "you let me know if there is anything else i can"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 188,
+      "index_hyp": 198,
+      "ref_word": "theres",
+      "hyp_word": "is",
+      "ref_context": "you let me know if theres anything else i can help",
+      "hyp_context": "let me know if there is anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 224,
+      "index_hyp": 234,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "locate your order i understand you are having difficulty with the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 224,
+      "index_hyp": 235,
+      "ref_word": "youre",
+      "hyp_word": "are",
+      "ref_context": "locate your order i understand youre having difficulty with the product",
+      "hyp_context": "your order i understand you are having difficulty with the product"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 244,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "simulating",
+      "ref_context": "",
+      "hyp_context": "who can assist you better simulating human transfer"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 244,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "human",
+      "ref_context": "",
+      "hyp_context": "can assist you better simulating human transfer"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 244,
+      "index_hyp": 257,
+      "ref_word": "",
+      "hyp_word": "transfer",
+      "ref_context": "",
+      "hyp_context": "assist you better simulating human transfer"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "youd",
+      "hypothesis": "would"
+    },
+    {
+      "reference": "ill",
+      "hypothesis": "will"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "couldnt",
+      "hypothesis": "not"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "return",
+      "hypothesis": "returnrelated"
+    },
+    {
+      "reference": "theres",
+      "hypothesis": "is"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "return",
+      "hypothesis": "returnrelated"
+    },
+    {
+      "reference": "theres",
+      "hypothesis": "is"
+    },
+    {
+      "reference": "youre",
+      "hypothesis": "are"
+    }
+  ],
+  "deletion_words": [
+    "related",
+    "related"
+  ],
+  "insertion_words": [
+    "hey",
+    "i",
+    "am",
+    "you",
+    "i",
+    "i",
+    "i",
+    "could",
+    "i",
+    "there",
+    "i",
+    "there",
+    "you",
+    "simulating",
+    "human",
+    "transfer"
+  ]
+}

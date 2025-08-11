@@ -1,0 +1,1822 @@
+adyasrivastava@NURIX-37 wer+jiwer % python3 wer_gpt.py calls
+🚀 Starting WER processing for all calls in: calls
+================================================================================
+🚀 [03261666-7d82-49ec-8d6e-78c2f716ad73] started at 12:48:20
+🎯 Filtered 17 assistant utterances from 31 total utterances
+🎯 Filtered 13 Agent utterances from 23 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 26 mismatches and measures to calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/03261666-7d82-49ec-8d6e-78c2f716ad73/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.2093
+  Total GT NERs: 7
+  Total Ref NERs: 19
+  Unique GT NERs: 6
+  Unique Ref NERs: 13
+  Total Concerned GT NERs (PERSON/ORG): 4
+  Total Concerned Ref NERs (PERSON/ORG): 13
+  Unique Concerned GT NERs: 4
+  Unique Concerned Ref NERs: 8
+  Time taken: 0.001085 seconds
+
+  Substitutions:
+    1. 'intezar' -> 'intjaar'
+    2. 'any' -> 'anya'
+  Deletions:
+  Insertions:
+    1. 'mintra' — extra in hypothesis
+    2. 'here' — extra in hypothesis
+    3. 'to' — extra in hypothesis
+    4. 'assist' — extra in hypothesis
+    5. 'you' — extra in hypothesis
+    6. 'shall' — extra in hypothesis
+    7. 'we' — extra in hypothesis
+    8. 'proceed' — extra in hypothesis
+    9. 'further' — extra in hypothesis
+    10. 'in' — extra in hypothesis
+    11. 'hindi' — extra in hypothesis
+    12. 'or' — extra in hypothesis
+    13. 'english' — extra in hypothesis
+    14. 'hoon' — extra in hypothesis
+    15. 'theek' — extra in hypothesis
+    16. 'hoon' — extra in hypothesis
+    17. 'thoda' — extra in hypothesis
+    18. 'intjaar' — extra in hypothesis
+    19. 'kijie' — extra in hypothesis
+    20. 'main' — extra in hypothesis
+    21. 'aapke' — extra in hypothesis
+    22. 'products' — extra in hypothesis
+    23. 'la' — extra in hypothesis
+    24. 'rahi' — extra in hypothesis
+🏁 [03261666-7d82-49ec-8d6e-78c2f716ad73] completed at 12:48:46, took 26.54s
+🚀 [03856e6b-6925-4012-8eb8-0a0289019b7e] started at 12:48:46
+🎯 Filtered 21 assistant utterances from 41 total utterances
+🎯 Filtered 13 Agent utterances from 26 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 71 mismatches and measures to calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/03856e6b-6925-4012-8eb8-0a0289019b7e/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1686
+  Total GT NERs: 19
+  Total Ref NERs: 34
+  Unique GT NERs: 10
+  Unique Ref NERs: 22
+  Total Concerned GT NERs (PERSON/ORG): 16
+  Total Concerned Ref NERs (PERSON/ORG): 17
+  Unique Concerned GT NERs: 7
+  Unique Concerned Ref NERs: 8
+  Time taken: 0.000785 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'now' -> 'am'
+    3. 'elevate' -> 'elevatenow'
+    4. 'elevate' -> 'elevatenow'
+    5. 'y' -> 'i'
+    6. 'healthify' -> 'our'
+    7. 'elevate' -> 'elevatenow's'
+    8. 'now's' -> 'aiassisted'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'now' — missing in hypothesis
+    3. 'ai' — missing in hypothesis
+    4. 'assisted' — missing in hypothesis
+  Insertions:
+    1. 'from' — extra in hypothesis
+    2. 'elevatenow' — extra in hypothesis
+    3. 'am' — extra in hypothesis
+    4. 'i' — extra in hypothesis
+    5. 'speaking' — extra in hypothesis
+    6. 'with' — extra in hypothesis
+    7. 'atul' — extra in hypothesis
+    8. 'sinha' — extra in hypothesis
+    9. 'we' — extra in hypothesis
+    10. 'are' — extra in hypothesis
+    11. 'serviceable' — extra in hypothesis
+    12. 'for' — extra in hypothesis
+    13. 'most' — extra in hypothesis
+    14. 'parts' — extra in hypothesis
+    15. 'of' — extra in hypothesis
+    16. 'india' — extra in hypothesis
+    17. 'including' — extra in hypothesis
+    18. 'patna' — extra in hypothesis
+    19. 'as' — extra in hypothesis
+    20. 'we' — extra in hypothesis
+    21. 'have' — extra in hypothesis
+    22. 'partnered' — extra in hypothesis
+    23. 'with' — extra in hypothesis
+    24. 'several' — extra in hypothesis
+    25. 'lab' — extra in hypothesis
+    26. 'test' — extra in hypothesis
+    27. 'providers' — extra in hypothesis
+    28. 'you' — extra in hypothesis
+    29. 'can' — extra in hypothesis
+    30. 'definitely' — extra in hypothesis
+    31. 'access' — extra in hypothesis
+    32. 'there' — extra in hypothesis
+    33. 'would' — extra in hypothesis
+    34. 'you' — extra in hypothesis
+    35. 'like' — extra in hypothesis
+    36. 'to' — extra in hypothesis
+    37. 'know' — extra in hypothesis
+    38. 'more' — extra in hypothesis
+    39. 'about' — extra in hypothesis
+    40. 'how' — extra in hypothesis
+    41. 'it' — extra in hypothesis
+    42. 'can' — extra in hypothesis
+    43. 'help' — extra in hypothesis
+    44. 'you' — extra in hypothesis
+    45. 'achieve' — extra in hypothesis
+    46. 'your' — extra in hypothesis
+    47. 'weight' — extra in hypothesis
+    48. 'loss' — extra in hypothesis
+    49. 'goals' — extra in hypothesis
+    50. 'the' — extra in hypothesis
+    51. 'nano' — extra in hypothesis
+    52. 'plan' — extra in hypothesis
+    53. 'healthifi' — extra in hypothesis
+    54. 'endocrinology' — extra in hypothesis
+    55. 'diabetes' — extra in hypothesis
+    56. 'partial' — extra in hypothesis
+    57. 'or' — extra in hypothesis
+    58. 'full' — extra in hypothesis
+    59. 'you're' — extra in hypothesis
+🏁 [03856e6b-6925-4012-8eb8-0a0289019b7e] completed at 12:49:42, took 55.32s
+🚀 [09f69426-e7e6-4f2a-a20a-75416d945306] started at 12:49:42
+🎯 Filtered 27 assistant utterances from 51 total utterances
+🎯 Filtered 23 Agent utterances from 34 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 102 mismatches and measures to calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/09f69426-e7e6-4f2a-a20a-75416d945306/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1871
+  Total GT NERs: 40
+  Total Ref NERs: 40
+  Unique GT NERs: 23
+  Unique Ref NERs: 20
+  Total Concerned GT NERs (PERSON/ORG): 35
+  Total Concerned Ref NERs (PERSON/ORG): 36
+  Unique Concerned GT NERs: 18
+  Unique Concerned Ref NERs: 17
+  Time taken: 0.001902 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'i' -> 'great'
+    3. 'aapke' -> 'weight'
+    4. '1799' -> 'ninetynine'
+    5. 'hai' -> 'hain'
+    6. '1799' -> 'hundred'
+    7. 'rupaye' -> 'ninetynine'
+    8. 'kya' -> 'is'
+    9. 'ya' -> 'aur'
+    10. 'hai' -> 'hain'
+    11. '6000' -> 'six'
+    12. 'rupaye' -> 'thousand'
+    13. 'kuch' -> 'mein'
+    14. 'jante' -> 'jaanna'
+    15. 'hain' -> 'chaahenge'
+    16. 'aur' -> 'main'
+    17. 'janna' -> 'aapki'
+    18. 'chahenge' -> 'madad'
+    19. 'kick' -> 'kickstart'
+    20. 'three' -> '3'
+    21. 'six' -> '6'
+    22. '12' -> '12month'
+    23. 'road' -> 'roadmap'
+    24. '12' -> '12month'
+    25. 'money' -> 'moneyback'
+    26. 'vibhinn' -> 'dhanyavaad'
+    27. 'isse' -> 'se'
+    28. 'kuch' -> 'kuchh'
+    29. 'sawal' -> 'savaal'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'noticed' — missing in hypothesis
+    3. 'you' — missing in hypothesis
+    4. 'start' — missing in hypothesis
+    5. 'month' — missing in hypothesis
+    6. 'map' — missing in hypothesis
+    7. 'month' — missing in hypothesis
+    8. 'back' — missing in hypothesis
+    9. 'the' — missing in hypothesis
+    10. 'pricing' — missing in hypothesis
+    11. 'for' — missing in hypothesis
+    12. 'the' — missing in hypothesis
+    13. 'three' — missing in hypothesis
+    14. 'months' — missing in hypothesis
+    15. 'vikalp' — missing in hypothesis
+    16. 'aap' — missing in hypothesis
+    17. 'mujhse' — missing in hypothesis
+    18. 'nano' — missing in hypothesis
+    19. 'plan' — missing in hypothesis
+    20. 'ya' — missing in hypothesis
+    21. 'uske' — missing in hypothesis
+    22. 'kisi' — missing in hypothesis
+    23. 'features' — missing in hypothesis
+    24. 'ke' — missing in hypothesis
+    25. 'bare' — missing in hypothesis
+    26. 'mein' — missing in hypothesis
+    27. 'janna' — missing in hypothesis
+    28. 'chahenge' — missing in hypothesis
+    29. 'dhanyavad' — missing in hypothesis
+    30. 'kya' — missing in hypothesis
+  Insertions:
+    1. 'aapki' — extra in hypothesis
+    2. 'ki' — extra in hypothesis
+    3. 'upfront' — extra in hypothesis
+    4. 'individually' — extra in hypothesis
+    5. 'the' — extra in hypothesis
+    6. 'services' — extra in hypothesis
+    7. 'rupees' — extra in hypothesis
+    8. 'one' — extra in hypothesis
+    9. 'thousand' — extra in hypothesis
+    10. 'seven' — extra in hypothesis
+    11. 'hundred' — extra in hypothesis
+    12. 'rupees' — extra in hypothesis
+    13. 'one' — extra in hypothesis
+    14. 'thousand' — extra in hypothesis
+    15. 'seven' — extra in hypothesis
+    16. 'lagbhag' — extra in hypothesis
+    17. 'rupees' — extra in hypothesis
+    18. 'kuchh' — extra in hypothesis
+    19. 'aur' — extra in hypothesis
+    20. 'jaanna' — extra in hypothesis
+    21. 'chaahenge' — extra in hypothesis
+    22. 'kya' — extra in hypothesis
+    23. 'aap' — extra in hypothesis
+    24. 'mujhse' — extra in hypothesis
+    25. 'nano' — extra in hypothesis
+    26. 'plan' — extra in hypothesis
+    27. 'ya' — extra in hypothesis
+    28. 'uske' — extra in hypothesis
+    29. 'kisi' — extra in hypothesis
+    30. 'specific' — extra in hypothesis
+    31. 'feature' — extra in hypothesis
+    32. 'ke' — extra in hypothesis
+    33. 'baare' — extra in hypothesis
+    34. 'kripaya' — extra in hypothesis
+    35. 'spasht' — extra in hypothesis
+    36. 'would' — extra in hypothesis
+    37. 'you' — extra in hypothesis
+    38. 'like' — extra in hypothesis
+    39. 'more' — extra in hypothesis
+    40. 'information' — extra in hypothesis
+    41. 'on' — extra in hypothesis
+    42. 'this' — extra in hypothesis
+    43. 'iss' — extra in hypothesis
+🏁 [09f69426-e7e6-4f2a-a20a-75416d945306] completed at 12:50:56, took 74.48s
+🚀 [1bf3729b-c0a7-4f65-a846-88c8aa31a473] started at 12:50:56
+🎯 Filtered 14 assistant utterances from 27 total utterances
+🎯 Filtered 11 Agent utterances from 25 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 30 mismatches and measures to calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/1bf3729b-c0a7-4f65-a846-88c8aa31a473/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1475
+  Total GT NERs: 13
+  Total Ref NERs: 13
+  Unique GT NERs: 4
+  Unique Ref NERs: 4
+  Total Concerned GT NERs (PERSON/ORG): 9
+  Total Concerned Ref NERs (PERSON/ORG): 2
+  Unique Concerned GT NERs: 2
+  Unique Concerned Ref NERs: 1
+  Time taken: 0.000574 seconds
+
+  Substitutions:
+    1. 'youd' -> 'would'
+    2. 'ill' -> 'will'
+    3. 'im' -> 'am'
+    4. 'im' -> 'am'
+    5. 'couldnt' -> 'not'
+    6. 'im' -> 'am'
+    7. 'return' -> 'returnrelated'
+    8. 'theres' -> 'is'
+    9. 'im' -> 'am'
+    10. 'return' -> 'returnrelated'
+    11. 'theres' -> 'is'
+    12. 'youre' -> 'are'
+  Deletions:
+    1. 'related' — missing in hypothesis
+    2. 'related' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'i' — extra in hypothesis
+    3. 'am' — extra in hypothesis
+    4. 'you' — extra in hypothesis
+    5. 'i' — extra in hypothesis
+    6. 'i' — extra in hypothesis
+    7. 'i' — extra in hypothesis
+    8. 'could' — extra in hypothesis
+    9. 'i' — extra in hypothesis
+    10. 'there' — extra in hypothesis
+    11. 'i' — extra in hypothesis
+    12. 'there' — extra in hypothesis
+    13. 'you' — extra in hypothesis
+    14. 'simulating' — extra in hypothesis
+    15. 'human' — extra in hypothesis
+    16. 'transfer' — extra in hypothesis
+🏁 [1bf3729b-c0a7-4f65-a846-88c8aa31a473] completed at 12:51:19, took 23.15s
+🚀 [268dbd88-173b-41a1-8363-4a6ba62b9aae] started at 12:51:19
+🎯 Filtered 21 assistant utterances from 35 total utterances
+🎯 Filtered 14 Agent utterances from 24 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 32 mismatches and measures to calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/268dbd88-173b-41a1-8363-4a6ba62b9aae/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0661
+  Total GT NERs: 16
+  Total Ref NERs: 23
+  Unique GT NERs: 4
+  Unique Ref NERs: 7
+  Total Concerned GT NERs (PERSON/ORG): 16
+  Total Concerned Ref NERs (PERSON/ORG): 20
+  Unique Concerned GT NERs: 4
+  Unique Concerned Ref NERs: 5
+  Time taken: 0.000746 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'kovar' -> 'kondawar'
+    3. 'you' -> 'youve'
+    4. 'youd' -> 'were'
+    5. 'elevate' -> 'elevatenow'
+    6. 'obesity' -> 'obesityspecialized'
+    7. 'road' -> 'roadmap'
+    8. 'road' -> 'roadmap'
+    9. '12' -> '12month'
+    10. 'money' -> 'moneyback'
+    11. 'tailor' -> 'tailored'
+    12. 'good' -> 'goodbye'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'have' — missing in hypothesis
+    3. 'now' — missing in hypothesis
+    4. 'specialized' — missing in hypothesis
+    5. 'map' — missing in hypothesis
+    6. 'map' — missing in hypothesis
+    7. 'goals' — missing in hypothesis
+    8. 'month' — missing in hypothesis
+    9. 'back' — missing in hypothesis
+    10. 'bye' — missing in hypothesis
+  Insertions:
+    1. 'you' — extra in hypothesis
+    2. 'let' — extra in hypothesis
+    3. 'me' — extra in hypothesis
+    4. 'explain' — extra in hypothesis
+    5. 'great' — extra in hypothesis
+    6. 'nano' — extra in hypothesis
+    7. 'with' — extra in hypothesis
+    8. 'the' — extra in hypothesis
+    9. 'nano' — extra in hypothesis
+    10. 'plan' — extra in hypothesis
+🏁 [268dbd88-173b-41a1-8363-4a6ba62b9aae] completed at 12:51:52, took 32.92s
+🚀 [332017b6-9f62-444d-a657-7b733bc727fc] started at 12:51:52
+🎯 Filtered 21 assistant utterances from 41 total utterances
+🎯 Filtered 16 Agent utterances from 28 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/332017b6-9f62-444d-a657-7b733bc727fc/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/332017b6-9f62-444d-a657-7b733bc727fc/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 49 mismatches and measures to calls/332017b6-9f62-444d-a657-7b733bc727fc/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/332017b6-9f62-444d-a657-7b733bc727fc/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1847
+  Total GT NERs: 12
+  Total Ref NERs: 16
+  Unique GT NERs: 8
+  Unique Ref NERs: 12
+  Total Concerned GT NERs (PERSON/ORG): 8
+  Total Concerned Ref NERs (PERSON/ORG): 9
+  Unique Concerned GT NERs: 4
+  Unique Concerned Ref NERs: 5
+  Time taken: 0.001498 seconds
+
+  Substitutions:
+    1. 'i'm' -> 'however'
+    2. 'sorry' -> 'your'
+    3. 'but' -> 'items'
+    4. 'we' -> 'will'
+    5. 'currently' -> 'arrive'
+    6. 'don't' -> 'securely'
+    7. 'offer' -> 'packed'
+    8. 'a' -> 'as'
+    9. 'packing' -> 'per'
+    10. 'service' -> 'our'
+    11. 'for' -> 'standard'
+    12. 'your' -> 'procedures'
+    13. '17th' -> 'seventeenth'
+    14. '1024' -> 'twentyfour'
+    15. '28th' -> '28'
+    16. 'excite' -> 'exide'
+    17. 'i' -> 'you'd'
+    18. 'cancellation' -> 'cancellations'
+    19. 'order' -> 'orders'
+  Deletions:
+    1. 'order' — missing in hypothesis
+    2. 'order' — missing in hypothesis
+    3. 'can' — missing in hypothesis
+    4. 'assist' — missing in hypothesis
+    5. 'you' — missing in hypothesis
+    6. 'with' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'please' — extra in hypothesis
+    3. 'give' — extra in hypothesis
+    4. 'me' — extra in hypothesis
+    5. 'a' — extra in hypothesis
+    6. 'moment' — extra in hypothesis
+    7. 'to' — extra in hypothesis
+    8. 'fetch' — extra in hypothesis
+    9. 'your' — extra in hypothesis
+    10. 'products' — extra in hypothesis
+    11. 'ten' — extra in hypothesis
+    12. 'what' — extra in hypothesis
+    13. 'else' — extra in hypothesis
+    14. 'something' — extra in hypothesis
+    15. 'and' — extra in hypothesis
+    16. 'follow' — extra in hypothesis
+    17. 'the' — extra in hypothesis
+    18. 'i' — extra in hypothesis
+    19. 'got' — extra in hypothesis
+    20. 'it' — extra in hypothesis
+    21. 'and' — extra in hypothesis
+    22. 'following' — extra in hypothesis
+    23. 'let' — extra in hypothesis
+    24. 'me' — extra in hypothesis
+🏁 [332017b6-9f62-444d-a657-7b733bc727fc] completed at 12:52:16, took 23.45s
+🚀 [3502253e-259a-42d3-ab70-7aedabeb81fa] started at 12:52:16
+🎯 Filtered 18 assistant utterances from 29 total utterances
+🎯 Filtered 10 Agent utterances from 20 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 62 mismatches and measures to calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/3502253e-259a-42d3-ab70-7aedabeb81fa/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1471
+  Total GT NERs: 42
+  Total Ref NERs: 36
+  Unique GT NERs: 25
+  Unique Ref NERs: 19
+  Total Concerned GT NERs (PERSON/ORG): 32
+  Total Concerned Ref NERs (PERSON/ORG): 29
+  Unique Concerned GT NERs: 16
+  Unique Concerned Ref NERs: 13
+  Time taken: 0.001608 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'we' -> 'we're'
+    3. 'scientifically' -> 'scientificallybacked'
+    4. 'design' -> 'dizain'
+    5. 'up' -> 'upfront'
+    6. 'front' -> 'i’ll'
+    7. '12' -> 'barah'
+    8. 'longer' -> 'longerterm'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'backed' — missing in hypothesis
+    4. 'i'll' — missing in hypothesis
+    5. 'term' — missing in hypothesis
+  Insertions:
+    1. 'great' — extra in hypothesis
+    2. 'kya' — extra in hypothesis
+    3. 'main' — extra in hypothesis
+    4. 'aapko' — extra in hypothesis
+    5. 'explain' — extra in hypothesis
+    6. 'kar' — extra in hypothesis
+    7. 'sakti' — extra in hypothesis
+    8. 'hoon' — extra in hypothesis
+    9. 'ki' — extra in hypothesis
+    10. 'ye' — extra in hypothesis
+    11. 'offerings' — extra in hypothesis
+    12. 'aapki' — extra in hypothesis
+    13. 'weight' — extra in hypothesis
+    14. 'rupees' — extra in hypothesis
+    15. 'great' — extra in hypothesis
+    16. 'i'll' — extra in hypothesis
+    17. 'send' — extra in hypothesis
+    18. 'you' — extra in hypothesis
+    19. 'the' — extra in hypothesis
+    20. 'payment' — extra in hypothesis
+    21. 'links' — extra in hypothesis
+    22. 'on' — extra in hypothesis
+    23. 'your' — extra in hypothesis
+    24. 'registered' — extra in hypothesis
+    25. 'mobile' — extra in hypothesis
+    26. 'number' — extra in hypothesis
+    27. 'via' — extra in hypothesis
+    28. 'whatsapp' — extra in hypothesis
+    29. 'if' — extra in hypothesis
+    30. 'you' — extra in hypothesis
+    31. 'have' — extra in hypothesis
+    32. 'any' — extra in hypothesis
+    33. 'more' — extra in hypothesis
+    34. 'doubts' — extra in hypothesis
+    35. 'in' — extra in hypothesis
+    36. 'the' — extra in hypothesis
+    37. 'future' — extra in hypothesis
+    38. 'feel' — extra in hypothesis
+    39. 'free' — extra in hypothesis
+    40. 'to' — extra in hypothesis
+    41. 'reach' — extra in hypothesis
+    42. 'out' — extra in hypothesis
+    43. 'goodbye' — extra in hypothesis
+    44. 'and' — extra in hypothesis
+    45. 'have' — extra in hypothesis
+    46. 'a' — extra in hypothesis
+    47. 'great' — extra in hypothesis
+    48. 'day' — extra in hypothesis
+    49. 'great' — extra in hypothesis
+🏁 [3502253e-259a-42d3-ab70-7aedabeb81fa] completed at 12:53:20, took 64.01s
+🚀 [429ac8a5-6f19-46b3-97bb-8e55feec389e] started at 12:53:20
+🎯 Filtered 31 assistant utterances from 57 total utterances
+🎯 Filtered 39 Agent utterances from 69 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 188 mismatches and measures to calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/429ac8a5-6f19-46b3-97bb-8e55feec389e/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.4683
+  Total GT NERs: 20
+  Total Ref NERs: 28
+  Unique GT NERs: 12
+  Unique Ref NERs: 16
+  Total Concerned GT NERs (PERSON/ORG): 16
+  Total Concerned Ref NERs (PERSON/ORG): 17
+  Unique Concerned GT NERs: 8
+  Unique Concerned Ref NERs: 8
+  Time taken: 0.001725 seconds
+
+  Substitutions:
+    1. 'i' -> 'i'm'
+    2. 'story' -> 'shtori'
+    3. 'you' -> 'you're'
+    4. 'story' -> 'with'
+    5. 'our' -> 'your'
+    6. 'story' -> 'shtori'
+    7. 'you' -> 'you're'
+    8. 'royal' -> 'royalcat'
+    9. 'soft' -> 'softride'
+    10. 'agnia' -> 'aaghnya'
+    11. 'agnia' -> 'aaghnya'
+    12. 'do' -> 'don't'
+    13. 'i' -> 'istyle'
+    14. 'zaroor' -> 'your'
+    15. 'main' -> 'delivery'
+    16. 'hindi' -> 'partner'
+    17. 'mein' -> 'find'
+    18. 'bata' -> 'their'
+    19. 'sakti' -> 'contact'
+    20. 'hoon' -> 'on'
+    21. 'aapka' -> 'the'
+    22. 'i' -> 'my'
+    23. 'style' -> 'orders'
+    24. 'can' -> 'page'
+    25. 'top' -> 'in'
+    26. 'aaj' -> 'your'
+    27. 'delivery' -> 'myntra'
+    28. 'ke' -> 'app'
+    29. 'liye' -> 'please'
+    30. 'bahar' -> 'tell'
+    31. 'hai' -> 'me'
+    32. 'hi' -> 'is'
+    33. 'how' -> 'anything'
+    34. 'can' -> 'else'
+    35. 'continue' -> 'can'
+    36. 'order' -> 'out'
+    37. 'yes' -> 'for'
+    38. 'i' -> 'delivery'
+    39. 'shared' -> 'today'
+    40. 'status' -> 'expect'
+    41. 'for' -> 'it'
+    42. 'your' -> 'by'
+    43. 'agnia' -> 'end'
+    44. 'women' -> 'of'
+    45. 'floral' -> 'day'
+    46. 'print' -> 'please'
+    47. 'mandarin' -> 'tell'
+    48. 'collar' -> 'zarur'
+    49. 'flared' -> 'main'
+    50. 'sleeve' -> 'hindi'
+    51. 'shirt' -> 'mein'
+    52. 'style' -> 'bata'
+    53. 'top' -> 'sakti'
+    54. 'and' -> 'hoon'
+    55. 'your' -> 'aapka'
+    56. 'if' -> 'hi'
+    57. 'is' -> 'hi'
+    58. 'anything' -> 'there'
+    59. 'more' -> 'how'
+    60. 'you' -> 'can'
+    61. 'would' -> 'i'
+    62. 'like' -> 'continue'
+    63. 'know' -> 'help'
+    64. 'please' -> 'you'
+    65. 'let' -> 'with'
+    66. 'me' -> 'your'
+    67. 'know' -> 'order'
+    68. 'agnia' -> 'aaghnya'
+    69. 'there' -> 'there's'
+    70. 'you' -> 'you'd'
+  Deletions:
+    1. 'am' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'are' — missing in hypothesis
+    4. 'cat' — missing in hypothesis
+    5. 'ride' — missing in hypothesis
+    6. 'not' — missing in hypothesis
+    7. 'style' — missing in hypothesis
+    8. 'to' — missing in hypothesis
+    9. 'is' — missing in hypothesis
+    10. 'would' — missing in hypothesis
+  Insertions:
+    1. 'got' — extra in hypothesis
+    2. 'it' — extra in hypothesis
+    3. 'please' — extra in hypothesis
+    4. 'give' — extra in hypothesis
+    5. 'me' — extra in hypothesis
+    6. 'a' — extra in hypothesis
+    7. 'moment' — extra in hypothesis
+    8. 'to' — extra in hypothesis
+    9. 'fetch' — extra in hypothesis
+    10. 'your' — extra in hypothesis
+    11. 'products' — extra in hypothesis
+    12. 'shtori' — extra in hypothesis
+    13. 'plus' — extra in hypothesis
+    14. 'your' — extra in hypothesis
+    15. 'shtori' — extra in hypothesis
+    16. 'plus' — extra in hypothesis
+    17. 'size' — extra in hypothesis
+    18. 'reflective' — extra in hypothesis
+    19. 'detail' — extra in hypothesis
+    20. 'tshirt' — extra in hypothesis
+    21. 'is' — extra in hypothesis
+    22. 'expected' — extra in hypothesis
+    23. 'to' — extra in hypothesis
+    24. 'be' — extra in hypothesis
+    25. 'picked' — extra in hypothesis
+    26. 'up' — extra in hypothesis
+    27. 'by' — extra in hypothesis
+    28. '7' — extra in hypothesis
+    29. 'july' — extra in hypothesis
+    30. 'subject' — extra in hypothesis
+    31. 'to' — extra in hypothesis
+    32. 'quality' — extra in hypothesis
+    33. 'check' — extra in hypothesis
+    34. 'please' — extra in hypothesis
+    35. 'tell' — extra in hypothesis
+    36. 'me' — extra in hypothesis
+    37. 'is' — extra in hypothesis
+    38. 'there' — extra in hypothesis
+    39. 'anything' — extra in hypothesis
+    40. 'else' — extra in hypothesis
+    41. 'i' — extra in hypothesis
+    42. 'can' — extra in hypothesis
+    43. 'help' — extra in hypothesis
+    44. 'you' — extra in hypothesis
+    45. 'is' — extra in hypothesis
+    46. 'there' — extra in hypothesis
+    47. 'please' — extra in hypothesis
+    48. 'give' — extra in hypothesis
+    49. 'me' — extra in hypothesis
+    50. 'a' — extra in hypothesis
+    51. 'moment' — extra in hypothesis
+    52. 'to' — extra in hypothesis
+    53. 'fetch' — extra in hypothesis
+    54. 'your' — extra in hypothesis
+    55. 'products' — extra in hypothesis
+    56. 'need' — extra in hypothesis
+    57. 'to' — extra in hypothesis
+    58. 'reach' — extra in hypothesis
+    59. 'istyle' — extra in hypothesis
+    60. 'can' — extra in hypothesis
+    61. 'top' — extra in hypothesis
+    62. 'is' — extra in hypothesis
+    63. 'delivery' — extra in hypothesis
+    64. 'attempt' — extra in hypothesis
+    65. 'started' — extra in hypothesis
+    66. 'at' — extra in hypothesis
+    67. '1044' — extra in hypothesis
+    68. 'am' — extra in hypothesis
+    69. 'you' — extra in hypothesis
+    70. 'can' — extra in hypothesis
+    71. 'aaj' — extra in hypothesis
+    72. 'delivery' — extra in hypothesis
+    73. 'ke' — extra in hypothesis
+    74. 'liye' — extra in hypothesis
+    75. 'bahar' — extra in hypothesis
+    76. 'hai' — extra in hypothesis
+    77. 'delivery' — extra in hypothesis
+    78. 'ka' — extra in hypothesis
+    79. 'prayas' — extra in hypothesis
+    80. 'subah' — extra in hypothesis
+    81. 'das' — extra in hypothesis
+    82. 'bajkar' — extra in hypothesis
+    83. 'chavalis' — extra in hypothesis
+    84. 'minute' — extra in hypothesis
+    85. 'par' — extra in hypothesis
+    86. 'shuru' — extra in hypothesis
+    87. 'hua' — extra in hypothesis
+    88. 'ise' — extra in hypothesis
+    89. 'aaj' — extra in hypothesis
+    90. 'ke' — extra in hypothesis
+    91. 'ant' — extra in hypothesis
+    92. 'tak' — extra in hypothesis
+    93. 'aap' — extra in hypothesis
+    94. 'tak' — extra in hypothesis
+    95. 'pahunchne' — extra in hypothesis
+    96. 'ki' — extra in hypothesis
+    97. 'ummeed' — extra in hypothesis
+    98. 'hai' — extra in hypothesis
+    99. 'kya' — extra in hypothesis
+    100. 'how' — extra in hypothesis
+    101. 'can' — extra in hypothesis
+    102. 'i' — extra in hypothesis
+    103. 'continue' — extra in hypothesis
+    104. 'know' — extra in hypothesis
+    105. 'please' — extra in hypothesis
+    106. 'let' — extra in hypothesis
+    107. 'me' — extra in hypothesis
+    108. 'know' — extra in hypothesis
+🏁 [429ac8a5-6f19-46b3-97bb-8e55feec389e] completed at 12:53:59, took 38.97s
+🚀 [482181f8-15e2-4ced-8a9a-67facdd9c6fc] started at 12:53:59
+🎯 Filtered 21 assistant utterances from 36 total utterances
+🎯 Filtered 14 Agent utterances from 27 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+❌ [482181f8-15e2-4ced-8a9a-67facdd9c6fc] failed: Extra data: line 27 column 1 (char 458)
+❌ [482181f8-15e2-4ced-8a9a-67facdd9c6fc] failed: Extra data: line 27 column 1 (char 458)
+🚀 [5cdef144-9d6a-4100-9be6-8489f90fc466] started at 12:54:29
+🎯 Filtered 19 assistant utterances from 35 total utterances
+🎯 Filtered 14 Agent utterances from 24 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 39 mismatches and measures to calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/5cdef144-9d6a-4100-9be6-8489f90fc466/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1036
+  Total GT NERs: 24
+  Total Ref NERs: 30
+  Unique GT NERs: 14
+  Unique Ref NERs: 16
+  Total Concerned GT NERs (PERSON/ORG): 17
+  Total Concerned Ref NERs (PERSON/ORG): 23
+  Unique Concerned GT NERs: 7
+  Unique Concerned Ref NERs: 10
+  Time taken: 0.004689 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'road' -> 'roadmap'
+    3. '1799' -> 'nine'
+    4. 'court' -> 'coach'
+    5. 'onetime' -> 'time'
+    6. 'he' -> 'the'
+    7. 'rs' -> 'ninety'
+    8. '1799' -> 'nine'
+    9. 'we' -> 'we've'
+    10. 'have' -> 'covered'
+    11. '499' -> 'nine'
+    12. '1799' -> 'nine'
+    13. 'up' -> 'upfront'
+    14. 'front' -> 'i'll'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'map' — missing in hypothesis
+    3. 'cover' — missing in hypothesis
+    4. 'ill' — missing in hypothesis
+  Insertions:
+    1. 'i' — extra in hypothesis
+    2. 'one' — extra in hypothesis
+    3. 'thousand' — extra in hypothesis
+    4. 'seven' — extra in hypothesis
+    5. 'hundred' — extra in hypothesis
+    6. 'ninety' — extra in hypothesis
+    7. 'one' — extra in hypothesis
+    8. 'rupees' — extra in hypothesis
+    9. 'one' — extra in hypothesis
+    10. 'thousand' — extra in hypothesis
+    11. 'seven' — extra in hypothesis
+    12. 'hundred' — extra in hypothesis
+    13. 'we've' — extra in hypothesis
+    14. 'four' — extra in hypothesis
+    15. 'hundred' — extra in hypothesis
+    16. 'ninety' — extra in hypothesis
+    17. 'one' — extra in hypothesis
+    18. 'thousand' — extra in hypothesis
+    19. 'seven' — extra in hypothesis
+    20. 'hundred' — extra in hypothesis
+    21. 'ninety' — extra in hypothesis
+🏁 [5cdef144-9d6a-4100-9be6-8489f90fc466] completed at 12:55:11, took 42.39s
+🚀 [5f4d919f-b1bc-4a3d-9d98-1f8279d51215] started at 12:55:11
+🎯 Filtered 19 assistant utterances from 34 total utterances
+🎯 Filtered 12 Agent utterances from 21 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 20 mismatches and measures to calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/5f4d919f-b1bc-4a3d-9d98-1f8279d51215/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0491
+  Total GT NERs: 20
+  Total Ref NERs: 24
+  Unique GT NERs: 11
+  Unique Ref NERs: 16
+  Total Concerned GT NERs (PERSON/ORG): 17
+  Total Concerned Ref NERs (PERSON/ORG): 17
+  Unique Concerned GT NERs: 8
+  Unique Concerned Ref NERs: 9
+  Time taken: 0.000588 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'road' -> 'roadmap'
+    3. 'a' -> 'our'
+    4. '1799' -> 'nine'
+    5. 'allinone' -> 'one'
+    6. 'road' -> 'roadmap'
+    7. 'his' -> 'this'
+    8. 'ake' -> 'take'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'map' — missing in hypothesis
+    3. 'map' — missing in hypothesis
+  Insertions:
+    1. 'got' — extra in hypothesis
+    2. 'it' — extra in hypothesis
+    3. 'one' — extra in hypothesis
+    4. 'thousand' — extra in hypothesis
+    5. 'seven' — extra in hypothesis
+    6. 'hundred' — extra in hypothesis
+    7. 'ninety' — extra in hypothesis
+    8. 'all' — extra in hypothesis
+    9. 'in' — extra in hypothesis
+🏁 [5f4d919f-b1bc-4a3d-9d98-1f8279d51215] completed at 12:55:48, took 36.40s
+🚀 [750dfc05-c2c4-4937-a85d-46f597dc9880] started at 12:55:48
+🎯 Filtered 14 assistant utterances from 24 total utterances
+🎯 Filtered 12 Agent utterances from 22 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 5 mismatches and measures to calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/750dfc05-c2c4-4937-a85d-46f597dc9880/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0126
+  Total GT NERs: 29
+  Total Ref NERs: 17
+  Unique GT NERs: 22
+  Unique Ref NERs: 9
+  Total Concerned GT NERs (PERSON/ORG): 19
+  Total Concerned Ref NERs (PERSON/ORG): 11
+  Unique Concerned GT NERs: 12
+  Unique Concerned Ref NERs: 4
+  Time taken: 0.000414 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'rs' -> 'rupees'
+    3. 'rs' -> 'rupees'
+  Deletions:
+    1. 'now' — missing in hypothesis
+  Insertions:
+    1. 'great' — extra in hypothesis
+🏁 [750dfc05-c2c4-4937-a85d-46f597dc9880] completed at 12:56:32, took 44.43s
+🚀 [79e02e46-ea93-4669-9dc1-6c4339dcc6ba] started at 12:56:32
+🎯 Filtered 15 assistant utterances from 30 total utterances
+🎯 Filtered 12 Agent utterances from 23 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 21 mismatches and measures to calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/79e02e46-ea93-4669-9dc1-6c4339dcc6ba/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1022
+  Total GT NERs: 15
+  Total Ref NERs: 16
+  Unique GT NERs: 11
+  Unique Ref NERs: 13
+  Total Concerned GT NERs (PERSON/ORG): 11
+  Total Concerned Ref NERs (PERSON/ORG): 11
+  Unique Concerned GT NERs: 7
+  Unique Concerned Ref NERs: 8
+  Time taken: 0.000594 seconds
+
+  Substitutions:
+    1. '18th' -> 'eighteenth'
+    2. '505' -> 'five'
+    3. 'n' -> 'and'
+    4. 'masculine' -> 'sasa'
+    5. 'sasafers' -> 'fars'
+    6. 'unrl' -> 'rl'
+  Deletions:
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'five' — extra in hypothesis
+    3. 'is' — extra in hypothesis
+    4. 'this' — extra in hypothesis
+    5. 'the' — extra in hypothesis
+    6. 'item' — extra in hypothesis
+    7. 'you' — extra in hypothesis
+    8. 'created' — extra in hypothesis
+    9. 'a' — extra in hypothesis
+    10. 'return' — extra in hypothesis
+    11. 'for' — extra in hypothesis
+    12. 'could' — extra in hypothesis
+    13. 'you' — extra in hypothesis
+    14. 'masculincaline' — extra in hypothesis
+    15. 'un' — extra in hypothesis
+🏁 [79e02e46-ea93-4669-9dc1-6c4339dcc6ba] completed at 12:57:02, took 30.12s
+🚀 [7bbd5f06-2ac0-4227-be76-4ce7ef7cb567] started at 12:57:02
+🎯 Filtered 15 assistant utterances from 25 total utterances
+🎯 Filtered 15 Agent utterances from 26 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 33 mismatches and measures to calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/7bbd5f06-2ac0-4227-be76-4ce7ef7cb567/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0669
+  Total GT NERs: 27
+  Total Ref NERs: 27
+  Unique GT NERs: 16
+  Unique Ref NERs: 16
+  Total Concerned GT NERs (PERSON/ORG): 19
+  Total Concerned Ref NERs (PERSON/ORG): 19
+  Unique Concerned GT NERs: 9
+  Unique Concerned Ref NERs: 9
+  Time taken: 0.000847 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'we' -> 'we're'
+    3. 'road' -> 'roadmap'
+    4. '1799' -> 'nine'
+    5. '1799' -> 'ninety'
+    6. 'up' -> 'nine'
+    7. 'front' -> 'upfront'
+    8. '499' -> 'nine'
+    9. '1399' -> 'nine'
+    10. 'good' -> 'goodbye'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'map' — missing in hypothesis
+    4. 'bye' — missing in hypothesis
+  Insertions:
+    1. 'with' — extra in hypothesis
+    2. 'nidhi' — extra in hypothesis
+    3. 'one' — extra in hypothesis
+    4. 'thousand' — extra in hypothesis
+    5. 'seven' — extra in hypothesis
+    6. 'hundred' — extra in hypothesis
+    7. 'ninety' — extra in hypothesis
+    8. 'one' — extra in hypothesis
+    9. 'thousand' — extra in hypothesis
+    10. 'seven' — extra in hypothesis
+    11. 'hundred' — extra in hypothesis
+    12. 'four' — extra in hypothesis
+    13. 'hundred' — extra in hypothesis
+    14. 'ninety' — extra in hypothesis
+    15. 'one' — extra in hypothesis
+    16. 'thousand' — extra in hypothesis
+    17. 'three' — extra in hypothesis
+    18. 'hundred' — extra in hypothesis
+    19. 'ninety' — extra in hypothesis
+🏁 [7bbd5f06-2ac0-4227-be76-4ce7ef7cb567] completed at 12:57:48, took 45.67s
+🚀 [7fd6b5f9-8b11-4085-b864-a16f92504e53] started at 12:57:48
+🎯 Filtered 23 assistant utterances from 44 total utterances
+🎯 Filtered 15 Agent utterances from 29 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 153 mismatches and measures to calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/7fd6b5f9-8b11-4085-b864-a16f92504e53/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.2421
+  Total GT NERs: 19
+  Total Ref NERs: 18
+  Unique GT NERs: 5
+  Unique Ref NERs: 8
+  Total Concerned GT NERs (PERSON/ORG): 15
+  Total Concerned Ref NERs (PERSON/ORG): 15
+  Unique Concerned GT NERs: 2
+  Unique Concerned Ref NERs: 5
+  Time taken: 0.001692 seconds
+
+  Substitutions:
+    1. 'we' -> 'elevatenow'
+    2. 'spoke' -> 'am'
+    3. 'understand' -> 'speaking'
+    4. 'you' -> 'with'
+    5. 'had' -> 'bijal'
+    6. 'some' -> 'roliya'
+    7. 'we' -> 'were'
+    8. 'y' -> 'i'
+    9. 'road' -> 'roadmap'
+    10. '1799' -> 'ninetynine'
+    11. 'nutrient' -> 'nutrientrich'
+    12. 'fat' -> 'fatburning'
+  Deletions:
+    1. 'last' — missing in hypothesis
+    2. 'call' — missing in hypothesis
+    3. 'about' — missing in hypothesis
+    4. 'your' — missing in hypothesis
+    5. 'interest' — missing in hypothesis
+    6. 'in' — missing in hypothesis
+    7. 'our' — missing in hypothesis
+    8. 'weight' — missing in hypothesis
+    9. 'management' — missing in hypothesis
+    10. 'program' — missing in hypothesis
+    11. 'and' — missing in hypothesis
+    12. 'concerns' — missing in hypothesis
+    13. 'are' — missing in hypothesis
+    14. 'we' — missing in hypothesis
+    15. 'spoke' — missing in hypothesis
+    16. 'last' — missing in hypothesis
+    17. 'time' — missing in hypothesis
+    18. 'about' — missing in hypothesis
+    19. 'your' — missing in hypothesis
+    20. 'interest' — missing in hypothesis
+    21. 'in' — missing in hypothesis
+    22. 'our' — missing in hypothesis
+    23. 'weight' — missing in hypothesis
+    24. 'management' — missing in hypothesis
+    25. 'program' — missing in hypothesis
+    26. 'and' — missing in hypothesis
+    27. 'i' — missing in hypothesis
+    28. 'understand' — missing in hypothesis
+    29. 'you' — missing in hypothesis
+    30. 'had' — missing in hypothesis
+    31. 'some' — missing in hypothesis
+    32. 'concerns' — missing in hypothesis
+    33. 'based' — missing in hypothesis
+    34. 'on' — missing in hypothesis
+    35. 'your' — missing in hypothesis
+    36. 'bmi' — missing in hypothesis
+    37. 'of' — missing in hypothesis
+    38. '3413' — missing in hypothesis
+    39. 'its' — missing in hypothesis
+    40. 'clear' — missing in hypothesis
+    41. 'your' — missing in hypothesis
+    42. 'body' — missing in hypothesis
+    43. 'is' — missing in hypothesis
+    44. 'sending' — missing in hypothesis
+    45. 'signals' — missing in hypothesis
+    46. 'about' — missing in hypothesis
+    47. 'how' — missing in hypothesis
+    48. 'its' — missing in hypothesis
+    49. 'handling' — missing in hypothesis
+    50. 'weight' — missing in hypothesis
+    51. 'and' — missing in hypothesis
+    52. 'metabolism' — missing in hypothesis
+    53. 'we' — missing in hypothesis
+    54. 'are' — missing in hypothesis
+    55. 'genuinely' — missing in hypothesis
+    56. 'excited' — missing in hypothesis
+    57. 'to' — missing in hypothesis
+    58. 'support' — missing in hypothesis
+    59. 'your' — missing in hypothesis
+    60. 'goals' — missing in hypothesis
+    61. 'and' — missing in hypothesis
+    62. 'the' — missing in hypothesis
+    63. 'nano' — missing in hypothesis
+    64. 'plan' — missing in hypothesis
+    65. 'is' — missing in hypothesis
+    66. 'designed' — missing in hypothesis
+    67. 'to' — missing in hypothesis
+    68. 'make' — missing in hypothesis
+    69. 'weight' — missing in hypothesis
+    70. 'loss' — missing in hypothesis
+    71. 'easier' — missing in hypothesis
+    72. 'and' — missing in hypothesis
+    73. 'more' — missing in hypothesis
+    74. 'effective' — missing in hypothesis
+    75. 'would' — missing in hypothesis
+    76. 'you' — missing in hypothesis
+    77. 'like' — missing in hypothesis
+    78. 'to' — missing in hypothesis
+    79. 'discuss' — missing in hypothesis
+    80. 'a' — missing in hypothesis
+    81. 'personalized' — missing in hypothesis
+    82. 'plan' — missing in hypothesis
+    83. 'to' — missing in hypothesis
+    84. 'address' — missing in hypothesis
+    85. 'these' — missing in hypothesis
+    86. 'challenges' — missing in hypothesis
+    87. 'map' — missing in hypothesis
+    88. 'rich' — missing in hypothesis
+    89. 'burning' — missing in hypothesis
+    90. 'the' — missing in hypothesis
+    91. 'nano' — missing in hypothesis
+    92. 'plan' — missing in hypothesis
+    93. 'offers' — missing in hypothesis
+    94. 'flexibility' — missing in hypothesis
+    95. 'with' — missing in hypothesis
+    96. 'two' — missing in hypothesis
+    97. 'payment' — missing in hypothesis
+    98. 'options' — missing in hypothesis
+    99. 'a' — missing in hypothesis
+    100. 'partial' — missing in hypothesis
+    101. 'payment' — missing in hypothesis
+    102. 'of' — missing in hypothesis
+    103. 'rupees' — missing in hypothesis
+    104. '499' — missing in hypothesis
+    105. 'now' — missing in hypothesis
+    106. 'and' — missing in hypothesis
+    107. 'the' — missing in hypothesis
+    108. 'remaining' — missing in hypothesis
+    109. 'rupees' — missing in hypothesis
+    110. '1399' — missing in hypothesis
+    111. 'at' — missing in hypothesis
+    112. 'the' — missing in hypothesis
+    113. 'time' — missing in hypothesis
+    114. 'of' — missing in hypothesis
+    115. 'blood' — missing in hypothesis
+    116. 'sample' — missing in hypothesis
+    117. 'collection' — missing in hypothesis
+    118. 'or' — missing in hypothesis
+    119. 'a' — missing in hypothesis
+    120. 'full' — missing in hypothesis
+    121. 'payment' — missing in hypothesis
+    122. 'of' — missing in hypothesis
+    123. 'rupees' — missing in hypothesis
+    124. '1799' — missing in hypothesis
+    125. 'up' — missing in hypothesis
+    126. 'front' — missing in hypothesis
+    127. 'ill' — missing in hypothesis
+    128. 'send' — missing in hypothesis
+    129. 'you' — missing in hypothesis
+    130. 'the' — missing in hypothesis
+    131. 'payment' — missing in hypothesis
+    132. 'links' — missing in hypothesis
+    133. 'on' — missing in hypothesis
+    134. 'your' — missing in hypothesis
+    135. 'registered' — missing in hypothesis
+    136. 'mobile' — missing in hypothesis
+  Insertions:
+    1. 'experience' — extra in hypothesis
+    2. 'one' — extra in hypothesis
+    3. 'thousand' — extra in hypothesis
+    4. 'seven' — extra in hypothesis
+    5. 'hundred' — extra in hypothesis
+🏁 [7fd6b5f9-8b11-4085-b864-a16f92504e53] completed at 13:00:18, took 149.80s
+🚀 [8daee0cc-cbda-4cdf-b8ed-f120e3329138] started at 13:00:18
+🎯 Filtered 18 assistant utterances from 33 total utterances
+🎯 Filtered 17 Agent utterances from 32 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 44 mismatches and measures to calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/8daee0cc-cbda-4cdf-b8ed-f120e3329138/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1485
+  Total GT NERs: 12
+  Total Ref NERs: 13
+  Unique GT NERs: 9
+  Unique Ref NERs: 8
+  Total Concerned GT NERs (PERSON/ORG): 9
+  Total Concerned Ref NERs (PERSON/ORG): 9
+  Unique Concerned GT NERs: 6
+  Unique Concerned Ref NERs: 5
+  Time taken: 0.000814 seconds
+
+  Substitutions:
+    1. 'style' -> 'with'
+    2. 'our' -> 'your'
+    3. 'style' -> 'stylecast'
+    4. '21st' -> '21'
+    5. 'all' -> 'alright'
+    6. 'order' -> 'orders'
+    7. 'order' -> 'orders'
+    8. 'delivery' -> 'deliveryrelated'
+    9. 'sms' -> 'smsyour'
+  Deletions:
+    1. 'cast' — missing in hypothesis
+    2. 'right' — missing in hypothesis
+    3. 'city' — missing in hypothesis
+    4. 'the' — missing in hypothesis
+    5. 'related' — missing in hypothesis
+    6. 'your' — missing in hypothesis
+  Insertions:
+    1. 'stylecast' — extra in hypothesis
+    2. 'x' — extra in hypothesis
+    3. 'revolt' — extra in hypothesis
+    4. 'men' — extra in hypothesis
+    5. 'opaque' — extra in hypothesis
+    6. 'casual' — extra in hypothesis
+    7. 'shirt' — extra in hypothesis
+    8. 'is' — extra in hypothesis
+    9. 'being' — extra in hypothesis
+    10. 'processed' — extra in hypothesis
+    11. 'and' — extra in hypothesis
+    12. 'will' — extra in hypothesis
+    13. 'be' — extra in hypothesis
+    14. 'delivered' — extra in hypothesis
+    15. 'by' — extra in hypothesis
+    16. '21' — extra in hypothesis
+    17. 'august' — extra in hypothesis
+    18. 'please' — extra in hypothesis
+    19. 'tell' — extra in hypothesis
+    20. 'me' — extra in hypothesis
+    21. 'is' — extra in hypothesis
+    22. 'there' — extra in hypothesis
+    23. 'anything' — extra in hypothesis
+    24. 'else' — extra in hypothesis
+    25. 'i' — extra in hypothesis
+    26. 'can' — extra in hypothesis
+    27. 'help' — extra in hypothesis
+    28. 'you' — extra in hypothesis
+    29. 'the' — extra in hypothesis
+🏁 [8daee0cc-cbda-4cdf-b8ed-f120e3329138] completed at 13:00:46, took 28.06s
+🚀 [99d176ec-e484-4937-ae0b-9d6d2d7cb5c5] started at 13:00:46
+🎯 Filtered 17 assistant utterances from 31 total utterances
+🎯 Filtered 12 Agent utterances from 23 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 18 mismatches and measures to calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/99d176ec-e484-4937-ae0b-9d6d2d7cb5c5/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0645
+  Total GT NERs: 9
+  Total Ref NERs: 13
+  Unique GT NERs: 5
+  Unique Ref NERs: 8
+  Total Concerned GT NERs (PERSON/ORG): 6
+  Total Concerned Ref NERs (PERSON/ORG): 4
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.000492 seconds
+
+  Substitutions:
+    1. 'all' -> 'alright'
+    2. 'you' -> 'you're'
+    3. 'hm' -> 'm'
+    4. 'round' -> 'roundneck'
+    5. 'im' -> 'am'
+    6. 'all' -> 'alright'
+    7. 'our' -> 'your'
+    8. 'hm' -> 'm'
+  Deletions:
+    1. 'right' — missing in hypothesis
+    2. 'are' — missing in hypothesis
+    3. 'neck' — missing in hypothesis
+    4. 'right' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'h' — extra in hypothesis
+    3. 'and' — extra in hypothesis
+    4. 'i' — extra in hypothesis
+    5. 'h' — extra in hypothesis
+    6. 'and' — extra in hypothesis
+🏁 [99d176ec-e484-4937-ae0b-9d6d2d7cb5c5] completed at 13:01:14, took 27.77s
+🚀 [a26f3d38-ed43-4289-8d34-9ee376fb779d] started at 13:01:14
+🎯 Filtered 21 assistant utterances from 41 total utterances
+🎯 Filtered 37 Agent utterances from 71 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 49 mismatches and measures to calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/a26f3d38-ed43-4289-8d34-9ee376fb779d/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0993
+  Total GT NERs: 28
+  Total Ref NERs: 23
+  Unique GT NERs: 12
+  Unique Ref NERs: 13
+  Total Concerned GT NERs (PERSON/ORG): 23
+  Total Concerned Ref NERs (PERSON/ORG): 19
+  Unique Concerned GT NERs: 7
+  Unique Concerned Ref NERs: 9
+  Time taken: 0.004706 seconds
+
+  Substitutions:
+    1. 'you're' -> 'are'
+    2. 'you're' -> 'are'
+    3. '15' -> '50ml'
+    4. 'any' -> 'anytime'
+    5. 'i'm' -> 'am'
+    6. 'double' -> 'doublecheck'
+    7. 'order' -> 'orders'
+    8. 'one' -> '1'
+    9. 'two' -> '2'
+    10. 'order' -> 'orders'
+    11. 'three' -> '3'
+    12. 'four' -> '4'
+    13. 'five' -> '5'
+    14. 'six' -> '6'
+    15. 'all' -> 'alright'
+    16. 'order' -> 'orders'
+    17. 'order' -> 'orders'
+  Deletions:
+    1. 'and' — missing in hypothesis
+    2. 'ml' — missing in hypothesis
+    3. 'time' — missing in hypothesis
+    4. 'check' — missing in hypothesis
+    5. 'right' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'i' — extra in hypothesis
+    3. 'am' — extra in hypothesis
+    4. 'ray' — extra in hypothesis
+    5. 'from' — extra in hypothesis
+    6. 'you' — extra in hypothesis
+    7. 'who' — extra in hypothesis
+    8. 'can' — extra in hypothesis
+    9. 'you' — extra in hypothesis
+    10. 'this' — extra in hypothesis
+    11. 'will' — extra in hypothesis
+    12. 'help' — extra in hypothesis
+    13. 'me' — extra in hypothesis
+    14. 'provide' — extra in hypothesis
+    15. 'the' — extra in hypothesis
+    16. 'correct' — extra in hypothesis
+    17. 'details' — extra in hypothesis
+    18. 'yes' — extra in hypothesis
+    19. 'i' — extra in hypothesis
+    20. 'let' — extra in hypothesis
+    21. 'me' — extra in hypothesis
+    22. 'know' — extra in hypothesis
+    23. 'if' — extra in hypothesis
+    24. 'you' — extra in hypothesis
+    25. 'need' — extra in hypothesis
+    26. 'further' — extra in hypothesis
+    27. 'assistance' — extra in hypothesis
+🏁 [a26f3d38-ed43-4289-8d34-9ee376fb779d] completed at 13:02:05, took 51.69s
+🚀 [b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f] started at 13:02:05
+🎯 Filtered 21 assistant utterances from 35 total utterances
+🎯 Filtered 12 Agent utterances from 23 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 41 mismatches and measures to calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0764
+  Total GT NERs: 12
+  Total Ref NERs: 33
+  Unique GT NERs: 5
+  Unique Ref NERs: 18
+  Total Concerned GT NERs (PERSON/ORG): 10
+  Total Concerned Ref NERs (PERSON/ORG): 26
+  Unique Concerned GT NERs: 3
+  Unique Concerned Ref NERs: 11
+  Time taken: 0.002117 seconds
+
+  Substitutions:
+    1. '30' -> 'thirty'
+    2. '45' -> 'fortyfive'
+    3. 'then' -> 'the'
+    4. 'all' -> 'alright'
+    5. 'question' -> 'questions'
+    6. 'rs' -> 'hundred'
+    7. '1799' -> 'ninetynine'
+    8. 'individuallyyou' -> 'you'
+    9. 'all' -> 'alright'
+  Deletions:
+    1. 'hello' — missing in hypothesis
+    2. 'this' — missing in hypothesis
+    3. 'is' — missing in hypothesis
+    4. 'priya' — missing in hypothesis
+    5. 'from' — missing in hypothesis
+    6. 'elevate' — missing in hypothesis
+    7. 'now' — missing in hypothesis
+    8. 'am' — missing in hypothesis
+    9. 'i' — missing in hypothesis
+    10. 'speaking' — missing in hypothesis
+    11. 'with' — missing in hypothesis
+    12. 'nikita' — missing in hypothesis
+    13. 'right' — missing in hypothesis
+    14. 'right' — missing in hypothesis
+  Insertions:
+    1. 'hello' — extra in hypothesis
+    2. 'this' — extra in hypothesis
+    3. 'is' — extra in hypothesis
+    4. 'priya' — extra in hypothesis
+    5. 'from' — extra in hypothesis
+    6. 'elevatenow' — extra in hypothesis
+    7. 'am' — extra in hypothesis
+    8. 'i' — extra in hypothesis
+    9. 'speaking' — extra in hypothesis
+    10. 'with' — extra in hypothesis
+    11. 'niketa' — extra in hypothesis
+    12. 'to' — extra in hypothesis
+    13. 'be' — extra in hypothesis
+    14. 'rupees' — extra in hypothesis
+    15. 'one' — extra in hypothesis
+    16. 'thousand' — extra in hypothesis
+    17. 'seven' — extra in hypothesis
+    18. 'individually' — extra in hypothesis
+🏁 [b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f] completed at 13:02:51, took 46.03s
+🚀 [c5f1aee1-8170-4c1b-93e0-1f8366882689] started at 13:02:51
+🎯 Filtered 13 assistant utterances from 24 total utterances
+🎯 Filtered 40 Agent utterances from 75 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+❌ [c5f1aee1-8170-4c1b-93e0-1f8366882689] failed: Extra data: line 27 column 1 (char 467)
+❌ [c5f1aee1-8170-4c1b-93e0-1f8366882689] failed: Extra data: line 27 column 1 (char 467)
+🚀 [d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c] started at 13:03:21
+🎯 Filtered 18 assistant utterances from 33 total utterances
+🎯 Filtered 14 Agent utterances from 25 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 18 mismatches and measures to calls/d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0581
+  Total GT NERs: 29
+  Total Ref NERs: 39
+  Unique GT NERs: 19
+  Unique Ref NERs: 27
+  Total Concerned GT NERs (PERSON/ORG): 21
+  Total Concerned Ref NERs (PERSON/ORG): 26
+  Unique Concerned GT NERs: 11
+  Unique Concerned Ref NERs: 15
+  Time taken: 0.004954 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'rs' -> 'hundred'
+    3. '1799' -> 'ninetynine'
+    4. 'rs' -> 'six'
+    5. '6000' -> 'thousand'
+    6. 'anymore' -> 'more'
+    7. 'you' -> 'you're'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'and' — missing in hypothesis
+    3. 'are' — missing in hypothesis
+  Insertions:
+    1. 'were' — extra in hypothesis
+    2. 'rupees' — extra in hypothesis
+    3. 'one' — extra in hypothesis
+    4. 'thousand' — extra in hypothesis
+    5. 'seven' — extra in hypothesis
+    6. 'rupees' — extra in hypothesis
+    7. 'any' — extra in hypothesis
+    8. 'you' — extra in hypothesis
+🏁 [d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c] completed at 13:04:12, took 51.10s
+🚀 [d521ea56-2e7b-4908-8cca-acf4a0f89337] started at 13:04:12
+🎯 Filtered 16 assistant utterances from 29 total utterances
+🎯 Filtered 11 Agent utterances from 20 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 36 mismatches and measures to calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/d521ea56-2e7b-4908-8cca-acf4a0f89337/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0779
+  Total GT NERs: 18
+  Total Ref NERs: 17
+  Unique GT NERs: 12
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 11
+  Total Concerned Ref NERs (PERSON/ORG): 9
+  Unique Concerned GT NERs: 6
+  Unique Concerned Ref NERs: 3
+  Time taken: 0.003428 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. '290' -> 'zero'
+    3. 'a' -> 'our'
+    4. '1799' -> 'nine'
+    5. '6000' -> 'thousand'
+    6. '1' -> '1mg'
+    7. '5000' -> 'thousand'
+    8. 'scientifically' -> 'scientificallybacked'
+    9. '200' -> 'hundred'
+    10. 'road' -> 'roadmap'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'mg' — missing in hypothesis
+    3. 'backed' — missing in hypothesis
+    4. 'map' — missing in hypothesis
+  Insertions:
+    1. 'twenty' — extra in hypothesis
+    2. 'nine' — extra in hypothesis
+    3. 'point' — extra in hypothesis
+    4. 'let' — extra in hypothesis
+    5. 'me' — extra in hypothesis
+    6. 'give' — extra in hypothesis
+    7. 'you' — extra in hypothesis
+    8. 'a' — extra in hypothesis
+    9. 'quick' — extra in hypothesis
+    10. 'overview' — extra in hypothesis
+    11. 'of' — extra in hypothesis
+    12. 'our' — extra in hypothesis
+    13. 'nano' — extra in hypothesis
+    14. 'plan' — extra in hypothesis
+    15. 'one' — extra in hypothesis
+    16. 'thousand' — extra in hypothesis
+    17. 'seven' — extra in hypothesis
+    18. 'hundred' — extra in hypothesis
+    19. 'ninety' — extra in hypothesis
+    20. 'six' — extra in hypothesis
+    21. 'five' — extra in hypothesis
+    22. 'two' — extra in hypothesis
+🏁 [d521ea56-2e7b-4908-8cca-acf4a0f89337] completed at 13:04:55, took 43.26s
+🚀 [d7c521ce-dbcb-4c23-a776-66b38d8127b4] started at 13:04:55
+🎯 Filtered 14 assistant utterances from 22 total utterances
+🎯 Filtered 14 Agent utterances from 23 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+❌ [d7c521ce-dbcb-4c23-a776-66b38d8127b4] failed: Extra data: line 27 column 1 (char 458)
+❌ [d7c521ce-dbcb-4c23-a776-66b38d8127b4] failed: Extra data: line 27 column 1 (char 458)
+🚀 [d9aa182c-b21e-4ad5-8138-18d0e9f69b84] started at 13:05:31
+🎯 Filtered 15 assistant utterances from 26 total utterances
+🎯 Filtered 13 Agent utterances from 23 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 49 mismatches and measures to calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/d9aa182c-b21e-4ad5-8138-18d0e9f69b84/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1581
+  Total GT NERs: 19
+  Total Ref NERs: 18
+  Unique GT NERs: 17
+  Unique Ref NERs: 17
+  Total Concerned GT NERs (PERSON/ORG): 15
+  Total Concerned Ref NERs (PERSON/ORG): 14
+  Unique Concerned GT NERs: 13
+  Unique Concerned Ref NERs: 13
+  Time taken: 0.002694 seconds
+
+  Substitutions:
+    1. 'lakme' -> 'laamic'
+    2. 'and' -> '&'
+    3. 'all' -> 'alright'
+    4. 'and' -> '&'
+    5. 'love' -> 'lavender'
+    6. 'antiaging' -> 'aging'
+    7. 'pro' -> 'proretinol'
+    8. 'antiaging' -> 'aging'
+    9. 'pro' -> 'proretinol'
+    10. '50' -> '50g'
+    11. 'all' -> 'alright'
+    12. 'and' -> '&'
+    13. 'and' -> '&'
+    14. '400' -> '400ml'
+    15. 'sms' -> 'sms—your'
+  Deletions:
+    1. 'right' — missing in hypothesis
+    2. 'retinol' — missing in hypothesis
+    3. 'retinol' — missing in hypothesis
+    4. 'gd' — missing in hypothesis
+    5. 'right' — missing in hypothesis
+    6. '10' — missing in hypothesis
+    7. '80' — missing in hypothesis
+    8. 'd' — missing in hypothesis
+    9. '80' — missing in hypothesis
+    10. 'milli' — missing in hypothesis
+    11. 'your' — missing in hypothesis
+  Insertions:
+    1. 'hey' — extra in hypothesis
+    2. 'could' — extra in hypothesis
+    3. 'you' — extra in hypothesis
+    4. 'please' — extra in hypothesis
+    5. 'tell' — extra in hypothesis
+    6. 'me' — extra in hypothesis
+    7. 'the' — extra in hypothesis
+    8. 'product' — extra in hypothesis
+    9. 'name' — extra in hypothesis
+    10. 'anti' — extra in hypothesis
+    11. 'anti' — extra in hypothesis
+    12. 'please' — extra in hypothesis
+    13. 'tell' — extra in hypothesis
+    14. 'me' — extra in hypothesis
+    15. 'is' — extra in hypothesis
+    16. 'there' — extra in hypothesis
+    17. 'anything' — extra in hypothesis
+    18. 'else' — extra in hypothesis
+    19. 'i' — extra in hypothesis
+    20. 'can' — extra in hypothesis
+    21. 'help' — extra in hypothesis
+    22. 'you' — extra in hypothesis
+    23. 'with' — extra in hypothesis
+🏁 [d9aa182c-b21e-4ad5-8138-18d0e9f69b84] completed at 13:06:03, took 31.80s
+🚀 [e69e62f6-954a-4d0a-9989-2a2d562f66fe] started at 13:06:03
+🎯 Filtered 14 assistant utterances from 27 total utterances
+🎯 Filtered 12 Agent utterances from 22 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+❌ [e69e62f6-954a-4d0a-9989-2a2d562f66fe] failed: Extra data: line 27 column 1 (char 458)
+❌ [e69e62f6-954a-4d0a-9989-2a2d562f66fe] failed: Extra data: line 27 column 1 (char 458)
+🚀 [eacbcb92-6172-41f7-b2a9-0c4df5a3a597] started at 13:06:42
+🎯 Filtered 22 assistant utterances from 38 total utterances
+🎯 Filtered 19 Agent utterances from 31 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 36 mismatches and measures to calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/eacbcb92-6172-41f7-b2a9-0c4df5a3a597/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.0851
+  Total GT NERs: 23
+  Total Ref NERs: 21
+  Unique GT NERs: 15
+  Unique Ref NERs: 14
+  Total Concerned GT NERs (PERSON/ORG): 15
+  Total Concerned Ref NERs (PERSON/ORG): 14
+  Unique Concerned GT NERs: 9
+  Unique Concerned Ref NERs: 8
+  Time taken: 0.002507 seconds
+
+  Substitutions:
+    1. 'relaxed' -> 'relaxedfit'
+    2. 'fit' -> 'midrise'
+    3. 'relaxed' -> 'relaxedfit'
+    4. 'and' -> '&'
+    5. 'relaxed' -> 'relaxedfit'
+    6. 'relaxed' -> 'relaxedfit'
+    7. 'relaxed' -> 'relaxedfit'
+    8. 'fit' -> 'midrise'
+    9. 'relaxed' -> 'relaxedfit'
+    10. 'relaxed' -> 'relaxedfit'
+    11. 'fit' -> 'midrise'
+    12. 'all' -> 'alright'
+    13. 'and' -> '&'
+    14. 'items' -> 'items—jack'
+    15. 'jack' -> '&'
+    16. 'mid' -> 'midrise'
+    17. 'mid' -> 'midrise'
+    18. '25th' -> '25'
+    19. 'sms' -> 'sms—your'
+  Deletions:
+    1. 'english' — missing in hypothesis
+    2. 'please' — missing in hypothesis
+    3. 'mid' — missing in hypothesis
+    4. 'rise' — missing in hypothesis
+    5. 'fit' — missing in hypothesis
+    6. 'fit' — missing in hypothesis
+    7. 'fit' — missing in hypothesis
+    8. 'mid' — missing in hypothesis
+    9. 'rise' — missing in hypothesis
+    10. 'fit' — missing in hypothesis
+    11. 'mid' — missing in hypothesis
+    12. 'rise' — missing in hypothesis
+    13. 'right' — missing in hypothesis
+    14. 'and' — missing in hypothesis
+    15. 'rice' — missing in hypothesis
+    16. 'rice' — missing in hypothesis
+    17. 'your' — missing in hypothesis
+  Insertions:
+🏁 [eacbcb92-6172-41f7-b2a9-0c4df5a3a597] completed at 13:07:28, took 46.41s
+🚀 [ec85480e-604c-4070-938f-b832e4904e9e] started at 13:07:28
+🎯 Filtered 18 assistant utterances from 30 total utterances
+🎯 Filtered 14 Agent utterances from 25 total utterances
+⚙️  Sending transcripts to LLM in parallel...
+✅ Saved canonical reference → calls/ec85480e-604c-4070-938f-b832e4904e9e/output/canon_ref_transcript.json
+✅ Saved canonical hypothesis → calls/ec85480e-604c-4070-938f-b832e4904e9e/output/canon_gt_transcript.json
+🔄 Loading canonical transcripts for WER calculation...
+📝 Logged 45 mismatches and measures to calls/ec85480e-604c-4070-938f-b832e4904e9e/output/wer_mismatches.json
+💾 Saved comprehensive results → calls/ec85480e-604c-4070-938f-b832e4904e9e/output/wer1_eval.json
+
+📊 Results summary:
+  WER: 0.1049
+  Total GT NERs: 27
+  Total Ref NERs: 19
+  Unique GT NERs: 16
+  Unique Ref NERs: 10
+  Total Concerned GT NERs (PERSON/ORG): 15
+  Total Concerned Ref NERs (PERSON/ORG): 11
+  Unique Concerned GT NERs: 7
+  Unique Concerned Ref NERs: 4
+  Time taken: 0.003885 seconds
+
+  Substitutions:
+    1. 'elevate' -> 'elevatenow'
+    2. 'the' -> 'their'
+    3. '1799' -> 'nine'
+    4. '6000' -> 'thousand'
+    5. '499' -> 'nine'
+    6. '1399' -> 'nine'
+    7. '1898' -> 'eight'
+    8. '1799' -> 'ninety'
+    9. 'up' -> 'nine'
+    10. 'front' -> 'upfront'
+    11. 'elevate' -> 'elevatenow'
+  Deletions:
+    1. 'now' — missing in hypothesis
+    2. 'now' — missing in hypothesis
+  Insertions:
+    1. 'i' — extra in hypothesis
+    2. 'great' — extra in hypothesis
+    3. 'absolutely' — extra in hypothesis
+    4. 'one' — extra in hypothesis
+    5. 'thousand' — extra in hypothesis
+    6. 'seven' — extra in hypothesis
+    7. 'hundred' — extra in hypothesis
+    8. 'ninety' — extra in hypothesis
+    9. 'six' — extra in hypothesis
+    10. 'have' — extra in hypothesis
+    11. 'two' — extra in hypothesis
+    12. 'payment' — extra in hypothesis
+    13. 'options' — extra in hypothesis
+    14. 'you' — extra in hypothesis
+    15. 'four' — extra in hypothesis
+    16. 'hundred' — extra in hypothesis
+    17. 'ninety' — extra in hypothesis
+    18. 'one' — extra in hypothesis
+    19. 'thousand' — extra in hypothesis
+    20. 'three' — extra in hypothesis
+    21. 'hundred' — extra in hypothesis
+    22. 'ninety' — extra in hypothesis
+    23. 'one' — extra in hypothesis
+    24. 'thousand' — extra in hypothesis
+    25. 'eight' — extra in hypothesis
+    26. 'hundred' — extra in hypothesis
+    27. 'ninety' — extra in hypothesis
+    28. 'one' — extra in hypothesis
+    29. 'thousand' — extra in hypothesis
+    30. 'seven' — extra in hypothesis
+    31. 'hundred' — extra in hypothesis
+    32. 'great' — extra in hypothesis
+🏁 [ec85480e-604c-4070-938f-b832e4904e9e] completed at 13:08:14, took 45.52s
+================================================================================
+📈 Processing Summary:
+   Processed calls: 23
+   Failed calls: 4
+
+🏷️  All entity types encountered across all calls:
+   - DATE/TIME
+   - EVENT
+   - LANGUAGE
+   - LOCATION/GPE
+   - MONEY
+   - ORG
+   - ORGANIZATION
+   - OTHER
+   - PERSON
+   - PRODUCT
+   - TIME
+
+📊 Average WER across 23 calls: 0.1317
+🌍 Calculating Global WER...
+   Total reference text length: 56805 characters
+   Total hypothesis text length: 58921 characters
+🎯 Global WER (entire system performance): 0.1286
+
+📋 Generating summary report...
+✅ Summary report saved to: calls/wer_summary.csv
+🌍 Global WER report saved to: calls/global_wer_report.json
+
+⏱️  Total processing time: 1193.81 seconds
+🎉 Processing complete!

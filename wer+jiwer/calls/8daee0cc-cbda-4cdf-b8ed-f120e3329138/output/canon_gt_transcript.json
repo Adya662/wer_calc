@@ -9,57 +9,57 @@
     {
       "index": 7,
       "value": "myntra",
-      "type": "ORGANIZATION"
+      "type": "ORG"
     },
     {
-      "index": 18,
+      "index": 22,
       "value": "hindi",
       "type": "LANGUAGE"
     },
     {
-      "index": 21,
+      "index": 24,
       "value": "english",
       "type": "LANGUAGE"
     },
     {
-      "index": 88,
-      "value": "style cast x revolt",
+      "index": 108,
+      "value": "style cast x revolt men opaque casual shirt",
       "type": "PRODUCT"
     },
     {
-      "index": 95,
-      "value": "shirt",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 102,
+      "index": 123,
       "value": "21st august",
-      "type": "DATE"
+      "type": "DATE/TIME"
     },
     {
-      "index": 222,
-      "value": "myntra",
-      "type": "ORGANIZATION"
+      "index": 186,
+      "value": "myntra app",
+      "type": "PRODUCT"
     },
     {
-      "index": 260,
-      "value": "myntra",
-      "type": "ORGANIZATION"
+      "index": 204,
+      "value": "myntra app",
+      "type": "PRODUCT"
     },
     {
-      "index": 288,
-      "value": "myntra",
-      "type": "ORGANIZATION"
+      "index": 218,
+      "value": "myntra app",
+      "type": "PRODUCT"
     },
     {
-      "index": 326,
+      "index": 220,
+      "value": "website",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 258,
       "value": "sms",
-      "type": "OTHER"
+      "type": "PRODUCT"
     },
     {
-      "index": 337,
+      "index": 267,
       "value": "myntra",
-      "type": "ORGANIZATION"
+      "type": "ORG"
     }
   ]
 }

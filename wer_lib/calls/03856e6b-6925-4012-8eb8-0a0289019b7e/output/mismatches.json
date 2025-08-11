@@ -2,230 +2,246 @@
   "call_id": "03856e6b-6925-4012-8eb8-0a0289019b7e",
   "mismatches": [
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with ATUL SINHA?",
-      "hypothesis_sentence": "Hello this is priya",
+      "reference_sentence": "Hello this is priya",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with ATUL SINHA?",
       "word_differences": [
         [
-          "from ElevateNow. Am I speaking with ATUL SINHA?",
+          "[missing]",
+          "from ElevateNow. Am I speaking with ATUL SINHA?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hello, this is Priya from Elevate Now.",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am",
+      "word_differences": [
+        [
+          "Elevate Now.",
+          "ElevateNow. Am"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Atul Sinha?",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with ATUL SINHA?",
+      "word_differences": [
+        [
+          "Elevate Now.",
+          "ElevateNow."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hello, this is Priya from Elevate now. Am I speaking with Atul Sinha?",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with ATUL SINHA?",
+      "word_differences": [
+        [
+          "Elevate now.",
+          "ElevateNow."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "he Nano plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano plan can support your health journey?",
+      "hypothesis_sentence": "We are serviceable for most parts of India, including \u092a\u091f\u0928\u093e, as we have partnered with several lab test providers. You can definitely access the Nano Plan there. Would you like to know more about how it can help you achieve your weight loss goals?",
+      "word_differences": [
+        [
+          "he",
+          "We are serviceable for most parts of India, including \u092a\u091f\u0928\u093e, as we have partnered with several lab test providers. You can definitely access"
+        ],
+        [
+          "is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs.",
+          "Plan"
+        ],
+        [
+          "explore",
+          "to know more"
+        ],
+        [
+          "the Nano plan",
+          "how"
+        ],
+        [
+          "support",
+          "can help you"
+        ],
+        [
+          "health journey?",
+          "your weight loss"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this obesity stage category Y, most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences with other weight loss programs?",
+      "hypothesis_sentence": "The Nano Plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant, will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano Plan can support your health journey?",
+      "word_differences": [
+        [
+          "Based on your BMI of 35.56, it's clear your body",
+          "The Nano Plan"
+        ],
+        [
+          "sending signals about how it's handling weight",
+          "supervised by a senior obesity specialist doctor"
+        ],
+        [
+          "metabolism right now. At this obesity stage category Y, most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage. Our plan",
           "[missing]"
+        ],
+        [
+          "stabilize blood sugar",
+          "be safe"
+        ],
+        [
+          "improve insulin sensitivity, making fat loss easier",
+          "simple. All pre-existing conditions, including a kidney transplant, will be considered during your consultation with the doctor"
+        ],
+        [
+          "more sustainable. Have",
+          "health coach. They will ensure the plan is tailored to your specific needs. Would"
+        ],
+        [
+          "had any past experiences with other weight loss programs?",
+          "like to explore how the Nano Plan can support your health journey?"
         ]
       ]
     },
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate Now.",
+      "reference_sentence": "I'm glad to hear that you had some success with Healthify.  nano plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
+      "hypothesis_sentence": "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Obesity Stage - Category I, most people struggle with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable.\n\nHave you had any past experiences with other weight loss programs?",
       "word_differences": [
         [
-          "ElevateNow. Am",
-          "Elevate Now."
+          "I'm glad",
+          "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Obesity Stage - Category I, most people struggle with insulin resistance and high blood sugar,"
+        ],
+        [
+          "hear that you had some success with Healthify. nano",
+          "to intense cravings and stubborn fat storage."
+        ],
+        [
+          "address specific metabolic challenges that might still affect your",
+          "to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences with"
+        ],
+        [
+          "journey. Let me tell you more about how it can support your goals. It starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
+          "loss"
         ]
       ]
     },
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with ATUL SINHA?",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Atul Sinha?",
+      "reference_sentence": "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like",
+      "hypothesis_sentence": "I'm glad to hear that you had some success with Healthifi. Our Nano Plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test, followed by a consultation with an obesity specialized doctor, and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
       "word_differences": [
         [
-          "ElevateNow.",
-          "Elevate Now."
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with ATUL SINHA?",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate now. Am I speaking with Atul Sinha?",
-      "word_differences": [
-        [
-          "ElevateNow.",
-          "Elevate now."
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "We are serviceable for most parts of India, including \u092a\u091f\u0928\u093e, as we have partnered with several lab test providers. You can definitely access the Nano Plan there. Would you like to know more about how it can help you achieve your weight loss goals?",
-      "hypothesis_sentence": "he Nano plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano plan can support your health journey?",
-      "word_differences": [
-        [
-          "We are serviceable for most parts of India, including \u092a\u091f\u0928\u093e, as we have partnered with several lab test providers. You can definitely access",
-          "he"
+          "Yes,",
+          "I'm glad to hear that you had some success with Healthifi."
         ],
         [
-          "Plan",
-          "is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs."
+          "team of doctors",
+          "Nano Plan"
         ],
         [
-          "to know more",
-          "explore"
+          "highly qualified",
+          "designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts"
         ],
         [
-          "how",
-          "the Nano plan"
+          "degrees such as MBBS, MD,",
+          "a blood test, followed by a consultation with an obesity specialized doctor,"
         ],
         [
-          "can help you",
-          "support"
-        ],
-        [
-          "your weight loss",
-          "health journey?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "The Nano Plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple. All pre-existing conditions, including a kidney transplant, will be considered during your consultation with the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano Plan can support your health journey?",
-      "hypothesis_sentence": "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this obesity stage category Y, most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences with other weight loss programs?",
-      "word_differences": [
-        [
-          "The Nano",
-          "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this obesity stage category Y, most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage. Our"
-        ],
-        [
-          "is supervised by a senior obesity specialist doctor and",
-          "[missing]"
-        ],
-        [
-          "be safe",
-          "stabilize blood sugar"
-        ],
-        [
-          "simple. All pre-existing conditions, including a kidney transplant, will be considered during your consultation",
-          "improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences"
-        ],
-        [
-          "the doctor and health coach. They will ensure the plan is tailored to your specific needs. Would you like to explore how the Nano Plan can support your health journey?",
-          "other weight loss programs?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Obesity Stage - Category I, most people struggle with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage. Our plan is designed to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable.\n\nHave you had any past experiences with other weight loss programs?",
-      "hypothesis_sentence": "I'm glad to hear that you had some success with Healthify.  nano plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
-      "word_differences": [
-        [
-          "Based on your BMI of 35.56, it's clear your body is sending signals about how it's handling weight and metabolism right now. At this Obesity Stage - Category I, most people",
-          "I'm glad to hear that you had some success"
-        ],
-        [
-          "with insulin resistance and high blood sugar, leading to intense cravings and stubborn fat storage.",
-          "Healthify. nano"
-        ],
-        [
-          "to stabilize blood sugar and improve insulin sensitivity, making fat loss easier and more sustainable. Have you had any past experiences with",
-          "address specific metabolic challenges that might still affect your"
-        ],
-        [
-          "loss",
-          "journey. Let me tell you more about how it can support your goals. It starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I'm glad to hear that you had some success with Healthifi. Our Nano Plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test, followed by a consultation with an obesity specialized doctor, and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
-      "hypothesis_sentence": "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like",
-      "word_differences": [
-        [
-          "I'm glad to hear that you had some success",
-          "Yes, our team of doctors is highly qualified"
-        ],
-        [
-          "Healthifi. Our Nano Plan is designed to address specific metabolic challenges that might still affect your weight loss journey. Let me tell you more about how it can support your goals. It starts with a blood test, followed by a consultation with an obesity specialized doctor,",
-          "degrees such as MBBS, MD,"
-        ],
-        [
-          "a session with a senior health coach. Would you",
-          "advanced certifications from prestigious institutions worldwide. They have extensive experience in fields"
-        ],
-        [
-          "to know how these offerings can help you achieve your weight loss goals?",
-          "[missing]"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like endocrinology, diabetes",
-      "hypothesis_sentence": "That's great to hear.You can choose between",
-      "word_differences": [
-        [
-          "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like endocrinology, diabetes",
-          "That's great to hear.You can choose between"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "That's great to hear! You can choose between partial or full",
-      "hypothesis_sentence": "Yes, I'll send both the payment links to you over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we can proceed with the payment process.",
-      "word_differences": [
-        [
-          "That's great",
-          "Yes, I'll send both the payment links"
-        ],
-        [
-          "hear!",
-          "[missing]"
+          "advanced certifications from prestigious institutions worldwide. They have extensive experience in fields",
+          "a session with a senior health coach. Would you"
         ],
         [
           "[missing]",
-          "over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we"
-        ],
+          "to know how these offerings can help you achieve your weight loss goals?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "That's great to hear.You can choose between",
+      "hypothesis_sentence": "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like endocrinology, diabetes",
+      "word_differences": [
         [
-          "choose between partial or full",
-          "proceed with the payment process."
+          "That's great to hear.You can choose between",
+          "Yes, our team of doctors is highly qualified with degrees such as MBBS, MD, and advanced certifications from prestigious institutions worldwide. They have extensive experience in fields like endocrinology, diabetes"
         ]
       ]
     },
     {
       "reference_sentence": "Yes, I'll send both the payment links to you over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we can proceed with the payment process.",
-      "hypothesis_sentence": "Perfect, I'll send the payment links to your registered mobile number right away. If you have any more doubts later, feel free to reach out. Goodbye and have a great day.",
+      "hypothesis_sentence": "That's great to hear! You can choose between partial or full",
       "word_differences": [
         [
-          "Yes,",
-          "Perfect,"
-        ],
-        [
-          "both",
-          "[missing]"
-        ],
-        [
-          "you over WhatsApp on",
-          "[missing]"
+          "Yes, I'll send both the payment links",
+          "That's great"
         ],
         [
           "[missing]",
-          "right away."
+          "hear!"
         ],
         [
-          "[missing]",
-          "later,"
+          "over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we",
+          "[missing]"
         ],
         [
-          "ask. Otherwise, we can proceed with the payment process.",
-          "reach out. Goodbye and have a great day."
+          "proceed with the payment process.",
+          "choose between partial or full"
         ]
       ]
     },
     {
-      "reference_sentence": "Perfect! I'll send the payment links to your registered mobile number right away. If you have any more doubts later, feel free to reach out. Goodbye, and have a great day!",
-      "hypothesis_sentence": "I am Elevate now's AI assisted health expert here to guide you on your health and wellness journey. If you have any more questions or need further assistance, feel free to ask.",
+      "reference_sentence": "Perfect, I'll send the payment links to your registered mobile number right away. If you have any more doubts later, feel free to reach out. Goodbye and have a great day.",
+      "hypothesis_sentence": "Yes, I'll send both the payment links to you over WhatsApp on your registered mobile number. If you have any more doubts, feel free to ask. Otherwise, we can proceed with the payment process.",
       "word_differences": [
         [
-          "Perfect! I'll send the payment links",
-          "I am Elevate now's AI assisted health expert here"
+          "Perfect,",
+          "Yes,"
         ],
         [
           "[missing]",
-          "guide you on"
+          "both"
         ],
         [
-          "registered mobile number right away.",
-          "health and wellness journey."
+          "[missing]",
+          "you over WhatsApp on"
         ],
         [
-          "doubts later,",
-          "questions or need further assistance,"
+          "right away.",
+          "[missing]"
         ],
         [
-          "reach out. Goodbye, and have a great day!",
-          "ask."
+          "later,",
+          "[missing]"
+        ],
+        [
+          "reach out. Goodbye and have a great day.",
+          "ask. Otherwise, we can proceed with the payment process."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I am Elevate now's AI assisted health expert here to guide you on your health and wellness journey. If you have any more questions or need further assistance, feel free to ask.",
+      "hypothesis_sentence": "Perfect! I'll send the payment links to your registered mobile number right away. If you have any more doubts later, feel free to reach out. Goodbye, and have a great day!",
+      "word_differences": [
+        [
+          "I am Elevate now's AI assisted health expert here",
+          "Perfect! I'll send the payment links"
+        ],
+        [
+          "guide you on",
+          "[missing]"
+        ],
+        [
+          "health and wellness journey.",
+          "registered mobile number right away."
+        ],
+        [
+          "questions or need further assistance,",
+          "doubts later,"
+        ],
+        [
+          "ask.",
+          "reach out. Goodbye, and have a great day!"
         ]
       ]
     }

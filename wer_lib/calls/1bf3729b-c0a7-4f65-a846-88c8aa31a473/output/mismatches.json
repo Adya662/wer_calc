@@ -2,62 +2,62 @@
   "call_id": "1bf3729b-c0a7-4f65-a846-88c8aa31a473",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "Ray from Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "reference_sentence": "Ray from Myntra here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
         [
-          "Hey, I am",
+          "[missing]",
+          "Hey, I am"
+        ],
+        [
+          "Myntra",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Hi, this is Ray from Myntra. Would you like to continue in English or should we go ahead in Hindi?",
+      "hypothesis_sentence": "Hi! This is Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Would you like to continue in English, or should we go ahead in Hindi?",
+      "word_differences": [
+        [
+          "Myntra.",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'm sorry. I can only assist with your Myntra orders or return related queries. Could you please let me know if there's anything else I can help you with regarding your Myntra order?",
+      "hypothesis_sentence": "I\u2019m sorry, I can only assist with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e orders or return-related queries. Could you please let me know if there\u2019s anything else I can help you with regarding your \u092e\u093f\u0902\u0924\u094d\u0930\u093e order?",
+      "word_differences": [
+        [
+          "Myntra",
           "[missing]"
         ],
         [
-          "[missing]",
-          "Myntra"
+          "return related",
+          "or"
+        ],
+        [
+          "Myntra",
+          "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Hi! This is Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e. Would you like to continue in English, or should we go ahead in Hindi?",
-      "hypothesis_sentence": "Hi, this is Ray from Myntra. Would you like to continue in English or should we go ahead in Hindi?",
+      "reference_sentence": "I'm sorry. I can only assist with your Myntra orders or return related queries. Could you let me know if there's anything else I can help you with regarding your Myntra order?",
+      "hypothesis_sentence": "I\u2019m sorry, I can only assist with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e orders or return-related queries. Could you let me know if there\u2019s anything else I can help you with regarding your \u092e\u093f\u0902\u0924\u094d\u0930\u093e order?",
       "word_differences": [
         [
-          "[missing]",
-          "Myntra."
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I\u2019m sorry, I can only assist with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e orders or return-related queries. Could you please let me know if there\u2019s anything else I can help you with regarding your \u092e\u093f\u0902\u0924\u094d\u0930\u093e order?",
-      "hypothesis_sentence": "I'm sorry. I can only assist with your Myntra orders or return related queries. Could you please let me know if there's anything else I can help you with regarding your Myntra order?",
-      "word_differences": [
-        [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ],
         [
-          "or",
-          "return related"
+          "return related",
+          "or"
         ],
         [
-          "[missing]",
-          "Myntra"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I\u2019m sorry, I can only assist with your \u092e\u093f\u0902\u0924\u094d\u0930\u093e orders or return-related queries. Could you let me know if there\u2019s anything else I can help you with regarding your \u092e\u093f\u0902\u0924\u094d\u0930\u093e order?",
-      "hypothesis_sentence": "I'm sorry. I can only assist with your Myntra orders or return related queries. Could you let me know if there's anything else I can help you with regarding your Myntra order?",
-      "word_differences": [
-        [
-          "[missing]",
-          "Myntra"
-        ],
-        [
-          "or",
-          "return related"
-        ],
-        [
-          "[missing]",
-          "Myntra"
+          "Myntra",
+          "[missing]"
         ]
       ]
     }

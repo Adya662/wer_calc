@@ -1,0 +1,162 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "Hey, I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.241652",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:07.780525",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:12.380326",
+    "speaker": "Customer",
+    "content": "I want to know when the delivery date is."
+  },
+  {
+    "timestamp": "0:00:16.233273",
+    "speaker": "Agent",
+    "content": "Could you please tell me the product name or brand for which you'd like to check the delivery date?"
+  },
+  {
+    "timestamp": "0:00:21.943193",
+    "speaker": "Customer",
+    "content": "The recent most recent product in my orders list."
+  },
+  {
+    "timestamp": "0:00:26.409973",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:29.805018",
+    "speaker": "Customer",
+    "content": "Yeah."
+  },
+  {
+    "timestamp": "0:00:30.183265",
+    "speaker": "Agent",
+    "content": "Your style"
+  },
+  {
+    "timestamp": "0:00:31.880284",
+    "speaker": "Agent",
+    "content": "Sure. How else can I assist you today?"
+  },
+  {
+    "timestamp": "0:00:36.524715",
+    "speaker": "Customer",
+    "content": "Uh, you haven't closed my previous request yet."
+  },
+  {
+    "timestamp": "0:00:41.158405",
+    "speaker": "Agent",
+    "content": "Your previous request about the delivery date has been addressed. Could you please tell me what you'd like assistance with next?"
+  },
+  {
+    "timestamp": "0:00:48.330601",
+    "speaker": "Customer",
+    "content": "I couldn't hear your response for the previous request."
+  },
+  {
+    "timestamp": "0:00:52.581381",
+    "speaker": "Agent",
+    "content": "No problem. Let me repeat that for you. our Style Cast X Revolt men opaque casual shirt is scheduled for delivery by 21st August. Let me know if you need any further assistance."
+  },
+  {
+    "timestamp": "0:01:04.931108",
+    "speaker": "Customer",
+    "content": "I would like to change my delivery date."
+  },
+  {
+    "timestamp": "0:01:09.842332",
+    "speaker": "Agent",
+    "content": "I'm sorry. We are currently unable to accommodate changes to the delivery date. Is there anything else I can assist you with?\""
+  },
+  {
+    "timestamp": "0:01:25.763235",
+    "speaker": "Agent",
+    "content": "I noticed you've been quiet. Are you still there?"
+  },
+  {
+    "timestamp": "0:01:29.269344",
+    "speaker": "Customer",
+    "content": "Yeah, I'm still there."
+  },
+  {
+    "timestamp": "0:01:31.952085",
+    "speaker": "Agent",
+    "content": "All right. Please let me know how else I can"
+  },
+  {
+    "timestamp": "0:01:33.036563",
+    "speaker": "Customer",
+    "content": "I would like to know who the"
+  },
+  {
+    "timestamp": "0:01:35.574132",
+    "speaker": "Customer",
+    "content": "I would like to know who the delivery partner is."
+  },
+  {
+    "timestamp": "0:01:38.960131",
+    "speaker": "Agent",
+    "content": "Once your item is out for delivery, the city the delivery partner will call you when they are near your location. Is there anything else I can assist you with?"
+  },
+  {
+    "timestamp": "0:01:50.474198",
+    "speaker": "Customer",
+    "content": "I would like to change the size of the product."
+  },
+  {
+    "timestamp": "0:01:54.192376",
+    "speaker": "Agent",
+    "content": "To change the size of your product, you'll need to initiate an exchange request. You can do this in the Myntra app by going to the order section, selecting the item and choosing exchange. Let me know if you need help with the process or anything else."
+  },
+  {
+    "timestamp": "0:02:08.406173",
+    "speaker": "Customer",
+    "content": "I would like to do it online."
+  },
+  {
+    "timestamp": "0:02:11.475076",
+    "speaker": "Agent",
+    "content": "You can easily do this online through the Myntra app. Simply open the app, go to the order section. Select"
+  },
+  {
+    "timestamp": "0:02:17.700930",
+    "speaker": "Customer",
+    "content": "I'd like to do this on the call."
+  },
+  {
+    "timestamp": "0:02:20.751617",
+    "speaker": "Agent",
+    "content": "Currently, exchanges can only be initiated through the Myntra app or website. I recommend opening the app navigating to the orders section."
+  },
+  {
+    "timestamp": "0:02:28.257556",
+    "speaker": "Customer",
+    "content": "What else can you do?"
+  },
+  {
+    "timestamp": "0:02:31.493879",
+    "speaker": "Agent",
+    "content": "I  can help you track your orders, assist with delivery related queries and provide information about returns or exchanges. Let me know what specific help you need."
+  },
+  {
+    "timestamp": "0:02:41.719116",
+    "speaker": "Customer",
+    "content": "Okay thank you. Bye."
+  },
+  {
+    "timestamp": "0:02:45.052869",
+    "speaker": "Agent",
+    "content": "We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day."
+  }
+]

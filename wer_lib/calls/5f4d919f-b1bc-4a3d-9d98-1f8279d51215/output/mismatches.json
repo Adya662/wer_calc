@@ -2,244 +2,256 @@
   "call_id": "5f4d919f-b1bc-4a3d-9d98-1f8279d51215",
   "mismatches": [
     {
-      "reference_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Pearl Biju?",
-      "hypothesis_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Pearl Biju? I noticed you've been quiet. Are you still there?",
+      "reference_sentence": "Hello, this is Priya from Elevate Now. Am I speaking with Pearl Biju? I noticed you've been quiet. Are you still there?",
+      "hypothesis_sentence": "Hello, this is Priya from ElevateNow. Am I speaking with Pearl Biju?",
       "word_differences": [
         [
-          "ElevateNow.",
-          "Elevate Now."
+          "Elevate Now.",
+          "ElevateNow."
         ],
         [
-          "[missing]",
-          "I noticed you've been quiet. Are you still there?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I noticed you've been quiet. Are you still there?",
-      "hypothesis_sentence": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
-      "word_differences": [
-        [
-          "[missing]",
-          "Great,"
-        ],
-        [
-          "you've been quiet.",
-          "you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals"
-        ],
-        [
-          "you still there?",
+          "I noticed you've been quiet. Are you still there?",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
-      "hypothesis_sentence": "Absolutely. Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance, which can make weight loss difficult. The Nano plan is designed to specifically address these issues and create a personalized road map for sustainable weight loss. Would you like to discuss a plan tailored to your needs?",
+      "reference_sentence": "Great, I noticed you were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
       "word_differences": [
         [
-          "Great! I noticed you were checking out our",
-          "Absolutely. Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance, which can make weight loss difficult. The"
-        ],
-        [
-          "but didn't complete the payment. I'd love",
-          "is designed"
-        ],
-        [
-          "understand what motivated you to consider our program",
-          "specifically address these issues"
-        ],
-        [
-          "what your",
-          "create a personalized road map for sustainable"
-        ],
-        [
-          "goals are.",
-          "Would you like to discuss a plan tailored to your needs?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Absolutely! Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges, like liver function issues or thyroid imbalance, which can make weight loss difficult. The Nano Plan is designed to specifically address these issues and create a personalized roadmap for sustainable weight loss. Would you like to discuss a plan tailored to your needs?",
-      "hypothesis_sentence": "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how the Nano plan could be a better fit for your needs.",
-      "word_differences": [
-        [
-          "Absolutely! Based on your BMI of 44.08, it seems your body may be dealing",
-          "Could you share if you have any past experiences"
-        ],
-        [
-          "some metabolic challenges, like liver function issues or thyroid imbalance, which can make",
-          "other"
-        ],
-        [
-          "difficult.",
-          "programs? Understanding this can help me explain how"
-        ],
-        [
-          "is designed to specifically address these issues and create",
-          "could be"
-        ],
-        [
-          "personalized roadmap",
-          "better fit"
-        ],
-        [
-          "sustainable weight loss. Would you like to discuss a plan tailored to",
+          "Great,",
           "[missing]"
+        ],
+        [
+          "[missing]",
+          "you've been quiet. Are"
+        ],
+        [
+          "were checking out our Nano plan, but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
+          "still there?"
         ]
       ]
     },
     {
-      "reference_sentence": "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how the Nano Plan could be a better fit for your needs.",
-      "hypothesis_sentence": "Since it's been a while, the Nano plan could be a fresh start for you. Let me explain what we offer. It includes a blood test, doctor consultation and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
+      "reference_sentence": "Absolutely. Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance, which can make weight loss difficult. The Nano plan is designed to specifically address these issues and create a personalized road map for sustainable weight loss. Would you like to discuss a plan tailored to your needs?",
+      "hypothesis_sentence": "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what your weight loss goals are.",
       "word_differences": [
         [
-          "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how",
-          "Since it's been a while,"
+          "Absolutely. Based on",
+          "Great! I noticed you were checking out our Nano plan but didn't complete the payment. I'd love to understand what motivated you to consider our program and what"
+        ],
+        [
+          "BMI of 44.08, it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance, which can make",
+          "[missing]"
+        ],
+        [
+          "difficult. The Nano plan is designed to specifically address these issues and create a personalized road map for sustainable weight loss. Would you like to discuss a plan tailored to your needs?",
+          "goals are."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how the Nano plan could be a better fit for your needs.",
+      "hypothesis_sentence": "Absolutely! Based on your BMI of 44.08, it seems your body may be dealing with some metabolic challenges, like liver function issues or thyroid imbalance, which can make weight loss difficult. The Nano Plan is designed to specifically address these issues and create a personalized roadmap for sustainable weight loss. Would you like to discuss a plan tailored to your needs?",
+      "word_differences": [
+        [
+          "Could you share if you have any past experiences",
+          "Absolutely! Based on your BMI of 44.08, it seems your body may be dealing"
+        ],
+        [
+          "other",
+          "some metabolic challenges, like liver function issues or thyroid imbalance, which can make"
+        ],
+        [
+          "programs? Understanding this can help me explain how",
+          "difficult."
+        ],
+        [
+          "could be",
+          "is designed to specifically address these issues and create"
         ],
         [
           "better fit",
-          "fresh start"
+          "personalized roadmap"
         ],
         [
           "[missing]",
-          "you. Let me explain what we offer. It includes a blood test, doctor consultation and a session with a senior health coach. Would you like to know how these offerings can help you achieve"
-        ],
-        [
-          "needs.",
-          "weight loss goals?"
+          "sustainable weight loss. Would you like to discuss a plan tailored to"
         ]
       ]
     },
     {
-      "reference_sentence": "Got it! Since it's been a while, the Nano Plan could be a fresh start for you. Let me explain what we offer: it includes a blood test, doctor consultation, and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
-      "hypothesis_sentence": "\"First, a blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?",
+      "reference_sentence": "Since it's been a while, the Nano plan could be a fresh start for you. Let me explain what we offer. It includes a blood test, doctor consultation and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
+      "hypothesis_sentence": "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how the Nano Plan could be a better fit for your needs.",
       "word_differences": [
         [
-          "Got it! Since it's been a while, the Nano Plan could be a fresh start for you. Let me explain what we offer: it includes",
-          "\"First,"
+          "Since it's been a while,",
+          "Could you share if you have any past experiences with other weight loss programs? Understanding this can help me explain how"
         ],
         [
-          "[missing]",
-          "identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then a specialized"
+          "fresh start",
+          "better fit"
         ],
         [
-          "consultation, and",
-          "reviews these results with you, helping to understand their impact on your health. Finally,"
-        ],
-        [
-          "session with a senior",
+          "you. Let me explain what we offer. It includes a blood test, doctor consultation and a session with a senior health coach. Would you like to know how these offerings can help you achieve",
           "[missing]"
         ],
         [
-          "[missing]",
-          "will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings,"
-        ],
-        [
-          "[missing]",
-          "me"
-        ],
-        [
-          "know how these offerings can help you achieve your weight loss goals?",
-          "explain the pricing?"
+          "weight loss goals?",
+          "needs."
         ]
       ]
     },
     {
-      "reference_sentence": "First, our blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then, a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?",
-      "hypothesis_sentence": "The Nano plan costs rupees 1,799, which is designed to be affordable compared to individual market prices for similar services. This includes the blood test, doctor consultation, and health coach session all-in-one package. How does that sound to you?",
+      "reference_sentence": "\"First, a blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?",
+      "hypothesis_sentence": "Got it! Since it's been a while, the Nano Plan could be a fresh start for you. Let me explain what we offer: it includes a blood test, doctor consultation, and a session with a senior health coach. Would you like to know how these offerings can help you achieve your weight loss goals?",
       "word_differences": [
         [
-          "First, our",
-          "The Nano plan costs rupees 1,799, which is designed to be affordable compared to individual market prices for similar services. This includes the"
+          "\"First,",
+          "Got it! Since it's been a while, the Nano Plan could be a fresh start for you. Let me explain what we offer: it includes"
         ],
         [
           "identifies key issues like insulin resistance",
           "doctor consultation,"
         ],
         [
-          "hormonal imbalances that might be affecting your weight. Then, a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a",
+          "hormonal imbalances that might be affecting your weight. Then",
           "[missing]"
         ],
         [
-          "will work with",
-          "session all-in-one package. How does that sound to"
+          "specialized doctor reviews these results",
+          "session"
         ],
         [
-          "to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?",
+          "you, helping to understand their impact on your health. Finally,",
+          "[missing]"
+        ],
+        [
+          "[missing]",
+          "senior"
+        ],
+        [
+          "will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings,",
+          "[missing]"
+        ],
+        [
+          "me",
+          "[missing]"
+        ],
+        [
+          "explain the pricing?",
+          "know how these offerings can help you achieve your weight loss goals?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "The Nano plan costs rupees 1,799, which is designed to be affordable compared to individual market prices for similar services. This includes the blood test, doctor consultation, and health coach session all-in-one package. How does that sound to you?",
+      "hypothesis_sentence": "First, our blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then, a specialized doctor reviews these results with you, helping to understand their impact on your health. Finally, a health coach will work with you to create a personalized weight loss plan tailored to your needs. Now that we've covered the offerings, would you like me to explain the pricing?",
+      "word_differences": [
+        [
+          "The Nano plan costs rupees 1,799, which is designed to be affordable compared to individual market prices for similar services. This includes the",
+          "First, our"
+        ],
+        [
+          "[missing]",
+          "identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight. Then, a specialized"
+        ],
+        [
+          "consultation, and",
+          "reviews these results with you, helping to understand their impact on your health. Finally, a"
+        ],
+        [
+          "session all-in-one package. How does",
+          "will work with you to create a personalized weight loss plan tailored to your needs. Now"
+        ],
+        [
+          "sound",
+          "we've covered the offerings, would you like me"
+        ],
+        [
+          "you?",
+          "explain the pricing?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "With the Nano plan, you'll receive a personalized road map created by the health coach tailored to your unique needs. his is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?",
+      "hypothesis_sentence": "The Nano Plan costs Rupees one thousand seven hundred ninety-nine, which is designed to be affordable compared to individual market prices for similar services. This includes the blood test, doctor consultation, and health coach session, all in one package. How does that sound to you?",
+      "word_differences": [
+        [
+          "With",
+          "[missing]"
+        ],
+        [
+          "you'll receive a personalized road map created by",
+          "costs Rupees one thousand seven hundred ninety-nine, which is designed to be affordable compared to individual market prices for similar services. This includes"
+        ],
+        [
+          "[missing]",
+          "blood test, doctor consultation, and"
+        ],
+        [
+          "tailored",
+          "session, all in one package. How does that sound"
+        ],
+        [
+          "your unique needs. his is included in the plan, so",
+          "[missing]"
+        ],
+        [
+          "won't need another plan to get started. Would you like to proceed with the payment to begin your journey?",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "The Nano Plan costs Rupees one thousand seven hundred ninety-nine, which is designed to be affordable compared to individual market prices for similar services. This includes the blood test, doctor consultation, and health coach session, all in one package. How does that sound to you?",
-      "hypothesis_sentence": "With the Nano plan, you'll receive a personalized road map created by the health coach tailored to your unique needs. his is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?",
+      "reference_sentence": "Absolutely, ake your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day.",
+      "hypothesis_sentence": "With the Nano Plan, you'll receive a personalized roadmap created by the health coach, tailored to your unique needs. This is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?",
       "word_differences": [
         [
-          "[missing]",
-          "With"
+          "Absolutely, ake",
+          "With the Nano Plan, you'll receive a personalized roadmap created by the health coach, tailored to"
         ],
         [
-          "costs Rupees one thousand seven hundred ninety-nine, which is designed to be affordable compared to individual market prices for similar services. This includes",
-          "you'll receive a personalized road map created by"
+          "time",
+          "unique needs. This is included in the plan, so you won't need another plan"
         ],
         [
-          "blood test, doctor consultation, and",
-          "[missing]"
-        ],
-        [
-          "session, all",
-          "tailored to your unique needs. his is included"
-        ],
-        [
-          "one package. How does that sound",
-          "the plan, so you won't need another plan"
-        ],
-        [
-          "[missing]",
+          "consider it. If",
           "get started. Would"
         ],
         [
-          "[missing]",
-          "like to proceed with the payment to begin your journey?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "With the Nano Plan, you'll receive a personalized roadmap created by the health coach, tailored to your unique needs. This is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?",
-      "hypothesis_sentence": "Absolutely, ake your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye and have a great day.",
-      "word_differences": [
-        [
-          "With the Nano Plan, you'll receive",
-          "Absolutely, ake your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye and have"
+          "have any more questions or need assistance, feel free",
+          "like"
         ],
         [
-          "personalized roadmap created by the health coach, tailored to your unique needs. This is included in the plan, so you won't need another plan to get started. Would you like to proceed with the payment to begin your journey?",
-          "great day."
+          "reach out. Goodbye and have a great day.",
+          "proceed with the payment to begin your journey?"
         ]
       ]
     },
     {
-      "reference_sentence": "Absolutely! Take your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye, and have a great day!",
-      "hypothesis_sentence": "You're welcome. Have a wonderful day.",
+      "reference_sentence": "You're welcome. Have a wonderful day.",
+      "hypothesis_sentence": "Absolutely! Take your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye, and have a great day!",
       "word_differences": [
         [
-          "Absolutely! Take your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye, and",
-          "You're welcome."
+          "You're welcome.",
+          "Absolutely! Take your time to consider it. If you have any more questions or need assistance, feel free to reach out. Goodbye, and"
         ],
         [
-          "great",
-          "wonderful"
+          "wonderful",
+          "great"
         ]
       ]
     },
     {
-      "reference_sentence": "You're welcome! Have a wonderful day!",
-      "hypothesis_sentence": "I noticed you've been quiet. Are you still there?",
+      "reference_sentence": "I noticed you've been quiet. Are you still there?",
+      "hypothesis_sentence": "You're welcome! Have a wonderful day!",
       "word_differences": [
         [
-          "You're welcome! Have a wonderful day!",
-          "I noticed you've been quiet. Are you still there?"
+          "I noticed you've been quiet. Are you still there?",
+          "You're welcome! Have a wonderful day!"
         ]
       ]
     }

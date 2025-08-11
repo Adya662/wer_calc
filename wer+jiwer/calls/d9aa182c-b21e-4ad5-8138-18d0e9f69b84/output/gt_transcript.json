@@ -1,0 +1,117 @@
+[
+  {
+    "timestamp": "0:00:00",
+    "speaker": "Agent",
+    "content": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?"
+  },
+  {
+    "timestamp": "0:00:05.762572",
+    "speaker": "Customer",
+    "content": "English."
+  },
+  {
+    "timestamp": "0:00:08.141543",
+    "speaker": "Agent",
+    "content": "Great. How can I help you today?"
+  },
+  {
+    "timestamp": "0:00:11.823016",
+    "speaker": "Customer",
+    "content": "Where is my order?"
+  },
+  {
+    "timestamp": "0:00:14.368063",
+    "speaker": "Agent",
+    "content": "I can help you with tracking your order."
+  },
+  {
+    "timestamp": "0:00:21.263730",
+    "speaker": "Customer",
+    "content": "Can you tell me what is in my list?"
+  },
+  {
+    "timestamp": "0:00:25.511381",
+    "speaker": "Agent",
+    "content": "I'm sorry, I can't provide the names or details of products in your order list directly. Could you please let me know the product name you're asking about?"
+  },
+  {
+    "timestamp": "0:00:35.905430",
+    "speaker": "Customer",
+    "content": "Lakme."
+  },
+  {
+    "timestamp": "0:00:38.409871",
+    "speaker": "Agent",
+    "content": "Got it. Could you please tell me the product name or brand? This will help me track your order."
+  },
+  {
+    "timestamp": "0:00:44.658848",
+    "speaker": "Customer",
+    "content": "The brand is Lakme."
+  },
+  {
+    "timestamp": "0:00:48.031889",
+    "speaker": "Agent",
+    "content": "Please give me a moment to fetch your products."
+  },
+  {
+    "timestamp": "0:00:52.394028",
+    "speaker": "Agent",
+    "content": "I couldn't find Lakme in your orders. But I see items from brands like Love Beauty and Planet, Lakme, Dressberry, Lakala and Carlton London. Could you confirm if it's one of these or provide more details about the product?"
+  },
+  {
+    "timestamp": "0:01:06.923070",
+    "speaker": "Customer",
+    "content": "It's one of these."
+  },
+  {
+    "timestamp": "0:01:09.604913",
+    "speaker": "Agent",
+    "content": "All right. Could you let me know which type of product you're asking about such as a cream, shampoo, socks, earrings or studs? This will help me locate your order."
+  },
+  {
+    "timestamp": "0:01:19.855360",
+    "speaker": "Customer",
+    "content": "cream and shampoo."
+  },
+  {
+    "timestamp": "0:01:23.290198",
+    "speaker": "Agent",
+    "content": "I didn't find a product matching trim hand shampoo. Could you confirm if you're referring to any of these items? There's a Love Beauty and Planet Argan Oil and Love."
+  },
+  {
+    "timestamp": "0:01:33.320769",
+    "speaker": "Agent",
+    "content": "Got it. You might be referring to the Lakme Youth Infinity anti-aging night cream with Pro retinol C. Let me check its delivery status for you. Your Lakme Youth Infinity anti-aging night cream with Pro retinol C 50 GD will be delivered on or before 27 July."
+  },
+  {
+    "timestamp": "0:01:54.882814",
+    "speaker": "Customer",
+    "content": "Yes."
+  },
+  {
+    "timestamp": "0:01:57.252496",
+    "speaker": "Agent",
+    "content": "Sure, what else can I assist you with?"
+  },
+  {
+    "timestamp": "0:02:01.878753",
+    "speaker": "Customer",
+    "content": "Where is the shampoo?"
+  },
+  {
+    "timestamp": "0:02:04.531604",
+    "speaker": "Agent",
+    "content": "All right. Let me check the delivery status for your Love Beauty and Planet 10 Argan oil and lavender shampoo. Give me a moment. Your love beauty and planet 80 D 80 Argan oil and lavender shampoo for frizzy hair 400 milli will be delivered on or before tomorrow. Please tell me, is there anything else I can help you with?"
+  },
+  {
+    "timestamp": "0:02:30.965378",
+    "speaker": "Customer",
+    "content": "Uh no that's it."
+  },
+  {
+    "timestamp": "0:02:34.687403",
+    "speaker": "Agent",
+    "content": "We'll be sending you a quick feedback form via SMS. Your input would really help us improve. Thank you for choosing Myntra. Have a great day."
+  }
+]

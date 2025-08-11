@@ -1,0 +1,555 @@
+{
+  "wer": 0.09932659932659933,
+  "insertions": 27,
+  "deletions": 5,
+  "substitutions": 27,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 3,
+      "ref_word": "",
+      "hyp_word": "ray",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to assist"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 4,
+      "ref_word": "",
+      "hyp_word": "from",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to assist you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 93,
+      "index_hyp": 98,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "please tell me which item you are referring to for example"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 93,
+      "index_hyp": 99,
+      "ref_word": "you're",
+      "hyp_word": "are",
+      "ref_context": "please tell me which item you're referring to for example is",
+      "hyp_context": "tell me which item you are referring to for example is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 177,
+      "index_hyp": 183,
+      "ref_word": "",
+      "hyp_word": "who",
+      "ref_context": "",
+      "hyp_context": "to speak with another agent who can alright could you confirm"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 177,
+      "index_hyp": 184,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "speak with another agent who can alright could you confirm if"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 190,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "alright could you confirm if you are referring to the plum"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 182,
+      "index_hyp": 191,
+      "ref_word": "you're",
+      "hyp_word": "are",
+      "ref_context": "alright could you confirm if you're referring to the plum face",
+      "hyp_context": "could you confirm if you are referring to the plum face"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 211,
+      "ref_word": "",
+      "hyp_word": "this",
+      "ref_context": "",
+      "hyp_context": "shorts or sirona period panties this will help me provide the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 212,
+      "ref_word": "",
+      "hyp_word": "will",
+      "ref_context": "",
+      "hyp_context": "or sirona period panties this will help me provide the correct"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 213,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "sirona period panties this will help me provide the correct details"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 214,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "period panties this will help me provide the correct details your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 215,
+      "ref_word": "",
+      "hyp_word": "provide",
+      "ref_context": "",
+      "hyp_context": "panties this will help me provide the correct details your plum"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 216,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "this will help me provide the correct details your plum 10"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 217,
+      "ref_word": "",
+      "hyp_word": "correct",
+      "ref_context": "",
+      "hyp_context": "will help me provide the correct details your plum 10 niacinamide"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 202,
+      "index_hyp": 218,
+      "ref_word": "",
+      "hyp_word": "details",
+      "ref_context": "",
+      "hyp_context": "help me provide the correct details your plum 10 niacinamide brightening"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 213,
+      "index_hyp": 230,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "serum with rice ferment extract and licorice 15 ml is scheduled",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 215,
+      "index_hyp": 231,
+      "ref_word": "15",
+      "hyp_word": "50ml",
+      "ref_context": "rice ferment extract and licorice 15 ml is scheduled to arrive",
+      "hyp_context": "with rice ferment extract licorice 50ml is scheduled to arrive by"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 216,
+      "index_hyp": 232,
+      "ref_word": "ml",
+      "hyp_word": "",
+      "ref_context": "ferment extract and licorice 15 ml is scheduled to arrive by",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 238,
+      "index_hyp": 253,
+      "ref_word": "",
+      "hyp_word": "yes",
+      "ref_context": "",
+      "hyp_context": "i can help you with yes your order is scheduled to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 252,
+      "index_hyp": 268,
+      "ref_word": "any",
+      "hyp_word": "anytime",
+      "ref_context": "end of today this means any time before the end of",
+      "hyp_context": "end of today this means anytime before the end of the"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 253,
+      "index_hyp": 269,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "of today this means any time before the end of the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 278,
+      "index_hyp": 293,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "with i really apologize but i am unable to share the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 278,
+      "index_hyp": 294,
+      "ref_word": "i'm",
+      "hyp_word": "am",
+      "ref_context": "with i really apologize but i'm unable to share the delivery",
+      "hyp_context": "i really apologize but i am unable to share the delivery"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 288,
+      "index_hyp": 304,
+      "ref_word": "double",
+      "hyp_word": "doublecheck",
+      "ref_context": "delivery address however you can double check the delivery address in",
+      "hyp_context": "delivery address however you can doublecheck the delivery address in the"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 289,
+      "index_hyp": 305,
+      "ref_word": "check",
+      "hyp_word": "",
+      "ref_context": "address however you can double check the delivery address in the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 336,
+      "index_hyp": 351,
+      "ref_word": "order",
+      "hyp_word": "orders",
+      "ref_context": "the app go to the order section select the item you",
+      "hyp_context": "the app go to the orders section select the item you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 378,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "then submit the return request let me know if you need"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 379,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "submit the return request let me know if you need further"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 380,
+      "ref_word": "",
+      "hyp_word": "know",
+      "ref_context": "",
+      "hyp_context": "the return request let me know if you need further assistance"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 381,
+      "ref_word": "",
+      "hyp_word": "if",
+      "ref_context": "",
+      "hyp_context": "return request let me know if you need further assistance sure"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 382,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "request let me know if you need further assistance sure to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 383,
+      "ref_word": "",
+      "hyp_word": "need",
+      "ref_context": "",
+      "hyp_context": "let me know if you need further assistance sure to create"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 384,
+      "ref_word": "",
+      "hyp_word": "further",
+      "ref_context": "",
+      "hyp_context": "me know if you need further assistance sure to create a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 363,
+      "index_hyp": 385,
+      "ref_word": "",
+      "hyp_word": "assistance",
+      "ref_context": "",
+      "hyp_context": "know if you need further assistance sure to create a return"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 374,
+      "index_hyp": 397,
+      "ref_word": "one",
+      "hyp_word": "1",
+      "ref_context": "your order follow these steps one open the myntra app two",
+      "hyp_context": "your order follow these steps 1 open the mintra app 2"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 379,
+      "index_hyp": 402,
+      "ref_word": "two",
+      "hyp_word": "2",
+      "ref_context": "one open the myntra app two go to the order section",
+      "hyp_context": "1 open the mintra app 2 go to the orders section"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 383,
+      "index_hyp": 406,
+      "ref_word": "order",
+      "hyp_word": "orders",
+      "ref_context": "app two go to the order section three select the item",
+      "hyp_context": "app 2 go to the orders section 3 select the item"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 385,
+      "index_hyp": 408,
+      "ref_word": "three",
+      "hyp_word": "3",
+      "ref_context": "go to the order section three select the item you want",
+      "hyp_context": "go to the orders section 3 select the item you want"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 393,
+      "index_hyp": 416,
+      "ref_word": "four",
+      "hyp_word": "4",
+      "ref_context": "item you want to return four tap on return five choose",
+      "hyp_context": "item you want to return 4 tap on return 5 choose"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 397,
+      "index_hyp": 420,
+      "ref_word": "five",
+      "hyp_word": "5",
+      "ref_context": "return four tap on return five choose a reason for the",
+      "hyp_context": "return 4 tap on return 5 choose a reason for the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 409,
+      "index_hyp": 432,
+      "ref_word": "six",
+      "hyp_word": "6",
+      "ref_context": "and provide the required details six submit the return request if",
+      "hyp_context": "and provide the required details 6 submit the return request if"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 426,
+      "index_hyp": 449,
+      "ref_word": "all",
+      "hyp_word": "alright",
+      "ref_context": "step again let me know all right in the second step",
+      "hyp_context": "step again let me know alright in the second step once"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 427,
+      "index_hyp": 450,
+      "ref_word": "right",
+      "hyp_word": "",
+      "ref_context": "again let me know all right in the second step once",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 441,
+      "index_hyp": 463,
+      "ref_word": "order",
+      "hyp_word": "orders",
+      "ref_context": "myntra app look for the order section this is usually located",
+      "hyp_context": "mintra app look for the orders section this is usually located"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 531,
+      "index_hyp": 553,
+      "ref_word": "order",
+      "hyp_word": "orders",
+      "ref_context": "myntra app tap on the order section select your item and",
+      "hyp_context": "mintra app tap on the orders section select your item and"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "you're",
+      "hypothesis": "are"
+    },
+    {
+      "reference": "you're",
+      "hypothesis": "are"
+    },
+    {
+      "reference": "15",
+      "hypothesis": "50ml"
+    },
+    {
+      "reference": "any",
+      "hypothesis": "anytime"
+    },
+    {
+      "reference": "i'm",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "double",
+      "hypothesis": "doublecheck"
+    },
+    {
+      "reference": "order",
+      "hypothesis": "orders"
+    },
+    {
+      "reference": "one",
+      "hypothesis": "1"
+    },
+    {
+      "reference": "two",
+      "hypothesis": "2"
+    },
+    {
+      "reference": "order",
+      "hypothesis": "orders"
+    },
+    {
+      "reference": "three",
+      "hypothesis": "3"
+    },
+    {
+      "reference": "four",
+      "hypothesis": "4"
+    },
+    {
+      "reference": "five",
+      "hypothesis": "5"
+    },
+    {
+      "reference": "six",
+      "hypothesis": "6"
+    },
+    {
+      "reference": "all",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "order",
+      "hypothesis": "orders"
+    },
+    {
+      "reference": "order",
+      "hypothesis": "orders"
+    }
+  ],
+  "deletion_words": [
+    "and",
+    "ml",
+    "time",
+    "check",
+    "right"
+  ],
+  "insertion_words": [
+    "hey",
+    "i",
+    "am",
+    "ray",
+    "from",
+    "you",
+    "who",
+    "can",
+    "you",
+    "this",
+    "will",
+    "help",
+    "me",
+    "provide",
+    "the",
+    "correct",
+    "details",
+    "yes",
+    "i",
+    "let",
+    "me",
+    "know",
+    "if",
+    "you",
+    "need",
+    "further",
+    "assistance"
+  ]
+}

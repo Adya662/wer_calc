@@ -1,6 +1,6 @@
 {
-  "wer": 0.09342560553633218,
-  "wer_value": 0.09342560553633218,
+  "wer": 0.10218978102189781,
+  "wer_value": 0.10218978102189781,
   "entities_gt": [
     {
       "index": 3,
@@ -10,92 +10,10 @@
     {
       "index": 5,
       "value": "myntra",
-      "type": "ORGANIZATION"
+      "type": "ORG"
     },
     {
-      "index": 15,
-      "value": "hindi",
-      "type": "LANGUAGE"
-    },
-    {
-      "index": 19,
-      "value": "english",
-      "type": "LANGUAGE"
-    },
-    {
-      "index": 45,
-      "value": "kook n keech urban edge printed relaxed tshirt",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 55,
-      "value": "june 18th",
-      "type": "DATE"
-    },
-    {
-      "index": 57,
-      "value": "505 pm",
-      "type": "TIME"
-    },
-    {
-      "index": 61,
-      "value": "kook n keech urban edge printed relaxed tshirt",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 72,
-      "value": "21 june",
-      "type": "DATE"
-    },
-    {
-      "index": 92,
-      "value": "freakins",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 112,
-      "value": "carkins",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 128,
-      "value": "freakins",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 131,
-      "value": "carkins",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 157,
-      "value": "masculine sasafers",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 202,
-      "value": "freakins",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 228,
-      "value": "unrl",
-      "type": "PRODUCT"
-    }
-  ],
-  "entities_ref": [
-    {
-      "index": 7,
-      "value": "ray",
-      "type": "PERSON"
-    },
-    {
-      "index": 9,
-      "value": "myntra",
-      "type": "ORGANIZATION"
-    },
-    {
-      "index": 21,
+      "index": 22,
       "value": "hindi",
       "type": "LANGUAGE"
     },
@@ -105,71 +23,144 @@
       "type": "LANGUAGE"
     },
     {
-      "index": 55,
+      "index": 60,
       "value": "kook n keech urban edge printed relaxed tshirt",
       "type": "PRODUCT"
     },
     {
-      "index": 68,
-      "value": "june eighteenth",
-      "type": "DATE/TIME"
-    },
-    {
       "index": 70,
-      "value": "5 5 pm",
+      "value": "june 18th at 505 pm",
       "type": "DATE/TIME"
     },
     {
-      "index": 88,
-      "value": "kuk end keech urban edge printed relaxed tshirt",
+      "index": 73,
+      "value": "kook n keech urban edge printed relaxed tshirt",
       "type": "PRODUCT"
     },
     {
-      "index": 102,
+      "index": 83,
       "value": "21 june",
       "type": "DATE/TIME"
     },
     {
-      "index": 125,
+      "index": 102,
+      "value": "freakins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 124,
+      "value": "carkins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 134,
+      "value": "freakins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 137,
+      "value": "carkins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 157,
+      "value": "masculine sasafers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "freakins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 212,
+      "value": "unrl",
+      "type": "PRODUCT"
+    }
+  ],
+  "entities_ref": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORG"
+    },
+    {
+      "index": 21,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 23,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 50,
+      "value": "kook n keech urban edge printed relaxed tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 58,
+      "value": "june eighteenth",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 62,
+      "value": "five five pm",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 68,
+      "value": "kuk and keech urban edge printed relaxed tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 76,
+      "value": "21 june",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 94,
       "value": "freekins",
       "type": "PRODUCT"
     },
     {
-      "index": 148,
+      "index": 105,
       "value": "crkins",
       "type": "PRODUCT"
     },
     {
-      "index": 170,
+      "index": 113,
       "value": "freekins",
       "type": "PRODUCT"
     },
     {
-      "index": 173,
+      "index": 115,
       "value": "crkins",
       "type": "PRODUCT"
     },
     {
-      "index": 209,
+      "index": 129,
       "value": "masculincaline sasa fars",
       "type": "PRODUCT"
     },
     {
-      "index": 260,
+      "index": 152,
       "value": "freekins",
       "type": "PRODUCT"
     },
     {
-      "index": 291,
+      "index": 167,
       "value": "un rl",
       "type": "PRODUCT"
     }
   ],
   "unique_entities_gt": [
-    [
-      "june 18th",
-      "DATE"
-    ],
     [
       "masculine sasafers",
       "PRODUCT"
@@ -179,45 +170,259 @@
       "PRODUCT"
     ],
     [
-      "kook n keech urban edge printed relaxed tshirt",
-      "PRODUCT"
-    ],
-    [
-      "hindi",
-      "LANGUAGE"
-    ],
-    [
-      "21 june",
-      "DATE"
+      "myntra",
+      "ORG"
     ],
     [
       "ray",
       "PERSON"
     ],
     [
-      "myntra",
-      "ORGANIZATION"
-    ],
-    [
-      "505 pm",
-      "TIME"
-    ],
-    [
-      "english",
-      "LANGUAGE"
+      "kook n keech urban edge printed relaxed tshirt",
+      "PRODUCT"
     ],
     [
       "unrl",
       "PRODUCT"
     ],
     [
+      "june 18th at 505 pm",
+      "DATE/TIME"
+    ],
+    [
+      "21 june",
+      "DATE/TIME"
+    ],
+    [
       "freakins",
       "PRODUCT"
+    ],
+    [
+      "english",
+      "LANGUAGE"
+    ],
+    [
+      "hindi",
+      "LANGUAGE"
     ]
   ],
   "unique_entities_ref": [
     [
-      "kuk end keech urban edge printed relaxed tshirt",
+      "june eighteenth",
+      "DATE/TIME"
+    ],
+    [
+      "ray",
+      "PERSON"
+    ],
+    [
+      "un rl",
+      "PRODUCT"
+    ],
+    [
+      "five five pm",
+      "DATE/TIME"
+    ],
+    [
+      "mintra",
+      "ORG"
+    ],
+    [
+      "kuk and keech urban edge printed relaxed tshirt",
+      "PRODUCT"
+    ],
+    [
+      "kook n keech urban edge printed relaxed tshirt",
+      "PRODUCT"
+    ],
+    [
+      "freekins",
+      "PRODUCT"
+    ],
+    [
+      "crkins",
+      "PRODUCT"
+    ],
+    [
+      "21 june",
+      "DATE/TIME"
+    ],
+    [
+      "masculincaline sasa fars",
+      "PRODUCT"
+    ],
+    [
+      "english",
+      "LANGUAGE"
+    ],
+    [
+      "hindi",
+      "LANGUAGE"
+    ]
+  ],
+  "concerned_entities_gt": [
+    {
+      "index": 3,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 5,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 60,
+      "value": "kook n keech urban edge printed relaxed tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 73,
+      "value": "kook n keech urban edge printed relaxed tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 102,
+      "value": "freakins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 124,
+      "value": "carkins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 134,
+      "value": "freakins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 137,
+      "value": "carkins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 157,
+      "value": "masculine sasafers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "freakins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 212,
+      "value": "unrl",
+      "type": "PRODUCT"
+    }
+  ],
+  "concerned_entities_ref": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORG"
+    },
+    {
+      "index": 50,
+      "value": "kook n keech urban edge printed relaxed tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "kuk and keech urban edge printed relaxed tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 94,
+      "value": "freekins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 105,
+      "value": "crkins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 113,
+      "value": "freekins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 115,
+      "value": "crkins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 129,
+      "value": "masculincaline sasa fars",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 152,
+      "value": "freekins",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 167,
+      "value": "un rl",
+      "type": "PRODUCT"
+    }
+  ],
+  "unique_concerned_ner_gt": [
+    [
+      "masculine sasafers",
+      "PRODUCT"
+    ],
+    [
+      "carkins",
+      "PRODUCT"
+    ],
+    [
+      "myntra",
+      "ORG"
+    ],
+    [
+      "ray",
+      "PERSON"
+    ],
+    [
+      "kook n keech urban edge printed relaxed tshirt",
+      "PRODUCT"
+    ],
+    [
+      "freakins",
+      "PRODUCT"
+    ],
+    [
+      "unrl",
+      "PRODUCT"
+    ]
+  ],
+  "unique_concerned_ner_ref": [
+    [
+      "ray",
+      "PERSON"
+    ],
+    [
+      "freekins",
+      "PRODUCT"
+    ],
+    [
+      "kuk and keech urban edge printed relaxed tshirt",
+      "PRODUCT"
+    ],
+    [
+      "mintra",
+      "ORG"
+    ],
+    [
+      "kook n keech urban edge printed relaxed tshirt",
       "PRODUCT"
     ],
     [
@@ -229,365 +434,12 @@
       "PRODUCT"
     ],
     [
-      "june eighteenth",
-      "DATE/TIME"
-    ],
-    [
-      "freekins",
-      "PRODUCT"
-    ],
-    [
-      "kook n keech urban edge printed relaxed tshirt",
-      "PRODUCT"
-    ],
-    [
-      "hindi",
-      "LANGUAGE"
-    ],
-    [
       "masculincaline sasa fars",
       "PRODUCT"
-    ],
-    [
-      "5 5 pm",
-      "DATE/TIME"
-    ],
-    [
-      "21 june",
-      "DATE/TIME"
-    ],
-    [
-      "ray",
-      "PERSON"
-    ],
-    [
-      "myntra",
-      "ORGANIZATION"
-    ],
-    [
-      "english",
-      "LANGUAGE"
     ]
   ],
-  "concerned_entities_gt": [
-    {
-      "index": 3,
-      "value": "ray",
-      "type": "PERSON"
-    }
-  ],
-  "concerned_entities_ref": [
-    {
-      "index": 7,
-      "value": "ray",
-      "type": "PERSON"
-    }
-  ],
-  "unique_concerned_ner_gt": [
-    [
-      "ray",
-      "PERSON"
-    ]
-  ],
-  "unique_concerned_ner_ref": [
-    [
-      "ray",
-      "PERSON"
-    ]
-  ],
-  "time_taken": 0.0010728836059570312,
+  "time_taken": 0.0005939006805419922,
   "ref_tokens": [
-    "hey",
-    "i",
-    "am",
-    "ray",
-    "from",
-    "myntra",
-    "here",
-    "to",
-    "assist",
-    "you",
-    "shall",
-    "we",
-    "proceed",
-    "further",
-    "in",
-    "hindi",
-    "or",
-    "english",
-    "great",
-    "how",
-    "can",
-    "i",
-    "help",
-    "you",
-    "today",
-    "could",
-    "you",
-    "please",
-    "tell",
-    "me",
-    "the",
-    "product",
-    "name",
-    "or",
-    "brand",
-    "for",
-    "which",
-    "you",
-    "created",
-    "the",
-    "return",
-    "i",
-    "found",
-    "a",
-    "product",
-    "in",
-    "your",
-    "order",
-    "list",
-    "that",
-    "sounds",
-    "similar",
-    "to",
-    "what",
-    "you",
-    "mentioned",
-    "the",
-    "kook",
-    "n",
-    "keech",
-    "urban",
-    "edge",
-    "printed",
-    "relaxed",
-    "tshirt",
-    "ordered",
-    "on",
-    "june",
-    "eighteenth",
-    "at",
-    "5",
-    "5",
-    "pm",
-    "is",
-    "this",
-    "the",
-    "item",
-    "you",
-    "created",
-    "a",
-    "return",
-    "for",
-    "your",
-    "kuk",
-    "end",
-    "keech",
-    "urban",
-    "edge",
-    "printed",
-    "relaxed",
-    "tshirt",
-    "is",
-    "expected",
-    "to",
-    "be",
-    "picked",
-    "up",
-    "by",
-    "21",
-    "june",
-    "subject",
-    "to",
-    "quality",
-    "check",
-    "please",
-    "tell",
-    "me",
-    "is",
-    "there",
-    "anything",
-    "else",
-    "i",
-    "can",
-    "help",
-    "you",
-    "with",
-    "i",
-    "couldnt",
-    "find",
-    "a",
-    "freekins",
-    "product",
-    "in",
-    "your",
-    "orders",
-    "can",
-    "you",
-    "please",
-    "tell",
-    "me",
-    "the",
-    "exact",
-    "product",
-    "name",
-    "or",
-    "brand",
-    "again",
-    "i",
-    "couldnt",
-    "locate",
-    "any",
-    "crkins",
-    "product",
-    "in",
-    "your",
-    "order",
-    "list",
-    "either",
-    "could",
-    "you",
-    "i",
-    "couldnt",
-    "find",
-    "a",
-    "product",
-    "with",
-    "the",
-    "brand",
-    "name",
-    "freekins",
-    "or",
-    "crkins",
-    "in",
-    "your",
-    "order",
-    "list",
-    "would",
-    "you",
-    "like",
-    "me",
-    "to",
-    "connect",
-    "you",
-    "to",
-    "another",
-    "agent",
-    "who",
-    "can",
-    "assist",
-    "you",
-    "better",
-    "i",
-    "couldnt",
-    "find",
-    "a",
-    "product",
-    "matching",
-    "masculincaline",
-    "sasa",
-    "fars",
-    "in",
-    "your",
-    "order",
-    "list",
-    "either",
-    "could",
-    "you",
-    "please",
-    "provide",
-    "more",
-    "details",
-    "like",
-    "the",
-    "product",
-    "type",
-    "or",
-    "color",
-    "so",
-    "i",
-    "can",
-    "assist",
-    "you",
-    "better",
-    "i",
-    "understand",
-    "youre",
-    "having",
-    "difficulty",
-    "with",
-    "the",
-    "product",
-    "name",
-    "do",
-    "you",
-    "want",
-    "to",
-    "speak",
-    "with",
-    "another",
-    "agent",
-    "who",
-    "can",
-    "assist",
-    "you",
-    "better",
-    "i",
-    "couldnt",
-    "locate",
-    "any",
-    "product",
-    "under",
-    "the",
-    "brand",
-    "name",
-    "freekins",
-    "in",
-    "your",
-    "order",
-    "list",
-    "do",
-    "you",
-    "want",
-    "to",
-    "speak",
-    "with",
-    "another",
-    "agent",
-    "who",
-    "can",
-    "assist",
-    "you",
-    "better",
-    "i",
-    "couldnt",
-    "find",
-    "products",
-    "matching",
-    "un",
-    "rl",
-    "in",
-    "your",
-    "order",
-    "list",
-    "either",
-    "would",
-    "you",
-    "like",
-    "me",
-    "to",
-    "connect",
-    "you",
-    "to",
-    "another",
-    "agent",
-    "who",
-    "can",
-    "assist",
-    "you",
-    "better"
-  ],
-  "hyp_tokens": [
     "i",
     "am",
     "ray",
@@ -694,7 +546,7 @@
     "you",
     "with",
     "i",
-    "couldnt",
+    "couldn't",
     "find",
     "a",
     "freakins",
@@ -715,7 +567,7 @@
     "brand",
     "again",
     "i",
-    "couldnt",
+    "couldn't",
     "locate",
     "any",
     "carkins",
@@ -726,7 +578,7 @@
     "list",
     "either",
     "i",
-    "couldnt",
+    "couldn't",
     "find",
     "a",
     "product",
@@ -757,7 +609,7 @@
     "you",
     "better",
     "i",
-    "couldnt",
+    "couldn't",
     "find",
     "a",
     "product",
@@ -789,7 +641,7 @@
     "better",
     "i",
     "understand",
-    "youre",
+    "you're",
     "having",
     "difficulty",
     "with",
@@ -810,7 +662,7 @@
     "you",
     "better",
     "i",
-    "couldnt",
+    "couldn't",
     "locate",
     "any",
     "product",
@@ -837,7 +689,7 @@
     "you",
     "better",
     "i",
-    "couldnt",
+    "couldn't",
     "find",
     "products",
     "matching",
@@ -863,5 +715,296 @@
     "you",
     "better"
   ],
-  "mismatches_count": 20
+  "hyp_tokens": [
+    "hey",
+    "i",
+    "am",
+    "ray",
+    "from",
+    "mintra",
+    "here",
+    "to",
+    "assist",
+    "you",
+    "shall",
+    "we",
+    "proceed",
+    "further",
+    "in",
+    "hindi",
+    "or",
+    "english",
+    "great",
+    "how",
+    "can",
+    "i",
+    "help",
+    "you",
+    "today",
+    "could",
+    "you",
+    "please",
+    "tell",
+    "me",
+    "the",
+    "product",
+    "name",
+    "or",
+    "brand",
+    "for",
+    "which",
+    "you",
+    "created",
+    "the",
+    "return",
+    "i",
+    "found",
+    "a",
+    "product",
+    "in",
+    "your",
+    "order",
+    "list",
+    "that",
+    "sounds",
+    "similar",
+    "to",
+    "what",
+    "you",
+    "mentioned",
+    "the",
+    "kook",
+    "n",
+    "keech",
+    "urban",
+    "edge",
+    "printed",
+    "relaxed",
+    "tshirt",
+    "ordered",
+    "on",
+    "june",
+    "eighteenth",
+    "at",
+    "five",
+    "five",
+    "pm",
+    "is",
+    "this",
+    "the",
+    "item",
+    "you",
+    "created",
+    "a",
+    "return",
+    "for",
+    "your",
+    "kuk",
+    "and",
+    "keech",
+    "urban",
+    "edge",
+    "printed",
+    "relaxed",
+    "tshirt",
+    "is",
+    "expected",
+    "to",
+    "be",
+    "picked",
+    "up",
+    "by",
+    "21",
+    "june",
+    "subject",
+    "to",
+    "quality",
+    "check",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "i",
+    "couldn't",
+    "find",
+    "a",
+    "freekins",
+    "product",
+    "in",
+    "your",
+    "orders",
+    "can",
+    "you",
+    "please",
+    "tell",
+    "me",
+    "the",
+    "exact",
+    "product",
+    "name",
+    "or",
+    "brand",
+    "again",
+    "i",
+    "couldn't",
+    "locate",
+    "any",
+    "crkins",
+    "product",
+    "in",
+    "your",
+    "order",
+    "list",
+    "either",
+    "could",
+    "you",
+    "i",
+    "couldn't",
+    "find",
+    "a",
+    "product",
+    "with",
+    "the",
+    "brand",
+    "name",
+    "freekins",
+    "or",
+    "crkins",
+    "in",
+    "your",
+    "order",
+    "list",
+    "would",
+    "you",
+    "like",
+    "me",
+    "to",
+    "connect",
+    "you",
+    "to",
+    "another",
+    "agent",
+    "who",
+    "can",
+    "assist",
+    "you",
+    "better",
+    "i",
+    "couldn't",
+    "find",
+    "a",
+    "product",
+    "matching",
+    "masculincaline",
+    "sasa",
+    "fars",
+    "in",
+    "your",
+    "order",
+    "list",
+    "either",
+    "could",
+    "you",
+    "please",
+    "provide",
+    "more",
+    "details",
+    "like",
+    "the",
+    "product",
+    "type",
+    "or",
+    "color",
+    "so",
+    "i",
+    "can",
+    "assist",
+    "you",
+    "better",
+    "i",
+    "understand",
+    "you're",
+    "having",
+    "difficulty",
+    "with",
+    "the",
+    "product",
+    "name",
+    "do",
+    "you",
+    "want",
+    "to",
+    "speak",
+    "with",
+    "another",
+    "agent",
+    "who",
+    "can",
+    "assist",
+    "you",
+    "better",
+    "i",
+    "couldn't",
+    "locate",
+    "any",
+    "product",
+    "under",
+    "the",
+    "brand",
+    "name",
+    "freekins",
+    "in",
+    "your",
+    "order",
+    "list",
+    "do",
+    "you",
+    "want",
+    "to",
+    "speak",
+    "with",
+    "another",
+    "agent",
+    "who",
+    "can",
+    "assist",
+    "you",
+    "better",
+    "i",
+    "couldn't",
+    "find",
+    "products",
+    "matching",
+    "un",
+    "rl",
+    "in",
+    "your",
+    "order",
+    "list",
+    "either",
+    "would",
+    "you",
+    "like",
+    "me",
+    "to",
+    "connect",
+    "you",
+    "to",
+    "another",
+    "agent",
+    "who",
+    "can",
+    "assist",
+    "you",
+    "better"
+  ],
+  "mismatches_count": 21
 }

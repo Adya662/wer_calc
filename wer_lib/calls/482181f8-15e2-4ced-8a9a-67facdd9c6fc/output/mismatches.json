@@ -2,220 +2,208 @@
   "call_id": "482181f8-15e2-4ced-8a9a-67facdd9c6fc",
   "mismatches": [
     {
-      "reference_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
-      "hypothesis_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
-      "word_differences": [
-        [
-          "Hey,",
-          "[missing]"
-        ],
-        [
-          "[missing]",
-          "Myntra,"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Let me check on that for you. I'll look up the product details for delivery.",
-      "hypothesis_sentence": "Let me check on that for you. I'll look up the product details for delivery. Please give me a moment to fetch your products. All right, I see an item matching your description. Is it the H&M regular fit round neck t-shirt?",
+      "reference_sentence": "I am Ray from Myntra, here to assist you. Shall we proceed further in Hindi or English?",
+      "hypothesis_sentence": "Hey,                  I am Rey from \u092e\u093f\u0902\u0924\u094d\u0930\u093e,        here to assist you;                     shall we proceed further in Hindi,    or    English ?",
       "word_differences": [
         [
           "[missing]",
-          "Please give me a moment to fetch your products. All right, I see an item matching your description. Is it the H&M regular fit round neck t-shirt?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Please give me a moment to fetch your products",
-      "hypothesis_sentence": "Your H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I can help you with?",
-      "word_differences": [
-        [
-          "[missing]",
-          "Your H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June."
+          "Hey,"
         ],
         [
-          "give",
-          "tell"
-        ],
-        [
-          "a moment to fetch your products",
-          "is there anything else I can help you with?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Alright, I see an item matching your description. Is it the H&M Regular Fit Round-Neck T-shirt?",
-      "hypothesis_sentence": "I'm sorry to hear about this issue. Let's look into it together. Could you please tell me the product name or brand name of the order you're referring to?",
-      "word_differences": [
-        [
-          "Alright, I see an item matching your description. Is",
-          "I'm sorry to hear about this issue. Let's look into"
-        ],
-        [
-          "[missing]",
-          "together. Could you please tell me"
-        ],
-        [
-          "H&M Regular Fit Round-Neck T-shirt?",
-          "product name or brand name of the order you're referring to?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Your \u090f\u091a \u090f\u0902\u0921 \u090f\u092e Regular Fit Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20 June.\nPlease tell me, is there anything else I can help you with?",
-      "hypothesis_sentence": "Let me check your order details for the Mango shirt. Please hold on for a moment. Please give me a moment to fetch your products. I found a Mango item in your order list. Is it the Mango plunge neck ruched top with asymmetric hem?\"",
-      "word_differences": [
-        [
-          "[missing]",
-          "Let me check"
-        ],
-        [
-          "\u090f\u091a \u090f\u0902\u0921 \u090f\u092e Regular",
-          "order details for the Mango shirt. Please hold on for a moment. Please give me a moment to fetch your products. I found a Mango item in your order list."
-        ],
-        [
-          "Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I",
-          "it the Mango plunge neck ruched top"
-        ],
-        [
-          "[missing]",
-          "asymmetric hem?\""
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I\u2019m sorry to hear about this issue. Let\u2019s look into it together. Could you please tell me the product name or brand name of the order you\u2019re referring to?",
-      "hypothesis_sentence": "I'm able to see your refund is processed. Do you need any further assistance regarding this order?",
-      "word_differences": [
-        [
-          "sorry",
-          "able"
-        ],
-        [
-          "hear about",
-          "see your refund is processed. Do you need any further assistance regarding"
-        ],
-        [
-          "issue. Let\u2019s look into it together. Could you please tell me the product name or brand name of the",
-          "[missing]"
-        ],
-        [
-          "you\u2019re referring to?",
+          "Myntra,",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Let me check your order details for the Mango shirt. Please hold on for a moment.",
-      "hypothesis_sentence": "Got it. I can assist you with your orders one by one. Could you tell me the product name or brand name for the next order you'd like to check?",
+      "reference_sentence": "Let me check on that for you. I'll look up the product details for delivery. Please give me a moment to fetch your products. All right, I see an item matching your description. Is it the H&M regular fit round neck t-shirt?",
+      "hypothesis_sentence": "Let me check on that for you. I'll look up the product details for delivery.",
+      "word_differences": [
+        [
+          "Please give me a moment to fetch your products. All right, I see an item matching your description. Is it the H&M regular fit round neck t-shirt?",
+          "[missing]"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Your H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I can help you with?",
+      "hypothesis_sentence": "Please give me a moment to fetch your products",
+      "word_differences": [
+        [
+          "[missing]",
+          "Please give me a moment to fetch"
+        ],
+        [
+          "H&M regular fit round neck t-shirt is being processed and will be packed by 20 June, then delivered by 20 June. Please tell me, is there anything else I can help you with?",
+          "products"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'm sorry to hear about this issue. Let's look into it together. Could you please tell me the product name or brand name of the order you're referring to?",
+      "hypothesis_sentence": "Alright, I see an item matching your description. Is it the H&M Regular Fit Round-Neck T-shirt?",
+      "word_differences": [
+        [
+          "I'm sorry to hear about this issue. Let's look into",
+          "Alright, I see an item matching your description. Is"
+        ],
+        [
+          "together. Could you please tell me",
+          "[missing]"
+        ],
+        [
+          "product name or brand name of the order you're referring to?",
+          "H&M Regular Fit Round-Neck T-shirt?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Let me check your order details for the Mango shirt. Please hold on for a moment. Please give me a moment to fetch your products. I found a Mango item in your order list. Is it the Mango plunge neck ruched top with asymmetric hem?\"",
+      "hypothesis_sentence": "Your \u090f\u091a \u090f\u0902\u0921 \u090f\u092e Regular Fit Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20 June.\nPlease tell me, is there anything else I can help you with?",
       "word_differences": [
         [
           "Let",
-          "Got it. I can assist you with your orders one by one. Could you tell"
+          "Your \u090f\u091a \u090f\u0902\u0921 \u090f\u092e Regular Fit Round-Neck T-shirt is being processed and will be packed by 20 June, then delivered by 20"
         ],
         [
-          "check your order details",
-          "the product name or brand name"
+          "check your order details for the Mango shirt. Please hold on for a moment. Please give me a moment to fetch your products.",
+          "Please tell me, is"
         ],
         [
-          "Mango shirt. Please hold on for a moment.",
-          "next order you'd like to check?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I found a Mango item in your order list. Is it the \u092e\u0948\u0902\u0917\u094b Plunge Neck Ruched Top with Asymmetric Hem?",
-      "hypothesis_sentence": "I'm sorry, I couldn't find an item matching all about you ethnic top in your return list. Could you confirm if this was a return query or if you'd like me to check your delivery orders instead?",
-      "word_differences": [
-        [
-          "[missing]",
-          "I'm sorry,"
+          "found a Mango item in your order list. Is it the Mango plunge neck ruched top",
+          "anything else I"
         ],
         [
-          "found a Mango",
-          "couldn't find an"
-        ],
-        [
-          "[missing]",
-          "matching all about you ethnic top"
-        ],
-        [
-          "order",
-          "return"
-        ],
-        [
-          "Is it the \u092e\u0948\u0902\u0917\u094b Plunge Neck Ruched Top with Asymmetric",
-          "Could you confirm if this was a return query or if you'd like me to check your delivery orders instead?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "I am able to see your refund is processed. Do you need any further assistance regarding this order",
-      "hypothesis_sentence": "Please give me a moment to fetch your products. I found an item matching your description. Is it the all about you ethnic printed full puff sleeves casual short?",
-      "word_differences": [
-        [
-          "[missing]",
-          "Please give me a moment to fetch your products."
-        ],
-        [
-          "am able to see",
-          "found an item matching"
-        ],
-        [
-          "refund",
-          "description."
-        ],
-        [
-          "processed. Do",
-          "it the all about"
-        ],
-        [
-          "need any further assistance regarding this order",
-          "ethnic printed full puff sleeves casual short?"
-        ]
-      ]
-    },
-    {
-      "reference_sentence": "Got it! I can assist you with your orders one by one. Could you tell me the product name or brand name for the next order you'd like to check?",
-      "hypothesis_sentence": "I can see that your order all about you ethnic printed full puff sleeves casual shirt has already been delivered. Do you need any further assistance regarding this order?",
-      "word_differences": [
-        [
-          "Got it!",
-          "[missing]"
-        ],
-        [
-          "assist",
-          "see that your order all about"
-        ],
-        [
-          "with your orders one by one. Could",
-          "ethnic printed full puff sleeves casual shirt has already been delivered. Do"
-        ],
-        [
-          "tell me the product name or brand name for the next",
-          "need any further assistance regarding this"
-        ],
-        [
-          "you'd like to check?",
+          "asymmetric hem?\"",
           "[missing]"
         ]
       ]
     },
     {
-      "reference_sentence": "Please give me a moment to fetch your products",
-      "hypothesis_sentence": "I'm sorry to hear about this issue. Do you want me to connect you to another agent who can assist you in resolving the matter?",
+      "reference_sentence": "I'm able to see your refund is processed. Do you need any further assistance regarding this order?",
+      "hypothesis_sentence": "I\u2019m sorry to hear about this issue. Let\u2019s look into it together. Could you please tell me the product name or brand name of the order you\u2019re referring to?",
       "word_differences": [
         [
-          "Please give",
-          "I'm sorry to hear about this issue. Do you want"
+          "able",
+          "sorry"
         ],
         [
-          "a moment",
+          "see your refund is processed. Do",
+          "hear about this issue. Let\u2019s look into it together. Could"
+        ],
+        [
+          "need any further assistance regarding this",
+          "please tell me the product name or brand name of the"
+        ],
+        [
+          "[missing]",
+          "you\u2019re referring to?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Got it. I can assist you with your orders one by one. Could you tell me the product name or brand name for the next order you'd like to check?",
+      "hypothesis_sentence": "Let me check your order details for the Mango shirt. Please hold on for a moment.",
+      "word_differences": [
+        [
+          "Got it. I can assist you with",
+          "Let me check"
+        ],
+        [
+          "orders one by one. Could you tell me the product name or brand name",
+          "order details"
+        ],
+        [
+          "next order you'd like to check?",
+          "Mango shirt. Please hold on for a moment."
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'm sorry, I couldn't find an item matching all about you ethnic top in your return list. Could you confirm if this was a return query or if you'd like me to check your delivery orders instead?",
+      "hypothesis_sentence": "I found a Mango item in your order list. Is it the \u092e\u0948\u0902\u0917\u094b Plunge Neck Ruched Top with Asymmetric Hem?",
+      "word_differences": [
+        [
+          "I'm sorry,",
           "[missing]"
         ],
         [
-          "fetch your products",
-          "connect you to another agent who can assist you in resolving the matter?"
+          "couldn't find an",
+          "found a Mango"
+        ],
+        [
+          "matching all about you ethnic top",
+          "[missing]"
+        ],
+        [
+          "return",
+          "order"
+        ],
+        [
+          "Could you confirm if this was a return query or if you'd like me to check your delivery orders instead?",
+          "Is it the \u092e\u0948\u0902\u0917\u094b Plunge Neck Ruched Top with Asymmetric"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "Please give me a moment to fetch your products. I found an item matching your description. Is it the all about you ethnic printed full puff sleeves casual short?",
+      "hypothesis_sentence": "I am able to see your refund is processed. Do you need any further assistance regarding this order",
+      "word_differences": [
+        [
+          "Please give me a moment",
+          "I am able"
+        ],
+        [
+          "fetch",
+          "see"
+        ],
+        [
+          "products. I found an item matching your description.",
+          "refund"
+        ],
+        [
+          "it the all about",
+          "processed. Do"
+        ],
+        [
+          "ethnic printed full puff sleeves casual short?",
+          "need any further assistance regarding this order"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I can see that your order all about you ethnic printed full puff sleeves casual shirt has already been delivered. Do you need any further assistance regarding this order?",
+      "hypothesis_sentence": "Got it! I can assist you with your orders one by one. Could you tell me the product name or brand name for the next order you'd like to check?",
+      "word_differences": [
+        [
+          "[missing]",
+          "Got it!"
+        ],
+        [
+          "see that",
+          "assist you with"
+        ],
+        [
+          "[missing]",
+          "orders one by one. Could you tell me the product name or brand name for the next"
+        ],
+        [
+          "all about you ethnic printed full puff sleeves casual shirt has already been delivered. Do you need any further assistance regarding this order?",
+          "you'd like to check?"
+        ]
+      ]
+    },
+    {
+      "reference_sentence": "I'm sorry to hear about this issue. Do you want me to connect you to another agent who can assist you in resolving the matter?",
+      "hypothesis_sentence": "Please give me a moment to fetch your products",
+      "word_differences": [
+        [
+          "I'm sorry",
+          "Please give me a moment"
+        ],
+        [
+          "hear about this issue. Do you want me to connect you to another agent who can assist you in resolving the matter?",
+          "fetch your products"
         ]
       ]
     }

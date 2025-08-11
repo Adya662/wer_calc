@@ -14,7 +14,7 @@
     {
       "index": 29,
       "value": "elevate now",
-      "type": "ORG"
+      "type": "ORGANIZATION"
     },
     {
       "index": 35,
@@ -32,7 +32,7 @@
       "type": "PRODUCT"
     },
     {
-      "index": 118,
+      "index": 128,
       "value": "nano plan",
       "type": "PRODUCT"
     },
@@ -42,57 +42,22 @@
       "type": "PRODUCT"
     },
     {
-      "index": 156,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
       "index": 176,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 186,
+      "index": 204,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 209,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 219,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 242,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 252,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 275,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 285,
-      "value": "nano plan",
-      "type": "PRODUCT"
-    },
-    {
-      "index": 308,
+      "index": 221,
       "value": "rs 1799",
       "type": "MONEY"
     },
     {
-      "index": 312,
+      "index": 233,
       "value": "nano plan",
       "type": "PRODUCT"
     }

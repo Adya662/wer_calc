@@ -1,10 +1,156 @@
 {
-  "wer": 1.0,
-  "wer_value": 1.0,
-  "entities_gt": [],
+  "wer": 0.012578616352201259,
+  "wer_value": 0.012578616352201259,
+  "entities_gt": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 14,
+      "value": "yogesh deshmukh",
+      "type": "PERSON"
+    },
+    {
+      "index": 32,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "bmi of 25",
+      "type": "OTHER"
+    },
+    {
+      "index": 85,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 130,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 137,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "obesity",
+      "type": "OTHER"
+    },
+    {
+      "index": 151,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 183,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 200,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 203,
+      "value": "hormonal imbalances",
+      "type": "OTHER"
+    },
+    {
+      "index": 209,
+      "value": "senior obesity specialist",
+      "type": "PERSON"
+    },
+    {
+      "index": 227,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 244,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 251,
+      "value": "rs 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 255,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 257,
+      "value": "metabolic report",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 260,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 271,
+      "value": "rs 6000",
+      "type": "MONEY"
+    },
+    {
+      "index": 282,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 307,
+      "value": "rupees 499",
+      "type": "MONEY"
+    },
+    {
+      "index": 312,
+      "value": "rupees 1399",
+      "type": "MONEY"
+    },
+    {
+      "index": 319,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 325,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 334,
+      "value": "payment links",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 338,
+      "value": "mobile number",
+      "type": "OTHER"
+    }
+  ],
   "entities_ref": [
     {
-      "index": 4,
+      "index": 5,
       "value": "priya",
       "type": "PERSON"
     },
@@ -14,134 +160,188 @@
       "type": "ORGANIZATION"
     },
     {
-      "index": 12,
+      "index": 13,
       "value": "yogesh deshmukh",
       "type": "PERSON"
     },
     {
-      "index": 40,
+      "index": 32,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 134,
-      "value": "25",
-      "type": "OTHER"
-    },
-    {
-      "index": 190,
+      "index": 108,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 296,
+      "index": 156,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 464,
+      "index": 176,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 554,
+      "index": 204,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 598,
-      "value": "1799",
+      "index": 227,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 282,
+      "value": "rupees 1799",
       "type": "MONEY"
     },
     {
-      "index": 645,
-      "value": "6000",
+      "index": 302,
+      "value": "rupees 6000",
       "type": "MONEY"
     },
     {
-      "index": 695,
+      "index": 318,
       "value": "nano plan",
       "type": "PRODUCT"
     },
     {
-      "index": 765,
-      "value": "499",
+      "index": 344,
+      "value": "rupees 499",
       "type": "MONEY"
     },
     {
-      "index": 792,
-      "value": "1399",
+      "index": 349,
+      "value": "rupees 1399",
       "type": "MONEY"
     },
     {
-      "index": 822,
-      "value": "1799",
+      "index": 354,
+      "value": "rupees 1799",
       "type": "MONEY"
     },
     {
-      "index": 845,
+      "index": 362,
       "value": "whatsapp",
       "type": "PRODUCT"
     }
   ],
-  "unique_entities_gt": [],
-  "unique_entities_ref": [
+  "unique_entities_gt": [
     [
-      "6000",
+      "rupees 499",
       "MONEY"
     ],
     [
-      "priya",
-      "PERSON"
-    ],
-    [
-      "25",
-      "OTHER"
-    ],
-    [
-      "whatsapp",
+      "doctor consultation",
       "PRODUCT"
     ],
     [
-      "elevatenow",
-      "ORGANIZATION"
+      "blood test",
+      "PRODUCT"
     ],
     [
-      "1799",
+      "insulin resistance",
+      "OTHER"
+    ],
+    [
+      "yogesh deshmukh",
+      "PERSON"
+    ],
+    [
+      "rupees 1399",
       "MONEY"
+    ],
+    [
+      "payment links",
+      "PRODUCT"
+    ],
+    [
+      "health coach",
+      "PERSON"
+    ],
+    [
+      "bmi of 25",
+      "OTHER"
+    ],
+    [
+      "metabolic report",
+      "PRODUCT"
     ],
     [
       "nano plan",
       "PRODUCT"
     ],
     [
-      "yogesh deshmukh",
+      "rupees 1799",
+      "MONEY"
+    ],
+    [
+      "rs 6000",
+      "MONEY"
+    ],
+    [
+      "senior health coach",
       "PERSON"
     ],
     [
-      "1399",
+      "priya",
+      "PERSON"
+    ],
+    [
+      "senior obesity specialist",
+      "PERSON"
+    ],
+    [
+      "mobile number",
+      "OTHER"
+    ],
+    [
+      "obesity",
+      "OTHER"
+    ],
+    [
+      "hormonal imbalances",
+      "OTHER"
+    ],
+    [
+      "elevate now",
+      "ORG"
+    ],
+    [
+      "rs 1799",
       "MONEY"
     ],
     [
-      "499",
-      "MONEY"
+      "whatsapp",
+      "PRODUCT"
     ]
   ],
-  "concerned_entities_gt": [],
-  "concerned_entities_ref": [
-    {
-      "index": 4,
-      "value": "priya",
-      "type": "PERSON"
-    },
-    {
-      "index": 12,
-      "value": "yogesh deshmukh",
-      "type": "PERSON"
-    }
-  ],
-  "unique_concerned_ner_gt": [],
-  "unique_concerned_ner_ref": [
+  "unique_entities_ref": [
+    [
+      "elevatenow",
+      "ORGANIZATION"
+    ],
+    [
+      "rupees 1799",
+      "MONEY"
+    ],
+    [
+      "rupees 499",
+      "MONEY"
+    ],
+    [
+      "rupees 6000",
+      "MONEY"
+    ],
     [
       "priya",
       "PERSON"
@@ -149,15 +349,251 @@
     [
       "yogesh deshmukh",
       "PERSON"
+    ],
+    [
+      "rupees 1399",
+      "MONEY"
+    ],
+    [
+      "whatsapp",
+      "PRODUCT"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
     ]
   ],
-  "time_taken": 0.006731748580932617,
+  "concerned_entities_gt": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 14,
+      "value": "yogesh deshmukh",
+      "type": "PERSON"
+    },
+    {
+      "index": 32,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 85,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 130,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 137,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 151,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 183,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 209,
+      "value": "senior obesity specialist",
+      "type": "PERSON"
+    },
+    {
+      "index": 227,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 244,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 257,
+      "value": "metabolic report",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 260,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 282,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 325,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 334,
+      "value": "payment links",
+      "type": "PRODUCT"
+    }
+  ],
+  "concerned_entities_ref": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 13,
+      "value": "yogesh deshmukh",
+      "type": "PERSON"
+    },
+    {
+      "index": 32,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 156,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 176,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 204,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 227,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 318,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 362,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    }
+  ],
+  "unique_concerned_ner_gt": [
+    [
+      "payment links",
+      "PRODUCT"
+    ],
+    [
+      "health coach",
+      "PERSON"
+    ],
+    [
+      "doctor consultation",
+      "PRODUCT"
+    ],
+    [
+      "blood test",
+      "PRODUCT"
+    ],
+    [
+      "senior health coach",
+      "PERSON"
+    ],
+    [
+      "elevate now",
+      "ORG"
+    ],
+    [
+      "priya",
+      "PERSON"
+    ],
+    [
+      "yogesh deshmukh",
+      "PERSON"
+    ],
+    [
+      "senior obesity specialist",
+      "PERSON"
+    ],
+    [
+      "whatsapp",
+      "PRODUCT"
+    ],
+    [
+      "metabolic report",
+      "PRODUCT"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ]
+  ],
+  "unique_concerned_ner_ref": [
+    [
+      "yogesh deshmukh",
+      "PERSON"
+    ],
+    [
+      "whatsapp",
+      "PRODUCT"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ],
+    [
+      "priya",
+      "PERSON"
+    ]
+  ],
+  "time_taken": 0.0004138946533203125,
   "ref_tokens": [
+    "hello",
     "this",
     "is",
     "priya",
     "from",
-    "elevatenow",
+    "elevate",
+    "now",
     "am",
     "i",
     "speaking",
@@ -166,7 +602,7 @@
     "deshmukh",
     "i",
     "noticed",
-    "youve",
+    "you've",
     "been",
     "quiet",
     "are",
@@ -184,11 +620,11 @@
     "nano",
     "plan",
     "but",
-    "didnt",
+    "didn't",
     "complete",
     "the",
     "payment",
-    "id",
+    "i'd",
     "love",
     "to",
     "understand",
@@ -208,7 +644,7 @@
     "are",
     "i",
     "noticed",
-    "youve",
+    "you've",
     "been",
     "quiet",
     "are",
@@ -221,7 +657,7 @@
     "bmi",
     "of",
     "25",
-    "its",
+    "it's",
     "clear",
     "your",
     "body",
@@ -230,14 +666,14 @@
     "signals",
     "about",
     "how",
-    "its",
+    "it's",
     "handling",
     "weight",
     "and",
     "metabolism",
     "right",
     "now",
-    "were",
+    "we're",
     "genuinely",
     "excited",
     "to",
@@ -254,7 +690,7 @@
     "work",
     "with",
     "your",
-    "bodys",
+    "body's",
     "current",
     "state",
     "to",
@@ -295,12 +731,13 @@
     "loss",
     "programs",
     "if",
+    "yes",
     "did",
     "they",
     "work",
     "for",
     "you",
-    "youre",
+    "you're",
     "in",
     "the",
     "right",
@@ -370,7 +807,7 @@
     "your",
     "journey",
     "sure",
-    "heres",
+    "here's",
     "a",
     "brief",
     "overview",
@@ -431,7 +868,485 @@
     "needs",
     "now",
     "that",
-    "weve",
+    "we've",
+    "covered",
+    "the",
+    "offerings",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "about",
+    "the",
+    "pricing",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "be",
+    "affordable",
+    "at",
+    "rs",
+    "1799",
+    "including",
+    "the",
+    "blood",
+    "test",
+    "metabolic",
+    "report",
+    "and",
+    "doctor",
+    "consultation",
+    "this",
+    "is",
+    "a",
+    "onetime",
+    "payment",
+    "giving",
+    "you",
+    "access",
+    "to",
+    "premium",
+    "services",
+    "at",
+    "a",
+    "fraction",
+    "of",
+    "the",
+    "typical",
+    "cost",
+    "which",
+    "can",
+    "be",
+    "around",
+    "rs",
+    "6000",
+    "otherwise",
+    "what",
+    "do",
+    "you",
+    "think",
+    "about",
+    "the",
+    "pricing",
+    "now",
+    "that",
+    "we've",
+    "talked",
+    "about",
+    "the",
+    "offerings",
+    "and",
+    "pricing",
+    "i",
+    "really",
+    "think",
+    "the",
+    "nano",
+    "plan",
+    "can",
+    "be",
+    "a",
+    "great",
+    "starting",
+    "point",
+    "for",
+    "you",
+    "to",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "would",
+    "you",
+    "like",
+    "to",
+    "proceed",
+    "with",
+    "the",
+    "payment",
+    "you",
+    "can",
+    "choose",
+    "between",
+    "two",
+    "payment",
+    "options",
+    "a",
+    "partial",
+    "payment",
+    "of",
+    "rupees",
+    "499",
+    "now",
+    "and",
+    "the",
+    "remaining",
+    "rupees",
+    "1399",
+    "at",
+    "the",
+    "time",
+    "of",
+    "blood",
+    "sample",
+    "collection",
+    "or",
+    "a",
+    "full",
+    "payment",
+    "of",
+    "rupees",
+    "1799",
+    "upfront",
+    "i'll",
+    "send",
+    "both",
+    "payment",
+    "links",
+    "to",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "via",
+    "whatsapp",
+    "do",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "before",
+    "we",
+    "proceed",
+    "perfect",
+    "i'll",
+    "send",
+    "the",
+    "payment",
+    "links",
+    "to",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "in",
+    "the",
+    "future",
+    "feel",
+    "free",
+    "to",
+    "reach",
+    "out",
+    "goodbye",
+    "and",
+    "have",
+    "a",
+    "great",
+    "day",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there"
+  ],
+  "hyp_tokens": [
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "yogesh",
+    "deshmukh",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there",
+    "great",
+    "i",
+    "noticed",
+    "you",
+    "were",
+    "checking",
+    "out",
+    "our",
+    "nano",
+    "plan",
+    "but",
+    "didn't",
+    "complete",
+    "the",
+    "payment",
+    "i'd",
+    "love",
+    "to",
+    "understand",
+    "what",
+    "motivated",
+    "you",
+    "to",
+    "consider",
+    "our",
+    "program",
+    "and",
+    "what",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "are",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "25",
+    "it's",
+    "clear",
+    "your",
+    "body",
+    "is",
+    "sending",
+    "signals",
+    "about",
+    "how",
+    "it's",
+    "handling",
+    "weight",
+    "and",
+    "metabolism",
+    "right",
+    "now",
+    "we're",
+    "genuinely",
+    "excited",
+    "to",
+    "support",
+    "your",
+    "goals",
+    "and",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "work",
+    "with",
+    "your",
+    "body's",
+    "current",
+    "state",
+    "to",
+    "make",
+    "weight",
+    "loss",
+    "easier",
+    "and",
+    "more",
+    "effective",
+    "would",
+    "you",
+    "like",
+    "to",
+    "discuss",
+    "a",
+    "personalized",
+    "plan",
+    "to",
+    "address",
+    "these",
+    "challenges",
+    "and",
+    "achieve",
+    "sustainable",
+    "weight",
+    "loss",
+    "great",
+    "have",
+    "you",
+    "had",
+    "any",
+    "past",
+    "experiences",
+    "with",
+    "other",
+    "weight",
+    "loss",
+    "programs",
+    "if",
+    "yes",
+    "did",
+    "they",
+    "work",
+    "for",
+    "you",
+    "you're",
+    "in",
+    "the",
+    "right",
+    "place",
+    "let",
+    "me",
+    "give",
+    "you",
+    "a",
+    "quick",
+    "intro",
+    "to",
+    "what",
+    "we",
+    "offer",
+    "the",
+    "nano",
+    "plan",
+    "includes",
+    "a",
+    "blood",
+    "test",
+    "a",
+    "consultation",
+    "with",
+    "a",
+    "doctor",
+    "specialized",
+    "in",
+    "obesity",
+    "and",
+    "a",
+    "session",
+    "with",
+    "a",
+    "senior",
+    "health",
+    "coach",
+    "these",
+    "are",
+    "designed",
+    "to",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "unless",
+    "you",
+    "have",
+    "any",
+    "specific",
+    "questions",
+    "related",
+    "to",
+    "these",
+    "offerings",
+    "can",
+    "i",
+    "explain",
+    "how",
+    "they",
+    "can",
+    "benefit",
+    "your",
+    "journey",
+    "sure",
+    "here's",
+    "a",
+    "brief",
+    "overview",
+    "of",
+    "how",
+    "the",
+    "nano",
+    "plan",
+    "works",
+    "for",
+    "you",
+    "it",
+    "starts",
+    "with",
+    "a",
+    "comprehensive",
+    "blood",
+    "test",
+    "to",
+    "identify",
+    "key",
+    "metabolic",
+    "issues",
+    "like",
+    "insulin",
+    "resistance",
+    "and",
+    "hormonal",
+    "imbalances",
+    "then",
+    "a",
+    "senior",
+    "obesity",
+    "specialist",
+    "will",
+    "review",
+    "your",
+    "results",
+    "and",
+    "discuss",
+    "how",
+    "they",
+    "impact",
+    "your",
+    "health",
+    "finally",
+    "a",
+    "health",
+    "coach",
+    "will",
+    "create",
+    "a",
+    "personalized",
+    "plan",
+    "tailored",
+    "to",
+    "your",
+    "needs",
+    "now",
+    "that",
+    "we've",
     "covered",
     "the",
     "offerings",
@@ -466,8 +1381,7 @@
     "this",
     "is",
     "a",
-    "1",
-    "time",
+    "one-time",
     "payment",
     "giving",
     "you",
@@ -498,7 +1412,7 @@
     "pricing",
     "now",
     "that",
-    "weve",
+    "we've",
     "talked",
     "about",
     "the",
@@ -568,7 +1482,7 @@
     "rupees",
     "1799",
     "upfront",
-    "ill",
+    "i'll",
     "send",
     "both",
     "payment",
@@ -590,7 +1504,7 @@
     "we",
     "proceed",
     "perfect",
-    "ill",
+    "i'll",
     "send",
     "the",
     "payment",
@@ -622,7 +1536,7 @@
     "day",
     "i",
     "noticed",
-    "youve",
+    "you've",
     "been",
     "quiet",
     "are",
@@ -630,6 +1544,5 @@
     "still",
     "there"
   ],
-  "hyp_tokens": [],
-  "mismatches_count": 476
+  "mismatches_count": 5
 }
