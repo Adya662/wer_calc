@@ -1,0 +1,176 @@
+{
+  "wer": 0.04,
+  "insertions": 6,
+  "deletions": 5,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 52,
+      "index_hyp": 53,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "can i help you today all right could you please tell",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 53,
+      "index_hyp": 53,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i help you today all right could you please tell me",
+      "hyp_context": "can i help you today alright could you please tell me"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 65,
+      "index_hyp": 65,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "product name or the brand you are referring to please give",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "h",
+      "ref_context": "",
+      "hyp_context": "to fetch your products your h and m regular fit round"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "fetch your products your h and m regular fit round neck"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 84,
+      "index_hyp": 85,
+      "ref_word": "",
+      "hyp_word": "t",
+      "ref_context": "",
+      "hyp_context": "m regular fit round neck t shirt is being processed and"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 215,
+      "index_hyp": 217,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "assist you further regarding this all right i can definitely help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 216,
+      "index_hyp": 217,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "you further regarding this all right i can definitely help you",
+      "hyp_context": "assist you further regarding this alright i can definitely help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 257,
+      "ref_word": "",
+      "hyp_word": "h",
+      "ref_context": "",
+      "hyp_context": "to fetch your products your h and m cotton dungaree shorts"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 256,
+      "index_hyp": 258,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "fetch your products your h and m cotton dungaree shorts is"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 316,
+      "index_hyp": 319,
+      "ref_word": "there",
+      "hyp_word": "",
+      "ref_context": "will proceed as planned if there is anything else you would",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 317,
+      "index_hyp": 319,
+      "ref_word": "is",
+      "hyp_word": "theres",
+      "ref_context": "proceed as planned if there is anything else you would like",
+      "hyp_context": "will proceed as planned if theres anything else youd like assistance"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 320,
+      "index_hyp": 322,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "if there is anything else you would like assistance with let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 321,
+      "index_hyp": 322,
+      "ref_word": "would",
+      "hyp_word": "youd",
+      "ref_context": "there is anything else you would like assistance with let me",
+      "hyp_context": "planned if theres anything else youd like assistance with let me"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "is",
+      "hypothesis": "theres"
+    },
+    {
+      "reference": "would",
+      "hypothesis": "youd"
+    }
+  ],
+  "deletion_words": [
+    "all",
+    "you",
+    "all",
+    "there",
+    "you"
+  ],
+  "insertion_words": [
+    "hey",
+    "h",
+    "and",
+    "t",
+    "h",
+    "and"
+  ]
+}

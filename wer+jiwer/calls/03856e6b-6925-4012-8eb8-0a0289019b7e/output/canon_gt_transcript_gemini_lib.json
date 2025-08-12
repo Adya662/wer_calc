@@ -1,0 +1,105 @@
+{
+  "canonical_transcript": "hello this is priya hello this is priya from elevate now hello this is priya from elevate now am i speaking with atul sinha hello this is priya from elevate now am i speaking with atul sinha great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are he nano plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple all preexisting conditions including a kidney transplant will be considered during your consultation with the doctor and health coach they will ensure the plan is tailored to your specific needs would you like to explore how the nano plan can support your health journey based on your bmi of 3556 its clear your body is sending signals about how its handling weight and metabolism right now at this obesity stage category y most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage our plan is designed to stabilize blood sugar and improve insulin sensitivity making fat loss easier and more sustainable have you had any past experiences with other weight loss programs im glad to hear that you had some success with healthify nano plan is designed to address specific metabolic challenges that might still affect your weight loss journey let me tell you more about how it can support your goals it starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach would you like to know how these offerings can help you achieve your weight loss goals yes our team of doctors is highly qualified with degrees such as mbbs md and advanced certifications from prestigious institutions worldwide they have extensive experience in fields like thats great to hear you can choose between yes ill send both the payment links to you over whatsapp on your registered mobile number if you have any more doubts feel free to ask otherwise we can proceed with the payment process perfect ill send the payment links to your registered mobile number right away if you have any more doubts later feel free to reach out goodbye and have a great day i am elevate nows ai assisted health expert here to guide you on your health and wellness journey if you have any more questions or need further assistance feel free to ask",
+  "entities": [
+    {
+      "index": 12,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 18,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 21,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 26,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 29,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 34,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 40,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 43,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 48,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 56,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 88,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 152,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 226,
+      "value": "3556",
+      "type": "OTHER"
+    },
+    {
+      "index": 260,
+      "value": "y",
+      "type": "OTHER"
+    },
+    {
+      "index": 342,
+      "value": "healthify",
+      "type": "ORG"
+    },
+    {
+      "index": 344,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 450,
+      "value": "mbbs",
+      "type": "OTHER"
+    },
+    {
+      "index": 451,
+      "value": "md",
+      "type": "OTHER"
+    },
+    {
+      "index": 482,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 530,
+      "value": "elevate nows",
+      "type": "ORG"
+    }
+  ]
+}

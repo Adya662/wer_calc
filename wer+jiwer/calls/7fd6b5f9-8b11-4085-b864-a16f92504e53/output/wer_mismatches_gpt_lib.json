@@ -1,0 +1,753 @@
+{
+  "wer": 0.11550632911392406,
+  "insertions": 18,
+  "deletions": 52,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "",
+      "hyp_word": "elevatenow",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with bijal"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 6,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with bijal roliya"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 7,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "is priya from elevatenow am i speaking with bijal roliya we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "speaking",
+      "ref_context": "",
+      "hyp_context": "priya from elevatenow am i speaking with bijal roliya we spoke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "from elevatenow am i speaking with bijal roliya we spoke last"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 10,
+      "ref_word": "",
+      "hyp_word": "bijal",
+      "ref_context": "",
+      "hyp_context": "elevatenow am i speaking with bijal roliya we spoke last call"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 5,
+      "index_hyp": 11,
+      "ref_word": "",
+      "hyp_word": "roliya",
+      "ref_context": "",
+      "hyp_context": "am i speaking with bijal roliya we spoke last call about"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 63,
+      "index_hyp": 70,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "its handling weight and metabolism we are genuinely excited to support",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 188,
+      "ref_word": "",
+      "hyp_word": "based",
+      "ref_context": "",
+      "hyp_context": "plan can help with this based on your bmi of 3413"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 189,
+      "ref_word": "",
+      "hyp_word": "on",
+      "ref_context": "",
+      "hyp_context": "can help with this based on your bmi of 3413 we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 190,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "help with this based on your bmi of 3413 we spoke"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 191,
+      "ref_word": "",
+      "hyp_word": "bmi",
+      "ref_context": "",
+      "hyp_context": "with this based on your bmi of 3413 we spoke last"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 192,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "this based on your bmi of 3413 we spoke last time"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 182,
+      "index_hyp": 193,
+      "ref_word": "",
+      "hyp_word": "3413",
+      "ref_context": "",
+      "hyp_context": "based on your bmi of 3413 we spoke last time about"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 221,
+      "index_hyp": 233,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "its handling weight and metabolism we are genuinely excited to support",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 342,
+      "index_hyp": 353,
+      "ref_word": "",
+      "hyp_word": "experience",
+      "ref_context": "",
+      "hyp_context": "weight loss goals aapke past experience i understand aapke past experiences"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 419,
+      "index_hyp": 431,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "coach will create a personalized road map to help you achieve",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 420,
+      "index_hyp": 431,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "will create a personalized road map to help you achieve your",
+      "hyp_context": "coach will create a personalized roadmap to help you achieve your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 462,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "plan is priced at rupees one thousand seven hundred ninetynine which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 463,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "is priced at rupees one thousand seven hundred ninetynine which is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 464,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "priced at rupees one thousand seven hundred ninetynine which is a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 451,
+      "index_hyp": 465,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "at rupees one thousand seven hundred ninetynine which is a fraction"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 451,
+      "index_hyp": 466,
+      "ref_word": "1799",
+      "hyp_word": "ninetynine",
+      "ref_context": "plan is priced at rupees 1799 which is a fraction of",
+      "hyp_context": "rupees one thousand seven hundred ninetynine which is a fraction of"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 518,
+      "index_hyp": 533,
+      "ref_word": "rich",
+      "hyp_word": "",
+      "ref_context": "supporting thyroid function through nutrient rich foods and lifestyle changes which",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 530,
+      "index_hyp": 544,
+      "ref_word": "fat",
+      "hyp_word": "",
+      "ref_context": "help normalize metabolism and improve fat burning this approach has helped",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 531,
+      "index_hyp": 544,
+      "ref_word": "burning",
+      "hyp_word": "fatburning",
+      "ref_context": "normalize metabolism and improve fat burning this approach has helped many",
+      "hyp_context": "help normalize metabolism and improve fatburning this approach has helped many"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 585,
+      "index_hyp": 598,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "quiet are you still there the nano plan offers flexibility with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 586,
+      "index_hyp": 598,
+      "ref_word": "nano",
+      "hyp_word": "",
+      "ref_context": "are you still there the nano plan offers flexibility with two",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 587,
+      "index_hyp": 598,
+      "ref_word": "plan",
+      "hyp_word": "",
+      "ref_context": "you still there the nano plan offers flexibility with two payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 588,
+      "index_hyp": 598,
+      "ref_word": "offers",
+      "hyp_word": "",
+      "ref_context": "still there the nano plan offers flexibility with two payment options",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 589,
+      "index_hyp": 598,
+      "ref_word": "flexibility",
+      "hyp_word": "",
+      "ref_context": "there the nano plan offers flexibility with two payment options a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 590,
+      "index_hyp": 598,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "the nano plan offers flexibility with two payment options a partial",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 591,
+      "index_hyp": 598,
+      "ref_word": "two",
+      "hyp_word": "",
+      "ref_context": "nano plan offers flexibility with two payment options a partial payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 592,
+      "index_hyp": 598,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "plan offers flexibility with two payment options a partial payment of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 593,
+      "index_hyp": 598,
+      "ref_word": "options",
+      "hyp_word": "",
+      "ref_context": "offers flexibility with two payment options a partial payment of rupees",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 594,
+      "index_hyp": 598,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "flexibility with two payment options a partial payment of rupees 499",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 595,
+      "index_hyp": 598,
+      "ref_word": "partial",
+      "hyp_word": "",
+      "ref_context": "with two payment options a partial payment of rupees 499 now",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 596,
+      "index_hyp": 598,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "two payment options a partial payment of rupees 499 now and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 597,
+      "index_hyp": 598,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "payment options a partial payment of rupees 499 now and the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 598,
+      "index_hyp": 598,
+      "ref_word": "rupees",
+      "hyp_word": "",
+      "ref_context": "options a partial payment of rupees 499 now and the remaining",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 599,
+      "index_hyp": 598,
+      "ref_word": "499",
+      "hyp_word": "",
+      "ref_context": "a partial payment of rupees 499 now and the remaining rupees",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 600,
+      "index_hyp": 598,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "partial payment of rupees 499 now and the remaining rupees 1399",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 601,
+      "index_hyp": 598,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "payment of rupees 499 now and the remaining rupees 1399 at",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 602,
+      "index_hyp": 598,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "of rupees 499 now and the remaining rupees 1399 at the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 603,
+      "index_hyp": 598,
+      "ref_word": "remaining",
+      "hyp_word": "",
+      "ref_context": "rupees 499 now and the remaining rupees 1399 at the time",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 604,
+      "index_hyp": 598,
+      "ref_word": "rupees",
+      "hyp_word": "",
+      "ref_context": "499 now and the remaining rupees 1399 at the time of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 605,
+      "index_hyp": 598,
+      "ref_word": "1399",
+      "hyp_word": "",
+      "ref_context": "now and the remaining rupees 1399 at the time of blood",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 606,
+      "index_hyp": 598,
+      "ref_word": "at",
+      "hyp_word": "",
+      "ref_context": "and the remaining rupees 1399 at the time of blood sample",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 607,
+      "index_hyp": 598,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "the remaining rupees 1399 at the time of blood sample collection",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 608,
+      "index_hyp": 598,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "remaining rupees 1399 at the time of blood sample collection or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 609,
+      "index_hyp": 598,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "rupees 1399 at the time of blood sample collection or a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 610,
+      "index_hyp": 598,
+      "ref_word": "blood",
+      "hyp_word": "",
+      "ref_context": "1399 at the time of blood sample collection or a full",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 611,
+      "index_hyp": 598,
+      "ref_word": "sample",
+      "hyp_word": "",
+      "ref_context": "at the time of blood sample collection or a full payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 612,
+      "index_hyp": 598,
+      "ref_word": "collection",
+      "hyp_word": "",
+      "ref_context": "the time of blood sample collection or a full payment of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 613,
+      "index_hyp": 598,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "time of blood sample collection or a full payment of rupees",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 614,
+      "index_hyp": 598,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "of blood sample collection or a full payment of rupees 1799",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 615,
+      "index_hyp": 598,
+      "ref_word": "full",
+      "hyp_word": "",
+      "ref_context": "blood sample collection or a full payment of rupees 1799 up",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 616,
+      "index_hyp": 598,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "sample collection or a full payment of rupees 1799 up front",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 617,
+      "index_hyp": 598,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "collection or a full payment of rupees 1799 up front ill",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 618,
+      "index_hyp": 598,
+      "ref_word": "rupees",
+      "hyp_word": "",
+      "ref_context": "or a full payment of rupees 1799 up front ill send",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 619,
+      "index_hyp": 598,
+      "ref_word": "1799",
+      "hyp_word": "",
+      "ref_context": "a full payment of rupees 1799 up front ill send you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 620,
+      "index_hyp": 598,
+      "ref_word": "up",
+      "hyp_word": "",
+      "ref_context": "full payment of rupees 1799 up front ill send you the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 621,
+      "index_hyp": 598,
+      "ref_word": "front",
+      "hyp_word": "",
+      "ref_context": "payment of rupees 1799 up front ill send you the payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 622,
+      "index_hyp": 598,
+      "ref_word": "ill",
+      "hyp_word": "",
+      "ref_context": "of rupees 1799 up front ill send you the payment links",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 623,
+      "index_hyp": 598,
+      "ref_word": "send",
+      "hyp_word": "",
+      "ref_context": "rupees 1799 up front ill send you the payment links on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 624,
+      "index_hyp": 598,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "1799 up front ill send you the payment links on your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 625,
+      "index_hyp": 598,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "up front ill send you the payment links on your registered",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 626,
+      "index_hyp": 598,
+      "ref_word": "payment",
+      "hyp_word": "",
+      "ref_context": "front ill send you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 627,
+      "index_hyp": 598,
+      "ref_word": "links",
+      "hyp_word": "",
+      "ref_context": "ill send you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 628,
+      "index_hyp": 598,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "send you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 629,
+      "index_hyp": 598,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "you the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 630,
+      "index_hyp": 598,
+      "ref_word": "registered",
+      "hyp_word": "",
+      "ref_context": "the payment links on your registered mobile",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 631,
+      "index_hyp": 598,
+      "ref_word": "mobile",
+      "hyp_word": "",
+      "ref_context": "payment links on your registered mobile",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "ninetynine"
+    },
+    {
+      "reference": "burning",
+      "hypothesis": "fatburning"
+    }
+  ],
+  "deletion_words": [
+    "we",
+    "we",
+    "road",
+    "rich",
+    "fat",
+    "the",
+    "nano",
+    "plan",
+    "offers",
+    "flexibility",
+    "with",
+    "two",
+    "payment",
+    "options",
+    "a",
+    "partial",
+    "payment",
+    "of",
+    "rupees",
+    "499",
+    "now",
+    "and",
+    "the",
+    "remaining",
+    "rupees",
+    "1399",
+    "at",
+    "the",
+    "time",
+    "of",
+    "blood",
+    "sample",
+    "collection",
+    "or",
+    "a",
+    "full",
+    "payment",
+    "of",
+    "rupees",
+    "1799",
+    "up",
+    "front",
+    "ill",
+    "send",
+    "you",
+    "the",
+    "payment",
+    "links",
+    "on",
+    "your",
+    "registered",
+    "mobile"
+  ],
+  "insertion_words": [
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "bijal",
+    "roliya",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "3413",
+    "experience",
+    "one",
+    "thousand",
+    "seven",
+    "hundred"
+  ]
+}

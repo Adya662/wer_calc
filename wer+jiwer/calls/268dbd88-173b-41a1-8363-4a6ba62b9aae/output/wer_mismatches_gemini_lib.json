@@ -1,0 +1,344 @@
+{
+  "wer": 0.06012024048096192,
+  "insertions": 10,
+  "deletions": 10,
+  "substitutions": 10,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with rupesh",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 11,
+      "index_hyp": 10,
+      "ref_word": "kovar",
+      "hyp_word": "kondawar",
+      "ref_context": "am i speaking with rupesh kovar i noticed you have been",
+      "hyp_context": "am i speaking with rupesh kondawar i noticed youve been quiet"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 14,
+      "index_hyp": 13,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "with rupesh kovar i noticed you have been quiet are you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 15,
+      "index_hyp": 13,
+      "ref_word": "have",
+      "hyp_word": "youve",
+      "ref_context": "rupesh kovar i noticed you have been quiet are you still",
+      "hyp_context": "with rupesh kondawar i noticed youve been quiet are you still"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 25,
+      "index_hyp": 23,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "still there great i noticed you were this is priya from"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 25,
+      "index_hyp": 24,
+      "ref_word": "youd",
+      "hyp_word": "were",
+      "ref_context": "still there great i noticed youd this is priya from elevate",
+      "hyp_context": "there great i noticed you were this is priya from elevatenow"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 31,
+      "index_hyp": 30,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now i saw you were checking",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 61,
+      "index_hyp": 59,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "weight loss journey no worries let me explain the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 61,
+      "index_hyp": 60,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "loss journey no worries let me explain the nano plan is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 61,
+      "index_hyp": 61,
+      "ref_word": "",
+      "hyp_word": "explain",
+      "ref_context": "",
+      "hyp_context": "journey no worries let me explain the nano plan is designed"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 61,
+      "index_hyp": 62,
+      "ref_word": "he",
+      "hyp_word": "the",
+      "ref_context": "weight loss journey no worries he nano plan is designed to",
+      "hyp_context": "no worries let me explain the nano plan is designed to"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 94,
+      "index_hyp": 95,
+      "ref_word": "obesity",
+      "hyp_word": "",
+      "ref_context": "by a consultation with an obesity specialized doctor who will explain",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 95,
+      "index_hyp": 95,
+      "ref_word": "specialized",
+      "hyp_word": "obesityspecialized",
+      "ref_context": "a consultation with an obesity specialized doctor who will explain your",
+      "hyp_context": "by a consultation with an obesityspecialized doctor who will explain your"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 108,
+      "index_hyp": 108,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "build a personalized weight loss road map then a senior health",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 109,
+      "index_hyp": 108,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "a personalized weight loss road map then a senior health coach",
+      "hyp_context": "build a personalized weight loss roadmap then a senior health coach"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 196,
+      "index_hyp": 195,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "about how the plan works great the nano plan begins with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 274,
+      "index_hyp": 274,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "your weight loss goals the nano plan provides a clinically proven"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 280,
+      "index_hyp": 281,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "provides a clinically proven personalized road map to weight loss goals",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 281,
+      "index_hyp": 281,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "a clinically proven personalized road map to weight loss goals once",
+      "hyp_context": "provides a clinically proven personalized roadmap to weight loss once youve"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 285,
+      "index_hyp": 285,
+      "ref_word": "goals",
+      "hyp_word": "",
+      "ref_context": "road map to weight loss goals once youve completed it you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 322,
+      "index_hyp": 321,
+      "ref_word": "longer",
+      "hyp_word": "",
+      "ref_context": "specialist and health coach this longer term program comes with a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 323,
+      "index_hyp": 321,
+      "ref_word": "term",
+      "hyp_word": "longerterm",
+      "ref_context": "and health coach this longer term program comes with a 100",
+      "hyp_context": "specialist and health coach this longerterm program comes with a 100"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 329,
+      "index_hyp": 327,
+      "ref_word": "money",
+      "hyp_word": "",
+      "ref_context": "program comes with a 100 money back guarantee on weight loss",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 330,
+      "index_hyp": 327,
+      "ref_word": "back",
+      "hyp_word": "moneyback",
+      "ref_context": "comes with a 100 money back guarantee on weight loss ensuring",
+      "hyp_context": "program comes with a 100 moneyback guarantee on weight loss ensuring"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 416,
+      "index_hyp": 413,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "nano plan to get started with the nano plan with the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 416,
+      "index_hyp": 414,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "plan to get started with the nano plan with the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 416,
+      "index_hyp": 415,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "to get started with the nano plan with the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 416,
+      "index_hyp": 416,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "get started with the nano plan with the nano plan your"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 479,
+      "index_hyp": 480,
+      "ref_word": "good",
+      "hyp_word": "",
+      "ref_context": "a great day your welcome good bye and take care goodbye",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 480,
+      "index_hyp": 480,
+      "ref_word": "bye",
+      "hyp_word": "goodbye",
+      "ref_context": "great day your welcome good bye and take care goodbye and",
+      "hyp_context": "a great day youre welcome goodbye and take care goodbye and"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "kovar",
+      "hypothesis": "kondawar"
+    },
+    {
+      "reference": "have",
+      "hypothesis": "youve"
+    },
+    {
+      "reference": "youd",
+      "hypothesis": "were"
+    },
+    {
+      "reference": "he",
+      "hypothesis": "the"
+    },
+    {
+      "reference": "specialized",
+      "hypothesis": "obesityspecialized"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "term",
+      "hypothesis": "longerterm"
+    },
+    {
+      "reference": "back",
+      "hypothesis": "moneyback"
+    },
+    {
+      "reference": "bye",
+      "hypothesis": "goodbye"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "you",
+    "now",
+    "obesity",
+    "road",
+    "road",
+    "goals",
+    "longer",
+    "money",
+    "good"
+  ],
+  "insertion_words": [
+    "you",
+    "let",
+    "me",
+    "explain",
+    "great",
+    "nano",
+    "with",
+    "the",
+    "nano",
+    "plan"
+  ]
+}

@@ -1,0 +1,4772 @@
+{
+  "wer": 0.0,
+  "insertions": 476,
+  "deletions": 0,
+  "substitutions": 0,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "this",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "priya",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 3,
+      "ref_word": "",
+      "hyp_word": "from",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 4,
+      "ref_word": "",
+      "hyp_word": "elevatenow",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with yogesh"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 5,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with yogesh deshmukh"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 6,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "is priya from elevatenow am i speaking with yogesh deshmukh i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 7,
+      "ref_word": "",
+      "hyp_word": "speaking",
+      "ref_context": "",
+      "hyp_context": "priya from elevatenow am i speaking with yogesh deshmukh i noticed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "from elevatenow am i speaking with yogesh deshmukh i noticed youve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "yogesh",
+      "ref_context": "",
+      "hyp_context": "elevatenow am i speaking with yogesh deshmukh i noticed youve been"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 10,
+      "ref_word": "",
+      "hyp_word": "deshmukh",
+      "ref_context": "",
+      "hyp_context": "am i speaking with yogesh deshmukh i noticed youve been quiet"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 11,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "i speaking with yogesh deshmukh i noticed youve been quiet are"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 12,
+      "ref_word": "",
+      "hyp_word": "noticed",
+      "ref_context": "",
+      "hyp_context": "speaking with yogesh deshmukh i noticed youve been quiet are you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 13,
+      "ref_word": "",
+      "hyp_word": "youve",
+      "ref_context": "",
+      "hyp_context": "with yogesh deshmukh i noticed youve been quiet are you still"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 14,
+      "ref_word": "",
+      "hyp_word": "been",
+      "ref_context": "",
+      "hyp_context": "yogesh deshmukh i noticed youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 15,
+      "ref_word": "",
+      "hyp_word": "quiet",
+      "ref_context": "",
+      "hyp_context": "deshmukh i noticed youve been quiet are you still there great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 16,
+      "ref_word": "",
+      "hyp_word": "are",
+      "ref_context": "",
+      "hyp_context": "i noticed youve been quiet are you still there great i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 17,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "noticed youve been quiet are you still there great i noticed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 18,
+      "ref_word": "",
+      "hyp_word": "still",
+      "ref_context": "",
+      "hyp_context": "youve been quiet are you still there great i noticed you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 19,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "been quiet are you still there great i noticed you were"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 20,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "quiet are you still there great i noticed you were checking"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 21,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "are you still there great i noticed you were checking out"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 22,
+      "ref_word": "",
+      "hyp_word": "noticed",
+      "ref_context": "",
+      "hyp_context": "you still there great i noticed you were checking out our"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 23,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "still there great i noticed you were checking out our nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 24,
+      "ref_word": "",
+      "hyp_word": "were",
+      "ref_context": "",
+      "hyp_context": "there great i noticed you were checking out our nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 25,
+      "ref_word": "",
+      "hyp_word": "checking",
+      "ref_context": "",
+      "hyp_context": "great i noticed you were checking out our nano plan but"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 26,
+      "ref_word": "",
+      "hyp_word": "out",
+      "ref_context": "",
+      "hyp_context": "i noticed you were checking out our nano plan but didnt"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 27,
+      "ref_word": "",
+      "hyp_word": "our",
+      "ref_context": "",
+      "hyp_context": "noticed you were checking out our nano plan but didnt complete"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 28,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "you were checking out our nano plan but didnt complete the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 29,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "were checking out our nano plan but didnt complete the payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 30,
+      "ref_word": "",
+      "hyp_word": "but",
+      "ref_context": "",
+      "hyp_context": "checking out our nano plan but didnt complete the payment id"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 31,
+      "ref_word": "",
+      "hyp_word": "didnt",
+      "ref_context": "",
+      "hyp_context": "out our nano plan but didnt complete the payment id love"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 32,
+      "ref_word": "",
+      "hyp_word": "complete",
+      "ref_context": "",
+      "hyp_context": "our nano plan but didnt complete the payment id love to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 33,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "nano plan but didnt complete the payment id love to understand"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 34,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "plan but didnt complete the payment id love to understand what"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 35,
+      "ref_word": "",
+      "hyp_word": "id",
+      "ref_context": "",
+      "hyp_context": "but didnt complete the payment id love to understand what motivated"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 36,
+      "ref_word": "",
+      "hyp_word": "love",
+      "ref_context": "",
+      "hyp_context": "didnt complete the payment id love to understand what motivated you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 37,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "complete the payment id love to understand what motivated you to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 38,
+      "ref_word": "",
+      "hyp_word": "understand",
+      "ref_context": "",
+      "hyp_context": "the payment id love to understand what motivated you to consider"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 39,
+      "ref_word": "",
+      "hyp_word": "what",
+      "ref_context": "",
+      "hyp_context": "payment id love to understand what motivated you to consider our"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 40,
+      "ref_word": "",
+      "hyp_word": "motivated",
+      "ref_context": "",
+      "hyp_context": "id love to understand what motivated you to consider our program"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 41,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "love to understand what motivated you to consider our program and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 42,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "to understand what motivated you to consider our program and what"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 43,
+      "ref_word": "",
+      "hyp_word": "consider",
+      "ref_context": "",
+      "hyp_context": "understand what motivated you to consider our program and what your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 44,
+      "ref_word": "",
+      "hyp_word": "our",
+      "ref_context": "",
+      "hyp_context": "what motivated you to consider our program and what your weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 45,
+      "ref_word": "",
+      "hyp_word": "program",
+      "ref_context": "",
+      "hyp_context": "motivated you to consider our program and what your weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 46,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "you to consider our program and what your weight loss goals"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 47,
+      "ref_word": "",
+      "hyp_word": "what",
+      "ref_context": "",
+      "hyp_context": "to consider our program and what your weight loss goals are"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 48,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "consider our program and what your weight loss goals are i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 49,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "our program and what your weight loss goals are i noticed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 50,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "program and what your weight loss goals are i noticed youve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 51,
+      "ref_word": "",
+      "hyp_word": "goals",
+      "ref_context": "",
+      "hyp_context": "and what your weight loss goals are i noticed youve been"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 52,
+      "ref_word": "",
+      "hyp_word": "are",
+      "ref_context": "",
+      "hyp_context": "what your weight loss goals are i noticed youve been quiet"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 53,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "your weight loss goals are i noticed youve been quiet are"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 54,
+      "ref_word": "",
+      "hyp_word": "noticed",
+      "ref_context": "",
+      "hyp_context": "weight loss goals are i noticed youve been quiet are you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 55,
+      "ref_word": "",
+      "hyp_word": "youve",
+      "ref_context": "",
+      "hyp_context": "loss goals are i noticed youve been quiet are you still"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 56,
+      "ref_word": "",
+      "hyp_word": "been",
+      "ref_context": "",
+      "hyp_context": "goals are i noticed youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 57,
+      "ref_word": "",
+      "hyp_word": "quiet",
+      "ref_context": "",
+      "hyp_context": "are i noticed youve been quiet are you still there based"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 58,
+      "ref_word": "",
+      "hyp_word": "are",
+      "ref_context": "",
+      "hyp_context": "i noticed youve been quiet are you still there based on"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 59,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "noticed youve been quiet are you still there based on your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 60,
+      "ref_word": "",
+      "hyp_word": "still",
+      "ref_context": "",
+      "hyp_context": "youve been quiet are you still there based on your bmi"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 61,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "been quiet are you still there based on your bmi of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 62,
+      "ref_word": "",
+      "hyp_word": "based",
+      "ref_context": "",
+      "hyp_context": "quiet are you still there based on your bmi of 25"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 63,
+      "ref_word": "",
+      "hyp_word": "on",
+      "ref_context": "",
+      "hyp_context": "are you still there based on your bmi of 25 its"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 64,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "you still there based on your bmi of 25 its clear"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 65,
+      "ref_word": "",
+      "hyp_word": "bmi",
+      "ref_context": "",
+      "hyp_context": "still there based on your bmi of 25 its clear your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 66,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "there based on your bmi of 25 its clear your body"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 67,
+      "ref_word": "",
+      "hyp_word": "25",
+      "ref_context": "",
+      "hyp_context": "based on your bmi of 25 its clear your body is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 68,
+      "ref_word": "",
+      "hyp_word": "its",
+      "ref_context": "",
+      "hyp_context": "on your bmi of 25 its clear your body is sending"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 69,
+      "ref_word": "",
+      "hyp_word": "clear",
+      "ref_context": "",
+      "hyp_context": "your bmi of 25 its clear your body is sending signals"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 70,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "bmi of 25 its clear your body is sending signals about"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 71,
+      "ref_word": "",
+      "hyp_word": "body",
+      "ref_context": "",
+      "hyp_context": "of 25 its clear your body is sending signals about how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 72,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "25 its clear your body is sending signals about how its"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 73,
+      "ref_word": "",
+      "hyp_word": "sending",
+      "ref_context": "",
+      "hyp_context": "its clear your body is sending signals about how its handling"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 74,
+      "ref_word": "",
+      "hyp_word": "signals",
+      "ref_context": "",
+      "hyp_context": "clear your body is sending signals about how its handling weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 75,
+      "ref_word": "",
+      "hyp_word": "about",
+      "ref_context": "",
+      "hyp_context": "your body is sending signals about how its handling weight and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 76,
+      "ref_word": "",
+      "hyp_word": "how",
+      "ref_context": "",
+      "hyp_context": "body is sending signals about how its handling weight and metabolism"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 77,
+      "ref_word": "",
+      "hyp_word": "its",
+      "ref_context": "",
+      "hyp_context": "is sending signals about how its handling weight and metabolism right"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "handling",
+      "ref_context": "",
+      "hyp_context": "sending signals about how its handling weight and metabolism right now"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "signals about how its handling weight and metabolism right now were"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "about how its handling weight and metabolism right now were genuinely"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "metabolism",
+      "ref_context": "",
+      "hyp_context": "how its handling weight and metabolism right now were genuinely excited"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 82,
+      "ref_word": "",
+      "hyp_word": "right",
+      "ref_context": "",
+      "hyp_context": "its handling weight and metabolism right now were genuinely excited to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 83,
+      "ref_word": "",
+      "hyp_word": "now",
+      "ref_context": "",
+      "hyp_context": "handling weight and metabolism right now were genuinely excited to support"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 84,
+      "ref_word": "",
+      "hyp_word": "were",
+      "ref_context": "",
+      "hyp_context": "weight and metabolism right now were genuinely excited to support your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 85,
+      "ref_word": "",
+      "hyp_word": "genuinely",
+      "ref_context": "",
+      "hyp_context": "and metabolism right now were genuinely excited to support your goals"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 86,
+      "ref_word": "",
+      "hyp_word": "excited",
+      "ref_context": "",
+      "hyp_context": "metabolism right now were genuinely excited to support your goals and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 87,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "right now were genuinely excited to support your goals and the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 88,
+      "ref_word": "",
+      "hyp_word": "support",
+      "ref_context": "",
+      "hyp_context": "now were genuinely excited to support your goals and the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 89,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "were genuinely excited to support your goals and the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 90,
+      "ref_word": "",
+      "hyp_word": "goals",
+      "ref_context": "",
+      "hyp_context": "genuinely excited to support your goals and the nano plan is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 91,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "excited to support your goals and the nano plan is designed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 92,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "to support your goals and the nano plan is designed to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 93,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "support your goals and the nano plan is designed to work"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 94,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "your goals and the nano plan is designed to work with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 95,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "goals and the nano plan is designed to work with your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 96,
+      "ref_word": "",
+      "hyp_word": "designed",
+      "ref_context": "",
+      "hyp_context": "and the nano plan is designed to work with your bodys"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 97,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "the nano plan is designed to work with your bodys current"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 98,
+      "ref_word": "",
+      "hyp_word": "work",
+      "ref_context": "",
+      "hyp_context": "nano plan is designed to work with your bodys current state"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 99,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "plan is designed to work with your bodys current state to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 100,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "is designed to work with your bodys current state to make"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 101,
+      "ref_word": "",
+      "hyp_word": "bodys",
+      "ref_context": "",
+      "hyp_context": "designed to work with your bodys current state to make weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 102,
+      "ref_word": "",
+      "hyp_word": "current",
+      "ref_context": "",
+      "hyp_context": "to work with your bodys current state to make weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 103,
+      "ref_word": "",
+      "hyp_word": "state",
+      "ref_context": "",
+      "hyp_context": "work with your bodys current state to make weight loss easier"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 104,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "with your bodys current state to make weight loss easier and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 105,
+      "ref_word": "",
+      "hyp_word": "make",
+      "ref_context": "",
+      "hyp_context": "your bodys current state to make weight loss easier and more"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 106,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "bodys current state to make weight loss easier and more effective"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 107,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "current state to make weight loss easier and more effective would"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 108,
+      "ref_word": "",
+      "hyp_word": "easier",
+      "ref_context": "",
+      "hyp_context": "state to make weight loss easier and more effective would you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 109,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "to make weight loss easier and more effective would you like"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 110,
+      "ref_word": "",
+      "hyp_word": "more",
+      "ref_context": "",
+      "hyp_context": "make weight loss easier and more effective would you like to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 111,
+      "ref_word": "",
+      "hyp_word": "effective",
+      "ref_context": "",
+      "hyp_context": "weight loss easier and more effective would you like to discuss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 112,
+      "ref_word": "",
+      "hyp_word": "would",
+      "ref_context": "",
+      "hyp_context": "loss easier and more effective would you like to discuss a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 113,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "easier and more effective would you like to discuss a personalized"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 114,
+      "ref_word": "",
+      "hyp_word": "like",
+      "ref_context": "",
+      "hyp_context": "and more effective would you like to discuss a personalized plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 115,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "more effective would you like to discuss a personalized plan to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 116,
+      "ref_word": "",
+      "hyp_word": "discuss",
+      "ref_context": "",
+      "hyp_context": "effective would you like to discuss a personalized plan to address"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 117,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "would you like to discuss a personalized plan to address these"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 118,
+      "ref_word": "",
+      "hyp_word": "personalized",
+      "ref_context": "",
+      "hyp_context": "you like to discuss a personalized plan to address these challenges"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 119,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "like to discuss a personalized plan to address these challenges and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 120,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "to discuss a personalized plan to address these challenges and achieve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 121,
+      "ref_word": "",
+      "hyp_word": "address",
+      "ref_context": "",
+      "hyp_context": "discuss a personalized plan to address these challenges and achieve sustainable"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 122,
+      "ref_word": "",
+      "hyp_word": "these",
+      "ref_context": "",
+      "hyp_context": "a personalized plan to address these challenges and achieve sustainable weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 123,
+      "ref_word": "",
+      "hyp_word": "challenges",
+      "ref_context": "",
+      "hyp_context": "personalized plan to address these challenges and achieve sustainable weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 124,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "plan to address these challenges and achieve sustainable weight loss great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 125,
+      "ref_word": "",
+      "hyp_word": "achieve",
+      "ref_context": "",
+      "hyp_context": "to address these challenges and achieve sustainable weight loss great have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 126,
+      "ref_word": "",
+      "hyp_word": "sustainable",
+      "ref_context": "",
+      "hyp_context": "address these challenges and achieve sustainable weight loss great have you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 127,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "these challenges and achieve sustainable weight loss great have you had"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 128,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "challenges and achieve sustainable weight loss great have you had any"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 129,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "and achieve sustainable weight loss great have you had any past"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 130,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "achieve sustainable weight loss great have you had any past experiences"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 131,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "sustainable weight loss great have you had any past experiences with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 132,
+      "ref_word": "",
+      "hyp_word": "had",
+      "ref_context": "",
+      "hyp_context": "weight loss great have you had any past experiences with other"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 133,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "loss great have you had any past experiences with other weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 134,
+      "ref_word": "",
+      "hyp_word": "past",
+      "ref_context": "",
+      "hyp_context": "great have you had any past experiences with other weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 135,
+      "ref_word": "",
+      "hyp_word": "experiences",
+      "ref_context": "",
+      "hyp_context": "have you had any past experiences with other weight loss programs"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 136,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "you had any past experiences with other weight loss programs if"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 137,
+      "ref_word": "",
+      "hyp_word": "other",
+      "ref_context": "",
+      "hyp_context": "had any past experiences with other weight loss programs if did"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 138,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "any past experiences with other weight loss programs if did they"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 139,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "past experiences with other weight loss programs if did they work"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 140,
+      "ref_word": "",
+      "hyp_word": "programs",
+      "ref_context": "",
+      "hyp_context": "experiences with other weight loss programs if did they work for"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 141,
+      "ref_word": "",
+      "hyp_word": "if",
+      "ref_context": "",
+      "hyp_context": "with other weight loss programs if did they work for you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 142,
+      "ref_word": "",
+      "hyp_word": "did",
+      "ref_context": "",
+      "hyp_context": "other weight loss programs if did they work for you youre"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 143,
+      "ref_word": "",
+      "hyp_word": "they",
+      "ref_context": "",
+      "hyp_context": "weight loss programs if did they work for you youre in"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 144,
+      "ref_word": "",
+      "hyp_word": "work",
+      "ref_context": "",
+      "hyp_context": "loss programs if did they work for you youre in the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 145,
+      "ref_word": "",
+      "hyp_word": "for",
+      "ref_context": "",
+      "hyp_context": "programs if did they work for you youre in the right"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 146,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "if did they work for you youre in the right place"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 147,
+      "ref_word": "",
+      "hyp_word": "youre",
+      "ref_context": "",
+      "hyp_context": "did they work for you youre in the right place let"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 148,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "they work for you youre in the right place let me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 149,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "work for you youre in the right place let me give"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 150,
+      "ref_word": "",
+      "hyp_word": "right",
+      "ref_context": "",
+      "hyp_context": "for you youre in the right place let me give you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 151,
+      "ref_word": "",
+      "hyp_word": "place",
+      "ref_context": "",
+      "hyp_context": "you youre in the right place let me give you a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 152,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "youre in the right place let me give you a quick"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 153,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "in the right place let me give you a quick intro"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 154,
+      "ref_word": "",
+      "hyp_word": "give",
+      "ref_context": "",
+      "hyp_context": "the right place let me give you a quick intro to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 155,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "right place let me give you a quick intro to what"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 156,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "place let me give you a quick intro to what we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 157,
+      "ref_word": "",
+      "hyp_word": "quick",
+      "ref_context": "",
+      "hyp_context": "let me give you a quick intro to what we offer"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 158,
+      "ref_word": "",
+      "hyp_word": "intro",
+      "ref_context": "",
+      "hyp_context": "me give you a quick intro to what we offer the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 159,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "give you a quick intro to what we offer the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 160,
+      "ref_word": "",
+      "hyp_word": "what",
+      "ref_context": "",
+      "hyp_context": "you a quick intro to what we offer the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 161,
+      "ref_word": "",
+      "hyp_word": "we",
+      "ref_context": "",
+      "hyp_context": "a quick intro to what we offer the nano plan includes"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 162,
+      "ref_word": "",
+      "hyp_word": "offer",
+      "ref_context": "",
+      "hyp_context": "quick intro to what we offer the nano plan includes a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 163,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "intro to what we offer the nano plan includes a blood"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 164,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "to what we offer the nano plan includes a blood test"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 165,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "what we offer the nano plan includes a blood test a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 166,
+      "ref_word": "",
+      "hyp_word": "includes",
+      "ref_context": "",
+      "hyp_context": "we offer the nano plan includes a blood test a consultation"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 167,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "offer the nano plan includes a blood test a consultation with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 168,
+      "ref_word": "",
+      "hyp_word": "blood",
+      "ref_context": "",
+      "hyp_context": "the nano plan includes a blood test a consultation with a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 169,
+      "ref_word": "",
+      "hyp_word": "test",
+      "ref_context": "",
+      "hyp_context": "nano plan includes a blood test a consultation with a doctor"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 170,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "plan includes a blood test a consultation with a doctor specialized"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 171,
+      "ref_word": "",
+      "hyp_word": "consultation",
+      "ref_context": "",
+      "hyp_context": "includes a blood test a consultation with a doctor specialized in"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 172,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "a blood test a consultation with a doctor specialized in obesity"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 173,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "blood test a consultation with a doctor specialized in obesity and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 174,
+      "ref_word": "",
+      "hyp_word": "doctor",
+      "ref_context": "",
+      "hyp_context": "test a consultation with a doctor specialized in obesity and a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 175,
+      "ref_word": "",
+      "hyp_word": "specialized",
+      "ref_context": "",
+      "hyp_context": "a consultation with a doctor specialized in obesity and a session"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 176,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "consultation with a doctor specialized in obesity and a session with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 177,
+      "ref_word": "",
+      "hyp_word": "obesity",
+      "ref_context": "",
+      "hyp_context": "with a doctor specialized in obesity and a session with a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 178,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "a doctor specialized in obesity and a session with a senior"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 179,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "doctor specialized in obesity and a session with a senior health"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 180,
+      "ref_word": "",
+      "hyp_word": "session",
+      "ref_context": "",
+      "hyp_context": "specialized in obesity and a session with a senior health coach"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 181,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "in obesity and a session with a senior health coach these"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 182,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "obesity and a session with a senior health coach these are"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 183,
+      "ref_word": "",
+      "hyp_word": "senior",
+      "ref_context": "",
+      "hyp_context": "and a session with a senior health coach these are designed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 184,
+      "ref_word": "",
+      "hyp_word": "health",
+      "ref_context": "",
+      "hyp_context": "a session with a senior health coach these are designed to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 185,
+      "ref_word": "",
+      "hyp_word": "coach",
+      "ref_context": "",
+      "hyp_context": "session with a senior health coach these are designed to help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 186,
+      "ref_word": "",
+      "hyp_word": "these",
+      "ref_context": "",
+      "hyp_context": "with a senior health coach these are designed to help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 187,
+      "ref_word": "",
+      "hyp_word": "are",
+      "ref_context": "",
+      "hyp_context": "a senior health coach these are designed to help you achieve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 188,
+      "ref_word": "",
+      "hyp_word": "designed",
+      "ref_context": "",
+      "hyp_context": "senior health coach these are designed to help you achieve your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 189,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "health coach these are designed to help you achieve your weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 190,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "coach these are designed to help you achieve your weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 191,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "these are designed to help you achieve your weight loss goals"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 192,
+      "ref_word": "",
+      "hyp_word": "achieve",
+      "ref_context": "",
+      "hyp_context": "are designed to help you achieve your weight loss goals unless"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 193,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "designed to help you achieve your weight loss goals unless you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 194,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "to help you achieve your weight loss goals unless you have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 195,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "help you achieve your weight loss goals unless you have any"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 196,
+      "ref_word": "",
+      "hyp_word": "goals",
+      "ref_context": "",
+      "hyp_context": "you achieve your weight loss goals unless you have any specific"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 197,
+      "ref_word": "",
+      "hyp_word": "unless",
+      "ref_context": "",
+      "hyp_context": "achieve your weight loss goals unless you have any specific questions"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 198,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "your weight loss goals unless you have any specific questions related"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 199,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "weight loss goals unless you have any specific questions related to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 200,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "loss goals unless you have any specific questions related to these"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 201,
+      "ref_word": "",
+      "hyp_word": "specific",
+      "ref_context": "",
+      "hyp_context": "goals unless you have any specific questions related to these offerings"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 202,
+      "ref_word": "",
+      "hyp_word": "questions",
+      "ref_context": "",
+      "hyp_context": "unless you have any specific questions related to these offerings can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 203,
+      "ref_word": "",
+      "hyp_word": "related",
+      "ref_context": "",
+      "hyp_context": "you have any specific questions related to these offerings can i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 204,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "have any specific questions related to these offerings can i explain"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 205,
+      "ref_word": "",
+      "hyp_word": "these",
+      "ref_context": "",
+      "hyp_context": "any specific questions related to these offerings can i explain how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 206,
+      "ref_word": "",
+      "hyp_word": "offerings",
+      "ref_context": "",
+      "hyp_context": "specific questions related to these offerings can i explain how they"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 207,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "questions related to these offerings can i explain how they can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 208,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "related to these offerings can i explain how they can benefit"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 209,
+      "ref_word": "",
+      "hyp_word": "explain",
+      "ref_context": "",
+      "hyp_context": "to these offerings can i explain how they can benefit your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 210,
+      "ref_word": "",
+      "hyp_word": "how",
+      "ref_context": "",
+      "hyp_context": "these offerings can i explain how they can benefit your journey"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 211,
+      "ref_word": "",
+      "hyp_word": "they",
+      "ref_context": "",
+      "hyp_context": "offerings can i explain how they can benefit your journey sure"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 212,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "can i explain how they can benefit your journey sure heres"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 213,
+      "ref_word": "",
+      "hyp_word": "benefit",
+      "ref_context": "",
+      "hyp_context": "i explain how they can benefit your journey sure heres a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 214,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "explain how they can benefit your journey sure heres a brief"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 215,
+      "ref_word": "",
+      "hyp_word": "journey",
+      "ref_context": "",
+      "hyp_context": "how they can benefit your journey sure heres a brief overview"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 216,
+      "ref_word": "",
+      "hyp_word": "sure",
+      "ref_context": "",
+      "hyp_context": "they can benefit your journey sure heres a brief overview of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 217,
+      "ref_word": "",
+      "hyp_word": "heres",
+      "ref_context": "",
+      "hyp_context": "can benefit your journey sure heres a brief overview of how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 218,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "benefit your journey sure heres a brief overview of how the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 219,
+      "ref_word": "",
+      "hyp_word": "brief",
+      "ref_context": "",
+      "hyp_context": "your journey sure heres a brief overview of how the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 220,
+      "ref_word": "",
+      "hyp_word": "overview",
+      "ref_context": "",
+      "hyp_context": "journey sure heres a brief overview of how the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 221,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "sure heres a brief overview of how the nano plan works"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 222,
+      "ref_word": "",
+      "hyp_word": "how",
+      "ref_context": "",
+      "hyp_context": "heres a brief overview of how the nano plan works for"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 223,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "a brief overview of how the nano plan works for you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 224,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "brief overview of how the nano plan works for you it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 225,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "overview of how the nano plan works for you it starts"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 226,
+      "ref_word": "",
+      "hyp_word": "works",
+      "ref_context": "",
+      "hyp_context": "of how the nano plan works for you it starts with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 227,
+      "ref_word": "",
+      "hyp_word": "for",
+      "ref_context": "",
+      "hyp_context": "how the nano plan works for you it starts with a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 228,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "the nano plan works for you it starts with a comprehensive"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 229,
+      "ref_word": "",
+      "hyp_word": "it",
+      "ref_context": "",
+      "hyp_context": "nano plan works for you it starts with a comprehensive blood"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 230,
+      "ref_word": "",
+      "hyp_word": "starts",
+      "ref_context": "",
+      "hyp_context": "plan works for you it starts with a comprehensive blood test"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 231,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "works for you it starts with a comprehensive blood test to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 232,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "for you it starts with a comprehensive blood test to identify"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 233,
+      "ref_word": "",
+      "hyp_word": "comprehensive",
+      "ref_context": "",
+      "hyp_context": "you it starts with a comprehensive blood test to identify key"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 234,
+      "ref_word": "",
+      "hyp_word": "blood",
+      "ref_context": "",
+      "hyp_context": "it starts with a comprehensive blood test to identify key metabolic"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 235,
+      "ref_word": "",
+      "hyp_word": "test",
+      "ref_context": "",
+      "hyp_context": "starts with a comprehensive blood test to identify key metabolic issues"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 236,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "with a comprehensive blood test to identify key metabolic issues like"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 237,
+      "ref_word": "",
+      "hyp_word": "identify",
+      "ref_context": "",
+      "hyp_context": "a comprehensive blood test to identify key metabolic issues like insulin"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 238,
+      "ref_word": "",
+      "hyp_word": "key",
+      "ref_context": "",
+      "hyp_context": "comprehensive blood test to identify key metabolic issues like insulin resistance"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 239,
+      "ref_word": "",
+      "hyp_word": "metabolic",
+      "ref_context": "",
+      "hyp_context": "blood test to identify key metabolic issues like insulin resistance and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 240,
+      "ref_word": "",
+      "hyp_word": "issues",
+      "ref_context": "",
+      "hyp_context": "test to identify key metabolic issues like insulin resistance and hormonal"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 241,
+      "ref_word": "",
+      "hyp_word": "like",
+      "ref_context": "",
+      "hyp_context": "to identify key metabolic issues like insulin resistance and hormonal imbalances"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 242,
+      "ref_word": "",
+      "hyp_word": "insulin",
+      "ref_context": "",
+      "hyp_context": "identify key metabolic issues like insulin resistance and hormonal imbalances then"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 243,
+      "ref_word": "",
+      "hyp_word": "resistance",
+      "ref_context": "",
+      "hyp_context": "key metabolic issues like insulin resistance and hormonal imbalances then a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 244,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "metabolic issues like insulin resistance and hormonal imbalances then a senior"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 245,
+      "ref_word": "",
+      "hyp_word": "hormonal",
+      "ref_context": "",
+      "hyp_context": "issues like insulin resistance and hormonal imbalances then a senior obesity"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 246,
+      "ref_word": "",
+      "hyp_word": "imbalances",
+      "ref_context": "",
+      "hyp_context": "like insulin resistance and hormonal imbalances then a senior obesity specialist"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 247,
+      "ref_word": "",
+      "hyp_word": "then",
+      "ref_context": "",
+      "hyp_context": "insulin resistance and hormonal imbalances then a senior obesity specialist will"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 248,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "resistance and hormonal imbalances then a senior obesity specialist will review"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 249,
+      "ref_word": "",
+      "hyp_word": "senior",
+      "ref_context": "",
+      "hyp_context": "and hormonal imbalances then a senior obesity specialist will review your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 250,
+      "ref_word": "",
+      "hyp_word": "obesity",
+      "ref_context": "",
+      "hyp_context": "hormonal imbalances then a senior obesity specialist will review your results"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 251,
+      "ref_word": "",
+      "hyp_word": "specialist",
+      "ref_context": "",
+      "hyp_context": "imbalances then a senior obesity specialist will review your results and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 252,
+      "ref_word": "",
+      "hyp_word": "will",
+      "ref_context": "",
+      "hyp_context": "then a senior obesity specialist will review your results and discuss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 253,
+      "ref_word": "",
+      "hyp_word": "review",
+      "ref_context": "",
+      "hyp_context": "a senior obesity specialist will review your results and discuss how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 254,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "senior obesity specialist will review your results and discuss how they"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "results",
+      "ref_context": "",
+      "hyp_context": "obesity specialist will review your results and discuss how they impact"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "specialist will review your results and discuss how they impact your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 257,
+      "ref_word": "",
+      "hyp_word": "discuss",
+      "ref_context": "",
+      "hyp_context": "will review your results and discuss how they impact your health"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 258,
+      "ref_word": "",
+      "hyp_word": "how",
+      "ref_context": "",
+      "hyp_context": "review your results and discuss how they impact your health finally"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 259,
+      "ref_word": "",
+      "hyp_word": "they",
+      "ref_context": "",
+      "hyp_context": "your results and discuss how they impact your health finally a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 260,
+      "ref_word": "",
+      "hyp_word": "impact",
+      "ref_context": "",
+      "hyp_context": "results and discuss how they impact your health finally a health"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 261,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "and discuss how they impact your health finally a health coach"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 262,
+      "ref_word": "",
+      "hyp_word": "health",
+      "ref_context": "",
+      "hyp_context": "discuss how they impact your health finally a health coach will"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 263,
+      "ref_word": "",
+      "hyp_word": "finally",
+      "ref_context": "",
+      "hyp_context": "how they impact your health finally a health coach will create"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 264,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "they impact your health finally a health coach will create a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 265,
+      "ref_word": "",
+      "hyp_word": "health",
+      "ref_context": "",
+      "hyp_context": "impact your health finally a health coach will create a personalized"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 266,
+      "ref_word": "",
+      "hyp_word": "coach",
+      "ref_context": "",
+      "hyp_context": "your health finally a health coach will create a personalized plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 267,
+      "ref_word": "",
+      "hyp_word": "will",
+      "ref_context": "",
+      "hyp_context": "health finally a health coach will create a personalized plan tailored"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 268,
+      "ref_word": "",
+      "hyp_word": "create",
+      "ref_context": "",
+      "hyp_context": "finally a health coach will create a personalized plan tailored to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 269,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "a health coach will create a personalized plan tailored to your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 270,
+      "ref_word": "",
+      "hyp_word": "personalized",
+      "ref_context": "",
+      "hyp_context": "health coach will create a personalized plan tailored to your needs"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 271,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "coach will create a personalized plan tailored to your needs now"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 272,
+      "ref_word": "",
+      "hyp_word": "tailored",
+      "ref_context": "",
+      "hyp_context": "will create a personalized plan tailored to your needs now that"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 273,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "create a personalized plan tailored to your needs now that weve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 274,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "a personalized plan tailored to your needs now that weve covered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 275,
+      "ref_word": "",
+      "hyp_word": "needs",
+      "ref_context": "",
+      "hyp_context": "personalized plan tailored to your needs now that weve covered the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 276,
+      "ref_word": "",
+      "hyp_word": "now",
+      "ref_context": "",
+      "hyp_context": "plan tailored to your needs now that weve covered the offerings"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 277,
+      "ref_word": "",
+      "hyp_word": "that",
+      "ref_context": "",
+      "hyp_context": "tailored to your needs now that weve covered the offerings would"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 278,
+      "ref_word": "",
+      "hyp_word": "weve",
+      "ref_context": "",
+      "hyp_context": "to your needs now that weve covered the offerings would you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 279,
+      "ref_word": "",
+      "hyp_word": "covered",
+      "ref_context": "",
+      "hyp_context": "your needs now that weve covered the offerings would you like"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 280,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "needs now that weve covered the offerings would you like to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 281,
+      "ref_word": "",
+      "hyp_word": "offerings",
+      "ref_context": "",
+      "hyp_context": "now that weve covered the offerings would you like to know"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 282,
+      "ref_word": "",
+      "hyp_word": "would",
+      "ref_context": "",
+      "hyp_context": "that weve covered the offerings would you like to know about"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 283,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "weve covered the offerings would you like to know about the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 284,
+      "ref_word": "",
+      "hyp_word": "like",
+      "ref_context": "",
+      "hyp_context": "covered the offerings would you like to know about the pricing"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 285,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "the offerings would you like to know about the pricing the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 286,
+      "ref_word": "",
+      "hyp_word": "know",
+      "ref_context": "",
+      "hyp_context": "offerings would you like to know about the pricing the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 287,
+      "ref_word": "",
+      "hyp_word": "about",
+      "ref_context": "",
+      "hyp_context": "would you like to know about the pricing the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 288,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "you like to know about the pricing the nano plan is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 289,
+      "ref_word": "",
+      "hyp_word": "pricing",
+      "ref_context": "",
+      "hyp_context": "like to know about the pricing the nano plan is designed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 290,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "to know about the pricing the nano plan is designed to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 291,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "know about the pricing the nano plan is designed to be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 292,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "about the pricing the nano plan is designed to be affordable"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 293,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "the pricing the nano plan is designed to be affordable at"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 294,
+      "ref_word": "",
+      "hyp_word": "designed",
+      "ref_context": "",
+      "hyp_context": "pricing the nano plan is designed to be affordable at rupees"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 295,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "the nano plan is designed to be affordable at rupees 1799"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 296,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "nano plan is designed to be affordable at rupees 1799 including"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 297,
+      "ref_word": "",
+      "hyp_word": "affordable",
+      "ref_context": "",
+      "hyp_context": "plan is designed to be affordable at rupees 1799 including the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 298,
+      "ref_word": "",
+      "hyp_word": "at",
+      "ref_context": "",
+      "hyp_context": "is designed to be affordable at rupees 1799 including the blood"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 299,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "designed to be affordable at rupees 1799 including the blood test"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 300,
+      "ref_word": "",
+      "hyp_word": "1799",
+      "ref_context": "",
+      "hyp_context": "to be affordable at rupees 1799 including the blood test metabolic"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 301,
+      "ref_word": "",
+      "hyp_word": "including",
+      "ref_context": "",
+      "hyp_context": "be affordable at rupees 1799 including the blood test metabolic report"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 302,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "affordable at rupees 1799 including the blood test metabolic report and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 303,
+      "ref_word": "",
+      "hyp_word": "blood",
+      "ref_context": "",
+      "hyp_context": "at rupees 1799 including the blood test metabolic report and doctor"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 304,
+      "ref_word": "",
+      "hyp_word": "test",
+      "ref_context": "",
+      "hyp_context": "rupees 1799 including the blood test metabolic report and doctor consultation"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 305,
+      "ref_word": "",
+      "hyp_word": "metabolic",
+      "ref_context": "",
+      "hyp_context": "1799 including the blood test metabolic report and doctor consultation this"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 306,
+      "ref_word": "",
+      "hyp_word": "report",
+      "ref_context": "",
+      "hyp_context": "including the blood test metabolic report and doctor consultation this is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 307,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "the blood test metabolic report and doctor consultation this is a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 308,
+      "ref_word": "",
+      "hyp_word": "doctor",
+      "ref_context": "",
+      "hyp_context": "blood test metabolic report and doctor consultation this is a 1"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 309,
+      "ref_word": "",
+      "hyp_word": "consultation",
+      "ref_context": "",
+      "hyp_context": "test metabolic report and doctor consultation this is a 1 time"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 310,
+      "ref_word": "",
+      "hyp_word": "this",
+      "ref_context": "",
+      "hyp_context": "metabolic report and doctor consultation this is a 1 time payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 311,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "report and doctor consultation this is a 1 time payment giving"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 312,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "and doctor consultation this is a 1 time payment giving you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 313,
+      "ref_word": "",
+      "hyp_word": "1",
+      "ref_context": "",
+      "hyp_context": "doctor consultation this is a 1 time payment giving you access"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 314,
+      "ref_word": "",
+      "hyp_word": "time",
+      "ref_context": "",
+      "hyp_context": "consultation this is a 1 time payment giving you access to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 315,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "this is a 1 time payment giving you access to premium"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 316,
+      "ref_word": "",
+      "hyp_word": "giving",
+      "ref_context": "",
+      "hyp_context": "is a 1 time payment giving you access to premium services"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 317,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "a 1 time payment giving you access to premium services at"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 318,
+      "ref_word": "",
+      "hyp_word": "access",
+      "ref_context": "",
+      "hyp_context": "1 time payment giving you access to premium services at a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 319,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "time payment giving you access to premium services at a fraction"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 320,
+      "ref_word": "",
+      "hyp_word": "premium",
+      "ref_context": "",
+      "hyp_context": "payment giving you access to premium services at a fraction of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 321,
+      "ref_word": "",
+      "hyp_word": "services",
+      "ref_context": "",
+      "hyp_context": "giving you access to premium services at a fraction of the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 322,
+      "ref_word": "",
+      "hyp_word": "at",
+      "ref_context": "",
+      "hyp_context": "you access to premium services at a fraction of the typical"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 323,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "access to premium services at a fraction of the typical cost"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 324,
+      "ref_word": "",
+      "hyp_word": "fraction",
+      "ref_context": "",
+      "hyp_context": "to premium services at a fraction of the typical cost which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 325,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "premium services at a fraction of the typical cost which can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 326,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "services at a fraction of the typical cost which can be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 327,
+      "ref_word": "",
+      "hyp_word": "typical",
+      "ref_context": "",
+      "hyp_context": "at a fraction of the typical cost which can be around"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 328,
+      "ref_word": "",
+      "hyp_word": "cost",
+      "ref_context": "",
+      "hyp_context": "a fraction of the typical cost which can be around rupees"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 329,
+      "ref_word": "",
+      "hyp_word": "which",
+      "ref_context": "",
+      "hyp_context": "fraction of the typical cost which can be around rupees 6000"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 330,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "of the typical cost which can be around rupees 6000 otherwise"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 331,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "the typical cost which can be around rupees 6000 otherwise what"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 332,
+      "ref_word": "",
+      "hyp_word": "around",
+      "ref_context": "",
+      "hyp_context": "typical cost which can be around rupees 6000 otherwise what do"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 333,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "cost which can be around rupees 6000 otherwise what do you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 334,
+      "ref_word": "",
+      "hyp_word": "6000",
+      "ref_context": "",
+      "hyp_context": "which can be around rupees 6000 otherwise what do you think"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 335,
+      "ref_word": "",
+      "hyp_word": "otherwise",
+      "ref_context": "",
+      "hyp_context": "can be around rupees 6000 otherwise what do you think about"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 336,
+      "ref_word": "",
+      "hyp_word": "what",
+      "ref_context": "",
+      "hyp_context": "be around rupees 6000 otherwise what do you think about the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 337,
+      "ref_word": "",
+      "hyp_word": "do",
+      "ref_context": "",
+      "hyp_context": "around rupees 6000 otherwise what do you think about the pricing"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 338,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "rupees 6000 otherwise what do you think about the pricing now"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 339,
+      "ref_word": "",
+      "hyp_word": "think",
+      "ref_context": "",
+      "hyp_context": "6000 otherwise what do you think about the pricing now that"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 340,
+      "ref_word": "",
+      "hyp_word": "about",
+      "ref_context": "",
+      "hyp_context": "otherwise what do you think about the pricing now that weve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 341,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "what do you think about the pricing now that weve talked"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 342,
+      "ref_word": "",
+      "hyp_word": "pricing",
+      "ref_context": "",
+      "hyp_context": "do you think about the pricing now that weve talked about"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 343,
+      "ref_word": "",
+      "hyp_word": "now",
+      "ref_context": "",
+      "hyp_context": "you think about the pricing now that weve talked about the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 344,
+      "ref_word": "",
+      "hyp_word": "that",
+      "ref_context": "",
+      "hyp_context": "think about the pricing now that weve talked about the offerings"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 345,
+      "ref_word": "",
+      "hyp_word": "weve",
+      "ref_context": "",
+      "hyp_context": "about the pricing now that weve talked about the offerings and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 346,
+      "ref_word": "",
+      "hyp_word": "talked",
+      "ref_context": "",
+      "hyp_context": "the pricing now that weve talked about the offerings and pricing"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 347,
+      "ref_word": "",
+      "hyp_word": "about",
+      "ref_context": "",
+      "hyp_context": "pricing now that weve talked about the offerings and pricing i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 348,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "now that weve talked about the offerings and pricing i really"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 349,
+      "ref_word": "",
+      "hyp_word": "offerings",
+      "ref_context": "",
+      "hyp_context": "that weve talked about the offerings and pricing i really think"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 350,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "weve talked about the offerings and pricing i really think the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 351,
+      "ref_word": "",
+      "hyp_word": "pricing",
+      "ref_context": "",
+      "hyp_context": "talked about the offerings and pricing i really think the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 352,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "about the offerings and pricing i really think the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 353,
+      "ref_word": "",
+      "hyp_word": "really",
+      "ref_context": "",
+      "hyp_context": "the offerings and pricing i really think the nano plan can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 354,
+      "ref_word": "",
+      "hyp_word": "think",
+      "ref_context": "",
+      "hyp_context": "offerings and pricing i really think the nano plan can be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 355,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "and pricing i really think the nano plan can be a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 356,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "pricing i really think the nano plan can be a great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 357,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "i really think the nano plan can be a great starting"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 358,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "really think the nano plan can be a great starting point"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 359,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "think the nano plan can be a great starting point for"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 360,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "the nano plan can be a great starting point for you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 361,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "nano plan can be a great starting point for you to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 362,
+      "ref_word": "",
+      "hyp_word": "starting",
+      "ref_context": "",
+      "hyp_context": "plan can be a great starting point for you to achieve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 363,
+      "ref_word": "",
+      "hyp_word": "point",
+      "ref_context": "",
+      "hyp_context": "can be a great starting point for you to achieve your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 364,
+      "ref_word": "",
+      "hyp_word": "for",
+      "ref_context": "",
+      "hyp_context": "be a great starting point for you to achieve your weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 365,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "a great starting point for you to achieve your weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 366,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "great starting point for you to achieve your weight loss goals"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 367,
+      "ref_word": "",
+      "hyp_word": "achieve",
+      "ref_context": "",
+      "hyp_context": "starting point for you to achieve your weight loss goals would"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 368,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "point for you to achieve your weight loss goals would you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 369,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "for you to achieve your weight loss goals would you like"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 370,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "you to achieve your weight loss goals would you like to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 371,
+      "ref_word": "",
+      "hyp_word": "goals",
+      "ref_context": "",
+      "hyp_context": "to achieve your weight loss goals would you like to proceed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 372,
+      "ref_word": "",
+      "hyp_word": "would",
+      "ref_context": "",
+      "hyp_context": "achieve your weight loss goals would you like to proceed with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 373,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "your weight loss goals would you like to proceed with the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 374,
+      "ref_word": "",
+      "hyp_word": "like",
+      "ref_context": "",
+      "hyp_context": "weight loss goals would you like to proceed with the payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 375,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "loss goals would you like to proceed with the payment great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 376,
+      "ref_word": "",
+      "hyp_word": "proceed",
+      "ref_context": "",
+      "hyp_context": "goals would you like to proceed with the payment great you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 377,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "would you like to proceed with the payment great you can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 378,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "you like to proceed with the payment great you can choose"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 379,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "like to proceed with the payment great you can choose between"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 380,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "to proceed with the payment great you can choose between 2"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 381,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "proceed with the payment great you can choose between 2 payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 382,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "with the payment great you can choose between 2 payment options"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 383,
+      "ref_word": "",
+      "hyp_word": "choose",
+      "ref_context": "",
+      "hyp_context": "the payment great you can choose between 2 payment options a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 384,
+      "ref_word": "",
+      "hyp_word": "between",
+      "ref_context": "",
+      "hyp_context": "payment great you can choose between 2 payment options a partial"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 385,
+      "ref_word": "",
+      "hyp_word": "2",
+      "ref_context": "",
+      "hyp_context": "great you can choose between 2 payment options a partial payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 386,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "you can choose between 2 payment options a partial payment of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 387,
+      "ref_word": "",
+      "hyp_word": "options",
+      "ref_context": "",
+      "hyp_context": "can choose between 2 payment options a partial payment of rupees"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 388,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "choose between 2 payment options a partial payment of rupees 499"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 389,
+      "ref_word": "",
+      "hyp_word": "partial",
+      "ref_context": "",
+      "hyp_context": "between 2 payment options a partial payment of rupees 499 now"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 390,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "2 payment options a partial payment of rupees 499 now and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 391,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "payment options a partial payment of rupees 499 now and the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 392,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "options a partial payment of rupees 499 now and the remaining"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 393,
+      "ref_word": "",
+      "hyp_word": "499",
+      "ref_context": "",
+      "hyp_context": "a partial payment of rupees 499 now and the remaining rupees"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 394,
+      "ref_word": "",
+      "hyp_word": "now",
+      "ref_context": "",
+      "hyp_context": "partial payment of rupees 499 now and the remaining rupees 1399"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 395,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "payment of rupees 499 now and the remaining rupees 1399 at"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 396,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "of rupees 499 now and the remaining rupees 1399 at the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 397,
+      "ref_word": "",
+      "hyp_word": "remaining",
+      "ref_context": "",
+      "hyp_context": "rupees 499 now and the remaining rupees 1399 at the time"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 398,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "499 now and the remaining rupees 1399 at the time of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 399,
+      "ref_word": "",
+      "hyp_word": "1399",
+      "ref_context": "",
+      "hyp_context": "now and the remaining rupees 1399 at the time of blood"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 400,
+      "ref_word": "",
+      "hyp_word": "at",
+      "ref_context": "",
+      "hyp_context": "and the remaining rupees 1399 at the time of blood sample"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 401,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "the remaining rupees 1399 at the time of blood sample collection"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 402,
+      "ref_word": "",
+      "hyp_word": "time",
+      "ref_context": "",
+      "hyp_context": "remaining rupees 1399 at the time of blood sample collection or"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 403,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "rupees 1399 at the time of blood sample collection or a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 404,
+      "ref_word": "",
+      "hyp_word": "blood",
+      "ref_context": "",
+      "hyp_context": "1399 at the time of blood sample collection or a full"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 405,
+      "ref_word": "",
+      "hyp_word": "sample",
+      "ref_context": "",
+      "hyp_context": "at the time of blood sample collection or a full payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 406,
+      "ref_word": "",
+      "hyp_word": "collection",
+      "ref_context": "",
+      "hyp_context": "the time of blood sample collection or a full payment of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 407,
+      "ref_word": "",
+      "hyp_word": "or",
+      "ref_context": "",
+      "hyp_context": "time of blood sample collection or a full payment of rupees"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 408,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "of blood sample collection or a full payment of rupees 1799"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 409,
+      "ref_word": "",
+      "hyp_word": "full",
+      "ref_context": "",
+      "hyp_context": "blood sample collection or a full payment of rupees 1799 upfront"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 410,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "sample collection or a full payment of rupees 1799 upfront ill"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 411,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "collection or a full payment of rupees 1799 upfront ill send"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 412,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "or a full payment of rupees 1799 upfront ill send both"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 413,
+      "ref_word": "",
+      "hyp_word": "1799",
+      "ref_context": "",
+      "hyp_context": "a full payment of rupees 1799 upfront ill send both payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 414,
+      "ref_word": "",
+      "hyp_word": "upfront",
+      "ref_context": "",
+      "hyp_context": "full payment of rupees 1799 upfront ill send both payment links"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 415,
+      "ref_word": "",
+      "hyp_word": "ill",
+      "ref_context": "",
+      "hyp_context": "payment of rupees 1799 upfront ill send both payment links to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 416,
+      "ref_word": "",
+      "hyp_word": "send",
+      "ref_context": "",
+      "hyp_context": "of rupees 1799 upfront ill send both payment links to your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 417,
+      "ref_word": "",
+      "hyp_word": "both",
+      "ref_context": "",
+      "hyp_context": "rupees 1799 upfront ill send both payment links to your registered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 418,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "1799 upfront ill send both payment links to your registered mobile"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 419,
+      "ref_word": "",
+      "hyp_word": "links",
+      "ref_context": "",
+      "hyp_context": "upfront ill send both payment links to your registered mobile number"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 420,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "ill send both payment links to your registered mobile number via"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 421,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "send both payment links to your registered mobile number via whatsapp"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 422,
+      "ref_word": "",
+      "hyp_word": "registered",
+      "ref_context": "",
+      "hyp_context": "both payment links to your registered mobile number via whatsapp do"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 423,
+      "ref_word": "",
+      "hyp_word": "mobile",
+      "ref_context": "",
+      "hyp_context": "payment links to your registered mobile number via whatsapp do you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 424,
+      "ref_word": "",
+      "hyp_word": "number",
+      "ref_context": "",
+      "hyp_context": "links to your registered mobile number via whatsapp do you have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 425,
+      "ref_word": "",
+      "hyp_word": "via",
+      "ref_context": "",
+      "hyp_context": "to your registered mobile number via whatsapp do you have any"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 426,
+      "ref_word": "",
+      "hyp_word": "whatsapp",
+      "ref_context": "",
+      "hyp_context": "your registered mobile number via whatsapp do you have any more"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 427,
+      "ref_word": "",
+      "hyp_word": "do",
+      "ref_context": "",
+      "hyp_context": "registered mobile number via whatsapp do you have any more questions"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 428,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "mobile number via whatsapp do you have any more questions before"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 429,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "number via whatsapp do you have any more questions before we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 430,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "via whatsapp do you have any more questions before we proceed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 431,
+      "ref_word": "",
+      "hyp_word": "more",
+      "ref_context": "",
+      "hyp_context": "whatsapp do you have any more questions before we proceed perfect"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 432,
+      "ref_word": "",
+      "hyp_word": "questions",
+      "ref_context": "",
+      "hyp_context": "do you have any more questions before we proceed perfect ill"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 433,
+      "ref_word": "",
+      "hyp_word": "before",
+      "ref_context": "",
+      "hyp_context": "you have any more questions before we proceed perfect ill send"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 434,
+      "ref_word": "",
+      "hyp_word": "we",
+      "ref_context": "",
+      "hyp_context": "have any more questions before we proceed perfect ill send the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 435,
+      "ref_word": "",
+      "hyp_word": "proceed",
+      "ref_context": "",
+      "hyp_context": "any more questions before we proceed perfect ill send the payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 436,
+      "ref_word": "",
+      "hyp_word": "perfect",
+      "ref_context": "",
+      "hyp_context": "more questions before we proceed perfect ill send the payment links"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 437,
+      "ref_word": "",
+      "hyp_word": "ill",
+      "ref_context": "",
+      "hyp_context": "questions before we proceed perfect ill send the payment links to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 438,
+      "ref_word": "",
+      "hyp_word": "send",
+      "ref_context": "",
+      "hyp_context": "before we proceed perfect ill send the payment links to your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 439,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "we proceed perfect ill send the payment links to your registered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 440,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "proceed perfect ill send the payment links to your registered mobile"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 441,
+      "ref_word": "",
+      "hyp_word": "links",
+      "ref_context": "",
+      "hyp_context": "perfect ill send the payment links to your registered mobile number"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 442,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "ill send the payment links to your registered mobile number if"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 443,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "send the payment links to your registered mobile number if you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 444,
+      "ref_word": "",
+      "hyp_word": "registered",
+      "ref_context": "",
+      "hyp_context": "the payment links to your registered mobile number if you have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 445,
+      "ref_word": "",
+      "hyp_word": "mobile",
+      "ref_context": "",
+      "hyp_context": "payment links to your registered mobile number if you have any"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 446,
+      "ref_word": "",
+      "hyp_word": "number",
+      "ref_context": "",
+      "hyp_context": "links to your registered mobile number if you have any more"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 447,
+      "ref_word": "",
+      "hyp_word": "if",
+      "ref_context": "",
+      "hyp_context": "to your registered mobile number if you have any more questions"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 448,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "your registered mobile number if you have any more questions in"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 449,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "registered mobile number if you have any more questions in the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 450,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "mobile number if you have any more questions in the future"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 451,
+      "ref_word": "",
+      "hyp_word": "more",
+      "ref_context": "",
+      "hyp_context": "number if you have any more questions in the future feel"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 452,
+      "ref_word": "",
+      "hyp_word": "questions",
+      "ref_context": "",
+      "hyp_context": "if you have any more questions in the future feel free"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 453,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "you have any more questions in the future feel free to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 454,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "have any more questions in the future feel free to reach"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 455,
+      "ref_word": "",
+      "hyp_word": "future",
+      "ref_context": "",
+      "hyp_context": "any more questions in the future feel free to reach out"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 456,
+      "ref_word": "",
+      "hyp_word": "feel",
+      "ref_context": "",
+      "hyp_context": "more questions in the future feel free to reach out goodbye"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 457,
+      "ref_word": "",
+      "hyp_word": "free",
+      "ref_context": "",
+      "hyp_context": "questions in the future feel free to reach out goodbye and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 458,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "in the future feel free to reach out goodbye and have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 459,
+      "ref_word": "",
+      "hyp_word": "reach",
+      "ref_context": "",
+      "hyp_context": "the future feel free to reach out goodbye and have a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 460,
+      "ref_word": "",
+      "hyp_word": "out",
+      "ref_context": "",
+      "hyp_context": "future feel free to reach out goodbye and have a great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 461,
+      "ref_word": "",
+      "hyp_word": "goodbye",
+      "ref_context": "",
+      "hyp_context": "feel free to reach out goodbye and have a great day"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 462,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "free to reach out goodbye and have a great day i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 463,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "to reach out goodbye and have a great day i noticed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 464,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "reach out goodbye and have a great day i noticed youve"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 465,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "out goodbye and have a great day i noticed youve been"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 466,
+      "ref_word": "",
+      "hyp_word": "day",
+      "ref_context": "",
+      "hyp_context": "goodbye and have a great day i noticed youve been quiet"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 467,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "and have a great day i noticed youve been quiet are"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 468,
+      "ref_word": "",
+      "hyp_word": "noticed",
+      "ref_context": "",
+      "hyp_context": "have a great day i noticed youve been quiet are you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 469,
+      "ref_word": "",
+      "hyp_word": "youve",
+      "ref_context": "",
+      "hyp_context": "a great day i noticed youve been quiet are you still"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 470,
+      "ref_word": "",
+      "hyp_word": "been",
+      "ref_context": "",
+      "hyp_context": "great day i noticed youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 471,
+      "ref_word": "",
+      "hyp_word": "quiet",
+      "ref_context": "",
+      "hyp_context": "day i noticed youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 472,
+      "ref_word": "",
+      "hyp_word": "are",
+      "ref_context": "",
+      "hyp_context": "i noticed youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 473,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "noticed youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 474,
+      "ref_word": "",
+      "hyp_word": "still",
+      "ref_context": "",
+      "hyp_context": "youve been quiet are you still there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 475,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "been quiet are you still there"
+    }
+  ],
+  "substitution_pairs": [],
+  "deletion_words": [],
+  "insertion_words": [
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "yogesh",
+    "deshmukh",
+    "i",
+    "noticed",
+    "youve",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there",
+    "great",
+    "i",
+    "noticed",
+    "you",
+    "were",
+    "checking",
+    "out",
+    "our",
+    "nano",
+    "plan",
+    "but",
+    "didnt",
+    "complete",
+    "the",
+    "payment",
+    "id",
+    "love",
+    "to",
+    "understand",
+    "what",
+    "motivated",
+    "you",
+    "to",
+    "consider",
+    "our",
+    "program",
+    "and",
+    "what",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "are",
+    "i",
+    "noticed",
+    "youve",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "25",
+    "its",
+    "clear",
+    "your",
+    "body",
+    "is",
+    "sending",
+    "signals",
+    "about",
+    "how",
+    "its",
+    "handling",
+    "weight",
+    "and",
+    "metabolism",
+    "right",
+    "now",
+    "were",
+    "genuinely",
+    "excited",
+    "to",
+    "support",
+    "your",
+    "goals",
+    "and",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "work",
+    "with",
+    "your",
+    "bodys",
+    "current",
+    "state",
+    "to",
+    "make",
+    "weight",
+    "loss",
+    "easier",
+    "and",
+    "more",
+    "effective",
+    "would",
+    "you",
+    "like",
+    "to",
+    "discuss",
+    "a",
+    "personalized",
+    "plan",
+    "to",
+    "address",
+    "these",
+    "challenges",
+    "and",
+    "achieve",
+    "sustainable",
+    "weight",
+    "loss",
+    "great",
+    "have",
+    "you",
+    "had",
+    "any",
+    "past",
+    "experiences",
+    "with",
+    "other",
+    "weight",
+    "loss",
+    "programs",
+    "if",
+    "did",
+    "they",
+    "work",
+    "for",
+    "you",
+    "youre",
+    "in",
+    "the",
+    "right",
+    "place",
+    "let",
+    "me",
+    "give",
+    "you",
+    "a",
+    "quick",
+    "intro",
+    "to",
+    "what",
+    "we",
+    "offer",
+    "the",
+    "nano",
+    "plan",
+    "includes",
+    "a",
+    "blood",
+    "test",
+    "a",
+    "consultation",
+    "with",
+    "a",
+    "doctor",
+    "specialized",
+    "in",
+    "obesity",
+    "and",
+    "a",
+    "session",
+    "with",
+    "a",
+    "senior",
+    "health",
+    "coach",
+    "these",
+    "are",
+    "designed",
+    "to",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "unless",
+    "you",
+    "have",
+    "any",
+    "specific",
+    "questions",
+    "related",
+    "to",
+    "these",
+    "offerings",
+    "can",
+    "i",
+    "explain",
+    "how",
+    "they",
+    "can",
+    "benefit",
+    "your",
+    "journey",
+    "sure",
+    "heres",
+    "a",
+    "brief",
+    "overview",
+    "of",
+    "how",
+    "the",
+    "nano",
+    "plan",
+    "works",
+    "for",
+    "you",
+    "it",
+    "starts",
+    "with",
+    "a",
+    "comprehensive",
+    "blood",
+    "test",
+    "to",
+    "identify",
+    "key",
+    "metabolic",
+    "issues",
+    "like",
+    "insulin",
+    "resistance",
+    "and",
+    "hormonal",
+    "imbalances",
+    "then",
+    "a",
+    "senior",
+    "obesity",
+    "specialist",
+    "will",
+    "review",
+    "your",
+    "results",
+    "and",
+    "discuss",
+    "how",
+    "they",
+    "impact",
+    "your",
+    "health",
+    "finally",
+    "a",
+    "health",
+    "coach",
+    "will",
+    "create",
+    "a",
+    "personalized",
+    "plan",
+    "tailored",
+    "to",
+    "your",
+    "needs",
+    "now",
+    "that",
+    "weve",
+    "covered",
+    "the",
+    "offerings",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "about",
+    "the",
+    "pricing",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "designed",
+    "to",
+    "be",
+    "affordable",
+    "at",
+    "rupees",
+    "1799",
+    "including",
+    "the",
+    "blood",
+    "test",
+    "metabolic",
+    "report",
+    "and",
+    "doctor",
+    "consultation",
+    "this",
+    "is",
+    "a",
+    "1",
+    "time",
+    "payment",
+    "giving",
+    "you",
+    "access",
+    "to",
+    "premium",
+    "services",
+    "at",
+    "a",
+    "fraction",
+    "of",
+    "the",
+    "typical",
+    "cost",
+    "which",
+    "can",
+    "be",
+    "around",
+    "rupees",
+    "6000",
+    "otherwise",
+    "what",
+    "do",
+    "you",
+    "think",
+    "about",
+    "the",
+    "pricing",
+    "now",
+    "that",
+    "weve",
+    "talked",
+    "about",
+    "the",
+    "offerings",
+    "and",
+    "pricing",
+    "i",
+    "really",
+    "think",
+    "the",
+    "nano",
+    "plan",
+    "can",
+    "be",
+    "a",
+    "great",
+    "starting",
+    "point",
+    "for",
+    "you",
+    "to",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "would",
+    "you",
+    "like",
+    "to",
+    "proceed",
+    "with",
+    "the",
+    "payment",
+    "great",
+    "you",
+    "can",
+    "choose",
+    "between",
+    "2",
+    "payment",
+    "options",
+    "a",
+    "partial",
+    "payment",
+    "of",
+    "rupees",
+    "499",
+    "now",
+    "and",
+    "the",
+    "remaining",
+    "rupees",
+    "1399",
+    "at",
+    "the",
+    "time",
+    "of",
+    "blood",
+    "sample",
+    "collection",
+    "or",
+    "a",
+    "full",
+    "payment",
+    "of",
+    "rupees",
+    "1799",
+    "upfront",
+    "ill",
+    "send",
+    "both",
+    "payment",
+    "links",
+    "to",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "via",
+    "whatsapp",
+    "do",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "before",
+    "we",
+    "proceed",
+    "perfect",
+    "ill",
+    "send",
+    "the",
+    "payment",
+    "links",
+    "to",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "in",
+    "the",
+    "future",
+    "feel",
+    "free",
+    "to",
+    "reach",
+    "out",
+    "goodbye",
+    "and",
+    "have",
+    "a",
+    "great",
+    "day",
+    "i",
+    "noticed",
+    "youve",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there"
+  ]
+}

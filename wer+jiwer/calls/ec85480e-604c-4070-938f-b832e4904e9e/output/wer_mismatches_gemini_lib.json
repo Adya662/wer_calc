@@ -1,0 +1,173 @@
+{
+  "wer": 0.0351288056206089,
+  "insertions": 9,
+  "deletions": 3,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with munira",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 12,
+      "index_hyp": 11,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "i speaking with munira mandviwala i great i noticed you were"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 54,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "quiet are you still there great based on your bmi its"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 101,
+      "index_hyp": 102,
+      "ref_word": "",
+      "hyp_word": "absolutely",
+      "ref_context": "",
+      "hyp_context": "with your weight loss journey absolutely got it your bmi indicates"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 238,
+      "index_hyp": 240,
+      "ref_word": "the",
+      "hyp_word": "their",
+      "ref_context": "these results with you explaining the impact on your health hen",
+      "hyp_context": "these results with you explaining their impact on your health then"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 243,
+      "index_hyp": 245,
+      "ref_word": "hen",
+      "hyp_word": "then",
+      "ref_context": "the impact on your health hen our senior health coach will",
+      "hyp_context": "their impact on your health then our senior health coach will"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 316,
+      "index_hyp": 318,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "you like to know about the payment options you have two"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 316,
+      "index_hyp": 319,
+      "ref_word": "",
+      "hyp_word": "payment",
+      "ref_context": "",
+      "hyp_context": "like to know about the payment options you have two payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 316,
+      "index_hyp": 320,
+      "ref_word": "",
+      "hyp_word": "options",
+      "ref_context": "",
+      "hyp_context": "to know about the payment options you have two payment options"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 316,
+      "index_hyp": 321,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "know about the payment options you have two payment options you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 316,
+      "index_hyp": 322,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "about the payment options you have two payment options you can"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 357,
+      "index_hyp": 364,
+      "ref_word": "up",
+      "hyp_word": "",
+      "ref_context": "full amount of rupees 1799 up front ill send both payment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 358,
+      "index_hyp": 364,
+      "ref_word": "front",
+      "hyp_word": "upfront",
+      "ref_context": "amount of rupees 1799 up front ill send both payment links",
+      "hyp_context": "full amount of rupees 1799 upfront ill send both payment links"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 377,
+      "index_hyp": 383,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "you have any more questions great ill send you the payment"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 420,
+      "index_hyp": 427,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with munira",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "the",
+      "hypothesis": "their"
+    },
+    {
+      "reference": "hen",
+      "hypothesis": "then"
+    },
+    {
+      "reference": "front",
+      "hypothesis": "upfront"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "up",
+    "now"
+  ],
+  "insertion_words": [
+    "i",
+    "great",
+    "absolutely",
+    "the",
+    "payment",
+    "options",
+    "you",
+    "have",
+    "great"
+  ]
+}

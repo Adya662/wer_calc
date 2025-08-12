@@ -1,594 +1,244 @@
-adyasrivastava@NURIX-37 wer+llm % python3 llm_wer_gemini.py 
-INFO:__main__:Processing call: ec85480e-604c-4070-938f-b832e4904e9e
-INFO:__main__:Normalizing reference transcript for call ec85480e-604c-4070-938f-b832e4904e9e
-INFO:__main__:Successfully normalized text of length 2756 to 2366
-INFO:__main__:Normalizing ground truth transcript for call ec85480e-604c-4070-938f-b832e4904e9e
-INFO:__main__:Successfully normalized text of length 2527 to 2304
-INFO:__main__:Calculating conversational WER for call ec85480e-604c-4070-938f-b832e4904e9e
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call ec85480e-604c-4070-938f-b832e4904e9e - Conversational WER: 0.0250
-
-⟡ CONCERNED DIFFERENCES (Call: ec85480e-604c-4070-938f-b832e4904e9e)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 332017b6-9f62-444d-a657-7b733bc727fc
-INFO:__main__:Normalizing reference transcript for call 332017b6-9f62-444d-a657-7b733bc727fc
-INFO:__main__:Successfully normalized text of length 1770 to 1630
-INFO:__main__:Normalizing ground truth transcript for call 332017b6-9f62-444d-a657-7b733bc727fc
-INFO:__main__:Successfully normalized text of length 1593 to 1534
-INFO:__main__:Calculating conversational WER for call 332017b6-9f62-444d-a657-7b733bc727fc
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 332017b6-9f62-444d-a657-7b733bc727fc - Conversational WER: 0.0594
-
-⟡ CONCERNED DIFFERENCES (Call: 332017b6-9f62-444d-a657-7b733bc727fc)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 7fd6b5f9-8b11-4085-b864-a16f92504e53
-INFO:__main__:Normalizing reference transcript for call 7fd6b5f9-8b11-4085-b864-a16f92504e53
-INFO:__main__:Successfully normalized text of length 3628 to 3487
-INFO:__main__:Normalizing ground truth transcript for call 7fd6b5f9-8b11-4085-b864-a16f92504e53
-INFO:__main__:Successfully normalized text of length 3780 to 3685
-INFO:__main__:Calculating conversational WER for call 7fd6b5f9-8b11-4085-b864-a16f92504e53
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 7fd6b5f9-8b11-4085-b864-a16f92504e53 - Conversational WER: 0.0590
-
-⟡ CONCERNED DIFFERENCES (Call: 7fd6b5f9-8b11-4085-b864-a16f92504e53)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 5cdef144-9d6a-4100-9be6-8489f90fc466
-INFO:__main__:Normalizing reference transcript for call 5cdef144-9d6a-4100-9be6-8489f90fc466
-INFO:__main__:Successfully normalized text of length 2892 to 2596
-INFO:__main__:Normalizing ground truth transcript for call 5cdef144-9d6a-4100-9be6-8489f90fc466
-INFO:__main__:Successfully normalized text of length 2755 to 2595
-INFO:__main__:Calculating conversational WER for call 5cdef144-9d6a-4100-9be6-8489f90fc466
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 5cdef144-9d6a-4100-9be6-8489f90fc466 - Conversational WER: 0.0044
-
-⟡ CONCERNED DIFFERENCES (Call: 5cdef144-9d6a-4100-9be6-8489f90fc466)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: d521ea56-2e7b-4908-8cca-acf4a0f89337
-INFO:__main__:Normalizing reference transcript for call d521ea56-2e7b-4908-8cca-acf4a0f89337
-INFO:__main__:Successfully normalized text of length 2953 to 2746
-INFO:__main__:Normalizing ground truth transcript for call d521ea56-2e7b-4908-8cca-acf4a0f89337
-INFO:__main__:Successfully normalized text of length 2825 to 2547
-INFO:__main__:Calculating conversational WER for call d521ea56-2e7b-4908-8cca-acf4a0f89337
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call d521ea56-2e7b-4908-8cca-acf4a0f89337 - Conversational WER: 0.0799
-
-⟡ CONCERNED DIFFERENCES (Call: d521ea56-2e7b-4908-8cca-acf4a0f89337)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 3502253e-259a-42d3-ab70-7aedabeb81fa
-INFO:__main__:Normalizing reference transcript for call 3502253e-259a-42d3-ab70-7aedabeb81fa
-INFO:__main__:Successfully normalized text of length 3628 to 2714
-INFO:__main__:Normalizing ground truth transcript for call 3502253e-259a-42d3-ab70-7aedabeb81fa
-INFO:__main__:Successfully normalized text of length 3114 to 3174
-INFO:__main__:Calculating conversational WER for call 3502253e-259a-42d3-ab70-7aedabeb81fa
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 3502253e-259a-42d3-ab70-7aedabeb81fa - Conversational WER: 0.1421
-
-⟡ CONCERNED DIFFERENCES (Call: 3502253e-259a-42d3-ab70-7aedabeb81fa)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 1bf3729b-c0a7-4f65-a846-88c8aa31a473
-INFO:__main__:Normalizing reference transcript for call 1bf3729b-c0a7-4f65-a846-88c8aa31a473
-INFO:__main__:Successfully normalized text of length 1420 to 1314
-INFO:__main__:Normalizing ground truth transcript for call 1bf3729b-c0a7-4f65-a846-88c8aa31a473
-INFO:__main__:Successfully normalized text of length 1322 to 1283
-INFO:__main__:Calculating conversational WER for call 1bf3729b-c0a7-4f65-a846-88c8aa31a473
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 1bf3729b-c0a7-4f65-a846-88c8aa31a473 - Conversational WER: 0.0164
-
-⟡ CONCERNED DIFFERENCES (Call: 1bf3729b-c0a7-4f65-a846-88c8aa31a473)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
-INFO:__main__:Normalizing reference transcript for call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
-INFO:__main__:Successfully normalized text of length 1624 to 1511
-INFO:__main__:Normalizing ground truth transcript for call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
-INFO:__main__:Successfully normalized text of length 1488 to 1451
-INFO:__main__:Calculating conversational WER for call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 79e02e46-ea93-4669-9dc1-6c4339dcc6ba - Conversational WER: 0.0586
-
-⟡ CONCERNED DIFFERENCES (Call: 79e02e46-ea93-4669-9dc1-6c4339dcc6ba)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
-INFO:__main__:Normalizing reference transcript for call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
-INFO:__main__:Successfully normalized text of length 2183 to 2050
-INFO:__main__:Normalizing ground truth transcript for call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
-INFO:__main__:Successfully normalized text of length 2105 to 2052
-INFO:__main__:Calculating conversational WER for call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5 - Conversational WER: 0.0054
-
-⟡ CONCERNED DIFFERENCES (Call: 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
-INFO:__main__:Normalizing reference transcript for call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
-INFO:__main__:Successfully normalized text of length 2947 to 2678
-INFO:__main__:Normalizing ground truth transcript for call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
-INFO:__main__:Successfully normalized text of length 2816 to 2682
-INFO:__main__:Calculating conversational WER for call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567 - Conversational WER: 0.0083
-
-⟡ CONCERNED DIFFERENCES (Call: 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 8daee0cc-cbda-4cdf-b8ed-f120e3329138
-INFO:__main__:Normalizing reference transcript for call 8daee0cc-cbda-4cdf-b8ed-f120e3329138
-INFO:__main__:Successfully normalized text of length 2049 to 1907
-INFO:__main__:Normalizing ground truth transcript for call 8daee0cc-cbda-4cdf-b8ed-f120e3329138
-INFO:__main__:Successfully normalized text of length 1818 to 1723
-INFO:__main__:Calculating conversational WER for call 8daee0cc-cbda-4cdf-b8ed-f120e3329138
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 8daee0cc-cbda-4cdf-b8ed-f120e3329138 - Conversational WER: 0.1031
-
-⟡ CONCERNED DIFFERENCES (Call: 8daee0cc-cbda-4cdf-b8ed-f120e3329138)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 268dbd88-173b-41a1-8363-4a6ba62b9aae
-INFO:__main__:Normalizing reference transcript for call 268dbd88-173b-41a1-8363-4a6ba62b9aae
-INFO:__main__:Successfully normalized text of length 2989 to 2765
-INFO:__main__:Normalizing ground truth transcript for call 268dbd88-173b-41a1-8363-4a6ba62b9aae
-INFO:__main__:Successfully normalized text of length 2937 to 2729
-INFO:__main__:Calculating conversational WER for call 268dbd88-173b-41a1-8363-4a6ba62b9aae
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 268dbd88-173b-41a1-8363-4a6ba62b9aae - Conversational WER: 0.0021
-
-⟡ CONCERNED DIFFERENCES (Call: 268dbd88-173b-41a1-8363-4a6ba62b9aae)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
-INFO:__main__:Normalizing reference transcript for call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
-INFO:__main__:Successfully normalized text of length 3214 to 3028
-INFO:__main__:Normalizing ground truth transcript for call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
-INFO:__main__:Successfully normalized text of length 3160 to 3006
-INFO:__main__:Calculating conversational WER for call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f - Conversational WER: 0.0057
-
-⟡ CONCERNED DIFFERENCES (Call: b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: eacbcb92-6172-41f7-b2a9-0c4df5a3a597
-INFO:__main__:Normalizing reference transcript for call eacbcb92-6172-41f7-b2a9-0c4df5a3a597
-INFO:__main__:Successfully normalized text of length 2553 to 2426
-INFO:__main__:Normalizing ground truth transcript for call eacbcb92-6172-41f7-b2a9-0c4df5a3a597
-INFO:__main__:Successfully normalized text of length 2537 to 2316
-INFO:__main__:Calculating conversational WER for call eacbcb92-6172-41f7-b2a9-0c4df5a3a597
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call eacbcb92-6172-41f7-b2a9-0c4df5a3a597 - Conversational WER: 0.0158
-
-⟡ CONCERNED DIFFERENCES (Call: eacbcb92-6172-41f7-b2a9-0c4df5a3a597)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: d7c521ce-dbcb-4c23-a776-66b38d8127b4
-INFO:__main__:Normalizing reference transcript for call d7c521ce-dbcb-4c23-a776-66b38d8127b4
-INFO:__main__:Successfully normalized text of length 2053 to 1937
-INFO:__main__:Normalizing ground truth transcript for call d7c521ce-dbcb-4c23-a776-66b38d8127b4
-INFO:__main__:Successfully normalized text of length 1778 to 1733
-INFO:__main__:Calculating conversational WER for call d7c521ce-dbcb-4c23-a776-66b38d8127b4
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call d7c521ce-dbcb-4c23-a776-66b38d8127b4 - Conversational WER: 0.1054
-
-⟡ CONCERNED DIFFERENCES (Call: d7c521ce-dbcb-4c23-a776-66b38d8127b4)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
-INFO:__main__:Normalizing reference transcript for call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
-INFO:__main__:Successfully normalized text of length 3310 to 3065
-INFO:__main__:Normalizing ground truth transcript for call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
-INFO:__main__:Successfully normalized text of length 3253 to 3053
-INFO:__main__:Calculating conversational WER for call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c - Conversational WER: 0.0019
-
-⟡ CONCERNED DIFFERENCES (Call: d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
-INFO:__main__:Normalizing reference transcript for call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
-INFO:__main__:Successfully normalized text of length 2408 to 2238
-INFO:__main__:Normalizing ground truth transcript for call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
-INFO:__main__:Successfully normalized text of length 2363 to 2180
-INFO:__main__:Calculating conversational WER for call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 5f4d919f-b1bc-4a3d-9d98-1f8279d51215 - Conversational WER: 0.0286
-
-⟡ CONCERNED DIFFERENCES (Call: 5f4d919f-b1bc-4a3d-9d98-1f8279d51215)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 09f69426-e7e6-4f2a-a20a-75416d945306
-INFO:__main__:Normalizing reference transcript for call 09f69426-e7e6-4f2a-a20a-75416d945306
-INFO:__main__:Successfully normalized text of length 4094 to 4074
-INFO:__main__:Normalizing ground truth transcript for call 09f69426-e7e6-4f2a-a20a-75416d945306
-INFO:__main__:Successfully normalized text of length 3909 to 3662
-INFO:__main__:Calculating conversational WER for call 09f69426-e7e6-4f2a-a20a-75416d945306
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 09f69426-e7e6-4f2a-a20a-75416d945306 - Conversational WER: 0.1056
-
-⟡ CONCERNED DIFFERENCES (Call: 09f69426-e7e6-4f2a-a20a-75416d945306)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 482181f8-15e2-4ced-8a9a-67facdd9c6fc
-INFO:__main__:Normalizing reference transcript for call 482181f8-15e2-4ced-8a9a-67facdd9c6fc
-INFO:__main__:Successfully normalized text of length 2008 to 1865
-INFO:__main__:Normalizing ground truth transcript for call 482181f8-15e2-4ced-8a9a-67facdd9c6fc
-INFO:__main__:Successfully normalized text of length 1955 to 1906
-INFO:__main__:Calculating conversational WER for call 482181f8-15e2-4ced-8a9a-67facdd9c6fc
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 482181f8-15e2-4ced-8a9a-67facdd9c6fc - Conversational WER: 0.0346
-
-⟡ CONCERNED DIFFERENCES (Call: 482181f8-15e2-4ced-8a9a-67facdd9c6fc)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: d9aa182c-b21e-4ad5-8138-18d0e9f69b84
-INFO:__main__:Normalizing reference transcript for call d9aa182c-b21e-4ad5-8138-18d0e9f69b84
-INFO:__main__:Successfully normalized text of length 1925 to 1807
-INFO:__main__:Normalizing ground truth transcript for call d9aa182c-b21e-4ad5-8138-18d0e9f69b84
-INFO:__main__:Successfully normalized text of length 1776 to 1718
-INFO:__main__:Calculating conversational WER for call d9aa182c-b21e-4ad5-8138-18d0e9f69b84
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call d9aa182c-b21e-4ad5-8138-18d0e9f69b84 - Conversational WER: 0.0333
-
-⟡ CONCERNED DIFFERENCES (Call: d9aa182c-b21e-4ad5-8138-18d0e9f69b84)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 429ac8a5-6f19-46b3-97bb-8e55feec389e
-INFO:__main__:Normalizing reference transcript for call 429ac8a5-6f19-46b3-97bb-8e55feec389e
-INFO:__main__:Successfully normalized text of length 2753 to 2640
-INFO:__main__:Normalizing ground truth transcript for call 429ac8a5-6f19-46b3-97bb-8e55feec389e
-INFO:__main__:Successfully normalized text of length 4552 to 4448
-INFO:__main__:Calculating conversational WER for call 429ac8a5-6f19-46b3-97bb-8e55feec389e
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 429ac8a5-6f19-46b3-97bb-8e55feec389e - Conversational WER: 0.4107
-
-⟡ CONCERNED DIFFERENCES (Call: 429ac8a5-6f19-46b3-97bb-8e55feec389e)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: e69e62f6-954a-4d0a-9989-2a2d562f66fe
-INFO:__main__:Normalizing reference transcript for call e69e62f6-954a-4d0a-9989-2a2d562f66fe
-INFO:__main__:Successfully normalized text of length 1758 to 1690
-INFO:__main__:Normalizing ground truth transcript for call e69e62f6-954a-4d0a-9989-2a2d562f66fe
-INFO:__main__:Successfully normalized text of length 1581 to 1732
-INFO:__main__:Calculating conversational WER for call e69e62f6-954a-4d0a-9989-2a2d562f66fe
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call e69e62f6-954a-4d0a-9989-2a2d562f66fe - Conversational WER: 0.0276
-
-⟡ CONCERNED DIFFERENCES (Call: e69e62f6-954a-4d0a-9989-2a2d562f66fe)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: c5f1aee1-8170-4c1b-93e0-1f8366882689
-INFO:__main__:Normalizing reference transcript for call c5f1aee1-8170-4c1b-93e0-1f8366882689
-INFO:__main__:Successfully normalized text of length 2088 to 1956
-INFO:__main__:Normalizing ground truth transcript for call c5f1aee1-8170-4c1b-93e0-1f8366882689
-INFO:__main__:Successfully normalized text of length 5907 to 5706
-INFO:__main__:Calculating conversational WER for call c5f1aee1-8170-4c1b-93e0-1f8366882689
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call c5f1aee1-8170-4c1b-93e0-1f8366882689 - Conversational WER: 0.6584
-
-⟡ CONCERNED DIFFERENCES (Call: c5f1aee1-8170-4c1b-93e0-1f8366882689)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: a26f3d38-ed43-4289-8d34-9ee376fb779d
-INFO:__main__:Normalizing reference transcript for call a26f3d38-ed43-4289-8d34-9ee376fb779d
-INFO:__main__:Successfully normalized text of length 3485 to 3280
-INFO:__main__:Normalizing ground truth transcript for call a26f3d38-ed43-4289-8d34-9ee376fb779d
-INFO:__main__:Successfully normalized text of length 6670 to 6406
-INFO:__main__:Calculating conversational WER for call a26f3d38-ed43-4289-8d34-9ee376fb779d
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call a26f3d38-ed43-4289-8d34-9ee376fb779d - Conversational WER: 0.4884
-
-⟡ CONCERNED DIFFERENCES (Call: a26f3d38-ed43-4289-8d34-9ee376fb779d)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 750dfc05-c2c4-4937-a85d-46f597dc9880
-INFO:__main__:Normalizing reference transcript for call 750dfc05-c2c4-4937-a85d-46f597dc9880
-INFO:__main__:Successfully normalized text of length 2896 to 2571
-INFO:__main__:Normalizing ground truth transcript for call 750dfc05-c2c4-4937-a85d-46f597dc9880
-INFO:__main__:Successfully normalized text of length 2745 to 2547
-INFO:__main__:Calculating conversational WER for call 750dfc05-c2c4-4937-a85d-46f597dc9880
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 750dfc05-c2c4-4937-a85d-46f597dc9880 - Conversational WER: 0.0044
-
-⟡ CONCERNED DIFFERENCES (Call: 750dfc05-c2c4-4937-a85d-46f597dc9880)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 03261666-7d82-49ec-8d6e-78c2f716ad73
-INFO:__main__:Normalizing reference transcript for call 03261666-7d82-49ec-8d6e-78c2f716ad73
-INFO:__main__:Successfully normalized text of length 1035 to 961
-INFO:__main__:Normalizing ground truth transcript for call 03261666-7d82-49ec-8d6e-78c2f716ad73
-INFO:__main__:Successfully normalized text of length 846 to 866
-INFO:__main__:Calculating conversational WER for call 03261666-7d82-49ec-8d6e-78c2f716ad73
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 03261666-7d82-49ec-8d6e-78c2f716ad73 - Conversational WER: 0.1098
-
-⟡ CONCERNED DIFFERENCES (Call: 03261666-7d82-49ec-8d6e-78c2f716ad73)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-INFO:__main__:Processing call: 03856e6b-6925-4012-8eb8-0a0289019b7e
-INFO:__main__:Normalizing reference transcript for call 03856e6b-6925-4012-8eb8-0a0289019b7e
-INFO:__main__:Successfully normalized text of length 2820 to 2506
-INFO:__main__:Normalizing ground truth transcript for call 03856e6b-6925-4012-8eb8-0a0289019b7e
-INFO:__main__:Successfully normalized text of length 2464 to 2386
-INFO:__main__:Calculating conversational WER for call 03856e6b-6925-4012-8eb8-0a0289019b7e
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
-INFO:__main__:Call 03856e6b-6925-4012-8eb8-0a0289019b7e - Conversational WER: 0.0384
-
-⟡ CONCERNED DIFFERENCES (Call: 03856e6b-6925-4012-8eb8-0a0289019b7e)
-  Substitutions (S=0):
-  Deletions (D=0):
-  Insertions (I=0):
-ERROR:__main__:Error calculating WER with LLM: '\n    "substitutions"'
 
 ============================================================
 GLOBAL CONVERSATIONAL QUALITY WER METRICS
 ============================================================
 total_calls: 27
-average_conversational_wer: 0.0975
-global_conversational_wer_aggregate: 0.1593
-global_conversational_wer_concatenated: 0.1151
-total_substitutions: 0
-total_deletions: 1776
-total_insertions: 286
-total_reference_words: 12947
+average_conversational_wer: 0.0308
+global_conversational_wer_aggregate: 0.0285
+global_conversational_wer_concatenated: 0.0150
+total_substitutions: 56
+total_deletions: 87
+total_insertions: 89
+total_reference_words: 8146
 concatenated_analysis:
-  substitutions: 0
-  deletions: 1490
-  insertions: 0
-  total_reference_words: 12947
-  conversational_wer: 0.1151
-  explanation: Fallback calculation due to LLM error: '\n    "substitutions"'
+  substitutions: 6
+  deletions: 4
+  insertions: 7
+  total_reference_words: 1174
+  conversational_wer: 0.0150
+  explanation: Substitutions were counted for words that changed the intended meaning or crucial information (e.g., rupees 1399 to rupees 1300). Deletions were counted for missing words that affected the overall meaning or user instructions. Insertions were counted when extra words altered the meaning or added unnecessary information.  Phonetically similar words (e.g., myntra/mintra) and semantically equivalent phrases were NOT counted as errors.
+  substitution_pairs: [{'reference': '1399', 'hypothesis': '1300'}, {'reference': '1898', 'hypothesis': '1800'}, {'reference': 'munira mandviwala', 'hypothesis': 'bijal roliya'}, {'reference': 'y', 'hypothesis': '1'}, {'reference': 'main', 'hypothesis': 'i am'}, {'reference': 'unless', 'hypothesis': 'let me give you a quick overview of our nano plan it includes a blood test doctor consultation and a session with a senior health coach unless'}]
+  deletion_words: ['explaining the impact on your health', 'hen', 'main', 'ray']
+  insertion_words: ['please give me a moment to fetch your products', 'however your items will arrive securely packed as per our standard procedures', 'what else', 'something', 'i got it', 'am i speaking with', 'let me give you a quick intro to what we offer']
 
 ============================================================
 PER-CALL CONVERSATIONAL WER RESULTS
 ============================================================
 
 Call: ec85480e-604c-4070-938f-b832e4904e9e
-  Conversational WER: 0.0250
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 10
-  Reference Words: 400
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0490
+  Substitutions: 2
+  Deletions: 2
+  Insertions: 8
+  Reference Words: 204
+  Analysis: Substitutions counted due to price discrepancies that could affect user understanding. Deletions counted for missing words that alter the comparison of market prices. Insertions counted for added phrases and repetitions that don't add substantial meaning but slightly change the flow.
 
 Call: 332017b6-9f62-444d-a657-7b733bc727fc
-  Conversational WER: 0.0594
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 17
-  Reference Words: 286
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0500
+  Substitutions: 2
+  Deletions: 3
+  Insertions: 5
+  Reference Words: 200
+  Analysis: Substitutions counted due to meaning change. Deletions counted for missing words impacting clarity. Insertions counted for added phrases changing meaning. Phonetically similar words, spelling variations, and filler words were ignored.
 
 Call: 7fd6b5f9-8b11-4085-b864-a16f92504e53
-  Conversational WER: 0.0590
-  Substitutions: 0
-  Deletions: 37
-  Insertions: 0
-  Reference Words: 627
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0158
+  Substitutions: 2
+  Deletions: 2
+  Insertions: 4
+  Reference Words: 507
+  Analysis: Only errors that affect meaning or information are counted. Phonetic variations, spelling differences, and filler words are ignored.  "y" is substituted with "1" as it changes the meaning. "nutrient rich" and "fat burning" are considered single entities and are substituted with "nutrientrich" and "fatburning". "am i speaking with bijal roliya" and "based on your bmi of 3413" at the beginning of the hypothesis are extra and change the meaning. "are" and "why" are deleted and change the meaning of the sentence.
 
 Call: 5cdef144-9d6a-4100-9be6-8489f90fc466
-  Conversational WER: 0.0044
-  Substitutions: 0
+  Conversational WER: 0.0265
+  Substitutions: 2
   Deletions: 2
-  Insertions: 0
-  Reference Words: 452
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Insertions: 4
+  Reference Words: 302
+  Analysis: Substitutions counted due to change in meaning. Deletions counted for missing words impacting meaning. Insertions counted for extra words changing meaning. Phonetically similar words, spelling variations, and filler words were ignored as they don't affect conversational quality.
 
 Call: d521ea56-2e7b-4908-8cca-acf4a0f89337
-  Conversational WER: 0.0799
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 35
-  Reference Words: 438
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0241
+  Substitutions: 2
+  Deletions: 1
+  Insertions: 4
+  Reference Words: 291
+  Analysis: Only errors that affect meaning or conversational flow are counted. Phonetic variations, spelling differences, and filler words are ignored.  Substitutions: 'a' to 'our' changes the implied meaning slightly, 'road map' to 'roadmap' is a stylistic difference but doesn't change meaning. Deletions: 'the' before 'you're in the right place' is a minor omission. Insertions: The initial phrase in the hypothesis is extra, 'great' is an additional word, 'give you a quick overview' adds words but doesn't change the core message, 'scientificallybacked' should be 'scientifically backed'.
 
 Call: 3502253e-259a-42d3-ab70-7aedabeb81fa
-  Conversational WER: 0.1421
+  Conversational WER: 0.0740
   Substitutions: 0
-  Deletions: 79
-  Insertions: 0
-  Reference Words: 556
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Deletions: 20
+  Insertions: 3
+  Reference Words: 311
+  Analysis: Deletions were counted for missing phrases/sentences that altered the introductory context and some details about the plan. Insertions counted the extra repeated phrase at the end and an added sentence "kya main aapko explain kar sakti hun ki ye offerings aapki weight". Substitutions were not counted as the core meaning and flow remained consistent despite minor wording differences.
 
 Call: 1bf3729b-c0a7-4f65-a846-88c8aa31a473
-  Conversational WER: 0.0164
-  Substitutions: 0
+  Conversational WER: 0.0100
+  Substitutions: 1
   Deletions: 0
-  Insertions: 4
-  Reference Words: 244
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Insertions: 1
+  Reference Words: 200
+  Analysis: Only counted "main" as a substitution for "ray" as it changes the introduction and "simulating human transfer" as an insertion because it adds information not present in the reference and could affect user experience. Other variations like "rey" vs. "ray" and "mintra" vs. "myntra" are considered phonetically or semantically equivalent and thus not counted.
 
 Call: 79e02e46-ea93-4669-9dc1-6c4339dcc6ba
-  Conversational WER: 0.0586
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 16
-  Reference Words: 273
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0472
+  Substitutions: 6
+  Deletions: 2
+  Insertions: 2
+  Reference Words: 212
+  Analysis: Substitutions were counted for words that changed meaning or brand names. Deletions were counted for missing words impacting meaning. Insertions counted added words changing meaning. Phonetic variations like "rey" vs. "ray" and "mintra" vs. "myntra" were ignored, as were semantically equivalent word variations.
 
 Call: 99d176ec-e484-4937-ae0b-9d6d2d7cb5c5
-  Conversational WER: 0.0054
-  Substitutions: 0
+  Conversational WER: 0.0206
+  Substitutions: 2
   Deletions: 2
-  Insertions: 0
-  Reference Words: 371
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Insertions: 2
+  Reference Words: 291
+  Analysis: Only counted differences that affect meaning/information.  "rey" vs "main" and "myntra" vs "mintra" are considered phonetically similar and not counted. "hm" vs. "ech and em" is counted as it changes product information. Filler words like "this is" were ignored.  "all right" vs. "alright" is not counted as a meaningful difference.
 
 Call: 7bbd5f06-2ac0-4227-be76-4ce7ef7cb567
-  Conversational WER: 0.0083
-  Substitutions: 0
-  Deletions: 4
+  Conversational WER: 0.0028
+  Substitutions: 1
+  Deletions: 0
   Insertions: 0
-  Reference Words: 483
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Reference Words: 361
+  Analysis: Only one substitution was counted as an error. The hypothesis used "1300" rupees instead of "1399" rupees, which is a meaningful difference in price and could affect the user's decision. Other minor differences (e.g., "road map" vs. "roadmap", "up front" vs. "upfront", "good bye" vs. "goodbye") were ignored as they don't affect conversational quality.
 
 Call: 8daee0cc-cbda-4cdf-b8ed-f120e3329138
-  Conversational WER: 0.1031
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 33
-  Reference Words: 320
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0280
+  Substitutions: 2
+  Deletions: 2
+  Insertions: 2
+  Reference Words: 213
+  Analysis: Substitutions counted due to "style sure" vs "stailkast ex" which changes product information, and "style cast x revolt" vs "stailkast ex revolt" which is a product name difference. Deletions counted for missing "please give me a moment to fetch your products" as it sets user expectation, and "city" which is relevant delivery information. Insertions counted for "main rey from mintra here to assist you" as it's extra information, and "is being processed and will be" as it adds information not present in the reference.
 
 Call: 268dbd88-173b-41a1-8363-4a6ba62b9aae
-  Conversational WER: 0.0021
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 1
-  Reference Words: 474
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0167
+  Substitutions: 2
+  Deletions: 1
+  Insertions: 3
+  Reference Words: 360
+  Analysis: Only counted errors that change meaning or affect clarity.  "Elevatenow" is combined as one word in the hypothesis, "he" is "the" in reference, "road map" is "roadmap" in hypothesis, "money back" is "moneyback" in hypothesis. Extra words like "let me explain" and "great" do not change the core meaning but were counted as insertions.  "With the nano plan" is repeated unnecessarily in the hypothesis and counted as insertions.  "Goals" is missing in the hypothesis and counted as deletion.
 
 Call: b94c0a58-b1c3-4bc8-ba02-0848b0a2af8f
-  Conversational WER: 0.0057
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 3
-  Reference Words: 527
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0234
+  Substitutions: 2
+  Deletions: 3
+  Insertions: 4
+  Reference Words: 384
+  Analysis: Substitutions counted for 'rs' vs 'rupees' which are equivalent, and missing name 'Nikita'. Deletions counted for missing intro and missing 'hello this is Priya from elevate now am I speaking with'. Insertions counted for added conversational fillers at the beginning such as 'great I noticed you were checking out our nano plan but didn't complete the payment'. Other minor variations like 'the nano plan is designed to be' vs 'the nano plan is designed' were ignored as they don't affect meaning.
 
 Call: eacbcb92-6172-41f7-b2a9-0c4df5a3a597
-  Conversational WER: 0.0158
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 7
-  Reference Words: 444
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0200
+  Substitutions: 2
+  Deletions: 1
+  Insertions: 3
+  Reference Words: 300
+  Analysis: Substitutions counted for "mid rise" vs "midrise" as this is a product name detail, and "rice" vs "rise" which changes the meaning. Insertions counted for "talking about jack and jones junior products" and "i was referring to 1 of the jack and jones junior boys pure cotton relaxedfit joggers" as these add unnecessary information. Deletion counted for missing "hey i am" at the beginning as it changes the conversational flow. Phonetically similar words like "rey" vs. "ray" and "mintra" vs "myntra" were ignored, as were minor formatting differences like "relaxed fit" vs. "relaxedfit". Filler words were also not counted.
 
 Call: d7c521ce-dbcb-4c23-a776-66b38d8127b4
-  Conversational WER: 0.1054
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 33
-  Reference Words: 313
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0279
+  Substitutions: 2
+  Deletions: 2
+  Insertions: 3
+  Reference Words: 251
+  Analysis: Substitutions counted for "v construct" -> "we construct" as it changes the product name, and "biotique" to "bayotik" as this is a brand name. Deletions counted for missing phrases that change the information conveyed. Insertions counted for added words that change the meaning or provide redundant information already present.
 
 Call: d24a5dc2-ac06-4f13-bbd1-5ec010d8d27c
-  Conversational WER: 0.0019
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 1
-  Reference Words: 530
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0125
+  Substitutions: 2
+  Deletions: 1
+  Insertions: 2
+  Reference Words: 400
+  Analysis: The substitutions of "rs" to "rupees", while slightly different, maintains the core meaning related to currency and pricing, so it does not affect conversational quality. The extra "were" and "you" are filler words and don't change the meaning.  "and" is a necessary conjunction in the reference text to maintain the semantic meaning of the sentence.
 
 Call: 5f4d919f-b1bc-4a3d-9d98-1f8279d51215
-  Conversational WER: 0.0286
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 11
-  Reference Words: 385
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0231
+  Substitutions: 2
+  Deletions: 1
+  Insertions: 3
+  Reference Words: 260
+  Analysis: Only errors impacting meaning or clarity were counted. Phonetic variations, hesitations, and semantically equivalent phrases were ignored.  The hypothesis has some extra utterances at the beginning and end that change the flow and add redundant information. The word "his" is likely a transcription error and changes meaning. "Got it" replaces a similar phrase but changes the conversational nuance slightly.
 
 Call: 09f69426-e7e6-4f2a-a20a-75416d945306
-  Conversational WER: 0.1056
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 68
-  Reference Words: 644
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0314
+  Substitutions: 2
+  Deletions: 2
+  Insertions: 7
+  Reference Words: 350
+  Analysis: Substitutions counted due to word changes that slightly alter meaning. Insertions counted for added phrases that change the initial conversational context. Deletions counted for missing words that affect the flow.
 
 Call: 482181f8-15e2-4ced-8a9a-67facdd9c6fc
-  Conversational WER: 0.0346
-  Substitutions: 0
-  Deletions: 13
-  Insertions: 0
-  Reference Words: 376
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0280
+  Substitutions: 2
+  Deletions: 3
+  Insertions: 1
+  Reference Words: 213
+  Analysis: Substitutions counted for "aal abaut yu" vs "all about you" as this is a brand name and could affect retrieval. "puffsleeves" vs "puff sleeves" was counted as it changes the product description. Deletions counted for missing words like "here", "short", "from" that change the meaning slightly but don't severely impact understanding in this context.  Insertions counted for "am" in "I am able to see" as it's an extra word that doesn't change the meaning. Phonetically similar words like "rey" vs "ray" and "mintra" vs "myntra" were ignored, as were semantically equivalent phrases.
 
 Call: d9aa182c-b21e-4ad5-8138-18d0e9f69b84
-  Conversational WER: 0.0333
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 11
-  Reference Words: 330
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0347
+  Substitutions: 2
+  Deletions: 3
+  Insertions: 2
+  Reference Words: 202
+  Analysis: Errors counted include words that change meaning or affect clarity. Phonetic variations (rey/ray, myntra/mintra) and semantically equivalent phrases were ignored. Filler words like "I'm sorry" were also not counted as they don't affect the core information exchange.
 
 Call: 429ac8a5-6f19-46b3-97bb-8e55feec389e
-  Conversational WER: 0.4107
-  Substitutions: 0
-  Deletions: 354
-  Insertions: 0
-  Reference Words: 862
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0645
+  Substitutions: 6
+  Deletions: 5
+  Insertions: 11
+  Reference Words: 341
+  Analysis: Substitutions counted for words that were different but close enough phonetically to not affect meaning. Insertions and deletions were counted only when they changed the meaning or added/removed important information. Filler words and repeated phrases were not counted.
 
 Call: e69e62f6-954a-4d0a-9989-2a2d562f66fe
-  Conversational WER: 0.0276
-  Substitutions: 0
-  Deletions: 9
-  Insertions: 0
-  Reference Words: 326
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0350
+  Substitutions: 2
+  Deletions: 3
+  Insertions: 2
+  Reference Words: 200
+  Analysis: Substitutions counted due to change in meaning. Deletions counted for missing words that affect the flow. Insertions counted for extra words that change the meaning. Phonetically similar words, spelling variations, and filler words were ignored as they don't affect conversational quality.
 
 Call: c5f1aee1-8170-4c1b-93e0-1f8366882689
-  Conversational WER: 0.6584
-  Substitutions: 0
-  Deletions: 688
+  Conversational WER: 0.0059
+  Substitutions: 2
+  Deletions: 1
   Insertions: 0
-  Reference Words: 1045
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Reference Words: 507
+  Analysis: Only meaningful errors that impact understanding were counted. Phonetic variations like "rey" vs. "ray" and "mintra" vs. "myntra" were ignored.  "bayaband" vs. "bioband" is counted as it changes the product description. "12th july" vs "12 july" is not counted as it conveys the same information. "im" vs "i am" is also ignored as they are semantically equivalent. "hey" vs. "main" is counted as a meaningful substitution.
 
 Call: a26f3d38-ed43-4289-8d34-9ee376fb779d
-  Conversational WER: 0.4884
-  Substitutions: 0
-  Deletions: 588
-  Insertions: 0
-  Reference Words: 1204
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.0117
+  Substitutions: 2
+  Deletions: 1
+  Insertions: 3
+  Reference Words: 512
+  Analysis: Substitutions counted for "15 ml" vs "50ml" as it changes product details, and "order" vs. "orders" as it is grammatically incorrect in the context.  Insertions counted for "hey i am rey from", "who can", and "yes" as they add unnecessary words/phrases. Deletion counted for missing "from" in hypothesis, which changes the meaning slightly. Filler words, spelling variations, and semantically equivalent phrases were not counted as errors.
 
 Call: 750dfc05-c2c4-4937-a85d-46f597dc9880
-  Conversational WER: 0.0044
-  Substitutions: 0
+  Conversational WER: 0.0083
+  Substitutions: 2
   Deletions: 0
-  Insertions: 2
-  Reference Words: 456
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Insertions: 1
+  Reference Words: 361
+  Analysis: Only meaningful errors that impact conversational quality were counted.  "25" vs "twenty five" and "rs" vs "rupees" are not counted as they are equivalent. "f" vs "if" is counted as a substitution as it changes a word.  The extra "great" in the hypothesis is counted as an insertion that slightly changes the meaning.
 
 Call: 03261666-7d82-49ec-8d6e-78c2f716ad73
-  Conversational WER: 0.1098
+  Conversational WER: 0.0333
   Substitutions: 0
-  Deletions: 0
-  Insertions: 18
-  Reference Words: 164
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Deletions: 2
+  Insertions: 3
+  Reference Words: 150
+  Analysis: Two deletions were counted where words were missing in the hypothesis that were present in the reference and important to the flow. Three insertions were counted where extra phrases were added in the hypothesis that were not present in the reference and changed the meaning slightly. Phonetic spellings and filler words were not counted as errors.
 
 Call: 03856e6b-6925-4012-8eb8-0a0289019b7e
-  Conversational WER: 0.0384
-  Substitutions: 0
-  Deletions: 0
-  Insertions: 16
-  Reference Words: 417
-  Analysis: Fallback calculation due to LLM error: '\n    "substitutions"'
+  Conversational WER: 0.1065
+  Substitutions: 2
+  Deletions: 22
+  Insertions: 6
+  Reference Words: 263
+  Analysis: Substitutions counted due to meaning change ('y' to '1', 'healthify' to 'healthifi'). Deletions counted for omitted intro and outro, and a phrase about Patna lab access. Insertions counted for added phrases that change the conversational flow. Phonetically similar words and filler phrases were not counted as errors.
 
-Results saved to conversational_wer_analysis.json
+Results saved to global_wer_gemini_llm.json

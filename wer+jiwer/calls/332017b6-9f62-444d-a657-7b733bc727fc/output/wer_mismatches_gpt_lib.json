@@ -1,0 +1,450 @@
+{
+  "wer": 0.15693430656934307,
+  "insertions": 36,
+  "deletions": 5,
+  "substitutions": 2,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 51,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "of the item you ordered please give me a moment to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 52,
+      "ref_word": "",
+      "hyp_word": "give",
+      "ref_context": "",
+      "hyp_context": "the item you ordered please give me a moment to fetch"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 53,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "item you ordered please give me a moment to fetch your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 54,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "you ordered please give me a moment to fetch your products"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 55,
+      "ref_word": "",
+      "hyp_word": "moment",
+      "ref_context": "",
+      "hyp_context": "ordered please give me a moment to fetch your products i'm"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 56,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "please give me a moment to fetch your products i'm sorry"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 57,
+      "ref_word": "",
+      "hyp_word": "fetch",
+      "ref_context": "",
+      "hyp_context": "give me a moment to fetch your products i'm sorry but"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 58,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "me a moment to fetch your products i'm sorry but we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 50,
+      "index_hyp": 59,
+      "ref_word": "",
+      "hyp_word": "products",
+      "ref_context": "",
+      "hyp_context": "a moment to fetch your products i'm sorry but we currently"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 73,
+      "ref_word": "",
+      "hyp_word": "however",
+      "ref_context": "",
+      "hyp_context": "packing service for your order however your items will arrive securely"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 74,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "service for your order however your items will arrive securely packed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 75,
+      "ref_word": "",
+      "hyp_word": "items",
+      "ref_context": "",
+      "hyp_context": "for your order however your items will arrive securely packed as"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 76,
+      "ref_word": "",
+      "hyp_word": "will",
+      "ref_context": "",
+      "hyp_context": "your order however your items will arrive securely packed as per"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 77,
+      "ref_word": "",
+      "hyp_word": "arrive",
+      "ref_context": "",
+      "hyp_context": "order however your items will arrive securely packed as per our"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "securely",
+      "ref_context": "",
+      "hyp_context": "however your items will arrive securely packed as per our standard"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "packed",
+      "ref_context": "",
+      "hyp_context": "your items will arrive securely packed as per our standard procedures"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "as",
+      "ref_context": "",
+      "hyp_context": "items will arrive securely packed as per our standard procedures how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "per",
+      "ref_context": "",
+      "hyp_context": "will arrive securely packed as per our standard procedures how else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 82,
+      "ref_word": "",
+      "hyp_word": "our",
+      "ref_context": "",
+      "hyp_context": "arrive securely packed as per our standard procedures how else can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 83,
+      "ref_word": "",
+      "hyp_word": "standard",
+      "ref_context": "",
+      "hyp_context": "securely packed as per our standard procedures how else can i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 84,
+      "ref_word": "",
+      "hyp_word": "procedures",
+      "ref_context": "",
+      "hyp_context": "packed as per our standard procedures how else can i assist"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 71,
+      "index_hyp": 93,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "i assist you with your order your most recent order was",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 82,
+      "index_hyp": 103,
+      "ref_word": "",
+      "hyp_word": "ten",
+      "ref_context": "",
+      "hyp_context": "placed today july seventeenth at ten twentyfour am it includes two"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 82,
+      "index_hyp": 104,
+      "ref_word": "1024",
+      "hyp_word": "twentyfour",
+      "ref_context": "placed today july 17th at 1024 am it includes two items",
+      "hyp_context": "today july seventeenth at ten twentyfour am it includes two items"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 139,
+      "index_hyp": 161,
+      "ref_word": "",
+      "hyp_word": "what",
+      "ref_context": "",
+      "hyp_context": "with i’m here to help what else i believe you're asking"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 139,
+      "index_hyp": 162,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "i’m here to help what else i believe you're asking about"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 144,
+      "index_hyp": 168,
+      "ref_word": "",
+      "hyp_word": "something",
+      "ref_context": "",
+      "hyp_context": "i believe you're asking about something could you clarify what you"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 209,
+      "index_hyp": 234,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "with is there anything else i can assist you with currently",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 210,
+      "index_hyp": 234,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "is there anything else i can assist you with currently i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 211,
+      "index_hyp": 234,
+      "ref_word": "assist",
+      "hyp_word": "",
+      "ref_context": "there anything else i can assist you with currently i cannot",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 212,
+      "index_hyp": 234,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "anything else i can assist you with currently i cannot assist",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 213,
+      "index_hyp": 234,
+      "ref_word": "with",
+      "hyp_word": "you'd",
+      "ref_context": "else i can assist you with currently i cannot assist with",
+      "hyp_context": "with is there anything else you'd currently i cannot assist with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 246,
+      "index_hyp": 267,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "the forever new women top and follow the i got it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 246,
+      "index_hyp": 268,
+      "ref_word": "",
+      "hyp_word": "follow",
+      "ref_context": "",
+      "hyp_context": "forever new women top and follow the i got it currently"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 246,
+      "index_hyp": 269,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "new women top and follow the i got it currently i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 246,
+      "index_hyp": 270,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "women top and follow the i got it currently i cannot"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 246,
+      "index_hyp": 271,
+      "ref_word": "",
+      "hyp_word": "got",
+      "ref_context": "",
+      "hyp_context": "top and follow the i got it currently i cannot cancel"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 246,
+      "index_hyp": 272,
+      "ref_word": "",
+      "hyp_word": "it",
+      "ref_context": "",
+      "hyp_context": "and follow the i got it currently i cannot cancel orders"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 271,
+      "index_hyp": 298,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "website selecting the specific item and following alright please let me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 271,
+      "index_hyp": 299,
+      "ref_word": "",
+      "hyp_word": "following",
+      "ref_context": "",
+      "hyp_context": "selecting the specific item and following alright please let me you're"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 273,
+      "index_hyp": 302,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "item and following alright please let me you're"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 273,
+      "index_hyp": 303,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "and following alright please let me you're"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "1024",
+      "hypothesis": "twentyfour"
+    },
+    {
+      "reference": "with",
+      "hypothesis": "you'd"
+    }
+  ],
+  "deletion_words": [
+    "order",
+    "i",
+    "can",
+    "assist",
+    "you"
+  ],
+  "insertion_words": [
+    "hey",
+    "please",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "to",
+    "fetch",
+    "your",
+    "products",
+    "however",
+    "your",
+    "items",
+    "will",
+    "arrive",
+    "securely",
+    "packed",
+    "as",
+    "per",
+    "our",
+    "standard",
+    "procedures",
+    "ten",
+    "what",
+    "else",
+    "something",
+    "and",
+    "follow",
+    "the",
+    "i",
+    "got",
+    "it",
+    "and",
+    "following",
+    "let",
+    "me"
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with rupesh kondawar i noticed youve been quiet are you still there great i noticed you were hi this is priya from elevatenow i saw you were checking out our nano plan but didnt complete the payment was there anything specific that stopped you from starting your weight loss journey no worries let me explain the nano plan is designed to help you achieve your weight loss goals by understanding the root cause of your obesity it starts with a blood test followed by a consultation with an obesityspecialized doctor who will explain your results and build a personalized weight loss roadmap then a senior health coach will guide you in making lifestyle choices specific to your condition would you like to know more about any specific part of the plan the nano plan includes a 1 time consultation with a senior obesity specialist doctor this consultation is focused on understanding your results and creating a personalized weight loss plan if you want ongoing support you can consider upgrading to our flagship program after the nano plan would you like to know more about how the plan works great the nano plan begins with a comprehensive blood test to identify issues like insulin resistance and hormonal imbalances the doctor will then provide a detailed explanation of your results and their impact on your health finally a health coach will create a tailored weight loss plan just for you this approach ensures youre targeting the root causes of weight gain for effective results does this sound like something that would help you achieve your weight loss goals the nano plan provides a clinically proven personalized roadmap to weight loss once youve completed it you have the option to upgrade to our flagship program this offers 3 6 or 12 month subscription plans which include ongoing support from our senior obesity specialist and health coach this longerterm program comes with a 100 moneyback guarantee on weight loss ensuring you have the support needed to achieve your health goals would you like to start with the nano plan and explore the flagship program later the specific pricing details for the flagship program arent covered in our current conversation but the nano plan is a great starting point once you complete the nano plan youll receive personalized recommendations and can discuss the best plan tailored to your needs would you like to proceed with the nano plan to get started with the nano plan with the nano plan your blood sample will be collected from your home theres no need to visit a store or a lab we ensure its convenient for you absolutely you can proceed with the payment whenever its convenient for you if you have any more questions or need assistance feel free to reach out goodbye and have a great day youre welcome goodbye and take care goodbye and have a great day i noticed youve been quiet are you still there",
+  "entities": [
+    {
+      "index": 7,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 9,
+      "value": "elevatenow",
+      "type": "ORG"
+    },
+    {
+      "index": 14,
+      "value": "rupesh kondawar",
+      "type": "PERSON"
+    },
+    {
+      "index": 42,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 44,
+      "value": "elevatenow",
+      "type": "ORG"
+    },
+    {
+      "index": 49,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 152,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 188,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 210,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 240,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 302,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 350,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 350,
+      "value": "3",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 350,
+      "value": "6",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 350,
+      "value": "12 month",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 396,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 396,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 420,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 442,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 460,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 486,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 502,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ]
+}

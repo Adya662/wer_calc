@@ -1,0 +1,365 @@
+{
+  "wer": 0.06947368421052631,
+  "insertions": 22,
+  "deletions": 4,
+  "substitutions": 7,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with sanjana",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 64,
+      "index_hyp": 63,
+      "ref_word": "",
+      "hyp_word": "twenty",
+      "ref_context": "",
+      "hyp_context": "based on your bmi of twenty nine point zero it's clear"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 64,
+      "index_hyp": 64,
+      "ref_word": "",
+      "hyp_word": "nine",
+      "ref_context": "",
+      "hyp_context": "on your bmi of twenty nine point zero it's clear your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 64,
+      "index_hyp": 65,
+      "ref_word": "",
+      "hyp_word": "point",
+      "ref_context": "",
+      "hyp_context": "your bmi of twenty nine point zero it's clear your body"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 64,
+      "index_hyp": 66,
+      "ref_word": "290",
+      "hyp_word": "zero",
+      "ref_context": "based on your bmi of 290 it's clear your body is",
+      "hyp_context": "bmi of twenty nine point zero it's clear your body is"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 110,
+      "index_hyp": 112,
+      "ref_word": "a",
+      "hyp_word": "our",
+      "ref_context": "active and burn fat efficiently a nano plan focuses on addressing",
+      "hyp_context": "active and burn fat efficiently our nano plan focuses on addressing"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 166,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "you're in the right place let me give you a quick"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 167,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "in the right place let me give you a quick overview"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 168,
+      "ref_word": "",
+      "hyp_word": "give",
+      "ref_context": "",
+      "hyp_context": "the right place let me give you a quick overview of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 169,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "right place let me give you a quick overview of our"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 170,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "place let me give you a quick overview of our nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 171,
+      "ref_word": "",
+      "hyp_word": "quick",
+      "ref_context": "",
+      "hyp_context": "let me give you a quick overview of our nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 172,
+      "ref_word": "",
+      "hyp_word": "overview",
+      "ref_context": "",
+      "hyp_context": "me give you a quick overview of our nano plan it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 173,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "give you a quick overview of our nano plan it includes"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 174,
+      "ref_word": "",
+      "hyp_word": "our",
+      "ref_context": "",
+      "hyp_context": "you a quick overview of our nano plan it includes a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 175,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "a quick overview of our nano plan it includes a blood"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 164,
+      "index_hyp": 176,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "quick overview of our nano plan it includes a blood test"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 290,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "plan is priced at rupees one thousand seven hundred ninety nine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 291,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "is priced at rupees one thousand seven hundred ninety nine which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 292,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "priced at rupees one thousand seven hundred ninety nine which is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 293,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "at rupees one thousand seven hundred ninety nine which is designed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 277,
+      "index_hyp": 294,
+      "ref_word": "",
+      "hyp_word": "ninety",
+      "ref_context": "",
+      "hyp_context": "rupees one thousand seven hundred ninety nine which is designed to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 277,
+      "index_hyp": 295,
+      "ref_word": "1799",
+      "hyp_word": "nine",
+      "ref_context": "plan is priced at rupees 1799 which is designed to be",
+      "hyp_context": "one thousand seven hundred ninety nine which is designed to be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 307,
+      "index_hyp": 325,
+      "ref_word": "",
+      "hyp_word": "six",
+      "ref_context": "",
+      "hyp_context": "can total up to rupees six thousand our plan offers a"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 307,
+      "index_hyp": 326,
+      "ref_word": "6000",
+      "hyp_word": "thousand",
+      "ref_context": "can total up to rupees 6000 our plan offers a significant",
+      "hyp_context": "total up to rupees six thousand our plan offers a significant"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 339,
+      "index_hyp": 358,
+      "ref_word": "1",
+      "hyp_word": "",
+      "ref_context": "through partners like redcliffe tata 1 mg and others this ensures",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 391,
+      "index_hyp": 409,
+      "ref_word": "",
+      "hyp_word": "five",
+      "ref_context": "",
+      "hyp_context": "is crafted after helping over five thousand s across india it's"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 391,
+      "index_hyp": 410,
+      "ref_word": "5000",
+      "hyp_word": "thousand",
+      "ref_context": "is crafted after helping over 5000 s across india it's a",
+      "hyp_context": "crafted after helping over five thousand s across india it's a"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 398,
+      "index_hyp": 417,
+      "ref_word": "backed",
+      "hyp_word": "",
+      "ref_context": "across india it's a scientifically backed approach with personalized insights from",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 411,
+      "index_hyp": 429,
+      "ref_word": "",
+      "hyp_word": "two",
+      "ref_context": "",
+      "hyp_context": "team including doctors with over two hundred years of combined experience"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 411,
+      "index_hyp": 430,
+      "ref_word": "200",
+      "hyp_word": "hundred",
+      "ref_context": "team including doctors with over 200 years of combined experience this",
+      "hyp_context": "including doctors with over two hundred years of combined experience this"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 423,
+      "index_hyp": 442,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "that you receive a tailored road map to address your specific",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 424,
+      "index_hyp": 442,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "you receive a tailored road map to address your specific weight",
+      "hyp_context": "that you receive a tailored roadmap to address your specific weight"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "290",
+      "hypothesis": "zero"
+    },
+    {
+      "reference": "a",
+      "hypothesis": "our"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "nine"
+    },
+    {
+      "reference": "6000",
+      "hypothesis": "thousand"
+    },
+    {
+      "reference": "5000",
+      "hypothesis": "thousand"
+    },
+    {
+      "reference": "200",
+      "hypothesis": "hundred"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "1",
+    "backed",
+    "road"
+  ],
+  "insertion_words": [
+    "twenty",
+    "nine",
+    "point",
+    "let",
+    "me",
+    "give",
+    "you",
+    "a",
+    "quick",
+    "overview",
+    "of",
+    "our",
+    "nano",
+    "plan",
+    "one",
+    "thousand",
+    "seven",
+    "hundred",
+    "ninety",
+    "six",
+    "five",
+    "two"
+  ]
+}

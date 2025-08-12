@@ -1,0 +1,215 @@
+{
+  "canonical_transcript": "hello this is priya from elevate now am i speaking with purba sahu i noticed you i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are mujhe maaf karna lekin main aapki baat samajh nahi paya kya aap kripaya spasht kar sakte hain main aapke main samajhti hoon ki keemat aapke liye ek chinta ka vishay ho sakti hai kya aap chahte hain ki main nano plan the nano plan is designed to be affordable allowing you to experience our services without a significant i understand that youre concerned about the cost let me explain why the nano plan is such a great value mujhe lagta hai ki aapne doosre program ke bare mein baat ki hogi nano plan ke tahat aap 1799 mein ek comprehensive package prapt karte hain jismein blood test doctor consultation aur health coach consultation shamil hai yeh yojana is keemat par uplabdh sevaon ka sabse achha mulya pradan karti hai kya aap iske bare mein aur janna chahenge the nano plan starts with a blood test to identify key issues like insulin resistance and hormonal imbalances then a senior obesity specialist doctor will explain your results in detail and their impact on your health finally our health coach will create a personalized weight loss plan tailored just for you would you like to discuss how these offerings can help you achieve your weight loss goals great the blood test we conduct goes beyond standard tests by focusing on specific parameters linked to weight gain such as vitamin profiles insulin resistance and thyroid levels once we have your results our experienced obesity specialist doctor will provide a detailed consultation to explain how these factors might be affecting your weight following this our senior health coach will work with you to develop a personalized lifestyle plan that addresses these issues effectively now that weve covered these offerings would you like me to go over the pricing information nano plan ki keemat 1799 rupaye hai jo ki comprehensive package ke liye bahut hi affordable hai kya keemat mein blood test doctor consultation ya health coach consultation shamil hai bazaar mein in sevaon ki kul keemat 6000 rupaye hoti hai lekin hamare plan ke sath aap ise bahut hi kam keemat mein prapt kar sakte hain kya aap kuch jante hain aur janna chahenge mujhe maaf kijie lekin main aapki baat samajh nahi pai kya aap nano plan primarily offers a comprehensive initial assessment and personalized plan to kick start your weight loss journey once you complete the nano plan you have the option to upgrade to our flagship program which includes three six or 12 month subscription plans this gives you continued support and guidance tailored to your specific needs after completing the nano plan which provides a personalized road map to weight loss you can choose to upgrade to our flagship program with options for 3 6 or 12 month subscriptions these longerterm plans offer a 100 money back guarantee on weight loss ensuring you have the support needed to achieve your health goals would you like to discuss how to get started with the nano plan the pricing for the three months mujhe khed hai yadi aapko aisa laga ho main yahan aapki madad karne ke liye hoon kya aap mujhe bata sakte hain ki main aapki kis prakar sahayata kar sakti hoon mujhe khed hai lekin main vartaman mein teen mahine ki yojana ke mulya vivaran pradan nahi kar sakti nano plan ke poora hone ke baad ham aapko apne flagship program ke liye vibhinn vikalp kya aap mujhse nano plan ya uske kisi features ke bare mein janna chahenge dhanyavad kya aapke paas nano plan ya isse sambandhit kuch aur sawal hain jinmein main aapki madad mujhe khed hai kya aap mujhe bata sakte hain ki main aapki kis prakar sahayata kar sakti hoon mujhe khed hai agar aapko aisa laga ho main yahan aapki madad karne ke liye hoon mujhe khed hai ki aapko asuvidha ho rahi hai kya aap mujhe bata sakte hain ki main aapki kis prakar madad kar sakti hoon i noticed youve been quiet are you still there",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 13,
+      "value": "purba sahu",
+      "type": "PERSON"
+    },
+    {
+      "index": 22,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 97,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 118,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 123,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 125,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 128,
+      "value": "health coach consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 142,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 150,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 160,
+      "value": "senior obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 172,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 186,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 202,
+      "value": "vitamin profiles",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 204,
+      "value": "insulin resistance",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 207,
+      "value": "thyroid levels",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 213,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 225,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 244,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 247,
+      "value": "1799 rupaye",
+      "type": "MONEY"
+    },
+    {
+      "index": 253,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 258,
+      "value": "health coach consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 263,
+      "value": "6000 rupaye",
+      "type": "MONEY"
+    },
+    {
+      "index": 273,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 282,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 292,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 302,
+      "value": "three six or 12 month subscription plans",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 313,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 323,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 330,
+      "value": "3 6 or 12 month subscriptions",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 342,
+      "value": "100 money back guarantee",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 352,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 358,
+      "value": "three months",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 378,
+      "value": "teen mahine ki yojana",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 383,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 389,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 395,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 402,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ]
+}

@@ -1,0 +1,1776 @@
+{
+  "wer": 0.06947368421052631,
+  "wer_value": 0.06947368421052631,
+  "entities_gt": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 14,
+      "value": "sanjana kumar",
+      "type": "PERSON"
+    },
+    {
+      "index": 28,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 81,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 120,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 146,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 151,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 176,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 181,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "senior obesity specialist",
+      "type": "PERSON"
+    },
+    {
+      "index": 204,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 221,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 227,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 238,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 240,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 243,
+      "value": "personalized health coaching",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 253,
+      "value": "rupees 6000",
+      "type": "MONEY"
+    },
+    {
+      "index": 269,
+      "value": "india",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 271,
+      "value": "delhi",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 275,
+      "value": "redcliffe",
+      "type": "ORG"
+    },
+    {
+      "index": 276,
+      "value": "tata 1 mg",
+      "type": "ORG"
+    },
+    {
+      "index": 297,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 303,
+      "value": "5000 users",
+      "type": "OTHER"
+    },
+    {
+      "index": 305,
+      "value": "india",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 324,
+      "value": "200 years",
+      "type": "DATE/TIME"
+    }
+  ],
+  "entities_ref": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevatenow",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 13,
+      "value": "sanjana kumar",
+      "type": "PERSON"
+    },
+    {
+      "index": 37,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 96,
+      "value": "bmi",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 100,
+      "value": "twenty nine point zero",
+      "type": "MONEY"
+    },
+    {
+      "index": 132,
+      "value": "iron",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 135,
+      "value": "vitamin d",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 150,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 204,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 210,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 213,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 219,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 242,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 248,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 257,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 260,
+      "value": "hormonal imbalances",
+      "type": "OTHER"
+    },
+    {
+      "index": 264,
+      "value": "senior obesity specialist",
+      "type": "PERSON"
+    },
+    {
+      "index": 282,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 301,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 306,
+      "value": "rupees one thousand seven hundred ninety nine",
+      "type": "MONEY"
+    },
+    {
+      "index": 318,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 321,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 324,
+      "value": "personalized health coaching",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 334,
+      "value": "rupees six thousand",
+      "type": "MONEY"
+    },
+    {
+      "index": 349,
+      "value": "india",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 351,
+      "value": "delhi",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 355,
+      "value": "redcliffe",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 357,
+      "value": "tata 1mg",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 391,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 397,
+      "value": "five thousand users",
+      "type": "OTHER"
+    },
+    {
+      "index": 399,
+      "value": "india",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 413,
+      "value": "doctors",
+      "type": "PERSON"
+    },
+    {
+      "index": 417,
+      "value": "two hundred years",
+      "type": "DATE/TIME"
+    }
+  ],
+  "unique_entities_gt": [
+    [
+      "health coach",
+      "PERSON"
+    ],
+    [
+      "elevate now",
+      "ORG"
+    ],
+    [
+      "priya",
+      "PERSON"
+    ],
+    [
+      "senior obesity specialist",
+      "PERSON"
+    ],
+    [
+      "sanjana kumar",
+      "PERSON"
+    ],
+    [
+      "doctor consultation",
+      "PRODUCT"
+    ],
+    [
+      "personalized health coaching",
+      "PRODUCT"
+    ],
+    [
+      "tata 1 mg",
+      "ORG"
+    ],
+    [
+      "200 years",
+      "DATE/TIME"
+    ],
+    [
+      "rupees 1799",
+      "MONEY"
+    ],
+    [
+      "blood test",
+      "PRODUCT"
+    ],
+    [
+      "india",
+      "LOCATION/GPE"
+    ],
+    [
+      "delhi",
+      "LOCATION/GPE"
+    ],
+    [
+      "5000 users",
+      "OTHER"
+    ],
+    [
+      "senior health coach",
+      "PERSON"
+    ],
+    [
+      "rupees 6000",
+      "MONEY"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ],
+    [
+      "redcliffe",
+      "ORG"
+    ]
+  ],
+  "unique_entities_ref": [
+    [
+      "senior obesity specialist",
+      "PERSON"
+    ],
+    [
+      "iron",
+      "PRODUCT"
+    ],
+    [
+      "blood test",
+      "PRODUCT"
+    ],
+    [
+      "rupees one thousand seven hundred ninety nine",
+      "MONEY"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ],
+    [
+      "bmi",
+      "PRODUCT"
+    ],
+    [
+      "health coach",
+      "PERSON"
+    ],
+    [
+      "priya",
+      "PERSON"
+    ],
+    [
+      "sanjana kumar",
+      "PERSON"
+    ],
+    [
+      "elevatenow",
+      "ORGANIZATION"
+    ],
+    [
+      "twenty nine point zero",
+      "MONEY"
+    ],
+    [
+      "rupees six thousand",
+      "MONEY"
+    ],
+    [
+      "doctor consultation",
+      "PRODUCT"
+    ],
+    [
+      "personalized health coaching",
+      "PRODUCT"
+    ],
+    [
+      "india",
+      "LOCATION/GPE"
+    ],
+    [
+      "redcliffe",
+      "ORGANIZATION"
+    ],
+    [
+      "senior health coach",
+      "PERSON"
+    ],
+    [
+      "five thousand users",
+      "OTHER"
+    ],
+    [
+      "hormonal imbalances",
+      "OTHER"
+    ],
+    [
+      "vitamin d",
+      "PRODUCT"
+    ],
+    [
+      "tata 1mg",
+      "ORGANIZATION"
+    ],
+    [
+      "delhi",
+      "LOCATION/GPE"
+    ],
+    [
+      "two hundred years",
+      "DATE/TIME"
+    ],
+    [
+      "insulin resistance",
+      "OTHER"
+    ],
+    [
+      "doctors",
+      "PERSON"
+    ]
+  ],
+  "concerned_entities_gt": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 14,
+      "value": "sanjana kumar",
+      "type": "PERSON"
+    },
+    {
+      "index": 28,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 81,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 120,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 146,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 151,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 176,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 181,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "senior obesity specialist",
+      "type": "PERSON"
+    },
+    {
+      "index": 204,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 221,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 238,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 240,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 243,
+      "value": "personalized health coaching",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 275,
+      "value": "redcliffe",
+      "type": "ORG"
+    },
+    {
+      "index": 276,
+      "value": "tata 1 mg",
+      "type": "ORG"
+    },
+    {
+      "index": 297,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ],
+  "concerned_entities_ref": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 13,
+      "value": "sanjana kumar",
+      "type": "PERSON"
+    },
+    {
+      "index": 37,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 96,
+      "value": "bmi",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 132,
+      "value": "iron",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 135,
+      "value": "vitamin d",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 150,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 204,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 210,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 213,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 219,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 242,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 248,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 264,
+      "value": "senior obesity specialist",
+      "type": "PERSON"
+    },
+    {
+      "index": 282,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 301,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 318,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 321,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 324,
+      "value": "personalized health coaching",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 391,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 413,
+      "value": "doctors",
+      "type": "PERSON"
+    }
+  ],
+  "unique_concerned_ner_gt": [
+    [
+      "health coach",
+      "PERSON"
+    ],
+    [
+      "elevate now",
+      "ORG"
+    ],
+    [
+      "priya",
+      "PERSON"
+    ],
+    [
+      "senior obesity specialist",
+      "PERSON"
+    ],
+    [
+      "sanjana kumar",
+      "PERSON"
+    ],
+    [
+      "doctor consultation",
+      "PRODUCT"
+    ],
+    [
+      "personalized health coaching",
+      "PRODUCT"
+    ],
+    [
+      "tata 1 mg",
+      "ORG"
+    ],
+    [
+      "blood test",
+      "PRODUCT"
+    ],
+    [
+      "senior health coach",
+      "PERSON"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ],
+    [
+      "redcliffe",
+      "ORG"
+    ]
+  ],
+  "unique_concerned_ner_ref": [
+    [
+      "health coach",
+      "PERSON"
+    ],
+    [
+      "vitamin d",
+      "PRODUCT"
+    ],
+    [
+      "priya",
+      "PERSON"
+    ],
+    [
+      "senior obesity specialist",
+      "PERSON"
+    ],
+    [
+      "sanjana kumar",
+      "PERSON"
+    ],
+    [
+      "doctor consultation",
+      "PRODUCT"
+    ],
+    [
+      "personalized health coaching",
+      "PRODUCT"
+    ],
+    [
+      "iron",
+      "PRODUCT"
+    ],
+    [
+      "blood test",
+      "PRODUCT"
+    ],
+    [
+      "senior health coach",
+      "PERSON"
+    ],
+    [
+      "nano plan",
+      "PRODUCT"
+    ],
+    [
+      "doctors",
+      "PERSON"
+    ],
+    [
+      "bmi",
+      "PRODUCT"
+    ]
+  ],
+  "time_taken": 0.905858039855957,
+  "ref_tokens": [
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevate",
+    "now",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "sanjana",
+    "kumar",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there",
+    "great",
+    "i",
+    "noticed",
+    "you",
+    "were",
+    "checking",
+    "out",
+    "our",
+    "nano",
+    "plan",
+    "but",
+    "didn't",
+    "complete",
+    "the",
+    "payment",
+    "i'd",
+    "love",
+    "to",
+    "understand",
+    "what",
+    "motivated",
+    "you",
+    "to",
+    "consider",
+    "our",
+    "program",
+    "and",
+    "what",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "are",
+    "i",
+    "understand",
+    "your",
+    "hesitation",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "290",
+    "it's",
+    "clear",
+    "your",
+    "body",
+    "is",
+    "sending",
+    "signals",
+    "about",
+    "how",
+    "it's",
+    "handling",
+    "weight",
+    "and",
+    "metabolism",
+    "right",
+    "now",
+    "at",
+    "this",
+    "preobesity",
+    "stage",
+    "many",
+    "experience",
+    "low",
+    "energy",
+    "levels",
+    "and",
+    "slow",
+    "metabolism",
+    "due",
+    "to",
+    "iron",
+    "and",
+    "vitamin",
+    "d",
+    "deficiency",
+    "making",
+    "it",
+    "harder",
+    "to",
+    "stay",
+    "active",
+    "and",
+    "burn",
+    "fat",
+    "efficiently",
+    "a",
+    "nano",
+    "plan",
+    "focuses",
+    "on",
+    "addressing",
+    "these",
+    "issues",
+    "first",
+    "so",
+    "your",
+    "body",
+    "naturally",
+    "boosts",
+    "metabolism",
+    "and",
+    "accelerates",
+    "fat",
+    "loss",
+    "would",
+    "you",
+    "like",
+    "to",
+    "discuss",
+    "how",
+    "this",
+    "personalized",
+    "plan",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "have",
+    "you",
+    "tried",
+    "any",
+    "other",
+    "weight",
+    "loss",
+    "programs",
+    "before",
+    "if",
+    "yes",
+    "did",
+    "the",
+    "you're",
+    "in",
+    "the",
+    "right",
+    "place",
+    "it",
+    "includes",
+    "a",
+    "blood",
+    "test",
+    "doctor",
+    "consultation",
+    "and",
+    "a",
+    "session",
+    "with",
+    "a",
+    "senior",
+    "health",
+    "coach",
+    "unless",
+    "you",
+    "have",
+    "specific",
+    "questions",
+    "about",
+    "these",
+    "can",
+    "i",
+    "explain",
+    "how",
+    "these",
+    "offerings",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "no",
+    "worries",
+    "let",
+    "me",
+    "briefly",
+    "explain",
+    "how",
+    "each",
+    "part",
+    "of",
+    "the",
+    "nano",
+    "plan",
+    "can",
+    "help",
+    "the",
+    "blood",
+    "test",
+    "identifies",
+    "underlying",
+    "issues",
+    "like",
+    "insulin",
+    "resistance",
+    "or",
+    "hormonal",
+    "imbalances",
+    "then",
+    "a",
+    "senior",
+    "obesity",
+    "specialist",
+    "will",
+    "explain",
+    "how",
+    "these",
+    "affect",
+    "your",
+    "health",
+    "and",
+    "weight",
+    "finally",
+    "our",
+    "health",
+    "coach",
+    "will",
+    "create",
+    "a",
+    "personalized",
+    "plan",
+    "tailored",
+    "just",
+    "for",
+    "you",
+    "now",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "about",
+    "the",
+    "pricing",
+    "and",
+    "how",
+    "it",
+    "compares",
+    "to",
+    "other",
+    "programs",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "priced",
+    "at",
+    "rupees",
+    "1799",
+    "which",
+    "is",
+    "designed",
+    "to",
+    "be",
+    "affordable",
+    "this",
+    "includes",
+    "the",
+    "blood",
+    "test",
+    "doctor",
+    "consultation",
+    "and",
+    "personalized",
+    "health",
+    "coaching",
+    "compared",
+    "to",
+    "other",
+    "weight",
+    "loss",
+    "services",
+    "which",
+    "can",
+    "total",
+    "up",
+    "to",
+    "rupees",
+    "6000",
+    "our",
+    "plan",
+    "offers",
+    "a",
+    "significant",
+    "value",
+    "would",
+    "you",
+    "like",
+    "to",
+    "proceed",
+    "with",
+    "this",
+    "plan",
+    "we",
+    "have",
+    "partnerships",
+    "with",
+    "labs",
+    "throughout",
+    "most",
+    "parts",
+    "of",
+    "india",
+    "including",
+    "delhi",
+    "through",
+    "partners",
+    "like",
+    "redcliffe",
+    "tata",
+    "1",
+    "mg",
+    "and",
+    "others",
+    "this",
+    "ensures",
+    "that",
+    "we",
+    "can",
+    "provide",
+    "our",
+    "services",
+    "conveniently",
+    "in",
+    "your",
+    "area",
+    "would",
+    "you",
+    "like",
+    "to",
+    "proceed",
+    "with",
+    "the",
+    "payment",
+    "i",
+    "can",
+    "send",
+    "you",
+    "the",
+    "payment",
+    "link",
+    "on",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "absolutely",
+    "i",
+    "understand",
+    "the",
+    "need",
+    "to",
+    "be",
+    "sure",
+    "our",
+    "nano",
+    "plan",
+    "is",
+    "crafted",
+    "after",
+    "helping",
+    "over",
+    "5000",
+    "s",
+    "across",
+    "india",
+    "it's",
+    "a",
+    "scientifically",
+    "backed",
+    "approach",
+    "with",
+    "personalized",
+    "insights",
+    "from",
+    "our",
+    "expert",
+    "team",
+    "including",
+    "doctors",
+    "with",
+    "over",
+    "200",
+    "years",
+    "of",
+    "combined",
+    "experience",
+    "this",
+    "ensures",
+    "that",
+    "you",
+    "receive",
+    "a",
+    "tailored",
+    "road",
+    "map",
+    "to",
+    "address",
+    "your",
+    "specific",
+    "weight",
+    "loss",
+    "challenges",
+    "let",
+    "me",
+    "know",
+    "if",
+    "there's",
+    "anything",
+    "else",
+    "you'd",
+    "like",
+    "to",
+    "know",
+    "you're",
+    "welcome",
+    "i'll",
+    "be",
+    "here",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "or",
+    "need",
+    "assistance",
+    "in",
+    "the",
+    "future",
+    "goodbye",
+    "and",
+    "have",
+    "a",
+    "great",
+    "day",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there"
+  ],
+  "hyp_tokens": [
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "sanjana",
+    "kumar",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there",
+    "great",
+    "i",
+    "noticed",
+    "you",
+    "were",
+    "checking",
+    "out",
+    "our",
+    "nano",
+    "plan",
+    "but",
+    "didn't",
+    "complete",
+    "the",
+    "payment",
+    "i'd",
+    "love",
+    "to",
+    "understand",
+    "what",
+    "motivated",
+    "you",
+    "to",
+    "consider",
+    "our",
+    "program",
+    "and",
+    "what",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "are",
+    "i",
+    "understand",
+    "your",
+    "hesitation",
+    "based",
+    "on",
+    "your",
+    "bmi",
+    "of",
+    "twenty",
+    "nine",
+    "point",
+    "zero",
+    "it's",
+    "clear",
+    "your",
+    "body",
+    "is",
+    "sending",
+    "signals",
+    "about",
+    "how",
+    "it's",
+    "handling",
+    "weight",
+    "and",
+    "metabolism",
+    "right",
+    "now",
+    "at",
+    "this",
+    "preobesity",
+    "stage",
+    "many",
+    "experience",
+    "low",
+    "energy",
+    "levels",
+    "and",
+    "slow",
+    "metabolism",
+    "due",
+    "to",
+    "iron",
+    "and",
+    "vitamin",
+    "d",
+    "deficiency",
+    "making",
+    "it",
+    "harder",
+    "to",
+    "stay",
+    "active",
+    "and",
+    "burn",
+    "fat",
+    "efficiently",
+    "our",
+    "nano",
+    "plan",
+    "focuses",
+    "on",
+    "addressing",
+    "these",
+    "issues",
+    "first",
+    "so",
+    "your",
+    "body",
+    "naturally",
+    "boosts",
+    "metabolism",
+    "and",
+    "accelerates",
+    "fat",
+    "loss",
+    "would",
+    "you",
+    "like",
+    "to",
+    "discuss",
+    "how",
+    "this",
+    "personalized",
+    "plan",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "have",
+    "you",
+    "tried",
+    "any",
+    "other",
+    "weight",
+    "loss",
+    "programs",
+    "before",
+    "if",
+    "yes",
+    "did",
+    "they",
+    "you're",
+    "in",
+    "the",
+    "right",
+    "place",
+    "let",
+    "me",
+    "give",
+    "you",
+    "a",
+    "quick",
+    "overview",
+    "of",
+    "our",
+    "nano",
+    "plan",
+    "it",
+    "includes",
+    "a",
+    "blood",
+    "test",
+    "doctor",
+    "consultation",
+    "and",
+    "a",
+    "session",
+    "with",
+    "a",
+    "senior",
+    "health",
+    "coach",
+    "unless",
+    "you",
+    "have",
+    "specific",
+    "questions",
+    "about",
+    "these",
+    "can",
+    "i",
+    "explain",
+    "how",
+    "these",
+    "offerings",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "no",
+    "worries",
+    "let",
+    "me",
+    "briefly",
+    "explain",
+    "how",
+    "each",
+    "part",
+    "of",
+    "the",
+    "nano",
+    "plan",
+    "can",
+    "help",
+    "the",
+    "blood",
+    "test",
+    "identifies",
+    "underlying",
+    "issues",
+    "like",
+    "insulin",
+    "resistance",
+    "or",
+    "hormonal",
+    "imbalances",
+    "then",
+    "a",
+    "senior",
+    "obesity",
+    "specialist",
+    "will",
+    "explain",
+    "how",
+    "these",
+    "affect",
+    "your",
+    "health",
+    "and",
+    "weight",
+    "finally",
+    "our",
+    "health",
+    "coach",
+    "will",
+    "create",
+    "a",
+    "personalized",
+    "plan",
+    "tailored",
+    "just",
+    "for",
+    "you",
+    "now",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "about",
+    "the",
+    "pricing",
+    "and",
+    "how",
+    "it",
+    "compares",
+    "to",
+    "other",
+    "programs",
+    "the",
+    "nano",
+    "plan",
+    "is",
+    "priced",
+    "at",
+    "rupees",
+    "one",
+    "thousand",
+    "seven",
+    "hundred",
+    "ninety",
+    "nine",
+    "which",
+    "is",
+    "designed",
+    "to",
+    "be",
+    "affordable",
+    "this",
+    "includes",
+    "the",
+    "blood",
+    "test",
+    "doctor",
+    "consultation",
+    "and",
+    "personalized",
+    "health",
+    "coaching",
+    "compared",
+    "to",
+    "other",
+    "weight",
+    "loss",
+    "services",
+    "which",
+    "can",
+    "total",
+    "up",
+    "to",
+    "rupees",
+    "six",
+    "thousand",
+    "our",
+    "plan",
+    "offers",
+    "a",
+    "significant",
+    "value",
+    "would",
+    "you",
+    "like",
+    "to",
+    "proceed",
+    "with",
+    "this",
+    "plan",
+    "we",
+    "have",
+    "partnerships",
+    "with",
+    "labs",
+    "throughout",
+    "most",
+    "parts",
+    "of",
+    "india",
+    "including",
+    "delhi",
+    "through",
+    "partners",
+    "like",
+    "redcliffe",
+    "tata",
+    "1mg",
+    "and",
+    "others",
+    "this",
+    "ensures",
+    "that",
+    "we",
+    "can",
+    "provide",
+    "our",
+    "services",
+    "conveniently",
+    "in",
+    "your",
+    "area",
+    "would",
+    "you",
+    "like",
+    "to",
+    "proceed",
+    "with",
+    "the",
+    "payment",
+    "i",
+    "can",
+    "send",
+    "you",
+    "the",
+    "payment",
+    "link",
+    "on",
+    "your",
+    "registered",
+    "mobile",
+    "number",
+    "absolutely",
+    "i",
+    "understand",
+    "the",
+    "need",
+    "to",
+    "be",
+    "sure",
+    "our",
+    "nano",
+    "plan",
+    "is",
+    "crafted",
+    "after",
+    "helping",
+    "over",
+    "five",
+    "thousand",
+    "s",
+    "across",
+    "india",
+    "it's",
+    "a",
+    "scientificallybacked",
+    "approach",
+    "with",
+    "personalized",
+    "insights",
+    "from",
+    "our",
+    "expert",
+    "team",
+    "including",
+    "doctors",
+    "with",
+    "over",
+    "two",
+    "hundred",
+    "years",
+    "of",
+    "combined",
+    "experience",
+    "this",
+    "ensures",
+    "that",
+    "you",
+    "receive",
+    "a",
+    "tailored",
+    "roadmap",
+    "to",
+    "address",
+    "your",
+    "specific",
+    "weight",
+    "loss",
+    "challenges",
+    "let",
+    "me",
+    "know",
+    "if",
+    "there's",
+    "anything",
+    "else",
+    "you'd",
+    "like",
+    "to",
+    "know",
+    "you're",
+    "welcome",
+    "i'll",
+    "be",
+    "here",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "or",
+    "need",
+    "assistance",
+    "in",
+    "the",
+    "future",
+    "goodbye",
+    "and",
+    "have",
+    "a",
+    "great",
+    "day",
+    "i",
+    "noticed",
+    "you've",
+    "been",
+    "quiet",
+    "are",
+    "you",
+    "still",
+    "there"
+  ],
+  "mismatches_count": 33
+}

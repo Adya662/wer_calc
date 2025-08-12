@@ -1,0 +1,153 @@
+{
+  "wer": 0.03494623655913978,
+  "insertions": 6,
+  "deletions": 4,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 52,
+      "index_hyp": 53,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "can i help you today all right could you please tell",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 53,
+      "index_hyp": 53,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i help you today all right could you please tell me",
+      "hyp_context": "can i help you today alright could you please tell me"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 65,
+      "index_hyp": 65,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "product name or the brand you are referring to please give",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "h",
+      "ref_context": "",
+      "hyp_context": "to fetch your products your h and m regular fit roundneck"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 79,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "fetch your products your h and m regular fit roundneck tshirt"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 82,
+      "index_hyp": 83,
+      "ref_word": "round",
+      "hyp_word": "",
+      "ref_context": "products your hm regular fit round neck tshirt is being processed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 83,
+      "index_hyp": 83,
+      "ref_word": "neck",
+      "hyp_word": "roundneck",
+      "ref_context": "your hm regular fit round neck tshirt is being processed and",
+      "hyp_context": "h and m regular fit roundneck tshirt is being processed and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 112,
+      "index_hyp": 112,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "i can help you with i am sorry but we are"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 214,
+      "index_hyp": 215,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "assist you further regarding this all right i can definitely help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 215,
+      "index_hyp": 215,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "you further regarding this all right i can definitely help you",
+      "hyp_context": "assist you further regarding this alright i can definitely help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 255,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "h",
+      "ref_context": "",
+      "hyp_context": "to fetch your products your h and m cotton dungaree shorts"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 255,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "fetch your products your h and m cotton dungaree shorts is"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "neck",
+      "hypothesis": "roundneck"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    }
+  ],
+  "deletion_words": [
+    "all",
+    "you",
+    "round",
+    "all"
+  ],
+  "insertion_words": [
+    "hey",
+    "h",
+    "and",
+    "i",
+    "h",
+    "and"
+  ]
+}

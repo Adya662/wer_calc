@@ -1,0 +1,210 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with taruna yadav i noticed you've been quiet are you still there great i noticed you were checking out our nano plan but didn't complete the payment i'd love to understand what motivated you to consider our program and what your weight loss goals are hi based on your bmi of 32.03 it's clear your body is sending signals about how it's handling weight and metabolism right now we're genuinely excited to support your goals and the nano plan is designed to work with your body's current state to make weight loss easier and more effective would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss perfect have you had any past experiences with other weight loss programs if so did they work for you aap sahi jagah par aaye hain nano plan aapke liye perfect hai kyonki yah personalized aur scientificallybacked approach par aadharit hai chaliye nano plan ke offerings ke bare mein baat karte hain ismein blood test doctor consultation aur senior health coach consultation shamil hain kya aap inmein se kisi ke bare mein aur janna chahenge ya main aapko bataun ki yah kaise aapke weight loss goals mein madad kar sakta hai samajh sakti hoon nano plan ko is tarah se dizain kiya gaya hai ki ye aapki specific needs ko address kar sake ismein blood test doctor consultation aur health coach consultation shamil hai kya main aapko explain kar sakti hoon ki ye offerings aapki weight nano plan ke tahat sabse pahle ham ek blood test karte hain jo aapke metabolism se jude specific parameters ko chek karta hai iske bad ek senior obesity specialist doctor aapke results ko detail mein samjhayenge aur unki health par impact ko discuss karenge ant mein hamara health coach ek personalized weight loss plan taiyar karega jo aapki needs ke mutabik hoga ab jab hamne in offerings ko cover kar liya hai kya aap pricing information janna chahenge nano plan ki keemat rupees 1799 hai jo ki hamari premium services ko affordable banata hai bajar mein is price point par yah comprehensive service milna rare hai kyonki ismein blood test doctor consultation aur health coach consultation shamil hain kya aap ab payment options ke bare mein janna chahenge great you have two payment options for the nano plan you can either make a partial payment of rupees 499 now and pay the remaining rupees 1399 at the time of blood sample collection which totals rupees 1898 or you can make a full payment of rupees 1799 upfront i\u2019ll send both payment links to your registered mobile number via whatsapp do you have any more doubts or should we proceed with the payment nano plan ko complete karne ke bad aapke pas hamare flagship program mein upgrade karne ka option hoga jismein teen chhah ya barah mahine ki subscription plans shamil hain ye plans aapke unique metabolic condition ke hisab se tailored hote hain halanki continue karne ka decision puri tarah se aapka hoga hamare longerterm programs mein 100 money back guarantee on weight loss bhi shamil hai jisse aapko apne health goals achieve karne ke liye pura support milega kya main aapki aur kisi tarah se madad kar sakti hoon great i'll send you the payment links on your registered mobile number via whatsapp if you have any more doubts in the future feel free to reach out goodbye and have a great day great i'll send you the payment links on your registered mobile number via whatsapp if you have any more doubts in the future feel free to reach out goodbye and have a great day",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevatenow",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 13,
+      "value": "taruna yadav",
+      "type": "PERSON"
+    },
+    {
+      "index": 33,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 128,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 146,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 149,
+      "value": "senior health coach consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 172,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 188,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 190,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 193,
+      "value": "health coach consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 204,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 209,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 221,
+      "value": "senior obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 235,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 242,
+      "value": "personalized weight loss plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 257,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 263,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 273,
+      "value": "premium services",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 283,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 285,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 288,
+      "value": "health coach consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 301,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 309,
+      "value": "rupees 499",
+      "type": "MONEY"
+    },
+    {
+      "index": 315,
+      "value": "rupees 1399",
+      "type": "MONEY"
+    },
+    {
+      "index": 322,
+      "value": "rupees 1898",
+      "type": "MONEY"
+    },
+    {
+      "index": 327,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 338,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 354,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 362,
+      "value": "flagship program",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 378,
+      "value": "three",
+      "type": "CARDINAL"
+    },
+    {
+      "index": 379,
+      "value": "six",
+      "type": "CARDINAL"
+    },
+    {
+      "index": 381,
+      "value": "twelve",
+      "type": "CARDINAL"
+    },
+    {
+      "index": 383,
+      "value": "subscription plans",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 397,
+      "value": "longerterm programs",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 400,
+      "value": "100 money back guarantee on weight loss",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 413,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 428,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "canonical_transcript": "hello this is priya from elevate now am i speaking with pearl biju i noticed you've been quiet are you still there great i noticed you were checking out our nano plan but didn't complete the payment i'd love to understand what motivated you to consider our program and what your weight loss goals are absolutely based on your bmi of 4408 it seems your body may be dealing with some metabolic challenges like liver function issues or thyroid imbalance which can make weight loss difficult the nano plan is designed to specifically address these issues and create a personalized road map for sustainable weight loss would you like to discuss a plan tailored to your needs could you share if you have any past experiences with other weight loss programs understanding this can help me explain how the nano plan could be a better fit for your needs since it's been a while the nano plan could be a fresh start for you let me explain what we offer it includes a blood test doctor consultation and a session with a senior health coach would you like to know how these offerings can help you achieve your weight loss goals first a blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight then a specialized doctor reviews these results with you helping to understand their impact on your health finally a health coach will work with you to create a personalized weight loss plan tailored to your needs now that we've covered the offerings would you like me to explain the pricing the nano plan costs rupees 1799 which is designed to be affordable compared to individual market prices for similar services this includes the blood test doctor consultation and health coach session allinone package how does that sound to you with the nano plan you'll receive a personalized road map created by the health coach tailored to your unique needs his is included in the plan so you won't need another plan to get started would you like to proceed with the payment to begin your journey absolutely ake your time to consider it if you have any more questions or need assistance feel free to reach out goodbye and have a great day you're welcome have a wonderful day i noticed you've been quiet are you still there i noticed you've been quiet are you still there",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 14,
+      "value": "pearl biju",
+      "type": "PERSON"
+    },
+    {
+      "index": 32,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "bmi",
+      "type": "OTHER"
+    },
+    {
+      "index": 71,
+      "value": "4408",
+      "type": "OTHER"
+    },
+    {
+      "index": 89,
+      "value": "liver function issues",
+      "type": "OTHER"
+    },
+    {
+      "index": 93,
+      "value": "thyroid imbalance",
+      "type": "OTHER"
+    },
+    {
+      "index": 108,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 176,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 186,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 188,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 204,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 210,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 213,
+      "value": "hormonal imbalances",
+      "type": "OTHER"
+    },
+    {
+      "index": 227,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 248,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 250,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 273,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 275,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 279,
+      "value": "health coach session",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 291,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 297,
+      "value": "health coach",
+      "type": "PERSON"
+    }
+  ]
+}

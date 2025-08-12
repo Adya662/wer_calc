@@ -1,0 +1,135 @@
+{
+  "canonical_transcript": "i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today i can help you with tracking your order im sorry i cant provide the names or details of products in your order list directly could you please let me know the product name youre asking about got it could you please tell me the product name or brand this will help me track your order please give me a moment to fetch your products i couldnt find lakme in your orders but i see items from brands like love beauty and planet lakme dressberry lakala and carlton london could you confirm if its one of these or provide more details about the product all right could you let me know which type of product youre asking about such as a cream shampoo socks earrings or studs this will help me locate your order i didnt find a product matching trim hand shampoo could you confirm if youre referring to any of these items theres a love beauty and planet argan oil and love got it you might be referring to the lakme youth infinity anti aging night cream with pro retinol c let me check its delivery status for you your lakme youth infinity anti aging night cream with pro retinol c 50 gd will be delivered on or before 27 july sure what else can i assist you with all right let me check the delivery status for your love beauty and planet 1 argan oil and lavender shampoo give me a moment your love beauty and planet 80 d 80 argan oil and lavender shampoo for frizzy hair 400 milli will be delivered on or before tomorrow please tell me is there anything else i can help you with well be sending you a quick feedback form via sms your input would really help us improve thank you for choosing myntra have a great day",
+  "entities": [
+    {
+      "index": 4,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 6,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 22,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 26,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 98,
+      "value": "lakme",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 112,
+      "value": "love beauty and planet",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 116,
+      "value": "lakme",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 118,
+      "value": "dressberry",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 120,
+      "value": "lakala",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 124,
+      "value": "carlton london",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 170,
+      "value": "trim hand shampoo",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 189,
+      "value": "love beauty and planet",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 195,
+      "value": "argan oil",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 208,
+      "value": "lakme youth infinity anti aging night cream",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 217,
+      "value": "pro retinol c",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 231,
+      "value": "lakme youth infinity anti aging night cream",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 240,
+      "value": "pro retinol c",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 245,
+      "value": "50 gd",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "27 july",
+      "type": "DATE"
+    },
+    {
+      "index": 275,
+      "value": "love beauty and planet",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 276,
+      "value": "1 argan oil and lavender shampoo",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 289,
+      "value": "love beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 306,
+      "value": "400 milli",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 318,
+      "value": "tomorrow",
+      "type": "DATE"
+    },
+    {
+      "index": 350,
+      "value": "sms",
+      "type": "OTHER"
+    },
+    {
+      "index": 366,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    }
+  ]
+}

@@ -1,5 +1,0 @@
-WER,Total GT NERs,Total Ref NERs,Unique GT NERs,Unique Ref NERs,Total Concerned GT NERs (PERSON/ORG),Total Concerned Ref NERs (PERSON/ORG),Unique Concerned GT NERs,Unique Concerned Ref NERs
-0.0440,16,28,11,20,3,5,3,5
-1.0000,0,16,0,10,0,2,0,2
-476.0000,0,15,0,10,0,2,0,2
-0.0126,29,17,22,9,6,2,6,2

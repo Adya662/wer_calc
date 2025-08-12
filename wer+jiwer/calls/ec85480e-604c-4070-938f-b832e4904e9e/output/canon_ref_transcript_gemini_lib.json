@@ -1,0 +1,120 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with munira mandviwala i great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are i noticed youve been quiet are you still there great based on your bmi its clear your body might be facing some metabolic challenges that can affect weight loss the nano plan is designed to tackle these issues and support your goals could you share more about what youre aiming to achieve with your weight loss journey absolutely got it your bmi indicates that tackling specific metabolic challenges can really make a difference have you tried any weight loss programs before youre in the right place then our nano plan starts with a blood test followed by a consultation with an obesity specialist doctor and a session with a senior i noticed youve been quiet are you still there great our nano plan starts with a blood test followed by a consultation with an obesity specialist doctor and a session with a senior health coach unless you have any specific questions about these offerings can i explain how they can help you achieve your weight loss goals sure the blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight the doctor will review these results with you explaining their impact on your health then our senior health coach will create a personalized plan to address these challenges and guide you towards sustainable weight loss now that weve covered the offerings would you like me to explain the pricing the nano plan costs rupees 1799 which includes the blood test doctor consultation and health coach session compared to individual market prices which total around rupees 6000 our plan offers significant savings would you like to know about the payment options you have two payment options you can either make a partial payment of rupees 499 now and pay the remaining rupees 1399 at the time of blood sample collection totaling to rupees 1898 or you can pay the full amount of rupees 1799 upfront ill send both payment links to your registered mobile number via whatsapp do you have any more questions great ill send you the payment links on your registered mobile number if you have any questions in the future feel free to reach out goodbye and have a great day youre welcome goodbye and have a great day hello this is priya from elevatenow am i speaking with munira mandviwala",
+  "entities": [
+    {
+      "index": 7,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 9,
+      "value": "elevatenow",
+      "type": "ORG"
+    },
+    {
+      "index": 15,
+      "value": "munira mandviwala",
+      "type": "PERSON"
+    },
+    {
+      "index": 24,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 78,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 210,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 355,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 484,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 485,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 510,
+      "value": "6000",
+      "type": "MONEY"
+    },
+    {
+      "index": 511,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 540,
+      "value": "499",
+      "type": "MONEY"
+    },
+    {
+      "index": 541,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 558,
+      "value": "1399",
+      "type": "MONEY"
+    },
+    {
+      "index": 559,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 578,
+      "value": "1898",
+      "type": "MONEY"
+    },
+    {
+      "index": 579,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 592,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 593,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 615,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 675,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 677,
+      "value": "elevatenow",
+      "type": "ORG"
+    },
+    {
+      "index": 683,
+      "value": "munira mandviwala",
+      "type": "PERSON"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with atul sinha great i noticed you were checking out our nano plan but didn't complete the payment i'd love to understand what motivated you to consider our program and what your weight loss goals are we are serviceable for most parts of india including patna as we have partnered with several lab test providers you can definitely access the nano plan there would you like to know more about how it can help you achieve your weight loss goals the nano plan is supervised by a senior obesity specialist doctor and is designed to be safe and simple all preexisting conditions including a kidney transplant will be considered during your consultation with the doctor and health coach they will ensure the plan is tailored to your specific needs would you like to explore how the nano plan can support your health journey based on your bmi of 3556 it's clear your body is sending signals about how it's handling weight and metabolism right now at this obesity stage category i most people struggle with insulin resistance and high blood sugar leading to intense cravings and stubborn fat storage our plan is designed to stabilize blood sugar and improve insulin sensitivity making fat loss easier and more sustainable have you had any past experiences with other weight loss programs i'm glad to hear that you had some success with healthifi our nano plan is designed to address specific metabolic challenges that might still affect your weight loss journey let me tell you more about how it can support your goals it starts with a blood test followed by a consultation with an obesity specialized doctor and a session with a senior health coach would you like to know how these offerings can help you achieve your weight loss goals yes our team of doctors is highly qualified with degrees such as mbbs md and advanced certifications from prestigious institutions worldwide they have extensive experience in fields like endocrinology diabetes that's great to hear you can choose between partial or full yes i'll send both the payment links to you over whatsapp on your registered mobile number if you have any more doubts feel free to ask otherwise we can proceed with the payment process perfect i'll send the payment links to your registered mobile number right away if you have any more doubts later feel free to reach out goodbye and have a great day i am elevatenow's aiassisted health expert here to guide you on your health and wellness journey if you have any more questions or need further assistance feel free to ask",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevatenow",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 15,
+      "value": "atul sinha",
+      "type": "PERSON"
+    },
+    {
+      "index": 32,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 78,
+      "value": "india",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 81,
+      "value": "patna",
+      "type": "LOCATION/GPE"
+    },
+    {
+      "index": 88,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 102,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 113,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 144,
+      "value": "kidney transplant",
+      "type": "OTHER"
+    },
+    {
+      "index": 156,
+      "value": "doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 159,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 174,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "bmi of 3556",
+      "type": "OTHER"
+    },
+    {
+      "index": 209,
+      "value": "obesity stage category i",
+      "type": "OTHER"
+    },
+    {
+      "index": 219,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 222,
+      "value": "high blood sugar",
+      "type": "OTHER"
+    },
+    {
+      "index": 238,
+      "value": "healthifi",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 242,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 263,
+      "value": "blood test",
+      "type": "OTHER"
+    },
+    {
+      "index": 267,
+      "value": "obesity specialized doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 271,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 285,
+      "value": "mbbs",
+      "type": "OTHER"
+    },
+    {
+      "index": 287,
+      "value": "md",
+      "type": "OTHER"
+    },
+    {
+      "index": 297,
+      "value": "endocrinology diabetes",
+      "type": "OTHER"
+    },
+    {
+      "index": 318,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 334,
+      "value": "payment process",
+      "type": "OTHER"
+    },
+    {
+      "index": 342,
+      "value": "payment links",
+      "type": "OTHER"
+    },
+    {
+      "index": 359,
+      "value": "elevatenow's aiassisted health expert",
+      "type": "PERSON"
+    }
+  ]
+}

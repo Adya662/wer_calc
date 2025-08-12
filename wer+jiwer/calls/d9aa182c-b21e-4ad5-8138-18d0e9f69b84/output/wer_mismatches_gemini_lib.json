@@ -1,0 +1,406 @@
+{
+  "wer": 0.1148036253776435,
+  "insertions": 21,
+  "deletions": 13,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 33,
+      "ref_word": "",
+      "hyp_word": "could",
+      "ref_context": "",
+      "hyp_context": "you with tracking your order could you please tell me the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 34,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "with tracking your order could you please tell me the product"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 35,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "tracking your order could you please tell me the product name"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 36,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "your order could you please tell me the product name im"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 37,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "order could you please tell me the product name im sorry"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 38,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "could you please tell me the product name im sorry i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 39,
+      "ref_word": "",
+      "hyp_word": "product",
+      "ref_context": "",
+      "hyp_context": "you please tell me the product name im sorry i cant"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 40,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name im sorry i cant provide"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 91,
+      "index_hyp": 100,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldnt find lakme in your orders but i",
+      "hyp_context": "your products i couldnt find laamic in your orders but i"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 104,
+      "index_hyp": 113,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 127,
+      "index_hyp": 135,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "more details about the product all right could you let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 128,
+      "index_hyp": 135,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 181,
+      "index_hyp": 188,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "items theres a love beauty and planet argan oil and love",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 186,
+      "index_hyp": 192,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "beauty planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 227,
+      "index_hyp": 233,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 241,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "on or before 27 july please tell me is there anything"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 242,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "or before 27 july please tell me is there anything else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 243,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "before 27 july please tell me is there anything else i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 244,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "27 july please tell me is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 245,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "july please tell me is there anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 246,
+      "ref_word": "",
+      "hyp_word": "anything",
+      "ref_context": "",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 247,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 248,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "me is there anything else i can help you with sure"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 249,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "is there anything else i can help you with sure what"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 250,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "there anything else i can help you with sure what else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 251,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "anything else i can help you with sure what else can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 236,
+      "index_hyp": 252,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 244,
+      "index_hyp": 261,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "can i assist you with all right let me check the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 245,
+      "index_hyp": 261,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 256,
+      "index_hyp": 272,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "status for your love beauty and planet 1 argan oil and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 258,
+      "index_hyp": 273,
+      "ref_word": "1",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 1 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 271,
+      "index_hyp": 285,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "a moment your love beauty and planet 80 d 80 argan",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 273,
+      "index_hyp": 286,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 80 d 80 argan oil and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 274,
+      "index_hyp": 286,
+      "ref_word": "d",
+      "hyp_word": "",
+      "ref_context": "love beauty and planet 80 d 80 argan oil and lavender",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 275,
+      "index_hyp": 286,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 284,
+      "index_hyp": 294,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 315,
+      "index_hyp": 324,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "quick feedback form via sms your input would really help us",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "lakme",
+      "hypothesis": "laamic"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "love",
+      "hypothesis": "lavender"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    }
+  ],
+  "deletion_words": [
+    "and",
+    "all",
+    "and",
+    "gd",
+    "all",
+    "and",
+    "1",
+    "and",
+    "80",
+    "d",
+    "80",
+    "400",
+    "your"
+  ],
+  "insertion_words": [
+    "hey",
+    "could",
+    "you",
+    "please",
+    "tell",
+    "me",
+    "the",
+    "product",
+    "name",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with"
+  ]
+}

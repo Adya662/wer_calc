@@ -1,0 +1,3263 @@
+{
+  "wer": 0.13677811550151975,
+  "insertions": 23,
+  "deletions": 10,
+  "substitutions": 12,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 1,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 2,
+      "index_hyp": 3,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 3,
+      "index_hyp": 4,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 4,
+      "index_hyp": 5,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 5,
+      "index_hyp": 6,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 6,
+      "index_hyp": 7,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 7,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 8,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 9,
+      "index_hyp": 10,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 10,
+      "index_hyp": 11,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 11,
+      "index_hyp": 12,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 12,
+      "index_hyp": 13,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 13,
+      "index_hyp": 14,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 14,
+      "index_hyp": 15,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 15,
+      "index_hyp": 16,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 16,
+      "index_hyp": 17,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 17,
+      "index_hyp": 18,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 18,
+      "index_hyp": 19,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 19,
+      "index_hyp": 20,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 20,
+      "index_hyp": 21,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 21,
+      "index_hyp": 22,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 22,
+      "index_hyp": 23,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 23,
+      "index_hyp": 24,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 24,
+      "index_hyp": 25,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 25,
+      "index_hyp": 26,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 26,
+      "index_hyp": 27,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 27,
+      "index_hyp": 28,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 28,
+      "index_hyp": 29,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 29,
+      "index_hyp": 30,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 30,
+      "index_hyp": 31,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "match",
+      "index_ref": 31,
+      "index_hyp": 32,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 33,
+      "ref_word": "",
+      "hyp_word": "could",
+      "ref_context": "",
+      "hyp_context": "you with tracking your order could you please tell me the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 34,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "with tracking your order could you please tell me the product"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 35,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "tracking your order could you please tell me the product name"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 36,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "your order could you please tell me the product name i'm"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 37,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "order could you please tell me the product name i'm sorry"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 38,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "could you please tell me the product name i'm sorry i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 39,
+      "ref_word": "",
+      "hyp_word": "product",
+      "ref_context": "",
+      "hyp_context": "you please tell me the product name i'm sorry i can't"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 32,
+      "index_hyp": 40,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 32,
+      "index_hyp": 41,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 33,
+      "index_hyp": 42,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 34,
+      "index_hyp": 43,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 35,
+      "index_hyp": 44,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 36,
+      "index_hyp": 45,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 37,
+      "index_hyp": 46,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 38,
+      "index_hyp": 47,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 39,
+      "index_hyp": 48,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 40,
+      "index_hyp": 49,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 41,
+      "index_hyp": 50,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 42,
+      "index_hyp": 51,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 43,
+      "index_hyp": 52,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 44,
+      "index_hyp": 53,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 45,
+      "index_hyp": 54,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 46,
+      "index_hyp": 55,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 47,
+      "index_hyp": 56,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 48,
+      "index_hyp": 57,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 49,
+      "index_hyp": 58,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 50,
+      "index_hyp": 59,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 51,
+      "index_hyp": 60,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 52,
+      "index_hyp": 61,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 53,
+      "index_hyp": 62,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 54,
+      "index_hyp": 63,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 55,
+      "index_hyp": 64,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 56,
+      "index_hyp": 65,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 57,
+      "index_hyp": 66,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 58,
+      "index_hyp": 67,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 59,
+      "index_hyp": 68,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 60,
+      "index_hyp": 69,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 61,
+      "index_hyp": 70,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 62,
+      "index_hyp": 71,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 63,
+      "index_hyp": 72,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 64,
+      "index_hyp": 73,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 65,
+      "index_hyp": 74,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 66,
+      "index_hyp": 75,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 67,
+      "index_hyp": 76,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 68,
+      "index_hyp": 77,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 69,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 70,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 71,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 72,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 73,
+      "index_hyp": 82,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 74,
+      "index_hyp": 83,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 75,
+      "index_hyp": 84,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 76,
+      "index_hyp": 85,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 77,
+      "index_hyp": 86,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 78,
+      "index_hyp": 87,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 79,
+      "index_hyp": 88,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 80,
+      "index_hyp": 89,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 81,
+      "index_hyp": 90,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 82,
+      "index_hyp": 91,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 83,
+      "index_hyp": 92,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 84,
+      "index_hyp": 93,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 85,
+      "index_hyp": 94,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 86,
+      "index_hyp": 95,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 87,
+      "index_hyp": 96,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 88,
+      "index_hyp": 97,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 89,
+      "index_hyp": 98,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "match",
+      "index_ref": 90,
+      "index_hyp": 99,
+      "ref_word": "",
+      "hyp_word": "name",
+      "ref_context": "",
+      "hyp_context": "please tell me the product name i'm sorry i can't provide"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 91,
+      "index_hyp": 100,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 92,
+      "index_hyp": 101,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 93,
+      "index_hyp": 102,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 94,
+      "index_hyp": 103,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 95,
+      "index_hyp": 104,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 96,
+      "index_hyp": 105,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 97,
+      "index_hyp": 106,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 98,
+      "index_hyp": 107,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 99,
+      "index_hyp": 108,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 100,
+      "index_hyp": 109,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 101,
+      "index_hyp": 110,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 102,
+      "index_hyp": 111,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 103,
+      "index_hyp": 112,
+      "ref_word": "lakme",
+      "hyp_word": "laamic",
+      "ref_context": "your products i couldn't find lakme in your orders but i",
+      "hyp_context": "your products i couldn't find laamic in your orders but i"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 104,
+      "index_hyp": 113,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 105,
+      "index_hyp": 114,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 106,
+      "index_hyp": 115,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 107,
+      "index_hyp": 116,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 108,
+      "index_hyp": 117,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 109,
+      "index_hyp": 118,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 110,
+      "index_hyp": 119,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 111,
+      "index_hyp": 120,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 112,
+      "index_hyp": 121,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 113,
+      "index_hyp": 122,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 114,
+      "index_hyp": 123,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 115,
+      "index_hyp": 124,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 116,
+      "index_hyp": 125,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 117,
+      "index_hyp": 126,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 118,
+      "index_hyp": 127,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 119,
+      "index_hyp": 128,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 120,
+      "index_hyp": 129,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 121,
+      "index_hyp": 130,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 122,
+      "index_hyp": 131,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 123,
+      "index_hyp": 132,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 124,
+      "index_hyp": 133,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 125,
+      "index_hyp": 134,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "match",
+      "index_ref": 126,
+      "index_hyp": 135,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "from brands like love beauty and planet lakme dressberry lakala and",
+      "hyp_context": "from brands like love beauty & planet lakme dressberry lecalla and"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 127,
+      "index_hyp": 136,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "more details about the product all right could you let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 128,
+      "index_hyp": 136,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 129,
+      "index_hyp": 137,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 130,
+      "index_hyp": 138,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 131,
+      "index_hyp": 139,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 132,
+      "index_hyp": 140,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 133,
+      "index_hyp": 141,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 134,
+      "index_hyp": 142,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 135,
+      "index_hyp": 143,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 136,
+      "index_hyp": 144,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 137,
+      "index_hyp": 145,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 138,
+      "index_hyp": 146,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 139,
+      "index_hyp": 147,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 140,
+      "index_hyp": 148,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 141,
+      "index_hyp": 149,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 142,
+      "index_hyp": 150,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 143,
+      "index_hyp": 151,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 144,
+      "index_hyp": 152,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 145,
+      "index_hyp": 153,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 146,
+      "index_hyp": 154,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 147,
+      "index_hyp": 155,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 148,
+      "index_hyp": 156,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 149,
+      "index_hyp": 157,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 150,
+      "index_hyp": 158,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 151,
+      "index_hyp": 159,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 152,
+      "index_hyp": 160,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 153,
+      "index_hyp": 161,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 154,
+      "index_hyp": 162,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 155,
+      "index_hyp": 163,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 156,
+      "index_hyp": 164,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 157,
+      "index_hyp": 165,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 158,
+      "index_hyp": 166,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 159,
+      "index_hyp": 167,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 160,
+      "index_hyp": 168,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 161,
+      "index_hyp": 169,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 162,
+      "index_hyp": 170,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 163,
+      "index_hyp": 171,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 164,
+      "index_hyp": 172,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 165,
+      "index_hyp": 173,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 166,
+      "index_hyp": 174,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 167,
+      "index_hyp": 175,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 168,
+      "index_hyp": 176,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 169,
+      "index_hyp": 177,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 170,
+      "index_hyp": 178,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 171,
+      "index_hyp": 179,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 172,
+      "index_hyp": 180,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 173,
+      "index_hyp": 181,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 174,
+      "index_hyp": 182,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 175,
+      "index_hyp": 183,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 176,
+      "index_hyp": 184,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 177,
+      "index_hyp": 185,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 178,
+      "index_hyp": 186,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 179,
+      "index_hyp": 187,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "match",
+      "index_ref": 180,
+      "index_hyp": 188,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "details about the product all right could you let me know",
+      "hyp_context": "more details about the product alright could you let me know"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 181,
+      "index_hyp": 189,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "items there's a love beauty and planet argan oil and love",
+      "hyp_context": "items there's a love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "match",
+      "index_ref": 182,
+      "index_hyp": 190,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "items there's a love beauty and planet argan oil and love",
+      "hyp_context": "items there's a love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "match",
+      "index_ref": 183,
+      "index_hyp": 191,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "items there's a love beauty and planet argan oil and love",
+      "hyp_context": "items there's a love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "match",
+      "index_ref": 184,
+      "index_hyp": 192,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "items there's a love beauty and planet argan oil and love",
+      "hyp_context": "items there's a love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "match",
+      "index_ref": 185,
+      "index_hyp": 193,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "items there's a love beauty and planet argan oil and love",
+      "hyp_context": "items there's a love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 186,
+      "index_hyp": 194,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 187,
+      "index_hyp": 195,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 188,
+      "index_hyp": 196,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 189,
+      "index_hyp": 197,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 190,
+      "index_hyp": 198,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 191,
+      "index_hyp": 199,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 192,
+      "index_hyp": 200,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 193,
+      "index_hyp": 201,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 194,
+      "index_hyp": 202,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 195,
+      "index_hyp": 203,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 196,
+      "index_hyp": 204,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "match",
+      "index_ref": 197,
+      "index_hyp": 205,
+      "ref_word": "love",
+      "hyp_word": "lavender",
+      "ref_context": "and planet argan oil and love got it you might be",
+      "hyp_context": "& planet argan oil and lavender got it you might be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 198,
+      "index_hyp": 206,
+      "ref_word": "",
+      "hyp_word": "anti",
+      "ref_context": "",
+      "hyp_context": "to the lakme youth infinity anti aging night cream with proretinol"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 198,
+      "index_hyp": 207,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "to the lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "the lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "match",
+      "index_ref": 199,
+      "index_hyp": 208,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "to the lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "the lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "match",
+      "index_ref": 200,
+      "index_hyp": 209,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "to the lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "the lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "match",
+      "index_ref": 201,
+      "index_hyp": 210,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "to the lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "the lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 202,
+      "index_hyp": 211,
+      "ref_word": "pro",
+      "hyp_word": "",
+      "ref_context": "infinity antiaging night cream with pro retinol c let me check",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 203,
+      "index_hyp": 211,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 204,
+      "index_hyp": 212,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 205,
+      "index_hyp": 213,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 206,
+      "index_hyp": 214,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 207,
+      "index_hyp": 215,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 208,
+      "index_hyp": 216,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 209,
+      "index_hyp": 217,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 210,
+      "index_hyp": 218,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 211,
+      "index_hyp": 219,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 212,
+      "index_hyp": 220,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 213,
+      "index_hyp": 221,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 214,
+      "index_hyp": 222,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 215,
+      "index_hyp": 223,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "match",
+      "index_ref": 216,
+      "index_hyp": 224,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c let me check its",
+      "hyp_context": "anti aging night cream with proretinol c let me check its"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 217,
+      "index_hyp": 225,
+      "ref_word": "",
+      "hyp_word": "anti",
+      "ref_context": "",
+      "hyp_context": "you your lakme youth infinity anti aging night cream with proretinol"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 217,
+      "index_hyp": 226,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "you your lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "your lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "match",
+      "index_ref": 218,
+      "index_hyp": 227,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "you your lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "your lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "match",
+      "index_ref": 219,
+      "index_hyp": 228,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "you your lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "your lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "match",
+      "index_ref": 220,
+      "index_hyp": 229,
+      "ref_word": "antiaging",
+      "hyp_word": "aging",
+      "ref_context": "you your lakme youth infinity antiaging night cream with pro retinol",
+      "hyp_context": "your lakme youth infinity anti aging night cream with proretinol c"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 221,
+      "index_hyp": 230,
+      "ref_word": "pro",
+      "hyp_word": "",
+      "ref_context": "infinity antiaging night cream with pro retinol c 50 gd will",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 222,
+      "index_hyp": 230,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c 50 gd will be",
+      "hyp_context": "anti aging night cream with proretinol c 50g will be delivered"
+    },
+    {
+      "operation": "match",
+      "index_ref": 223,
+      "index_hyp": 231,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c 50 gd will be",
+      "hyp_context": "anti aging night cream with proretinol c 50g will be delivered"
+    },
+    {
+      "operation": "match",
+      "index_ref": 224,
+      "index_hyp": 232,
+      "ref_word": "retinol",
+      "hyp_word": "proretinol",
+      "ref_context": "antiaging night cream with pro retinol c 50 gd will be",
+      "hyp_context": "anti aging night cream with proretinol c 50g will be delivered"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 225,
+      "index_hyp": 233,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 226,
+      "index_hyp": 233,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 227,
+      "index_hyp": 234,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 228,
+      "index_hyp": 235,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 229,
+      "index_hyp": 236,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 230,
+      "index_hyp": 237,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 231,
+      "index_hyp": 238,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 232,
+      "index_hyp": 239,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 233,
+      "index_hyp": 240,
+      "ref_word": "gd",
+      "hyp_word": "",
+      "ref_context": "with pro retinol c 50 gd will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 241,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "on or before 27 july please tell me is there anything"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 242,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "or before 27 july please tell me is there anything else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 243,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "before 27 july please tell me is there anything else i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 244,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "27 july please tell me is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 245,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "july please tell me is there anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 246,
+      "ref_word": "",
+      "hyp_word": "anything",
+      "ref_context": "",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 247,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 248,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "me is there anything else i can help you with sure"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 249,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "is there anything else i can help you with sure what"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 250,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "there anything else i can help you with sure what else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 251,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "anything else i can help you with sure what else can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 234,
+      "index_hyp": 252,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 234,
+      "index_hyp": 253,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 235,
+      "index_hyp": 254,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 236,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 237,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 238,
+      "index_hyp": 257,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 239,
+      "index_hyp": 258,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 240,
+      "index_hyp": 259,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "match",
+      "index_ref": 241,
+      "index_hyp": 260,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with sure what else can i"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 242,
+      "index_hyp": 261,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "can i assist you with all right let me check the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 243,
+      "index_hyp": 261,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 244,
+      "index_hyp": 262,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 245,
+      "index_hyp": 263,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 246,
+      "index_hyp": 264,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 247,
+      "index_hyp": 265,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 248,
+      "index_hyp": 266,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 249,
+      "index_hyp": 267,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 250,
+      "index_hyp": 268,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 251,
+      "index_hyp": 269,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 252,
+      "index_hyp": 270,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "match",
+      "index_ref": 253,
+      "index_hyp": 271,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "i assist you with all right let me check the delivery",
+      "hyp_context": "can i assist you with alright let me check the delivery"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 254,
+      "index_hyp": 272,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "status for your love beauty and planet 10 argan oil and",
+      "hyp_context": "status for your love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "match",
+      "index_ref": 255,
+      "index_hyp": 273,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "status for your love beauty and planet 10 argan oil and",
+      "hyp_context": "status for your love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 256,
+      "index_hyp": 274,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 257,
+      "index_hyp": 274,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 258,
+      "index_hyp": 275,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 259,
+      "index_hyp": 276,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 260,
+      "index_hyp": 277,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 261,
+      "index_hyp": 278,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 262,
+      "index_hyp": 279,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 263,
+      "index_hyp": 280,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 264,
+      "index_hyp": 281,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 265,
+      "index_hyp": 282,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 266,
+      "index_hyp": 283,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 267,
+      "index_hyp": 284,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 268,
+      "index_hyp": 285,
+      "ref_word": "10",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 10 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 269,
+      "index_hyp": 286,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "a moment your love beauty and planet 80 d 80 argan",
+      "hyp_context": "a moment your love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "match",
+      "index_ref": 270,
+      "index_hyp": 287,
+      "ref_word": "and",
+      "hyp_word": "&",
+      "ref_context": "a moment your love beauty and planet 80 d 80 argan",
+      "hyp_context": "a moment your love beauty & planet argan oil and lavender"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 271,
+      "index_hyp": 288,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "your love beauty and planet 80 d 80 argan oil and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 272,
+      "index_hyp": 288,
+      "ref_word": "d",
+      "hyp_word": "",
+      "ref_context": "love beauty and planet 80 d 80 argan oil and lavender",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 273,
+      "index_hyp": 288,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 274,
+      "index_hyp": 288,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 275,
+      "index_hyp": 289,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 276,
+      "index_hyp": 290,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 277,
+      "index_hyp": 291,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 278,
+      "index_hyp": 292,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 279,
+      "index_hyp": 293,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 280,
+      "index_hyp": 294,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 281,
+      "index_hyp": 295,
+      "ref_word": "80",
+      "hyp_word": "",
+      "ref_context": "beauty and planet 80 d 80 argan oil and lavender shampoo",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 282,
+      "index_hyp": 296,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 283,
+      "index_hyp": 296,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 284,
+      "index_hyp": 297,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 285,
+      "index_hyp": 298,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 286,
+      "index_hyp": 299,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 287,
+      "index_hyp": 300,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 288,
+      "index_hyp": 301,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 289,
+      "index_hyp": 302,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 290,
+      "index_hyp": 303,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 291,
+      "index_hyp": 304,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 292,
+      "index_hyp": 305,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 293,
+      "index_hyp": 306,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 294,
+      "index_hyp": 307,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 295,
+      "index_hyp": 308,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 296,
+      "index_hyp": 309,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 297,
+      "index_hyp": 310,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 298,
+      "index_hyp": 311,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 299,
+      "index_hyp": 312,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 300,
+      "index_hyp": 313,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 301,
+      "index_hyp": 314,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 302,
+      "index_hyp": 315,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 303,
+      "index_hyp": 316,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 304,
+      "index_hyp": 317,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 305,
+      "index_hyp": 318,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 306,
+      "index_hyp": 319,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 307,
+      "index_hyp": 320,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 308,
+      "index_hyp": 321,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 309,
+      "index_hyp": 322,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 310,
+      "index_hyp": 323,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 311,
+      "index_hyp": 324,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 312,
+      "index_hyp": 325,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 313,
+      "index_hyp": 326,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 314,
+      "index_hyp": 327,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 315,
+      "index_hyp": 328,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 316,
+      "index_hyp": 329,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 317,
+      "index_hyp": 330,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 318,
+      "index_hyp": 331,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 319,
+      "index_hyp": 332,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 320,
+      "index_hyp": 333,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 321,
+      "index_hyp": 334,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 322,
+      "index_hyp": 335,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 323,
+      "index_hyp": 336,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 324,
+      "index_hyp": 337,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 325,
+      "index_hyp": 338,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 326,
+      "index_hyp": 339,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 327,
+      "index_hyp": 340,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "match",
+      "index_ref": 328,
+      "index_hyp": 341,
+      "ref_word": "400",
+      "hyp_word": "",
+      "ref_context": "lavender shampoo for frizzy hair 400 milli will be delivered on",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "lakme",
+      "hypothesis": "laamic"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "&"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "&"
+    },
+    {
+      "reference": "love",
+      "hypothesis": "lavender"
+    },
+    {
+      "reference": "antiaging",
+      "hypothesis": "aging"
+    },
+    {
+      "reference": "retinol",
+      "hypothesis": "proretinol"
+    },
+    {
+      "reference": "antiaging",
+      "hypothesis": "aging"
+    },
+    {
+      "reference": "retinol",
+      "hypothesis": "proretinol"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "&"
+    },
+    {
+      "reference": "and",
+      "hypothesis": "&"
+    }
+  ],
+  "deletion_words": [
+    "all",
+    "pro",
+    "pro",
+    "gd",
+    "all",
+    "10",
+    "80",
+    "d",
+    "80",
+    "400"
+  ],
+  "insertion_words": [
+    "hey",
+    "could",
+    "you",
+    "please",
+    "tell",
+    "me",
+    "the",
+    "product",
+    "name",
+    "anti",
+    "anti",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with"
+  ]
+}

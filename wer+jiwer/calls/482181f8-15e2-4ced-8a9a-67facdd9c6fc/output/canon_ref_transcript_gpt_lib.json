@@ -1,0 +1,60 @@
+{
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english great how can i help you today got it let me check the status of your order could you confirm the product name or brand name for me let me check on that for you i'll look up the product details for delivery please give me a moment to fetch your products alright i see an item matching your description is it the h&m regular fit roundneck tshirt your h and m regular fit roundneck tshirt is being processed and will be packed by 20 june then delivered by 20 june please tell me is there anything else i can help you with i\u2019m sorry to hear about this issue let\u2019s look into it together could you please tell me the product name or brand name of the order you\u2019re referring to let me check your order details for the mango shirt please hold on for a moment please give me a moment to fetch your products i found a mango item in your order list is it the mango plunge neck ruched top with asymmetric hem i am able to see your refund is processed do you need any further assistance regarding this order got it i can assist you with your orders one by one could you tell me the product name or brand name for the next order you'd like to check please give me a moment to fetch your products i\u2019m sorry i couldn\u2019t find an item matching all about you ethnic top in your return list could you confirm if this was a return query or if you'd like me to check your delivery orders instead please give me a moment to fetch your products i found an item matching your description is it the all about you ethnic printed full puffsleeves casual shirt i can see that your order all about you ethnic printed full puffsleeves casual shirt has already been delivered do you need any further assistance regarding this order i\u2019m sorry to hear about this issue do you want me to connect you to another agent who can assist you in resolving the matter",
+  "entities": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORG"
+    },
+    {
+      "index": 27,
+      "value": "h&m",
+      "type": "ORG"
+    },
+    {
+      "index": 33,
+      "value": "h and m",
+      "type": "ORG"
+    },
+    {
+      "index": 45,
+      "value": "20 june",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 49,
+      "value": "20 june",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 73,
+      "value": "mango",
+      "type": "ORG"
+    },
+    {
+      "index": 83,
+      "value": "mango",
+      "type": "ORG"
+    },
+    {
+      "index": 108,
+      "value": "all about you",
+      "type": "ORG"
+    },
+    {
+      "index": 130,
+      "value": "all about you",
+      "type": "ORG"
+    },
+    {
+      "index": 142,
+      "value": "all about you",
+      "type": "ORG"
+    }
+  ]
+}

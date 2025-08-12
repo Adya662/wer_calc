@@ -1,0 +1,464 @@
+{
+  "wer": 0.0782122905027933,
+  "insertions": 18,
+  "deletions": 14,
+  "substitutions": 10,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hello",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "this",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow am"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow am i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 3,
+      "ref_word": "",
+      "hyp_word": "priya",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow am i speaking"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 4,
+      "ref_word": "",
+      "hyp_word": "from",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 5,
+      "ref_word": "",
+      "hyp_word": "elevatenow",
+      "ref_context": "",
+      "hyp_context": "hello this is priya from elevatenow am i speaking with niketa"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 6,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with niketa great"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 7,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "is priya from elevatenow am i speaking with niketa great i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "speaking",
+      "ref_context": "",
+      "hyp_context": "priya from elevatenow am i speaking with niketa great i noticed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "from elevatenow am i speaking with niketa great i noticed you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 10,
+      "ref_word": "",
+      "hyp_word": "niketa",
+      "ref_context": "",
+      "hyp_context": "elevatenow am i speaking with niketa great i noticed you were"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 15,
+      "index_hyp": 26,
+      "ref_word": "id",
+      "hyp_word": "i'd",
+      "ref_context": "but didnt complete the payment id love to understand what motivated",
+      "hyp_context": "but didn't complete the payment i'd love to understand what motivated"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 33,
+      "index_hyp": 44,
+      "ref_word": "hello",
+      "hyp_word": "",
+      "ref_context": "your weight loss goals are hello this is priya from elevate",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 34,
+      "index_hyp": 44,
+      "ref_word": "this",
+      "hyp_word": "",
+      "ref_context": "weight loss goals are hello this is priya from elevate now",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 35,
+      "index_hyp": 44,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "loss goals are hello this is priya from elevate now am",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 36,
+      "index_hyp": 44,
+      "ref_word": "priya",
+      "hyp_word": "",
+      "ref_context": "goals are hello this is priya from elevate now am i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 37,
+      "index_hyp": 44,
+      "ref_word": "from",
+      "hyp_word": "",
+      "ref_context": "are hello this is priya from elevate now am i speaking",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 38,
+      "index_hyp": 44,
+      "ref_word": "elevate",
+      "hyp_word": "",
+      "ref_context": "hello this is priya from elevate now am i speaking with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 39,
+      "index_hyp": 44,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with nikita",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 40,
+      "index_hyp": 44,
+      "ref_word": "am",
+      "hyp_word": "",
+      "ref_context": "is priya from elevate now am i speaking with nikita the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 41,
+      "index_hyp": 44,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "priya from elevate now am i speaking with nikita the nano",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 42,
+      "index_hyp": 44,
+      "ref_word": "speaking",
+      "hyp_word": "",
+      "ref_context": "from elevate now am i speaking with nikita the nano plan",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 43,
+      "index_hyp": 44,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "elevate now am i speaking with nikita the nano plan is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 44,
+      "index_hyp": 44,
+      "ref_word": "nikita",
+      "hyp_word": "",
+      "ref_context": "now am i speaking with nikita the nano plan is designed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 72,
+      "index_hyp": 71,
+      "ref_word": "45",
+      "hyp_word": "fortyfive",
+      "ref_context": "which typically lasts 30 to 45 minutes from there youll have",
+      "hyp_context": "which typically lasts thirty to fortyfive minutes from there you'll have"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 129,
+      "index_hyp": 128,
+      "ref_word": "then",
+      "hyp_word": "the",
+      "ref_context": "offerings of the nano plan then nano plan is designed i",
+      "hyp_context": "offerings of the nano plan the nano plan is designed to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 134,
+      "index_hyp": 133,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "the nano plan is designed to be i noticed you've been"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 134,
+      "index_hyp": 134,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "nano plan is designed to be i noticed you've been quiet"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 263,
+      "index_hyp": 264,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "to discuss the pricing information all right if theres anything specific",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 264,
+      "index_hyp": 264,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "discuss the pricing information all right if theres anything specific youd",
+      "hyp_context": "to discuss the pricing information alright if there's anything specific you'd"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 283,
+      "index_hyp": 283,
+      "ref_word": "im",
+      "hyp_word": "i'm",
+      "ref_context": "doubts feel free to ask im here to help you understand",
+      "hyp_context": "doubts feel free to ask i'm here to help you understand"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 361,
+      "index_hyp": 361,
+      "ref_word": "im",
+      "hyp_word": "i'm",
+      "ref_context": "clarification feel free to ask im here to help the personalized",
+      "hyp_context": "clarification feel free to ask i'm here to help the personalized"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 444,
+      "index_hyp": 444,
+      "ref_word": "im",
+      "hyp_word": "i'm",
+      "ref_context": "else just let me know im here to help the nano",
+      "hyp_context": "else just let me know i'm here to help the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 454,
+      "index_hyp": 454,
+      "ref_word": "",
+      "hyp_word": "rupees",
+      "ref_context": "",
+      "hyp_context": "nano plan is priced at rupees one thousand seven hundred ninetynine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 454,
+      "index_hyp": 455,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "plan is priced at rupees one thousand seven hundred ninetynine offering"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 454,
+      "index_hyp": 456,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "is priced at rupees one thousand seven hundred ninetynine offering a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 454,
+      "index_hyp": 457,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "priced at rupees one thousand seven hundred ninetynine offering a comprehensive"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 454,
+      "index_hyp": 458,
+      "ref_word": "rs",
+      "hyp_word": "hundred",
+      "ref_context": "nano plan is priced at rs 1799 offering a comprehensive set",
+      "hyp_context": "at rupees one thousand seven hundred ninetynine offering a comprehensive set"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 455,
+      "index_hyp": 459,
+      "ref_word": "1799",
+      "hyp_word": "ninetynine",
+      "ref_context": "plan is priced at rs 1799 offering a comprehensive set of",
+      "hyp_context": "rupees one thousand seven hundred ninetynine offering a comprehensive set of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 468,
+      "index_hyp": 472,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "typically cost much more individually you have the option to pay"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 508,
+      "index_hyp": 513,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "proceed with the payment process all right if youre ready to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 509,
+      "index_hyp": 513,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "with the payment process all right if youre ready to proceed",
+      "hyp_context": "proceed with the payment process alright if you're ready to proceed"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "id",
+      "hypothesis": "i'd"
+    },
+    {
+      "reference": "45",
+      "hypothesis": "fortyfive"
+    },
+    {
+      "reference": "then",
+      "hypothesis": "the"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "i'm"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "i'm"
+    },
+    {
+      "reference": "im",
+      "hypothesis": "i'm"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "hundred"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "ninetynine"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    }
+  ],
+  "deletion_words": [
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevate",
+    "now",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "nikita",
+    "all",
+    "all"
+  ],
+  "insertion_words": [
+    "hello",
+    "this",
+    "is",
+    "priya",
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "niketa",
+    "to",
+    "be",
+    "rupees",
+    "one",
+    "thousand",
+    "seven",
+    "you"
+  ]
+}

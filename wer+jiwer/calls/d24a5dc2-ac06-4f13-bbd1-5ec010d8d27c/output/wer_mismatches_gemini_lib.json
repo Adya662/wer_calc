@@ -1,0 +1,119 @@
+{
+  "wer": 0.016363636363636365,
+  "insertions": 2,
+  "deletions": 2,
+  "substitutions": 5,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with nupur",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 92,
+      "index_hyp": 91,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "slow metabolism due to iron and vitamin d deficiency our program",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 143,
+      "index_hyp": 141,
+      "ref_word": "",
+      "hyp_word": "were",
+      "ref_context": "",
+      "hyp_context": "weight loss programs if so were youre in the right place"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 276,
+      "index_hyp": 275,
+      "ref_word": "rs",
+      "hyp_word": "rupees",
+      "ref_context": "nano plan is priced at rs 1799 which includes the blood",
+      "hyp_context": "nano plan is priced at rupees 1799 which includes the blood"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 305,
+      "index_hyp": 304,
+      "ref_word": "rs",
+      "hyp_word": "rupees",
+      "ref_context": "which can total up to rs 6000 this makes our plan",
+      "hyp_context": "which can total up to rupees 6000 this makes our plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 333,
+      "index_hyp": 332,
+      "ref_word": "",
+      "hyp_word": "any",
+      "ref_context": "",
+      "hyp_context": "no worries if you have any more questions or need further"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 333,
+      "index_hyp": 333,
+      "ref_word": "anymore",
+      "hyp_word": "more",
+      "ref_context": "no worries if you have anymore questions or need further information",
+      "hyp_context": "worries if you have any more questions or need further information"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 352,
+      "index_hyp": 352,
+      "ref_word": "whenever",
+      "hyp_word": "you",
+      "ref_context": "out im here to help whenever you are ready goodbye and",
+      "hyp_context": "out im here to help you whenever youre ready goodbye and"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 353,
+      "index_hyp": 353,
+      "ref_word": "you",
+      "hyp_word": "whenever",
+      "ref_context": "im here to help whenever you are ready goodbye and have",
+      "hyp_context": "im here to help you whenever youre ready goodbye and have"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "rs",
+      "hypothesis": "rupees"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "rupees"
+    },
+    {
+      "reference": "anymore",
+      "hypothesis": "more"
+    },
+    {
+      "reference": "whenever",
+      "hypothesis": "you"
+    },
+    {
+      "reference": "you",
+      "hypothesis": "whenever"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "and"
+  ],
+  "insertion_words": [
+    "were",
+    "any"
+  ]
+}

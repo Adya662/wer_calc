@@ -1,0 +1,99 @@
+{
+  "wer": 0.014675052410901468,
+  "insertions": 1,
+  "deletions": 1,
+  "substitutions": 5,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with yogesh",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 37,
+      "index_hyp": 36,
+      "ref_word": "id",
+      "hyp_word": "i'd",
+      "ref_context": "but didnt complete the payment id love to understand what motivated",
+      "hyp_context": "but didn't complete the payment i'd love to understand what motivated"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 302,
+      "index_hyp": 301,
+      "ref_word": "rs",
+      "hyp_word": "rupees",
+      "ref_context": "designed to be affordable at rs 1799 including the blood test",
+      "hyp_context": "designed to be affordable at rupees 1799 including the blood test"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 335,
+      "index_hyp": 334,
+      "ref_word": "rs",
+      "hyp_word": "rupees",
+      "ref_context": "cost which can be around rs 6000 otherwise what do you",
+      "hyp_context": "cost which can be around rupees 6000 otherwise what do you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 382,
+      "index_hyp": 381,
+      "ref_word": "",
+      "hyp_word": "great",
+      "ref_context": "",
+      "hyp_context": "to proceed with the payment great you can choose between two"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 416,
+      "index_hyp": 416,
+      "ref_word": "ill",
+      "hyp_word": "i'll",
+      "ref_context": "payment of rupees 1799 upfront ill send both payment links to",
+      "hyp_context": "payment of rupees 1799 upfront i'll send both payment links to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 438,
+      "index_hyp": 438,
+      "ref_word": "ill",
+      "hyp_word": "i'll",
+      "ref_context": "questions before we proceed perfect ill send the payment links to",
+      "hyp_context": "questions before we proceed perfect i'll send the payment links to"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "id",
+      "hypothesis": "i'd"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "rupees"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "rupees"
+    },
+    {
+      "reference": "ill",
+      "hypothesis": "i'll"
+    },
+    {
+      "reference": "ill",
+      "hypothesis": "i'll"
+    }
+  ],
+  "deletion_words": [
+    "now"
+  ],
+  "insertion_words": [
+    "great"
+  ]
+}

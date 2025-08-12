@@ -1,0 +1,135 @@
+{
+  "canonical_transcript": "hello this is priya from elevate now am i speaking with munira mandviwala great i noticed you were checking out our nano plan but didn't complete the payment i'd love to understand what motivated you to consider our program and what your weight loss goals are i noticed you've been quiet are you still there based on your bmi it's clear your body might be facing some metabolic challenges that can affect weight loss the nano plan is designed to tackle these issues and support your goals could you share more about what you're aiming to achieve with your weight loss journey got it your bmi indicates that tackling specific metabolic challenges can really make a difference have you tried any weight loss programs before you're in the right place then our nano plan starts with a blood test followed by a consultation with an obesity specialist doctor and a session with a senior i noticed you've been quiet are you still there great our nano plan starts with a blood test followed by a consultation with an obesity specialist doctor and a session with a senior health coach unless you have any specific questions about these offerings can i explain how they can help you achieve your weight loss goals sure the blood test identifies key issues like insulin resistance and hormonal imbalances that might be affecting your weight the doctor will review these results with you explaining the impact on your health then our senior health coach will create a personalized plan to address these challenges and guide you towards sustainable weight loss now that we've covered the offerings would you like me to explain the pricing the nano plan costs rupees 1799 which includes the blood test doctor consultation and health coach session compared to individual market prices which total around rupees 6000 our plan offers significant savings would you like to know about the payment options you can either make a partial payment of rupees 499 now and pay the remaining rupees 1399 at the time of blood sample collection totaling to rupees 1898 or you can pay the full amount of rupees 1799 up front i'll send both payment links to your registered mobile number via whatsapp do you have any more questions i'll send you the payment links on your registered mobile number if you have any questions in the future feel free to reach out goodbye and have a great day you're welcome goodbye and have a great day hello this is priya from elevate now am i speaking with munira mandviwala",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 14,
+      "value": "munira mandviwala",
+      "type": "PERSON"
+    },
+    {
+      "index": 22,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "bmi",
+      "type": "OTHER"
+    },
+    {
+      "index": 78,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "bmi",
+      "type": "OTHER"
+    },
+    {
+      "index": 134,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 152,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 162,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 170,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 192,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 196,
+      "value": "hormonal imbalances",
+      "type": "OTHER"
+    },
+    {
+      "index": 204,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 227,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 233,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 243,
+      "value": "rupees 6000",
+      "type": "MONEY"
+    },
+    {
+      "index": 259,
+      "value": "rupees 499",
+      "type": "MONEY"
+    },
+    {
+      "index": 265,
+      "value": "rupees 1399",
+      "type": "MONEY"
+    },
+    {
+      "index": 269,
+      "value": "rupees 1898",
+      "type": "MONEY"
+    },
+    {
+      "index": 273,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 282,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 301,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 303,
+      "value": "elevate now",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 310,
+      "value": "munira mandviwala",
+      "type": "PERSON"
+    }
+  ]
+}

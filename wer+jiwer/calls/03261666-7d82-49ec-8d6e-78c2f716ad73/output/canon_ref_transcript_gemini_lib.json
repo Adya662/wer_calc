@@ -1,0 +1,50 @@
+{
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english thik hai main aapki kaise madad namaste main aapke order ke sath kaise aage madad kar sakti hun main aapke order ka status check karne mein help kar sakti hun kripya product ka naam ya brand name bata sakte hain namaste main aapke order ke sath kaise aage madad kar sakti hun bilkul main aapke product ka status check karne mein aapki madad kar sakti hun kripya mujhe product ka naam ya brand name bata sakte hain namaste main aapke order ke sath kaise aage madad kar sakti hun bilkul main aapki madad kar sakti hun thik thoda intezar kijiye main aapke products la rahi hun thoda intezar kijiye main aapke products la rahi hun kya aap a t u n brand ke black net dress ke bare mein puch rahe hain aapka a t u n black net dress 8 july ya usse pahle deliver kar diya jayega kripya bataiye kya main aapki kisi aur chiz mein madad kar sakti hun kya aap kisi any agent se baat karna chahte hain jo aapki behtar madad kar sake simulating human transfer simulating human transfer",
+  "entities": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 18,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 20,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 108,
+      "value": "a t u n",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 110,
+      "value": "black net dress",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 122,
+      "value": "a t u n",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 124,
+      "value": "black net dress",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 126,
+      "value": "8 july",
+      "type": "DATE"
+    }
+  ]
+}

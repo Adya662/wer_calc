@@ -1,0 +1,90 @@
+{
+  "wer": 0.018666666666666668,
+  "insertions": 4,
+  "deletions": 1,
+  "substitutions": 2,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 69,
+      "index_hyp": 70,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "moment to fetch your products all right i see an item",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 70,
+      "index_hyp": 70,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "to fetch your products all right i see an item matching",
+      "hyp_context": "moment to fetch your products alright i see an item matching"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 88,
+      "index_hyp": 88,
+      "ref_word": "",
+      "hyp_word": "t",
+      "ref_context": "",
+      "hyp_context": "m regular fit round neck t shirt your ech end em"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 90,
+      "index_hyp": 91,
+      "ref_word": "h",
+      "hyp_word": "ech",
+      "ref_context": "fit round neck tshirt your h and m regular fit round",
+      "hyp_context": "round neck t shirt your ech end em regular fit round"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 97,
+      "index_hyp": 98,
+      "ref_word": "",
+      "hyp_word": "t",
+      "ref_context": "",
+      "hyp_context": "em regular fit round neck t shirt is being processed and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 199,
+      "index_hyp": 201,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "ruched top with asymmetric hem i am able to see your"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "h",
+      "hypothesis": "ech"
+    }
+  ],
+  "deletion_words": [
+    "all"
+  ],
+  "insertion_words": [
+    "hey",
+    "t",
+    "t",
+    "i"
+  ]
+}

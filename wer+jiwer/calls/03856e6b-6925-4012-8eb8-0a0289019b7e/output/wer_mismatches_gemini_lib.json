@@ -1,0 +1,683 @@
+{
+  "wer": 0.15903614457831325,
+  "insertions": 60,
+  "deletions": 3,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 3,
+      "ref_word": "",
+      "hyp_word": "from",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 4,
+      "ref_word": "",
+      "hyp_word": "elevatenow",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with atul"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 5,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "this is priya from elevatenow am i speaking with atul sinha"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 6,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "is priya from elevatenow am i speaking with atul sinha this"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 7,
+      "ref_word": "",
+      "hyp_word": "speaking",
+      "ref_context": "",
+      "hyp_context": "priya from elevatenow am i speaking with atul sinha this is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "from elevatenow am i speaking with atul sinha this is priya"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "atul",
+      "ref_context": "",
+      "hyp_context": "elevatenow am i speaking with atul sinha this is priya from"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 3,
+      "index_hyp": 10,
+      "ref_word": "",
+      "hyp_word": "sinha",
+      "ref_context": "",
+      "hyp_context": "am i speaking with atul sinha this is priya from elevatenow"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 8,
+      "index_hyp": 16,
+      "ref_word": "now",
+      "hyp_word": "am",
+      "ref_context": "this is priya from elevate now this is priya from elevate",
+      "hyp_context": "this is priya from elevatenow am this is priya from elevatenow"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 14,
+      "index_hyp": 22,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with atul",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 26,
+      "index_hyp": 33,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with atul",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 65,
+      "index_hyp": 71,
+      "ref_word": "",
+      "hyp_word": "are",
+      "ref_context": "",
+      "hyp_context": "what your weight loss goals are we are serviceable for most"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 65,
+      "index_hyp": 72,
+      "ref_word": "",
+      "hyp_word": "we",
+      "ref_context": "",
+      "hyp_context": "your weight loss goals are we are serviceable for most parts"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 74,
+      "ref_word": "",
+      "hyp_word": "serviceable",
+      "ref_context": "",
+      "hyp_context": "loss goals are we are serviceable for most parts of india"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 75,
+      "ref_word": "",
+      "hyp_word": "for",
+      "ref_context": "",
+      "hyp_context": "goals are we are serviceable for most parts of india including"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 76,
+      "ref_word": "",
+      "hyp_word": "most",
+      "ref_context": "",
+      "hyp_context": "are we are serviceable for most parts of india including patna"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 77,
+      "ref_word": "",
+      "hyp_word": "parts",
+      "ref_context": "",
+      "hyp_context": "we are serviceable for most parts of india including patna as"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "are serviceable for most parts of india including patna as we"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "india",
+      "ref_context": "",
+      "hyp_context": "serviceable for most parts of india including patna as we have"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "including",
+      "ref_context": "",
+      "hyp_context": "for most parts of india including patna as we have partnered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "patna",
+      "ref_context": "",
+      "hyp_context": "most parts of india including patna as we have partnered with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 82,
+      "ref_word": "",
+      "hyp_word": "as",
+      "ref_context": "",
+      "hyp_context": "parts of india including patna as we have partnered with several"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 83,
+      "ref_word": "",
+      "hyp_word": "we",
+      "ref_context": "",
+      "hyp_context": "of india including patna as we have partnered with several lab"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 84,
+      "ref_word": "",
+      "hyp_word": "have",
+      "ref_context": "",
+      "hyp_context": "india including patna as we have partnered with several lab test"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 85,
+      "ref_word": "",
+      "hyp_word": "partnered",
+      "ref_context": "",
+      "hyp_context": "including patna as we have partnered with several lab test providers"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 86,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "patna as we have partnered with several lab test providers you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 87,
+      "ref_word": "",
+      "hyp_word": "several",
+      "ref_context": "",
+      "hyp_context": "as we have partnered with several lab test providers you can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 88,
+      "ref_word": "",
+      "hyp_word": "lab",
+      "ref_context": "",
+      "hyp_context": "we have partnered with several lab test providers you can definitely"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 89,
+      "ref_word": "",
+      "hyp_word": "test",
+      "ref_context": "",
+      "hyp_context": "have partnered with several lab test providers you can definitely access"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 90,
+      "ref_word": "",
+      "hyp_word": "providers",
+      "ref_context": "",
+      "hyp_context": "partnered with several lab test providers you can definitely access the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 91,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "with several lab test providers you can definitely access the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 92,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "several lab test providers you can definitely access the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 93,
+      "ref_word": "",
+      "hyp_word": "definitely",
+      "ref_context": "",
+      "hyp_context": "lab test providers you can definitely access the nano plan there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 94,
+      "ref_word": "",
+      "hyp_word": "access",
+      "ref_context": "",
+      "hyp_context": "test providers you can definitely access the nano plan there would"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 95,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "providers you can definitely access the nano plan there would you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 96,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "you can definitely access the nano plan there would you like"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 97,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "can definitely access the nano plan there would you like to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 98,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "definitely access the nano plan there would you like to know"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 99,
+      "ref_word": "",
+      "hyp_word": "would",
+      "ref_context": "",
+      "hyp_context": "access the nano plan there would you like to know more"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 100,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "the nano plan there would you like to know more about"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 101,
+      "ref_word": "",
+      "hyp_word": "like",
+      "ref_context": "",
+      "hyp_context": "nano plan there would you like to know more about how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 102,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "plan there would you like to know more about how it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 103,
+      "ref_word": "",
+      "hyp_word": "know",
+      "ref_context": "",
+      "hyp_context": "there would you like to know more about how it can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 104,
+      "ref_word": "",
+      "hyp_word": "more",
+      "ref_context": "",
+      "hyp_context": "would you like to know more about how it can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 66,
+      "index_hyp": 105,
+      "ref_word": "",
+      "hyp_word": "about",
+      "ref_context": "",
+      "hyp_context": "you like to know more about how it can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 107,
+      "ref_word": "",
+      "hyp_word": "it",
+      "ref_context": "",
+      "hyp_context": "to know more about how it can help you achieve your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 108,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "know more about how it can help you achieve your weight"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 109,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "more about how it can help you achieve your weight loss"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 110,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "about how it can help you achieve your weight loss goals"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 111,
+      "ref_word": "",
+      "hyp_word": "achieve",
+      "ref_context": "",
+      "hyp_context": "how it can help you achieve your weight loss goals the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 112,
+      "ref_word": "",
+      "hyp_word": "your",
+      "ref_context": "",
+      "hyp_context": "it can help you achieve your weight loss goals the nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 113,
+      "ref_word": "",
+      "hyp_word": "weight",
+      "ref_context": "",
+      "hyp_context": "can help you achieve your weight loss goals the nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 114,
+      "ref_word": "",
+      "hyp_word": "loss",
+      "ref_context": "",
+      "hyp_context": "help you achieve your weight loss goals the nano plan is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 115,
+      "ref_word": "",
+      "hyp_word": "goals",
+      "ref_context": "",
+      "hyp_context": "you achieve your weight loss goals the nano plan is supervised"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 67,
+      "index_hyp": 116,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "achieve your weight loss goals the nano plan is supervised by"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 86,
+      "index_hyp": 136,
+      "ref_word": "",
+      "hyp_word": "pre",
+      "ref_context": "",
+      "hyp_context": "be safe and simple all pre existing conditions including a kidney"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 86,
+      "index_hyp": 137,
+      "ref_word": "preexisting",
+      "hyp_word": "existing",
+      "ref_context": "be safe and simple all preexisting conditions including a kidney transplant",
+      "hyp_context": "safe and simple all pre existing conditions including a kidney transplant"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 156,
+      "index_hyp": 207,
+      "ref_word": "y",
+      "hyp_word": "1",
+      "ref_context": "at this obesity stage category y most people struggle with insulin",
+      "hyp_context": "at this obesity stage category 1 most people struggle with insulin"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 216,
+      "index_hyp": 267,
+      "ref_word": "",
+      "hyp_word": "our",
+      "ref_context": "",
+      "hyp_context": "had some success with healthifi our nano plan is designed to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 311,
+      "index_hyp": 363,
+      "ref_word": "",
+      "hyp_word": "endocrinology",
+      "ref_context": "",
+      "hyp_context": "extensive experience in fields like endocrinology diabetes thats great to hear"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 311,
+      "index_hyp": 364,
+      "ref_word": "",
+      "hyp_word": "diabetes",
+      "ref_context": "",
+      "hyp_context": "experience in fields like endocrinology diabetes thats great to hear you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 319,
+      "index_hyp": 373,
+      "ref_word": "",
+      "hyp_word": "partial",
+      "ref_context": "",
+      "hyp_context": "hear you can choose between partial or full ill send both"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 319,
+      "index_hyp": 374,
+      "ref_word": "",
+      "hyp_word": "or",
+      "ref_context": "",
+      "hyp_context": "you can choose between partial or full ill send both the"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 319,
+      "index_hyp": 375,
+      "ref_word": "",
+      "hyp_word": "full",
+      "ref_context": "",
+      "hyp_context": "can choose between partial or full ill send both the payment"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 383,
+      "index_hyp": 440,
+      "ref_word": "",
+      "hyp_word": "youre",
+      "ref_context": "",
+      "hyp_context": "and have a great day youre i am elevatenows ai assisted"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 386,
+      "index_hyp": 444,
+      "ref_word": "nows",
+      "hyp_word": "",
+      "ref_context": "great day i am elevate nows ai assisted health expert here",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "now",
+      "hypothesis": "am"
+    },
+    {
+      "reference": "preexisting",
+      "hypothesis": "existing"
+    },
+    {
+      "reference": "y",
+      "hypothesis": "1"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "now",
+    "nows"
+  ],
+  "insertion_words": [
+    "from",
+    "elevatenow",
+    "am",
+    "i",
+    "speaking",
+    "with",
+    "atul",
+    "sinha",
+    "are",
+    "we",
+    "serviceable",
+    "for",
+    "most",
+    "parts",
+    "of",
+    "india",
+    "including",
+    "patna",
+    "as",
+    "we",
+    "have",
+    "partnered",
+    "with",
+    "several",
+    "lab",
+    "test",
+    "providers",
+    "you",
+    "can",
+    "definitely",
+    "access",
+    "the",
+    "nano",
+    "plan",
+    "there",
+    "would",
+    "you",
+    "like",
+    "to",
+    "know",
+    "more",
+    "about",
+    "it",
+    "can",
+    "help",
+    "you",
+    "achieve",
+    "your",
+    "weight",
+    "loss",
+    "goals",
+    "the",
+    "pre",
+    "our",
+    "endocrinology",
+    "diabetes",
+    "partial",
+    "or",
+    "full",
+    "youre"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "canonical_transcript": "hello this is priya from elevate now am i speaking with minal jani i noticed youve been quiet are you still there great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are the nano plan includes a blood test a consultation with an obesity specialist doctor and a session with a senior health coach these offerings are designed to uncover the root causes of weight gain and create a personalized weight loss road map would you like me to explain how these can help you achieve your weight loss goals absolutely the nano plan is designed to fit into your lifestyle it focuses on understanding the root causes of weight gain and provides personalized guidance that doesnt solely rely on exercise our health coach will help you make lifestyle choices that align with your schedule and needs would you like to know more about how this plan can work for you the nano plan starts with a blood test to identify key issues like insulin resistance or hormonal imbalances then an obesity specialist doctor will explain your results and a senior health coach will create a personalized weight loss plan tailored to your needs this personalized approach helps you achieve sustainable weight loss without having to rely heavily on exercise now would you like to hear about the pricing and how its more affordable compared to other options the nano plan costs rupees 1799 which includes the blood test doctor consultation and health court session this is a 1 time payment offering you access to premium services at a fraction of the market cost its designed to be affordable and provides great value compared to other programs does this sound like a plan that would meet your needs sure he nano plan costs rs 1799 now that now that we have cover now that weve covered all the details what do you think about the nano plan i believe it can be really helpful for you to achieve your weight loss goals great to proceed you can choose between two payment options a partial payment of 499 rupees now with the remaining amount at the time of blood sample collection or a full payment of 1799 rupees up front ill send you the payment links on whatsapp do you have any more questions main samajhti hun ki aap kuchh aur jankari chahti hain nano plan ek comprehensive approach hai jo aapke metabolic i understand your concern the nano plan is designed to address weight loss comprehensively by identifying the root causes and providing personalized guidance would you like to discuss any specific aspect youre unsure about or do you need further clarification i noticed youve been quiet are you still there",
+  "entities": [
+    {
+      "index": 7,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 10,
+      "value": "elevate now",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 16,
+      "value": "minal jani",
+      "type": "PERSON"
+    },
+    {
+      "index": 33,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 86,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 140,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 240,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 302,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 303,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 339,
+      "value": "1",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 368,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 375,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 377,
+      "value": "rs",
+      "type": "MONEY"
+    },
+    {
+      "index": 405,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 448,
+      "value": "499",
+      "type": "MONEY"
+    },
+    {
+      "index": 450,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 476,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 478,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 489,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 503,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 540,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ]
+}

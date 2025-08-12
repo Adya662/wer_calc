@@ -1,0 +1,136 @@
+{
+  "wer": 0.02240325865580448,
+  "insertions": 2,
+  "deletions": 5,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking great i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 9,
+      "index_hyp": 8,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "from elevatenow am i speaking with nidhi great i noticed you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 9,
+      "index_hyp": 9,
+      "ref_word": "",
+      "hyp_word": "nidhi",
+      "ref_context": "",
+      "hyp_context": "elevatenow am i speaking with nidhi great i noticed you were"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 64,
+      "index_hyp": 65,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "weight and metabolism right now we are genuinely excited to support",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 229,
+      "index_hyp": 229,
+      "ref_word": "hen",
+      "hyp_word": "then",
+      "ref_context": "might be affecting your weight hen a doctor specializing in obesity",
+      "hyp_context": "might be affecting your weight then a doctor specializing in obesity"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 246,
+      "index_hyp": 246,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "detail to create a personalized road map tailored to your needs",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 247,
+      "index_hyp": 246,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "to create a personalized road map tailored to your needs finally",
+      "hyp_context": "detail to create a personalized roadmap tailored to your needs finally"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 377,
+      "index_hyp": 376,
+      "ref_word": "up",
+      "hyp_word": "",
+      "ref_context": "full payment of rupees 1799 up front or opt for a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 378,
+      "index_hyp": 376,
+      "ref_word": "front",
+      "hyp_word": "upfront",
+      "ref_context": "payment of rupees 1799 up front or opt for a partial",
+      "hyp_context": "full payment of rupees 1799 upfront or opt for a partial"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 489,
+      "index_hyp": 487,
+      "ref_word": "good",
+      "hyp_word": "",
+      "ref_context": "ill end the call now good bye",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 490,
+      "index_hyp": 487,
+      "ref_word": "bye",
+      "hyp_word": "goodbye",
+      "ref_context": "end the call now good bye",
+      "hyp_context": "ill end the call now goodbye"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "hen",
+      "hypothesis": "then"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "front",
+      "hypothesis": "upfront"
+    },
+    {
+      "reference": "bye",
+      "hypothesis": "goodbye"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "we",
+    "road",
+    "up",
+    "good"
+  ],
+  "insertion_words": [
+    "with",
+    "nidhi"
+  ]
+}

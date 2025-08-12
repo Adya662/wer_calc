@@ -1,0 +1,195 @@
+{
+  "wer": 0.06204379562043796,
+  "insertions": 13,
+  "deletions": 0,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from myntra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 69,
+      "index_hyp": 70,
+      "ref_word": "",
+      "hyp_word": "5",
+      "ref_context": "",
+      "hyp_context": "ordered on june eighteenth at 5 5 pm is this the"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 69,
+      "index_hyp": 71,
+      "ref_word": "505",
+      "hyp_word": "5",
+      "ref_context": "ordered on june 18th at 505 pm your kook n keech",
+      "hyp_context": "on june eighteenth at 5 5 pm is this the item"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 73,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "eighteenth at 5 5 pm is this the item you created"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 74,
+      "ref_word": "",
+      "hyp_word": "this",
+      "ref_context": "",
+      "hyp_context": "at 5 5 pm is this the item you created a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 75,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "5 5 pm is this the item you created a return"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 76,
+      "ref_word": "",
+      "hyp_word": "item",
+      "ref_context": "",
+      "hyp_context": "5 pm is this the item you created a return for"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 77,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "pm is this the item you created a return for your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "created",
+      "ref_context": "",
+      "hyp_context": "is this the item you created a return for your kuk"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "this the item you created a return for your kuk end"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "return",
+      "ref_context": "",
+      "hyp_context": "the item you created a return for your kuk end keech"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 71,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "for",
+      "ref_context": "",
+      "hyp_context": "item you created a return for your kuk end keech urban"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 73,
+      "index_hyp": 84,
+      "ref_word": "n",
+      "hyp_word": "end",
+      "ref_context": "at 505 pm your kook n keech urban edge printed relaxed",
+      "hyp_context": "a return for your kuk end keech urban edge printed relaxed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 175,
+      "index_hyp": 186,
+      "ref_word": "",
+      "hyp_word": "sasa",
+      "ref_context": "",
+      "hyp_context": "find a product matching masculincaline sasa fars in your order list"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 175,
+      "index_hyp": 187,
+      "ref_word": "sasafers",
+      "hyp_word": "fars",
+      "ref_context": "find a product matching masculine sasafers in your order list either",
+      "hyp_context": "a product matching masculincaline sasa fars in your order list either"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 253,
+      "index_hyp": 265,
+      "ref_word": "",
+      "hyp_word": "un",
+      "ref_context": "",
+      "hyp_context": "i couldnt find products matching un rl in your order list"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 253,
+      "index_hyp": 266,
+      "ref_word": "unrl",
+      "hyp_word": "rl",
+      "ref_context": "i couldnt find products matching unrl in your order list either",
+      "hyp_context": "couldnt find products matching un rl in your order list either"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "505",
+      "hypothesis": "5"
+    },
+    {
+      "reference": "n",
+      "hypothesis": "end"
+    },
+    {
+      "reference": "sasafers",
+      "hypothesis": "fars"
+    },
+    {
+      "reference": "unrl",
+      "hypothesis": "rl"
+    }
+  ],
+  "deletion_words": [],
+  "insertion_words": [
+    "hey",
+    "5",
+    "is",
+    "this",
+    "the",
+    "item",
+    "you",
+    "created",
+    "a",
+    "return",
+    "for",
+    "sasa",
+    "un"
+  ]
+}

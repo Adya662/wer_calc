@@ -1,0 +1,225 @@
+{
+  "wer": 0.04668304668304668,
+  "insertions": 9,
+  "deletions": 3,
+  "substitutions": 7,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 6,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with pearl",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 100,
+      "index_hyp": 99,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "issues and create a personalized road map for sustainable weight loss",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 101,
+      "index_hyp": 99,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "and create a personalized road map for sustainable weight loss would",
+      "hyp_context": "issues and create a personalized roadmap for sustainable weight loss would"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 149,
+      "index_hyp": 147,
+      "ref_word": "",
+      "hyp_word": "got",
+      "ref_context": "",
+      "hyp_context": "better fit for your needs got it since it's been a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 149,
+      "index_hyp": 148,
+      "ref_word": "",
+      "hyp_word": "it",
+      "ref_context": "",
+      "hyp_context": "fit for your needs got it since it's been a while"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 202,
+      "index_hyp": 202,
+      "ref_word": "a",
+      "hyp_word": "our",
+      "ref_context": "your weight loss goals first a blood test identifies key issues",
+      "hyp_context": "your weight loss goals first our blood test identifies key issues"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 275,
+      "index_hyp": 275,
+      "ref_word": "",
+      "hyp_word": "one",
+      "ref_context": "",
+      "hyp_context": "the nano plan costs rupees one thousand seven hundred ninety nine"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 275,
+      "index_hyp": 276,
+      "ref_word": "",
+      "hyp_word": "thousand",
+      "ref_context": "",
+      "hyp_context": "nano plan costs rupees one thousand seven hundred ninety nine which"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 275,
+      "index_hyp": 277,
+      "ref_word": "",
+      "hyp_word": "seven",
+      "ref_context": "",
+      "hyp_context": "plan costs rupees one thousand seven hundred ninety nine which is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 275,
+      "index_hyp": 278,
+      "ref_word": "",
+      "hyp_word": "hundred",
+      "ref_context": "",
+      "hyp_context": "costs rupees one thousand seven hundred ninety nine which is designed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 275,
+      "index_hyp": 279,
+      "ref_word": "",
+      "hyp_word": "ninety",
+      "ref_context": "",
+      "hyp_context": "rupees one thousand seven hundred ninety nine which is designed to"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 275,
+      "index_hyp": 280,
+      "ref_word": "1799",
+      "hyp_word": "nine",
+      "ref_context": "the nano plan costs rupees 1799 which is designed to be",
+      "hyp_context": "one thousand seven hundred ninety nine which is designed to be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 301,
+      "index_hyp": 306,
+      "ref_word": "",
+      "hyp_word": "all",
+      "ref_context": "",
+      "hyp_context": "consultation and health coach session all in one package how does"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 301,
+      "index_hyp": 307,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "and health coach session all in one package how does that"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 301,
+      "index_hyp": 308,
+      "ref_word": "allinone",
+      "hyp_word": "one",
+      "ref_context": "consultation and health coach session allinone package how does that sound",
+      "hyp_context": "health coach session all in one package how does that sound"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 317,
+      "index_hyp": 324,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "plan you'll receive a personalized road map created by the health",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 318,
+      "index_hyp": 324,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "you'll receive a personalized road map created by the health coach",
+      "hyp_context": "plan you'll receive a personalized roadmap created by the health coach"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 329,
+      "index_hyp": 335,
+      "ref_word": "his",
+      "hyp_word": "this",
+      "ref_context": "tailored to your unique needs his is included in the plan",
+      "hyp_context": "tailored to your unique needs this is included in the plan"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 357,
+      "index_hyp": 363,
+      "ref_word": "ake",
+      "hyp_word": "take",
+      "ref_context": "to begin your journey absolutely ake your time to consider it",
+      "hyp_context": "to begin your journey absolutely take your time to consider it"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "a",
+      "hypothesis": "our"
+    },
+    {
+      "reference": "1799",
+      "hypothesis": "nine"
+    },
+    {
+      "reference": "allinone",
+      "hypothesis": "one"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "his",
+      "hypothesis": "this"
+    },
+    {
+      "reference": "ake",
+      "hypothesis": "take"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "road",
+    "road"
+  ],
+  "insertion_words": [
+    "got",
+    "it",
+    "one",
+    "thousand",
+    "seven",
+    "hundred",
+    "ninety",
+    "all",
+    "in"
+  ]
+}

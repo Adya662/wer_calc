@@ -1,0 +1,130 @@
+{
+  "canonical_transcript": "hello this is priya from elevate now am i speaking great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are based on your bmi of 3111 its clear your body is sending signals about how its handling weight and metabolism right now we are genuinely excited to support your goals and the nano plan is designed to work with your bodys current state to make weight loss easier and more effective would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss great have you tried any weight loss programs before if yes did they work for you and did those programs work for you or were there challenges you faced with them i understand and thats quite common weve designed the nano plan to specifically address those challenges by getting to the root cause of weight gain let me tell you about what the nano plan offers it includes a blood test doctor consultation and a session with a senior health coach would you like me to explain how these can help you achieve your weight loss goals sure the blood test will help us understand key metabolic issues like insulin resistance or vitamin deficiencies that might be affecting your weight then a doctor specializing in obesity will go over your results in detail to create a personalized road map tailored to your needs finally a senior health coach will guide you with lifestyle changes that fit your specific conditions now that weve covered the offerings do you want me to explain the pricing information the nano plan costs rupees 1799 this includes the blood test doctor consultation and a health coach session all at a fraction of the market price its designed to be affordable while providing premium services how does that sound to you im glad to hear that now that weve talked about everything i think the nano plan can be really helpful for you to achieve your weight loss goals would you like to proceed with the payment process great here are your payment options you can either make a full payment of rupees 1799 up front or opt for a partial payment of rupees 499 now and the remaining rupees 1399 at the time of blood sample collection ill send both payment links to your whatsapp on your registered mobile number do you have any more doubts or questions perfect ill send the payment links to your whatsapp shortly if you have any doubts in the future feel free to reach out goodbye and have a great day i noticed youve been quiet are you still there i noticed youve been quiet are you still there i noticed youve been quiet are you still there since i havent heard from you ill end the call now good bye",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevate now",
+      "type": "ORG"
+    },
+    {
+      "index": 21,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 108,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 162,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 164,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 170,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 186,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 201,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 204,
+      "value": "vitamin deficiencies",
+      "type": "OTHER"
+    },
+    {
+      "index": 213,
+      "value": "obesity",
+      "type": "OTHER"
+    },
+    {
+      "index": 227,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 244,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 246,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 251,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 253,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 257,
+      "value": "health coach session",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 275,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 307,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 317,
+      "value": "rupees 499",
+      "type": "MONEY"
+    },
+    {
+      "index": 321,
+      "value": "rupees 1399",
+      "type": "MONEY"
+    },
+    {
+      "index": 328,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 342,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    }
+  ]
+}

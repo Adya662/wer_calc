@@ -1,0 +1,126 @@
+{
+  "wer": 0.018518518518518517,
+  "insertions": 3,
+  "deletions": 3,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with nikita",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 128,
+      "index_hyp": 127,
+      "ref_word": "then",
+      "hyp_word": "the",
+      "ref_context": "offerings of the nano plan then nano plan is designed i",
+      "hyp_context": "offerings of the nano plan the nano plan is designed to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 133,
+      "index_hyp": 132,
+      "ref_word": "",
+      "hyp_word": "to",
+      "ref_context": "",
+      "hyp_context": "the nano plan is designed to be i noticed youve been"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 133,
+      "index_hyp": 133,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "nano plan is designed to be i noticed youve been quiet"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 262,
+      "index_hyp": 263,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "to discuss the pricing information all right if theres anything specific",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 263,
+      "index_hyp": 263,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "discuss the pricing information all right if theres anything specific youd",
+      "hyp_context": "to discuss the pricing information alright if theres anything specific youd"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 456,
+      "index_hyp": 456,
+      "ref_word": "rs",
+      "hyp_word": "rupees",
+      "ref_context": "nano plan is priced at rs 1799 offering a comprehensive set",
+      "hyp_context": "nano plan is priced at rupees 1799 offering a comprehensive set"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 470,
+      "index_hyp": 470,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "typically cost much more individually you have the option to pay"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 511,
+      "index_hyp": 512,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "proceed with the payment process all right if youre ready to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 512,
+      "index_hyp": 512,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "with the payment process all right if youre ready to proceed",
+      "hyp_context": "proceed with the payment process alright if youre ready to proceed"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "then",
+      "hypothesis": "the"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "rupees"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "all",
+    "all"
+  ],
+  "insertion_words": [
+    "to",
+    "be",
+    "you"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "wer": 0.04008438818565401,
+  "insertions": 13,
+  "deletions": 3,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with sanjana",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 62,
+      "ref_word": "",
+      "hyp_word": "29",
+      "ref_context": "",
+      "hyp_context": "based on your bmi of 29 point 0 its clear your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 63,
+      "index_hyp": 63,
+      "ref_word": "",
+      "hyp_word": "point",
+      "ref_context": "",
+      "hyp_context": "on your bmi of 29 point 0 its clear your body"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 63,
+      "index_hyp": 64,
+      "ref_word": "290",
+      "hyp_word": "0",
+      "ref_context": "based on your bmi of 290 its clear your body is",
+      "hyp_context": "your bmi of 29 point 0 its clear your body is"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 110,
+      "index_hyp": 111,
+      "ref_word": "a",
+      "hyp_word": "our",
+      "ref_context": "active and burn fat efficiently a nano plan focuses on addressing",
+      "hyp_context": "active and burn fat efficiently our nano plan focuses on addressing"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 164,
+      "ref_word": "",
+      "hyp_word": "let",
+      "ref_context": "",
+      "hyp_context": "youre in the right place let me give you a quick"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 165,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "in the right place let me give you a quick overview"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 166,
+      "ref_word": "",
+      "hyp_word": "give",
+      "ref_context": "",
+      "hyp_context": "the right place let me give you a quick overview of"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 167,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "right place let me give you a quick overview of our"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 168,
+      "ref_word": "",
+      "hyp_word": "a",
+      "ref_context": "",
+      "hyp_context": "place let me give you a quick overview of our nano"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 169,
+      "ref_word": "",
+      "hyp_word": "quick",
+      "ref_context": "",
+      "hyp_context": "let me give you a quick overview of our nano plan"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 170,
+      "ref_word": "",
+      "hyp_word": "overview",
+      "ref_context": "",
+      "hyp_context": "me give you a quick overview of our nano plan it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 171,
+      "ref_word": "",
+      "hyp_word": "of",
+      "ref_context": "",
+      "hyp_context": "give you a quick overview of our nano plan it includes"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 172,
+      "ref_word": "",
+      "hyp_word": "our",
+      "ref_context": "",
+      "hyp_context": "you a quick overview of our nano plan it includes a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 173,
+      "ref_word": "",
+      "hyp_word": "nano",
+      "ref_context": "",
+      "hyp_context": "a quick overview of our nano plan it includes a blood"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 163,
+      "index_hyp": 174,
+      "ref_word": "",
+      "hyp_word": "plan",
+      "ref_context": "",
+      "hyp_context": "quick overview of our nano plan it includes a blood test"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 338,
+      "index_hyp": 350,
+      "ref_word": "1",
+      "hyp_word": "",
+      "ref_context": "through partners like redcliffe tata 1 mg and others this ensures",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 422,
+      "index_hyp": 433,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "that you receive a tailored road map to address your specific",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 423,
+      "index_hyp": 433,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "you receive a tailored road map to address your specific weight",
+      "hyp_context": "that you receive a tailored roadmap to address your specific weight"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "290",
+      "hypothesis": "0"
+    },
+    {
+      "reference": "a",
+      "hypothesis": "our"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "1",
+    "road"
+  ],
+  "insertion_words": [
+    "29",
+    "point",
+    "let",
+    "me",
+    "give",
+    "you",
+    "a",
+    "quick",
+    "overview",
+    "of",
+    "our",
+    "nano",
+    "plan"
+  ]
+}

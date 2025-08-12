@@ -1,0 +1,90 @@
+{
+  "canonical_transcript": "hey i am ray from myntra here to assist you shall we proceed further in hindi or english english please got it how can i help you today i can help you track your order could you please tell me the product name or brand you're referring to please give me a moment to fetch your products i can see that your order gap boys camouflage printed relaxed fit mid rise joggers has already been delivered on yesterday do you need any further assistance regarding this order your order for the gap boys camouflage printed relaxed fit midrise joggers has already been delivered please let me know if there's anything else you'd like assistance with i can help you with the remaining items but let's address them one by one to ensure we don't miss anything could you tell me the name or brand of the next product you'd like to check talking about jack and jones junior products please give me a moment to check your jack and jones junior boys pure cotton relaxed fit joggers is scheduled to arrive by end of day today please tell me is there anything else i can help you with i was referring to one of the jack and jones junior boys pure cotton relaxed fit joggers let me check the status of the second one for you please hold on a moment your jack and jones junior boys relaxed fit mid rise joggers is scheduled to arrive by end of day today please tell me is there anything else i can help you with yes that's correct both your jack and jones junior boys pure cotton relaxed fit joggers and jack and jones junior boys relaxed fit mid rise joggers are scheduled to arrive by the end of today please let me know if you need any further assistance i can check the other items in your order let's go through them one by one could you tell me which item or brand you'd like to start with all right let me check for the remaining items in your order list please hold on please give me a moment to fetch your products i see there are additional items in your order list from jack and jones junior let me confirm one of the items jack and jones junior boys jogger mid rice pure cotton stretchable jeans would you like me to check the status of this item i can see that your order jack and jones junior boys jogger mid rice pure cotton stretchable jeans has already been delivered on 25th june do you need any further assistance regarding this order you're most welcome we'll be sending you a quick feedback form via sms your input would really help us improve thank you for choosing myntra have a great day",
+  "entities": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 23,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 25,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 27,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 68,
+      "value": "gap boys camouflage printed relaxed fit mid rise joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 86,
+      "value": "gap boys camouflage printed relaxed fit midrise joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 134,
+      "value": "jack and jones junior",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 144,
+      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 176,
+      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 192,
+      "value": "jack and jones junior boys relaxed fit mid rise joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 216,
+      "value": "jack and jones junior boys pure cotton relaxed fit joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 220,
+      "value": "jack and jones junior boys relaxed fit mid rise joggers",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 258,
+      "value": "jack and jones junior",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 273,
+      "value": "jack and jones junior boys jogger mid rice pure cotton stretchable jeans",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 290,
+      "value": "25th june",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 309,
+      "value": "myntra",
+      "type": "ORG"
+    }
+  ]
+}

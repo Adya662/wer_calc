@@ -1,0 +1,162 @@
+{
+  "wer": 0.02748414376321353,
+  "insertions": 3,
+  "deletions": 4,
+  "substitutions": 6,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with minal",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 94,
+      "index_hyp": 93,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "create a personalized weight loss road map would you like me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 95,
+      "index_hyp": 93,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "a personalized weight loss road map would you like me to",
+      "hyp_context": "create a personalized weight loss roadmap would you like me to"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 112,
+      "index_hyp": 110,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "achieve your weight loss goals i absolutely the nano plan is"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 265,
+      "index_hyp": 264,
+      "ref_word": "court",
+      "hyp_word": "coach",
+      "ref_context": "test doctor consultation and health court session this is a 1",
+      "hyp_context": "test doctor consultation and health coach session this is a one"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 311,
+      "index_hyp": 310,
+      "ref_word": "he",
+      "hyp_word": "the",
+      "ref_context": "would meet your needs sure he nano plan costs rs 1799",
+      "hyp_context": "would meet your needs sure the nano plan costs rupees 1799"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 315,
+      "index_hyp": 314,
+      "ref_word": "rs",
+      "hyp_word": "rupees",
+      "ref_context": "sure he nano plan costs rs 1799 now that now that",
+      "hyp_context": "sure the nano plan costs rupees 1799 now that weve covered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 319,
+      "index_hyp": 318,
+      "ref_word": "",
+      "hyp_word": "weve",
+      "ref_context": "",
+      "hyp_context": "costs rupees 1799 now that weve covered now that weve covered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 319,
+      "index_hyp": 319,
+      "ref_word": "",
+      "hyp_word": "covered",
+      "ref_context": "",
+      "hyp_context": "rupees 1799 now that weve covered now that weve covered now"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 321,
+      "index_hyp": 322,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "1799 now that now that we have cover now that weve",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 322,
+      "index_hyp": 322,
+      "ref_word": "have",
+      "hyp_word": "weve",
+      "ref_context": "now that now that we have cover now that weve covered",
+      "hyp_context": "that weve covered now that weve covered now that weve covered"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 389,
+      "index_hyp": 389,
+      "ref_word": "up",
+      "hyp_word": "",
+      "ref_context": "full payment of 1799 rupees up front ill send you the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 390,
+      "index_hyp": 389,
+      "ref_word": "front",
+      "hyp_word": "upfront",
+      "ref_context": "payment of 1799 rupees up front ill send you the payment",
+      "hyp_context": "full payment of 1799 rupees upfront ill send you the payment"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "court",
+      "hypothesis": "coach"
+    },
+    {
+      "reference": "he",
+      "hypothesis": "the"
+    },
+    {
+      "reference": "rs",
+      "hypothesis": "rupees"
+    },
+    {
+      "reference": "have",
+      "hypothesis": "weve"
+    },
+    {
+      "reference": "front",
+      "hypothesis": "upfront"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "road",
+    "we",
+    "up"
+  ],
+  "insertion_words": [
+    "i",
+    "weve",
+    "covered"
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with purba sahu i noticed great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are mujhe maaf karna lekin main aapki baat samajh nahin paya kya aap kripya spasht kar sakte hain main aapki weight main samajhti hun ki kimat aapke liye ek chinta ka vishay ho sakti hai kya aap chahte hain ki main nano plan ki the nano plan is designed to be affordable allowing you to experience our services without a significant upfront i understand that youre concerned about the cost let me explain why the nano plan is such a great value individually the services mujhe lagta hai ki aapne dusre program ke bare mein baat ki hogi nano plan ke tahat aap rupees 1799 mein ek comprehensive package prapt karte hain jismein blood test doctor consultation aur health coach consultation shamil hain yah yojana is kimat par uplabdh sevaon ka sabse achcha mulya pradan karti hai kya aap iske bare mein aur janna chahenge the nano plan starts with a blood test to identify key issues like insulin resistance and hormonal imbalances then a senior obesity specialist doctor will explain your results in detail and their impact on your health finally our health coach will create a personalized weight loss plan tailored just for you would you like to discuss how these offerings can help you achieve your weight loss goals great the blood test we conduct goes beyond standard tests by focusing on specific parameters linked to weight gain such as vitamin profiles insulin resistance and thyroid levels once we have your results our experienced obesity specialist doctor will provide a detailed consultation to explain how these factors might be affecting your weight following this our senior health coach will work with you to develop a personalized lifestyle plan that addresses these issues effectively now that weve covered these offerings would you like me to go over the pricing information nano plan ki kimat rupees 1799 hai jo ki comprehensive package ke liye bahut hi affordable hai is kimat mein blood test doctor consultation aur health coach consultation shamil hain bazar mein in sevaon ki kul kimat lagbhag rupees 6000 hoti hai lekin hamare plan ke sath aap ise bahut hi kam kimat mein prapt kar sakte hain kya aap kuchh aur janna chahenge kya aap mujhse nano plan ya uske kisi specific feature ke bare mein janna chahenge main aapki madad ab mujhe maaf kijiye lekin main aapki baat samajh nahin pai kya aap kripya spasht nano plan primarily offers a comprehensive initial assessment and personalized plan to kickstart your weight loss journey once you complete the nano plan you have the option to upgrade to our flagship program which includes 3 6 or 12 month subscription plans this gives you continued support and guidance tailored to your specific needs would you like more information on this after completing the nano plan which provides a personalized roadmap to weight loss you can choose to upgrade to our flagship program with options for 3 6 or 12 month subscriptions these longer term plans offer a 100 money back guarantee on weight loss ensuring you have the support needed to achieve your health goals would you like to discuss how to get started with the nano plan the pricing for mujhe khed hai yadi aapko aisa laga ho main yahan aapki madad karne ke liye hun kya aap mujhe bata sakte hain ki main aapki kis prakar sahayata kar sakti hun mujhe khed hai lekin main vartman mein teen mahine ki yojana ke mulya vivaran pradan nahin kar sakti nano plan ke pura hone ke baad hum aapko apne flagship program ke liye dhanyavad kya aapke paas nano plan ya isse sambandhit kuchh aur sawal hain jinmen main aapki madad mujhe khed hai kya aap mujhe bata sakte hain ki main aapki kis prakar sahayata kar sakti hun mujhe khed hai agar aapko aisa laga ho main yahan aapki madad karne ke liye hun mujhe khed hai ki aapko asuvidha ho rahi hai kya aap mujhe bata sakte hain ki main aapki kis prakar madad kar sakti hun i noticed youve been quiet are you still there",
+  "entities": [
+    {
+      "index": 4,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 6,
+      "value": "elevatenow",
+      "type": "ORG"
+    },
+    {
+      "index": 11,
+      "value": "purba sahu",
+      "type": "PERSON"
+    },
+    {
+      "index": 18,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 256,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 268,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 270,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 350,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 554,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 598,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 600,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 638,
+      "value": "6000",
+      "type": "MONEY"
+    },
+    {
+      "index": 640,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 668,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 720,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 782,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 826,
+      "value": "3",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 828,
+      "value": "6",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 831,
+      "value": "12",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 873,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 924,
+      "value": "3",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 926,
+      "value": "6",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 929,
+      "value": "12",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 998,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 1092,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 1164,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ]
+}

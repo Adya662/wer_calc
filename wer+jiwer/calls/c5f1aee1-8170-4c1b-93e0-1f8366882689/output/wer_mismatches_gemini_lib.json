@@ -1,0 +1,6912 @@
+{
+  "wer": 0.6599616858237548,
+  "insertions": 0,
+  "deletions": 686,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "hey",
+      "hyp_word": "",
+      "ref_context": "hey im ray from myntra here",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 1,
+      "index_hyp": 0,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "hey im ray from myntra here to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 2,
+      "index_hyp": 0,
+      "ref_word": "ray",
+      "hyp_word": "",
+      "ref_context": "hey im ray from myntra here to assist",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 3,
+      "index_hyp": 0,
+      "ref_word": "from",
+      "hyp_word": "",
+      "ref_context": "hey im ray from myntra here to assist you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 4,
+      "index_hyp": 0,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "hey im ray from myntra here to assist you shall",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 0,
+      "ref_word": "here",
+      "hyp_word": "",
+      "ref_context": "hey im ray from myntra here to assist you shall we",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 6,
+      "index_hyp": 0,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "im ray from myntra here to assist you shall we proceed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 7,
+      "index_hyp": 0,
+      "ref_word": "assist",
+      "hyp_word": "",
+      "ref_context": "ray from myntra here to assist you shall we proceed further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 8,
+      "index_hyp": 0,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "from myntra here to assist you shall we proceed further in",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 9,
+      "index_hyp": 0,
+      "ref_word": "shall",
+      "hyp_word": "",
+      "ref_context": "myntra here to assist you shall we proceed further in hindi",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 10,
+      "index_hyp": 0,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "here to assist you shall we proceed further in hindi or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 11,
+      "index_hyp": 0,
+      "ref_word": "proceed",
+      "hyp_word": "",
+      "ref_context": "to assist you shall we proceed further in hindi or english",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 12,
+      "index_hyp": 0,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "assist you shall we proceed further in hindi or english great",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 13,
+      "index_hyp": 0,
+      "ref_word": "in",
+      "hyp_word": "",
+      "ref_context": "you shall we proceed further in hindi or english great how",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 14,
+      "index_hyp": 0,
+      "ref_word": "hindi",
+      "hyp_word": "",
+      "ref_context": "shall we proceed further in hindi or english great how can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 15,
+      "index_hyp": 0,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "we proceed further in hindi or english great how can i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 16,
+      "index_hyp": 0,
+      "ref_word": "english",
+      "hyp_word": "",
+      "ref_context": "proceed further in hindi or english great how can i help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 17,
+      "index_hyp": 0,
+      "ref_word": "great",
+      "hyp_word": "",
+      "ref_context": "further in hindi or english great how can i help you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 19,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "hindi or english great how can i help you today i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 20,
+      "index_hyp": 1,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "or english great how can i help you today i can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 21,
+      "index_hyp": 1,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "english great how can i help you today i can help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 22,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "great how can i help you today i can help you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 23,
+      "index_hyp": 1,
+      "ref_word": "today",
+      "hyp_word": "",
+      "ref_context": "how can i help you today i can help you with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 24,
+      "index_hyp": 1,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "can i help you today i can help you with tracking",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 25,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "i help you today i can help you with tracking your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 26,
+      "index_hyp": 1,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "help you today i can help you with tracking your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 27,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "you today i can help you with tracking your order could",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 28,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "today i can help you with tracking your order could you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 29,
+      "index_hyp": 1,
+      "ref_word": "tracking",
+      "hyp_word": "",
+      "ref_context": "i can help you with tracking your order could you please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 30,
+      "index_hyp": 1,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "can help you with tracking your order could you please provide",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 31,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "help you with tracking your order could you please provide me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 32,
+      "index_hyp": 1,
+      "ref_word": "could",
+      "hyp_word": "",
+      "ref_context": "you with tracking your order could you please provide me the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 33,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "with tracking your order could you please provide me the product",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 34,
+      "index_hyp": 1,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "tracking your order could you please provide me the product name",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 35,
+      "index_hyp": 1,
+      "ref_word": "provide",
+      "hyp_word": "",
+      "ref_context": "your order could you please provide me the product name please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 36,
+      "index_hyp": 1,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "order could you please provide me the product name please give",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 37,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "could you please provide me the product name please give me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 38,
+      "index_hyp": 1,
+      "ref_word": "product",
+      "hyp_word": "",
+      "ref_context": "you please provide me the product name please give me a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 39,
+      "index_hyp": 1,
+      "ref_word": "name",
+      "hyp_word": "",
+      "ref_context": "please provide me the product name please give me a moment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 40,
+      "index_hyp": 1,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "provide me the product name please give me a moment to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 41,
+      "index_hyp": 1,
+      "ref_word": "give",
+      "hyp_word": "",
+      "ref_context": "me the product name please give me a moment to fetch",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 42,
+      "index_hyp": 1,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "the product name please give me a moment to fetch your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 43,
+      "index_hyp": 1,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "product name please give me a moment to fetch your products",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 44,
+      "index_hyp": 1,
+      "ref_word": "moment",
+      "hyp_word": "",
+      "ref_context": "name please give me a moment to fetch your products your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 45,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "please give me a moment to fetch your products your crocs",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 46,
+      "index_hyp": 1,
+      "ref_word": "fetch",
+      "hyp_word": "",
+      "ref_context": "give me a moment to fetch your products your crocs unisex",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 47,
+      "index_hyp": 1,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "me a moment to fetch your products your crocs unisex navy",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 48,
+      "index_hyp": 1,
+      "ref_word": "products",
+      "hyp_word": "",
+      "ref_context": "a moment to fetch your products your crocs unisex navy blue",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 49,
+      "index_hyp": 1,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "moment to fetch your products your crocs unisex navy blue bayaband",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 50,
+      "index_hyp": 1,
+      "ref_word": "crocs",
+      "hyp_word": "",
+      "ref_context": "to fetch your products your crocs unisex navy blue bayaband clogs",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 51,
+      "index_hyp": 1,
+      "ref_word": "unisex",
+      "hyp_word": "",
+      "ref_context": "fetch your products your crocs unisex navy blue bayaband clogs will",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 52,
+      "index_hyp": 1,
+      "ref_word": "navy",
+      "hyp_word": "",
+      "ref_context": "your products your crocs unisex navy blue bayaband clogs will be",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 53,
+      "index_hyp": 1,
+      "ref_word": "blue",
+      "hyp_word": "",
+      "ref_context": "products your crocs unisex navy blue bayaband clogs will be delivered",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 54,
+      "index_hyp": 1,
+      "ref_word": "bayaband",
+      "hyp_word": "",
+      "ref_context": "your crocs unisex navy blue bayaband clogs will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 55,
+      "index_hyp": 1,
+      "ref_word": "clogs",
+      "hyp_word": "",
+      "ref_context": "crocs unisex navy blue bayaband clogs will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 56,
+      "index_hyp": 1,
+      "ref_word": "will",
+      "hyp_word": "",
+      "ref_context": "unisex navy blue bayaband clogs will be delivered on or before",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 57,
+      "index_hyp": 1,
+      "ref_word": "be",
+      "hyp_word": "",
+      "ref_context": "navy blue bayaband clogs will be delivered on or before 12th",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 58,
+      "index_hyp": 1,
+      "ref_word": "delivered",
+      "hyp_word": "",
+      "ref_context": "blue bayaband clogs will be delivered on or before 12th july",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 59,
+      "index_hyp": 1,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "bayaband clogs will be delivered on or before 12th july please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 60,
+      "index_hyp": 1,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "clogs will be delivered on or before 12th july please tell",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 61,
+      "index_hyp": 1,
+      "ref_word": "before",
+      "hyp_word": "",
+      "ref_context": "will be delivered on or before 12th july please tell me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 62,
+      "index_hyp": 1,
+      "ref_word": "12th",
+      "hyp_word": "",
+      "ref_context": "be delivered on or before 12th july please tell me is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 63,
+      "index_hyp": 1,
+      "ref_word": "july",
+      "hyp_word": "",
+      "ref_context": "delivered on or before 12th july please tell me is there",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 64,
+      "index_hyp": 1,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "on or before 12th july please tell me is there anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 65,
+      "index_hyp": 1,
+      "ref_word": "tell",
+      "hyp_word": "",
+      "ref_context": "or before 12th july please tell me is there anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 66,
+      "index_hyp": 1,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "before 12th july please tell me is there anything else i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 67,
+      "index_hyp": 1,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "12th july please tell me is there anything else i can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 68,
+      "index_hyp": 1,
+      "ref_word": "there",
+      "hyp_word": "",
+      "ref_context": "july please tell me is there anything else i can help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 69,
+      "index_hyp": 1,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "please tell me is there anything else i can help you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 70,
+      "index_hyp": 1,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "tell me is there anything else i can help you with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 71,
+      "index_hyp": 1,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "me is there anything else i can help you with we",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 72,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "is there anything else i can help you with we currently",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 73,
+      "index_hyp": 1,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "there anything else i can help you with we currently cannot",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 74,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "anything else i can help you with we currently cannot accommodate",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 75,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "else i can help you with we currently cannot accommodate changes",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 76,
+      "index_hyp": 1,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "i can help you with we currently cannot accommodate changes to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 77,
+      "index_hyp": 1,
+      "ref_word": "currently",
+      "hyp_word": "",
+      "ref_context": "can help you with we currently cannot accommodate changes to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 78,
+      "index_hyp": 1,
+      "ref_word": "cannot",
+      "hyp_word": "",
+      "ref_context": "help you with we currently cannot accommodate changes to the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 79,
+      "index_hyp": 1,
+      "ref_word": "accommodate",
+      "hyp_word": "",
+      "ref_context": "you with we currently cannot accommodate changes to the delivery time",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 80,
+      "index_hyp": 1,
+      "ref_word": "changes",
+      "hyp_word": "",
+      "ref_context": "with we currently cannot accommodate changes to the delivery time the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 81,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "we currently cannot accommodate changes to the delivery time the fastest",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 82,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "currently cannot accommodate changes to the delivery time the fastest available",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 83,
+      "index_hyp": 1,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "cannot accommodate changes to the delivery time the fastest available delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 84,
+      "index_hyp": 1,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "accommodate changes to the delivery time the fastest available delivery option",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 85,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "changes to the delivery time the fastest available delivery option is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 86,
+      "index_hyp": 1,
+      "ref_word": "fastest",
+      "hyp_word": "",
+      "ref_context": "to the delivery time the fastest available delivery option is always",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 87,
+      "index_hyp": 1,
+      "ref_word": "available",
+      "hyp_word": "",
+      "ref_context": "the delivery time the fastest available delivery option is always chosen",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 88,
+      "index_hyp": 1,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "delivery time the fastest available delivery option is always chosen for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 89,
+      "index_hyp": 1,
+      "ref_word": "option",
+      "hyp_word": "",
+      "ref_context": "time the fastest available delivery option is always chosen for your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 90,
+      "index_hyp": 1,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "the fastest available delivery option is always chosen for your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 91,
+      "index_hyp": 1,
+      "ref_word": "always",
+      "hyp_word": "",
+      "ref_context": "fastest available delivery option is always chosen for your order if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 92,
+      "index_hyp": 1,
+      "ref_word": "chosen",
+      "hyp_word": "",
+      "ref_context": "available delivery option is always chosen for your order if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 93,
+      "index_hyp": 1,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "delivery option is always chosen for your order if you have",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 94,
+      "index_hyp": 1,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "option is always chosen for your order if you have any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 95,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "is always chosen for your order if you have any more",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 96,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "always chosen for your order if you have any more questions",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 97,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "chosen for your order if you have any more questions feel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 98,
+      "index_hyp": 1,
+      "ref_word": "have",
+      "hyp_word": "",
+      "ref_context": "for your order if you have any more questions feel free",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 99,
+      "index_hyp": 1,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "your order if you have any more questions feel free to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 100,
+      "index_hyp": 1,
+      "ref_word": "more",
+      "hyp_word": "",
+      "ref_context": "order if you have any more questions feel free to ask",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 101,
+      "index_hyp": 1,
+      "ref_word": "questions",
+      "hyp_word": "",
+      "ref_context": "if you have any more questions feel free to ask im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 102,
+      "index_hyp": 1,
+      "ref_word": "feel",
+      "hyp_word": "",
+      "ref_context": "you have any more questions feel free to ask im really",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 103,
+      "index_hyp": 1,
+      "ref_word": "free",
+      "hyp_word": "",
+      "ref_context": "have any more questions feel free to ask im really sorry",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 104,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "any more questions feel free to ask im really sorry but",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 105,
+      "index_hyp": 1,
+      "ref_word": "ask",
+      "hyp_word": "",
+      "ref_context": "more questions feel free to ask im really sorry but im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 106,
+      "index_hyp": 1,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "questions feel free to ask im really sorry but im unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 107,
+      "index_hyp": 1,
+      "ref_word": "really",
+      "hyp_word": "",
+      "ref_context": "feel free to ask im really sorry but im unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 108,
+      "index_hyp": 1,
+      "ref_word": "sorry",
+      "hyp_word": "",
+      "ref_context": "free to ask im really sorry but im unable to assist",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 109,
+      "index_hyp": 1,
+      "ref_word": "but",
+      "hyp_word": "",
+      "ref_context": "to ask im really sorry but im unable to assist with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 110,
+      "index_hyp": 1,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "ask im really sorry but im unable to assist with cancellation",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 111,
+      "index_hyp": 1,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "im really sorry but im unable to assist with cancellation requests",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 112,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "really sorry but im unable to assist with cancellation requests directly",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 113,
+      "index_hyp": 1,
+      "ref_word": "assist",
+      "hyp_word": "",
+      "ref_context": "sorry but im unable to assist with cancellation requests directly you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 114,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "but im unable to assist with cancellation requests directly you can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 115,
+      "index_hyp": 1,
+      "ref_word": "cancellation",
+      "hyp_word": "",
+      "ref_context": "im unable to assist with cancellation requests directly you can cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 116,
+      "index_hyp": 1,
+      "ref_word": "requests",
+      "hyp_word": "",
+      "ref_context": "unable to assist with cancellation requests directly you can cancel your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 117,
+      "index_hyp": 1,
+      "ref_word": "directly",
+      "hyp_word": "",
+      "ref_context": "to assist with cancellation requests directly you can cancel your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 118,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "assist with cancellation requests directly you can cancel your order through",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 119,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "with cancellation requests directly you can cancel your order through the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 120,
+      "index_hyp": 1,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "cancellation requests directly you can cancel your order through the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 121,
+      "index_hyp": 1,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "requests directly you can cancel your order through the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 122,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "directly you can cancel your order through the myntra app by",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 123,
+      "index_hyp": 1,
+      "ref_word": "through",
+      "hyp_word": "",
+      "ref_context": "you can cancel your order through the myntra app by going",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 124,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "can cancel your order through the myntra app by going to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 125,
+      "index_hyp": 1,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "cancel your order through the myntra app by going to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 126,
+      "index_hyp": 1,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "your order through the myntra app by going to the orders",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 127,
+      "index_hyp": 1,
+      "ref_word": "by",
+      "hyp_word": "",
+      "ref_context": "order through the myntra app by going to the orders section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 128,
+      "index_hyp": 1,
+      "ref_word": "going",
+      "hyp_word": "",
+      "ref_context": "through the myntra app by going to the orders section and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 129,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the myntra app by going to the orders section and selecting",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 130,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "myntra app by going to the orders section and selecting the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 131,
+      "index_hyp": 1,
+      "ref_word": "orders",
+      "hyp_word": "",
+      "ref_context": "app by going to the orders section and selecting the order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 132,
+      "index_hyp": 1,
+      "ref_word": "section",
+      "hyp_word": "",
+      "ref_context": "by going to the orders section and selecting the order you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 133,
+      "index_hyp": 1,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "going to the orders section and selecting the order you wish",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 134,
+      "index_hyp": 1,
+      "ref_word": "selecting",
+      "hyp_word": "",
+      "ref_context": "to the orders section and selecting the order you wish to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 135,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "the orders section and selecting the order you wish to cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 136,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "orders section and selecting the order you wish to cancel if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 137,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "section and selecting the order you wish to cancel if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 138,
+      "index_hyp": 1,
+      "ref_word": "wish",
+      "hyp_word": "",
+      "ref_context": "and selecting the order you wish to cancel if you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 139,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "selecting the order you wish to cancel if you need further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 140,
+      "index_hyp": 1,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "the order you wish to cancel if you need further assistance",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 141,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "order you wish to cancel if you need further assistance feel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 142,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "you wish to cancel if you need further assistance feel free",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 143,
+      "index_hyp": 1,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "wish to cancel if you need further assistance feel free to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 144,
+      "index_hyp": 1,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "to cancel if you need further assistance feel free to ask",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 145,
+      "index_hyp": 1,
+      "ref_word": "assistance",
+      "hyp_word": "",
+      "ref_context": "cancel if you need further assistance feel free to ask you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 146,
+      "index_hyp": 1,
+      "ref_word": "feel",
+      "hyp_word": "",
+      "ref_context": "if you need further assistance feel free to ask you can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 147,
+      "index_hyp": 1,
+      "ref_word": "free",
+      "hyp_word": "",
+      "ref_context": "you need further assistance feel free to ask you can cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 148,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "need further assistance feel free to ask you can cancel individual",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 149,
+      "index_hyp": 1,
+      "ref_word": "ask",
+      "hyp_word": "",
+      "ref_context": "further assistance feel free to ask you can cancel individual items",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 150,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "assistance feel free to ask you can cancel individual items within",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 151,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "feel free to ask you can cancel individual items within an",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 152,
+      "index_hyp": 1,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "free to ask you can cancel individual items within an order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 153,
+      "index_hyp": 1,
+      "ref_word": "individual",
+      "hyp_word": "",
+      "ref_context": "to ask you can cancel individual items within an order through",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 154,
+      "index_hyp": 1,
+      "ref_word": "items",
+      "hyp_word": "",
+      "ref_context": "ask you can cancel individual items within an order through the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 155,
+      "index_hyp": 1,
+      "ref_word": "within",
+      "hyp_word": "",
+      "ref_context": "you can cancel individual items within an order through the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 156,
+      "index_hyp": 1,
+      "ref_word": "an",
+      "hyp_word": "",
+      "ref_context": "can cancel individual items within an order through the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 157,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "cancel individual items within an order through the myntra app just",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 158,
+      "index_hyp": 1,
+      "ref_word": "through",
+      "hyp_word": "",
+      "ref_context": "individual items within an order through the myntra app just go",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 159,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "items within an order through the myntra app just go to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 160,
+      "index_hyp": 1,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "within an order through the myntra app just go to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 161,
+      "index_hyp": 1,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "an order through the myntra app just go to the order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 162,
+      "index_hyp": 1,
+      "ref_word": "just",
+      "hyp_word": "",
+      "ref_context": "order through the myntra app just go to the order section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 163,
+      "index_hyp": 1,
+      "ref_word": "go",
+      "hyp_word": "",
+      "ref_context": "through the myntra app just go to the order section select",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 164,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the myntra app just go to the order section select the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 165,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "myntra app just go to the order section select the specific",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 166,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "app just go to the order section select the specific item",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 167,
+      "index_hyp": 1,
+      "ref_word": "section",
+      "hyp_word": "",
+      "ref_context": "just go to the order section select the specific item you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 168,
+      "index_hyp": 1,
+      "ref_word": "select",
+      "hyp_word": "",
+      "ref_context": "go to the order section select the specific item you wish",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 169,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "to the order section select the specific item you wish to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 170,
+      "index_hyp": 1,
+      "ref_word": "specific",
+      "hyp_word": "",
+      "ref_context": "the order section select the specific item you wish to cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 171,
+      "index_hyp": 1,
+      "ref_word": "item",
+      "hyp_word": "",
+      "ref_context": "order section select the specific item you wish to cancel and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 172,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "section select the specific item you wish to cancel and follow",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 173,
+      "index_hyp": 1,
+      "ref_word": "wish",
+      "hyp_word": "",
+      "ref_context": "select the specific item you wish to cancel and follow the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 174,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the specific item you wish to cancel and follow the cancellation",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 175,
+      "index_hyp": 1,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "specific item you wish to cancel and follow the cancellation process",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 176,
+      "index_hyp": 1,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "item you wish to cancel and follow the cancellation process if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 177,
+      "index_hyp": 1,
+      "ref_word": "follow",
+      "hyp_word": "",
+      "ref_context": "you wish to cancel and follow the cancellation process if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 178,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "wish to cancel and follow the cancellation process if you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 179,
+      "index_hyp": 1,
+      "ref_word": "cancellation",
+      "hyp_word": "",
+      "ref_context": "to cancel and follow the cancellation process if you need help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 180,
+      "index_hyp": 1,
+      "ref_word": "process",
+      "hyp_word": "",
+      "ref_context": "cancel and follow the cancellation process if you need help with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 181,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "and follow the cancellation process if you need help with anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 182,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "follow the cancellation process if you need help with anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 183,
+      "index_hyp": 1,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "the cancellation process if you need help with anything else let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 184,
+      "index_hyp": 1,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "cancellation process if you need help with anything else let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 185,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "process if you need help with anything else let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 186,
+      "index_hyp": 1,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "if you need help with anything else let me know im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 187,
+      "index_hyp": 1,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "you need help with anything else let me know im sorry",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 188,
+      "index_hyp": 1,
+      "ref_word": "let",
+      "hyp_word": "",
+      "ref_context": "need help with anything else let me know im sorry but",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 189,
+      "index_hyp": 1,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "help with anything else let me know im sorry but im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 190,
+      "index_hyp": 1,
+      "ref_word": "know",
+      "hyp_word": "",
+      "ref_context": "with anything else let me know im sorry but im unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 191,
+      "index_hyp": 1,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "anything else let me know im sorry but im unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 192,
+      "index_hyp": 1,
+      "ref_word": "sorry",
+      "hyp_word": "",
+      "ref_context": "else let me know im sorry but im unable to share",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 193,
+      "index_hyp": 1,
+      "ref_word": "but",
+      "hyp_word": "",
+      "ref_context": "let me know im sorry but im unable to share delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 194,
+      "index_hyp": 1,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "me know im sorry but im unable to share delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 195,
+      "index_hyp": 1,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "know im sorry but im unable to share delivery address details",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 196,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "im sorry but im unable to share delivery address details you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 197,
+      "index_hyp": 1,
+      "ref_word": "share",
+      "hyp_word": "",
+      "ref_context": "sorry but im unable to share delivery address details you can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 198,
+      "index_hyp": 1,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "but im unable to share delivery address details you can check",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 199,
+      "index_hyp": 1,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "im unable to share delivery address details you can check the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 200,
+      "index_hyp": 1,
+      "ref_word": "details",
+      "hyp_word": "",
+      "ref_context": "unable to share delivery address details you can check the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 201,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "to share delivery address details you can check the delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 202,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "share delivery address details you can check the delivery address in",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 203,
+      "index_hyp": 1,
+      "ref_word": "check",
+      "hyp_word": "",
+      "ref_context": "delivery address details you can check the delivery address in the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 204,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "address details you can check the delivery address in the order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 205,
+      "index_hyp": 1,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "details you can check the delivery address in the order section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 206,
+      "index_hyp": 1,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "you can check the delivery address in the order section of",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 207,
+      "index_hyp": 1,
+      "ref_word": "in",
+      "hyp_word": "",
+      "ref_context": "can check the delivery address in the order section of the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 208,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "check the delivery address in the order section of the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 209,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "the delivery address in the order section of the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 210,
+      "index_hyp": 1,
+      "ref_word": "section",
+      "hyp_word": "",
+      "ref_context": "delivery address in the order section of the myntra app if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 211,
+      "index_hyp": 1,
+      "ref_word": "of",
+      "hyp_word": "",
+      "ref_context": "address in the order section of the myntra app if theres",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 212,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "in the order section of the myntra app if theres anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 213,
+      "index_hyp": 1,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "the order section of the myntra app if theres anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 214,
+      "index_hyp": 1,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "order section of the myntra app if theres anything else you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 215,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "section of the myntra app if theres anything else you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 216,
+      "index_hyp": 1,
+      "ref_word": "theres",
+      "hyp_word": "",
+      "ref_context": "of the myntra app if theres anything else you need help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 217,
+      "index_hyp": 1,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "the myntra app if theres anything else you need help with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 218,
+      "index_hyp": 1,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "myntra app if theres anything else you need help with we",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 219,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "app if theres anything else you need help with we are",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 220,
+      "index_hyp": 1,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "if theres anything else you need help with we are currently",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 221,
+      "index_hyp": 1,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "theres anything else you need help with we are currently unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 222,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "anything else you need help with we are currently unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 223,
+      "index_hyp": 1,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "else you need help with we are currently unable to support",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 224,
+      "index_hyp": 1,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "you need help with we are currently unable to support changes",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 225,
+      "index_hyp": 1,
+      "ref_word": "currently",
+      "hyp_word": "",
+      "ref_context": "need help with we are currently unable to support changes to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 226,
+      "index_hyp": 1,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "help with we are currently unable to support changes to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 227,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "with we are currently unable to support changes to the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 228,
+      "index_hyp": 1,
+      "ref_word": "support",
+      "hyp_word": "",
+      "ref_context": "we are currently unable to support changes to the delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 229,
+      "index_hyp": 1,
+      "ref_word": "changes",
+      "hyp_word": "",
+      "ref_context": "are currently unable to support changes to the delivery address once",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 230,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "currently unable to support changes to the delivery address once an",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 231,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "unable to support changes to the delivery address once an order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 232,
+      "index_hyp": 1,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "to support changes to the delivery address once an order is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 233,
+      "index_hyp": 1,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "support changes to the delivery address once an order is placed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 234,
+      "index_hyp": 1,
+      "ref_word": "once",
+      "hyp_word": "",
+      "ref_context": "changes to the delivery address once an order is placed if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 235,
+      "index_hyp": 1,
+      "ref_word": "an",
+      "hyp_word": "",
+      "ref_context": "to the delivery address once an order is placed if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 236,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "the delivery address once an order is placed if you have",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 237,
+      "index_hyp": 1,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "delivery address once an order is placed if you have any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 238,
+      "index_hyp": 1,
+      "ref_word": "placed",
+      "hyp_word": "",
+      "ref_context": "address once an order is placed if you have any other",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 239,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "once an order is placed if you have any other questions",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 240,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "an order is placed if you have any other questions or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 241,
+      "index_hyp": 1,
+      "ref_word": "have",
+      "hyp_word": "",
+      "ref_context": "order is placed if you have any other questions or need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 242,
+      "index_hyp": 1,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "is placed if you have any other questions or need further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 243,
+      "index_hyp": 1,
+      "ref_word": "other",
+      "hyp_word": "",
+      "ref_context": "placed if you have any other questions or need further assistance",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 244,
+      "index_hyp": 1,
+      "ref_word": "questions",
+      "hyp_word": "",
+      "ref_context": "if you have any other questions or need further assistance feel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 245,
+      "index_hyp": 1,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "you have any other questions or need further assistance feel free",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 246,
+      "index_hyp": 1,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "have any other questions or need further assistance feel free to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 247,
+      "index_hyp": 1,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "any other questions or need further assistance feel free to ask",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 248,
+      "index_hyp": 1,
+      "ref_word": "assistance",
+      "hyp_word": "",
+      "ref_context": "other questions or need further assistance feel free to ask i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 249,
+      "index_hyp": 1,
+      "ref_word": "feel",
+      "hyp_word": "",
+      "ref_context": "questions or need further assistance feel free to ask i really",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 250,
+      "index_hyp": 1,
+      "ref_word": "free",
+      "hyp_word": "",
+      "ref_context": "or need further assistance feel free to ask i really apologize",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 251,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "need further assistance feel free to ask i really apologize for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 252,
+      "index_hyp": 1,
+      "ref_word": "ask",
+      "hyp_word": "",
+      "ref_context": "further assistance feel free to ask i really apologize for the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 253,
+      "index_hyp": 1,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "assistance feel free to ask i really apologize for the inconvenience",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 254,
+      "index_hyp": 1,
+      "ref_word": "really",
+      "hyp_word": "",
+      "ref_context": "feel free to ask i really apologize for the inconvenience im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 255,
+      "index_hyp": 1,
+      "ref_word": "apologize",
+      "hyp_word": "",
+      "ref_context": "free to ask i really apologize for the inconvenience im unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 256,
+      "index_hyp": 1,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "to ask i really apologize for the inconvenience im unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 257,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "ask i really apologize for the inconvenience im unable to make",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 258,
+      "index_hyp": 1,
+      "ref_word": "inconvenience",
+      "hyp_word": "",
+      "ref_context": "i really apologize for the inconvenience im unable to make changes",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 259,
+      "index_hyp": 1,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "really apologize for the inconvenience im unable to make changes to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 260,
+      "index_hyp": 1,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "apologize for the inconvenience im unable to make changes to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 261,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "for the inconvenience im unable to make changes to the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 262,
+      "index_hyp": 1,
+      "ref_word": "make",
+      "hyp_word": "",
+      "ref_context": "the inconvenience im unable to make changes to the delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 263,
+      "index_hyp": 1,
+      "ref_word": "changes",
+      "hyp_word": "",
+      "ref_context": "inconvenience im unable to make changes to the delivery address at",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 264,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "im unable to make changes to the delivery address at this",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 265,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "unable to make changes to the delivery address at this time",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 266,
+      "index_hyp": 1,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "to make changes to the delivery address at this time if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 267,
+      "index_hyp": 1,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "make changes to the delivery address at this time if theres",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 268,
+      "index_hyp": 1,
+      "ref_word": "at",
+      "hyp_word": "",
+      "ref_context": "changes to the delivery address at this time if theres anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 269,
+      "index_hyp": 1,
+      "ref_word": "this",
+      "hyp_word": "",
+      "ref_context": "to the delivery address at this time if theres anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 270,
+      "index_hyp": 1,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "the delivery address at this time if theres anything else i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 271,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "delivery address at this time if theres anything else i can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 272,
+      "index_hyp": 1,
+      "ref_word": "theres",
+      "hyp_word": "",
+      "ref_context": "address at this time if theres anything else i can help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 273,
+      "index_hyp": 1,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "at this time if theres anything else i can help with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 274,
+      "index_hyp": 1,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "this time if theres anything else i can help with or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 275,
+      "index_hyp": 1,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "time if theres anything else i can help with or if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 276,
+      "index_hyp": 1,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "if theres anything else i can help with or if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 277,
+      "index_hyp": 1,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "theres anything else i can help with or if you want",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 278,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "anything else i can help with or if you want to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 279,
+      "index_hyp": 1,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "else i can help with or if you want to speak",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 280,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "i can help with or if you want to speak with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 281,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "can help with or if you want to speak with another",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 282,
+      "index_hyp": 1,
+      "ref_word": "want",
+      "hyp_word": "",
+      "ref_context": "help with or if you want to speak with another agent",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 283,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "with or if you want to speak with another agent for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 284,
+      "index_hyp": 1,
+      "ref_word": "speak",
+      "hyp_word": "",
+      "ref_context": "or if you want to speak with another agent for further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 285,
+      "index_hyp": 1,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "if you want to speak with another agent for further assistance",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 286,
+      "index_hyp": 1,
+      "ref_word": "another",
+      "hyp_word": "",
+      "ref_context": "you want to speak with another agent for further assistance just",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 287,
+      "index_hyp": 1,
+      "ref_word": "agent",
+      "hyp_word": "",
+      "ref_context": "want to speak with another agent for further assistance just let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 288,
+      "index_hyp": 1,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "to speak with another agent for further assistance just let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 289,
+      "index_hyp": 1,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "speak with another agent for further assistance just let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 290,
+      "index_hyp": 1,
+      "ref_word": "assistance",
+      "hyp_word": "",
+      "ref_context": "with another agent for further assistance just let me know to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 291,
+      "index_hyp": 1,
+      "ref_word": "just",
+      "hyp_word": "",
+      "ref_context": "another agent for further assistance just let me know to initiate",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 292,
+      "index_hyp": 1,
+      "ref_word": "let",
+      "hyp_word": "",
+      "ref_context": "agent for further assistance just let me know to initiate a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 293,
+      "index_hyp": 1,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "for further assistance just let me know to initiate a return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 294,
+      "index_hyp": 1,
+      "ref_word": "know",
+      "hyp_word": "",
+      "ref_context": "further assistance just let me know to initiate a return on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 295,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "assistance just let me know to initiate a return on the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 296,
+      "index_hyp": 1,
+      "ref_word": "initiate",
+      "hyp_word": "",
+      "ref_context": "just let me know to initiate a return on the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 297,
+      "index_hyp": 1,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "let me know to initiate a return on the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 298,
+      "index_hyp": 1,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "me know to initiate a return on the myntra app open",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 299,
+      "index_hyp": 1,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "know to initiate a return on the myntra app open the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 300,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "to initiate a return on the myntra app open the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 301,
+      "index_hyp": 1,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "initiate a return on the myntra app open the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 302,
+      "index_hyp": 1,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "a return on the myntra app open the myntra app and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 303,
+      "index_hyp": 1,
+      "ref_word": "open",
+      "hyp_word": "",
+      "ref_context": "return on the myntra app open the myntra app and go",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 304,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "on the myntra app open the myntra app and go to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 305,
+      "index_hyp": 1,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "the myntra app open the myntra app and go to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 306,
+      "index_hyp": 1,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "myntra app open the myntra app and go to the order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 307,
+      "index_hyp": 1,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "app open the myntra app and go to the order section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 308,
+      "index_hyp": 1,
+      "ref_word": "go",
+      "hyp_word": "",
+      "ref_context": "open the myntra app and go to the order section then",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 309,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the myntra app and go to the order section then select",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 310,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "myntra app and go to the order section then select the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 311,
+      "index_hyp": 1,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "app and go to the order section then select the item",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 312,
+      "index_hyp": 1,
+      "ref_word": "section",
+      "hyp_word": "",
+      "ref_context": "and go to the order section then select the item you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 313,
+      "index_hyp": 1,
+      "ref_word": "then",
+      "hyp_word": "",
+      "ref_context": "go to the order section then select the item you want",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 314,
+      "index_hyp": 1,
+      "ref_word": "select",
+      "hyp_word": "",
+      "ref_context": "to the order section then select the item you want to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 315,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "the order section then select the item you want to return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 316,
+      "index_hyp": 1,
+      "ref_word": "item",
+      "hyp_word": "",
+      "ref_context": "order section then select the item you want to return tap",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 317,
+      "index_hyp": 1,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "section then select the item you want to return tap on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 318,
+      "index_hyp": 1,
+      "ref_word": "want",
+      "hyp_word": "",
+      "ref_context": "then select the item you want to return tap on return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 319,
+      "index_hyp": 1,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "select the item you want to return tap on return choose",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 320,
+      "index_hyp": 1,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "the item you want to return tap on return choose a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 321,
+      "index_hyp": 1,
+      "ref_word": "tap",
+      "hyp_word": "",
+      "ref_context": "item you want to return tap on return choose a reason",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 322,
+      "index_hyp": 1,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "you want to return tap on return choose a reason for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 323,
+      "index_hyp": 1,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "want to return tap on return choose a reason for return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 324,
+      "index_hyp": 1,
+      "ref_word": "choose",
+      "hyp_word": "",
+      "ref_context": "to return tap on return choose a reason for return provide",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 325,
+      "index_hyp": 1,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "return tap on return choose a reason for return provide any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 326,
+      "index_hyp": 1,
+      "ref_word": "reason",
+      "hyp_word": "",
+      "ref_context": "tap on return choose a reason for return provide any required",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 327,
+      "index_hyp": 1,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "on return choose a reason for return provide any required details",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 328,
+      "index_hyp": 1,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "return choose a reason for return provide any required details and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 329,
+      "index_hyp": 1,
+      "ref_word": "provide",
+      "hyp_word": "",
+      "ref_context": "choose a reason for return provide any required details and finally",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 330,
+      "index_hyp": 1,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "a reason for return provide any required details and finally submit",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 331,
+      "index_hyp": 1,
+      "ref_word": "required",
+      "hyp_word": "",
+      "ref_context": "reason for return provide any required details and finally submit the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 332,
+      "index_hyp": 1,
+      "ref_word": "details",
+      "hyp_word": "",
+      "ref_context": "for return provide any required details and finally submit the return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 333,
+      "index_hyp": 1,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "return provide any required details and finally submit the return request",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 334,
+      "index_hyp": 1,
+      "ref_word": "finally",
+      "hyp_word": "",
+      "ref_context": "provide any required details and finally submit the return request if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 335,
+      "index_hyp": 1,
+      "ref_word": "submit",
+      "hyp_word": "",
+      "ref_context": "any required details and finally submit the return request if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 336,
+      "index_hyp": 1,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "required details and finally submit the return request if you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 337,
+      "index_hyp": 1,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "details and finally submit the return request if you need any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 338,
+      "index_hyp": 1,
+      "ref_word": "request",
+      "hyp_word": "",
+      "ref_context": "and finally submit the return request if you need any more",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 339,
+      "index_hyp": 1,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "finally submit the return request if you need any more help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 341,
+      "index_hyp": 2,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "the return request if you need any more help just let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 342,
+      "index_hyp": 2,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "return request if you need any more help just let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 343,
+      "index_hyp": 2,
+      "ref_word": "more",
+      "hyp_word": "",
+      "ref_context": "request if you need any more help just let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 344,
+      "index_hyp": 2,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "if you need any more help just let me know im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 345,
+      "index_hyp": 2,
+      "ref_word": "just",
+      "hyp_word": "",
+      "ref_context": "you need any more help just let me know im experiencing",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 346,
+      "index_hyp": 2,
+      "ref_word": "let",
+      "hyp_word": "",
+      "ref_context": "need any more help just let me know im experiencing technical",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 347,
+      "index_hyp": 2,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "any more help just let me know im experiencing technical difficulties",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 348,
+      "index_hyp": 2,
+      "ref_word": "know",
+      "hyp_word": "",
+      "ref_context": "more help just let me know im experiencing technical difficulties please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 349,
+      "index_hyp": 2,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "help just let me know im experiencing technical difficulties please try",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 350,
+      "index_hyp": 2,
+      "ref_word": "experiencing",
+      "hyp_word": "",
+      "ref_context": "just let me know im experiencing technical difficulties please try again",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 351,
+      "index_hyp": 2,
+      "ref_word": "technical",
+      "hyp_word": "",
+      "ref_context": "let me know im experiencing technical difficulties please try again later",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 352,
+      "index_hyp": 2,
+      "ref_word": "difficulties",
+      "hyp_word": "",
+      "ref_context": "me know im experiencing technical difficulties please try again later hey",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 353,
+      "index_hyp": 2,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "know im experiencing technical difficulties please try again later hey im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 354,
+      "index_hyp": 2,
+      "ref_word": "try",
+      "hyp_word": "",
+      "ref_context": "im experiencing technical difficulties please try again later hey im rey",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 355,
+      "index_hyp": 2,
+      "ref_word": "again",
+      "hyp_word": "",
+      "ref_context": "experiencing technical difficulties please try again later hey im rey from",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 356,
+      "index_hyp": 2,
+      "ref_word": "later",
+      "hyp_word": "",
+      "ref_context": "technical difficulties please try again later hey im rey from myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 357,
+      "index_hyp": 2,
+      "ref_word": "hey",
+      "hyp_word": "",
+      "ref_context": "difficulties please try again later hey im rey from myntra here",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 419,
+      "index_hyp": 63,
+      "ref_word": "12th",
+      "hyp_word": "12",
+      "ref_context": "be delivered on or before 12th july please tell me is",
+      "hyp_context": "be delivered on or before 12 july please tell me is"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 555,
+      "index_hyp": 199,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "but im unable to share delivery address details if theres anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 556,
+      "index_hyp": 199,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "im unable to share delivery address details if theres anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 557,
+      "index_hyp": 199,
+      "ref_word": "details",
+      "hyp_word": "",
+      "ref_context": "unable to share delivery address details if theres anything else you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 558,
+      "index_hyp": 199,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "to share delivery address details if theres anything else you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 559,
+      "index_hyp": 199,
+      "ref_word": "theres",
+      "hyp_word": "",
+      "ref_context": "share delivery address details if theres anything else you need help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 560,
+      "index_hyp": 199,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "delivery address details if theres anything else you need help with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 561,
+      "index_hyp": 199,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "address details if theres anything else you need help with we",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 562,
+      "index_hyp": 199,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "details if theres anything else you need help with we are",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 563,
+      "index_hyp": 199,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "if theres anything else you need help with we are currently",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 564,
+      "index_hyp": 199,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "theres anything else you need help with we are currently unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 565,
+      "index_hyp": 199,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "anything else you need help with we are currently unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 566,
+      "index_hyp": 199,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "else you need help with we are currently unable to support",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 567,
+      "index_hyp": 199,
+      "ref_word": "are",
+      "hyp_word": "",
+      "ref_context": "you need help with we are currently unable to support changes",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 568,
+      "index_hyp": 199,
+      "ref_word": "currently",
+      "hyp_word": "",
+      "ref_context": "need help with we are currently unable to support changes to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 569,
+      "index_hyp": 199,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "help with we are currently unable to support changes to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 570,
+      "index_hyp": 199,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "with we are currently unable to support changes to the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 571,
+      "index_hyp": 199,
+      "ref_word": "support",
+      "hyp_word": "",
+      "ref_context": "we are currently unable to support changes to the delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 572,
+      "index_hyp": 199,
+      "ref_word": "changes",
+      "hyp_word": "",
+      "ref_context": "are currently unable to support changes to the delivery address once",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 573,
+      "index_hyp": 199,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "currently unable to support changes to the delivery address once an",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 574,
+      "index_hyp": 199,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "unable to support changes to the delivery address once an order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 575,
+      "index_hyp": 199,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "to support changes to the delivery address once an order is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 576,
+      "index_hyp": 199,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "support changes to the delivery address once an order is placed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 577,
+      "index_hyp": 199,
+      "ref_word": "once",
+      "hyp_word": "",
+      "ref_context": "changes to the delivery address once an order is placed if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 578,
+      "index_hyp": 199,
+      "ref_word": "an",
+      "hyp_word": "",
+      "ref_context": "to the delivery address once an order is placed if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 579,
+      "index_hyp": 199,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "the delivery address once an order is placed if you have",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 580,
+      "index_hyp": 199,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "delivery address once an order is placed if you have any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 581,
+      "index_hyp": 199,
+      "ref_word": "placed",
+      "hyp_word": "",
+      "ref_context": "address once an order is placed if you have any other",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 582,
+      "index_hyp": 199,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "once an order is placed if you have any other questions",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 583,
+      "index_hyp": 199,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "an order is placed if you have any other questions or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 584,
+      "index_hyp": 199,
+      "ref_word": "have",
+      "hyp_word": "",
+      "ref_context": "order is placed if you have any other questions or need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 585,
+      "index_hyp": 199,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "is placed if you have any other questions or need further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 586,
+      "index_hyp": 199,
+      "ref_word": "other",
+      "hyp_word": "",
+      "ref_context": "placed if you have any other questions or need further assistance",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 587,
+      "index_hyp": 199,
+      "ref_word": "questions",
+      "hyp_word": "",
+      "ref_context": "if you have any other questions or need further assistance feel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 588,
+      "index_hyp": 199,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "you have any other questions or need further assistance feel free",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 589,
+      "index_hyp": 199,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "have any other questions or need further assistance feel free to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 590,
+      "index_hyp": 199,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "any other questions or need further assistance feel free to ask",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 591,
+      "index_hyp": 199,
+      "ref_word": "assistance",
+      "hyp_word": "",
+      "ref_context": "other questions or need further assistance feel free to ask i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 592,
+      "index_hyp": 199,
+      "ref_word": "feel",
+      "hyp_word": "",
+      "ref_context": "questions or need further assistance feel free to ask i really",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 593,
+      "index_hyp": 199,
+      "ref_word": "free",
+      "hyp_word": "",
+      "ref_context": "or need further assistance feel free to ask i really apologize",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 594,
+      "index_hyp": 199,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "need further assistance feel free to ask i really apologize for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 595,
+      "index_hyp": 199,
+      "ref_word": "ask",
+      "hyp_word": "",
+      "ref_context": "further assistance feel free to ask i really apologize for the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 596,
+      "index_hyp": 199,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "assistance feel free to ask i really apologize for the inconvenience",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 597,
+      "index_hyp": 199,
+      "ref_word": "really",
+      "hyp_word": "",
+      "ref_context": "feel free to ask i really apologize for the inconvenience im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 598,
+      "index_hyp": 199,
+      "ref_word": "apologize",
+      "hyp_word": "",
+      "ref_context": "free to ask i really apologize for the inconvenience im unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 599,
+      "index_hyp": 199,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "to ask i really apologize for the inconvenience im unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 600,
+      "index_hyp": 199,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "ask i really apologize for the inconvenience im unable to make",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 601,
+      "index_hyp": 199,
+      "ref_word": "inconvenience",
+      "hyp_word": "",
+      "ref_context": "i really apologize for the inconvenience im unable to make changes",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 602,
+      "index_hyp": 199,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "really apologize for the inconvenience im unable to make changes to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 603,
+      "index_hyp": 199,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "apologize for the inconvenience im unable to make changes to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 604,
+      "index_hyp": 199,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "for the inconvenience im unable to make changes to the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 605,
+      "index_hyp": 199,
+      "ref_word": "make",
+      "hyp_word": "",
+      "ref_context": "the inconvenience im unable to make changes to the delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 606,
+      "index_hyp": 199,
+      "ref_word": "changes",
+      "hyp_word": "",
+      "ref_context": "inconvenience im unable to make changes to the delivery address at",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 607,
+      "index_hyp": 199,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "im unable to make changes to the delivery address at this",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 608,
+      "index_hyp": 199,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "unable to make changes to the delivery address at this time",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 611,
+      "index_hyp": 201,
+      "ref_word": "at",
+      "hyp_word": "",
+      "ref_context": "changes to the delivery address at this time if theres anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 612,
+      "index_hyp": 201,
+      "ref_word": "this",
+      "hyp_word": "",
+      "ref_context": "to the delivery address at this time if theres anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 613,
+      "index_hyp": 201,
+      "ref_word": "time",
+      "hyp_word": "",
+      "ref_context": "the delivery address at this time if theres anything else i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 614,
+      "index_hyp": 201,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "delivery address at this time if theres anything else i can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 615,
+      "index_hyp": 201,
+      "ref_word": "theres",
+      "hyp_word": "",
+      "ref_context": "address at this time if theres anything else i can help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 616,
+      "index_hyp": 201,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "at this time if theres anything else i can help with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 617,
+      "index_hyp": 201,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "this time if theres anything else i can help with or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 618,
+      "index_hyp": 201,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "time if theres anything else i can help with or if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 619,
+      "index_hyp": 201,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "if theres anything else i can help with or if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 620,
+      "index_hyp": 201,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "theres anything else i can help with or if you want",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 621,
+      "index_hyp": 201,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "anything else i can help with or if you want to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 622,
+      "index_hyp": 201,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "else i can help with or if you want to speak",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 623,
+      "index_hyp": 201,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "i can help with or if you want to speak with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 624,
+      "index_hyp": 201,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "can help with or if you want to speak with another",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 625,
+      "index_hyp": 201,
+      "ref_word": "want",
+      "hyp_word": "",
+      "ref_context": "help with or if you want to speak with another agent",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 626,
+      "index_hyp": 201,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "with or if you want to speak with another agent for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 627,
+      "index_hyp": 201,
+      "ref_word": "speak",
+      "hyp_word": "",
+      "ref_context": "or if you want to speak with another agent for further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 628,
+      "index_hyp": 201,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "if you want to speak with another agent for further assistance",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 629,
+      "index_hyp": 201,
+      "ref_word": "another",
+      "hyp_word": "",
+      "ref_context": "you want to speak with another agent for further assistance just",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 630,
+      "index_hyp": 201,
+      "ref_word": "agent",
+      "hyp_word": "",
+      "ref_context": "want to speak with another agent for further assistance just let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 631,
+      "index_hyp": 201,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "to speak with another agent for further assistance just let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 632,
+      "index_hyp": 201,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "speak with another agent for further assistance just let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 633,
+      "index_hyp": 201,
+      "ref_word": "assistance",
+      "hyp_word": "",
+      "ref_context": "with another agent for further assistance just let me know to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 634,
+      "index_hyp": 201,
+      "ref_word": "just",
+      "hyp_word": "",
+      "ref_context": "another agent for further assistance just let me know to initiate",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 635,
+      "index_hyp": 201,
+      "ref_word": "let",
+      "hyp_word": "",
+      "ref_context": "agent for further assistance just let me know to initiate a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 636,
+      "index_hyp": 201,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "for further assistance just let me know to initiate a return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 637,
+      "index_hyp": 201,
+      "ref_word": "know",
+      "hyp_word": "",
+      "ref_context": "further assistance just let me know to initiate a return on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 638,
+      "index_hyp": 201,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "assistance just let me know to initiate a return on the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 639,
+      "index_hyp": 201,
+      "ref_word": "initiate",
+      "hyp_word": "",
+      "ref_context": "just let me know to initiate a return on the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 640,
+      "index_hyp": 201,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "let me know to initiate a return on the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 641,
+      "index_hyp": 201,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "me know to initiate a return on the myntra app open",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 642,
+      "index_hyp": 201,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "know to initiate a return on the myntra app open the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 643,
+      "index_hyp": 201,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "to initiate a return on the myntra app open the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 644,
+      "index_hyp": 201,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "initiate a return on the myntra app open the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 645,
+      "index_hyp": 201,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "a return on the myntra app open the myntra app and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 646,
+      "index_hyp": 201,
+      "ref_word": "open",
+      "hyp_word": "",
+      "ref_context": "return on the myntra app open the myntra app and go",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 647,
+      "index_hyp": 201,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "on the myntra app open the myntra app and go to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 648,
+      "index_hyp": 201,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "the myntra app open the myntra app and go to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 649,
+      "index_hyp": 201,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "myntra app open the myntra app and go to the order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 650,
+      "index_hyp": 201,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "app open the myntra app and go to the order section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 651,
+      "index_hyp": 201,
+      "ref_word": "go",
+      "hyp_word": "",
+      "ref_context": "open the myntra app and go to the order section then",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 652,
+      "index_hyp": 201,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the myntra app and go to the order section then select",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 653,
+      "index_hyp": 201,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "myntra app and go to the order section then select the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 654,
+      "index_hyp": 201,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "app and go to the order section then select the item",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 655,
+      "index_hyp": 201,
+      "ref_word": "section",
+      "hyp_word": "",
+      "ref_context": "and go to the order section then select the item you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 656,
+      "index_hyp": 201,
+      "ref_word": "then",
+      "hyp_word": "",
+      "ref_context": "go to the order section then select the item you want",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 657,
+      "index_hyp": 201,
+      "ref_word": "select",
+      "hyp_word": "",
+      "ref_context": "to the order section then select the item you want to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 658,
+      "index_hyp": 201,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "the order section then select the item you want to return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 659,
+      "index_hyp": 201,
+      "ref_word": "item",
+      "hyp_word": "",
+      "ref_context": "order section then select the item you want to return tap",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 660,
+      "index_hyp": 201,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "section then select the item you want to return tap on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 661,
+      "index_hyp": 201,
+      "ref_word": "want",
+      "hyp_word": "",
+      "ref_context": "then select the item you want to return tap on return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 662,
+      "index_hyp": 201,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "select the item you want to return tap on return choose",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 663,
+      "index_hyp": 201,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "the item you want to return tap on return choose a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 664,
+      "index_hyp": 201,
+      "ref_word": "tap",
+      "hyp_word": "",
+      "ref_context": "item you want to return tap on return choose a reason",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 665,
+      "index_hyp": 201,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "you want to return tap on return choose a reason for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 666,
+      "index_hyp": 201,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "want to return tap on return choose a reason for return",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 667,
+      "index_hyp": 201,
+      "ref_word": "choose",
+      "hyp_word": "",
+      "ref_context": "to return tap on return choose a reason for return provide",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 668,
+      "index_hyp": 201,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "return tap on return choose a reason for return provide any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 669,
+      "index_hyp": 201,
+      "ref_word": "reason",
+      "hyp_word": "",
+      "ref_context": "tap on return choose a reason for return provide any required",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 670,
+      "index_hyp": 201,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "on return choose a reason for return provide any required details",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 671,
+      "index_hyp": 201,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "return choose a reason for return provide any required details and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 672,
+      "index_hyp": 201,
+      "ref_word": "provide",
+      "hyp_word": "",
+      "ref_context": "choose a reason for return provide any required details and finally",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 673,
+      "index_hyp": 201,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "a reason for return provide any required details and finally submit",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 674,
+      "index_hyp": 201,
+      "ref_word": "required",
+      "hyp_word": "",
+      "ref_context": "reason for return provide any required details and finally submit the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 676,
+      "index_hyp": 202,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "return provide any required details and finally submit the return request",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 677,
+      "index_hyp": 202,
+      "ref_word": "finally",
+      "hyp_word": "",
+      "ref_context": "provide any required details and finally submit the return request if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 678,
+      "index_hyp": 202,
+      "ref_word": "submit",
+      "hyp_word": "",
+      "ref_context": "any required details and finally submit the return request if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 679,
+      "index_hyp": 202,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "required details and finally submit the return request if you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 680,
+      "index_hyp": 202,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "details and finally submit the return request if you need any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 681,
+      "index_hyp": 202,
+      "ref_word": "request",
+      "hyp_word": "",
+      "ref_context": "and finally submit the return request if you need any more",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 682,
+      "index_hyp": 202,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "finally submit the return request if you need any more help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 683,
+      "index_hyp": 202,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "submit the return request if you need any more help just",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 684,
+      "index_hyp": 202,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "the return request if you need any more help just let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 685,
+      "index_hyp": 202,
+      "ref_word": "any",
+      "hyp_word": "",
+      "ref_context": "return request if you need any more help just let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 686,
+      "index_hyp": 202,
+      "ref_word": "more",
+      "hyp_word": "",
+      "ref_context": "request if you need any more help just let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 687,
+      "index_hyp": 202,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "if you need any more help just let me know im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 688,
+      "index_hyp": 202,
+      "ref_word": "just",
+      "hyp_word": "",
+      "ref_context": "you need any more help just let me know im experiencing",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 689,
+      "index_hyp": 202,
+      "ref_word": "let",
+      "hyp_word": "",
+      "ref_context": "need any more help just let me know im experiencing technical",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 690,
+      "index_hyp": 202,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "any more help just let me know im experiencing technical difficulties",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 691,
+      "index_hyp": 202,
+      "ref_word": "know",
+      "hyp_word": "",
+      "ref_context": "more help just let me know im experiencing technical difficulties please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 692,
+      "index_hyp": 202,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "help just let me know im experiencing technical difficulties please try",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 693,
+      "index_hyp": 202,
+      "ref_word": "experiencing",
+      "hyp_word": "",
+      "ref_context": "just let me know im experiencing technical difficulties please try again",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 694,
+      "index_hyp": 202,
+      "ref_word": "technical",
+      "hyp_word": "",
+      "ref_context": "let me know im experiencing technical difficulties please try again later",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 695,
+      "index_hyp": 202,
+      "ref_word": "difficulties",
+      "hyp_word": "",
+      "ref_context": "me know im experiencing technical difficulties please try again later hey",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 696,
+      "index_hyp": 202,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "know im experiencing technical difficulties please try again later hey im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 697,
+      "index_hyp": 202,
+      "ref_word": "try",
+      "hyp_word": "",
+      "ref_context": "im experiencing technical difficulties please try again later hey im rey",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 698,
+      "index_hyp": 202,
+      "ref_word": "again",
+      "hyp_word": "",
+      "ref_context": "experiencing technical difficulties please try again later hey im rey from",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 699,
+      "index_hyp": 202,
+      "ref_word": "later",
+      "hyp_word": "",
+      "ref_context": "technical difficulties please try again later hey im rey from myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 700,
+      "index_hyp": 202,
+      "ref_word": "hey",
+      "hyp_word": "",
+      "ref_context": "difficulties please try again later hey im rey from myntra here",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 701,
+      "index_hyp": 202,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "please try again later hey im rey from myntra here to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 702,
+      "index_hyp": 202,
+      "ref_word": "rey",
+      "hyp_word": "",
+      "ref_context": "try again later hey im rey from myntra here to assist",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 703,
+      "index_hyp": 202,
+      "ref_word": "from",
+      "hyp_word": "",
+      "ref_context": "again later hey im rey from myntra here to assist you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 704,
+      "index_hyp": 202,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "later hey im rey from myntra here to assist you shall",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 705,
+      "index_hyp": 202,
+      "ref_word": "here",
+      "hyp_word": "",
+      "ref_context": "hey im rey from myntra here to assist you shall we",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 706,
+      "index_hyp": 202,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "im rey from myntra here to assist you shall we proceed",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 707,
+      "index_hyp": 202,
+      "ref_word": "assist",
+      "hyp_word": "",
+      "ref_context": "rey from myntra here to assist you shall we proceed further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 708,
+      "index_hyp": 202,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "from myntra here to assist you shall we proceed further in",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 709,
+      "index_hyp": 202,
+      "ref_word": "shall",
+      "hyp_word": "",
+      "ref_context": "myntra here to assist you shall we proceed further in hindi",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 710,
+      "index_hyp": 202,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "here to assist you shall we proceed further in hindi or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 711,
+      "index_hyp": 202,
+      "ref_word": "proceed",
+      "hyp_word": "",
+      "ref_context": "to assist you shall we proceed further in hindi or english",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 712,
+      "index_hyp": 202,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "assist you shall we proceed further in hindi or english great",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 713,
+      "index_hyp": 202,
+      "ref_word": "in",
+      "hyp_word": "",
+      "ref_context": "you shall we proceed further in hindi or english great how",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 714,
+      "index_hyp": 202,
+      "ref_word": "hindi",
+      "hyp_word": "",
+      "ref_context": "shall we proceed further in hindi or english great how can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 715,
+      "index_hyp": 202,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "we proceed further in hindi or english great how can i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 716,
+      "index_hyp": 202,
+      "ref_word": "english",
+      "hyp_word": "",
+      "ref_context": "proceed further in hindi or english great how can i help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 717,
+      "index_hyp": 202,
+      "ref_word": "great",
+      "hyp_word": "",
+      "ref_context": "further in hindi or english great how can i help you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 718,
+      "index_hyp": 202,
+      "ref_word": "how",
+      "hyp_word": "",
+      "ref_context": "in hindi or english great how can i help you today",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 719,
+      "index_hyp": 202,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "hindi or english great how can i help you today i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 720,
+      "index_hyp": 202,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "or english great how can i help you today i can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 721,
+      "index_hyp": 202,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "english great how can i help you today i can help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 722,
+      "index_hyp": 202,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "great how can i help you today i can help you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 723,
+      "index_hyp": 202,
+      "ref_word": "today",
+      "hyp_word": "",
+      "ref_context": "how can i help you today i can help you with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 724,
+      "index_hyp": 202,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "can i help you today i can help you with tracking",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 725,
+      "index_hyp": 202,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "i help you today i can help you with tracking your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 726,
+      "index_hyp": 202,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "help you today i can help you with tracking your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 727,
+      "index_hyp": 202,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "you today i can help you with tracking your order could",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 728,
+      "index_hyp": 202,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "today i can help you with tracking your order could you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 729,
+      "index_hyp": 202,
+      "ref_word": "tracking",
+      "hyp_word": "",
+      "ref_context": "i can help you with tracking your order could you please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 730,
+      "index_hyp": 202,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "can help you with tracking your order could you please provide",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 731,
+      "index_hyp": 202,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "help you with tracking your order could you please provide me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 732,
+      "index_hyp": 202,
+      "ref_word": "could",
+      "hyp_word": "",
+      "ref_context": "you with tracking your order could you please provide me the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 733,
+      "index_hyp": 202,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "with tracking your order could you please provide me the product",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 734,
+      "index_hyp": 202,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "tracking your order could you please provide me the product name",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 735,
+      "index_hyp": 202,
+      "ref_word": "provide",
+      "hyp_word": "",
+      "ref_context": "your order could you please provide me the product name please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 736,
+      "index_hyp": 202,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "order could you please provide me the product name please give",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 737,
+      "index_hyp": 202,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "could you please provide me the product name please give me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 738,
+      "index_hyp": 202,
+      "ref_word": "product",
+      "hyp_word": "",
+      "ref_context": "you please provide me the product name please give me a",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 739,
+      "index_hyp": 202,
+      "ref_word": "name",
+      "hyp_word": "",
+      "ref_context": "please provide me the product name please give me a moment",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 740,
+      "index_hyp": 202,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "provide me the product name please give me a moment to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 741,
+      "index_hyp": 202,
+      "ref_word": "give",
+      "hyp_word": "",
+      "ref_context": "me the product name please give me a moment to fetch",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 742,
+      "index_hyp": 202,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "the product name please give me a moment to fetch your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 743,
+      "index_hyp": 202,
+      "ref_word": "a",
+      "hyp_word": "",
+      "ref_context": "product name please give me a moment to fetch your products",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 744,
+      "index_hyp": 202,
+      "ref_word": "moment",
+      "hyp_word": "",
+      "ref_context": "name please give me a moment to fetch your products your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 745,
+      "index_hyp": 202,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "please give me a moment to fetch your products your crocs",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 746,
+      "index_hyp": 202,
+      "ref_word": "fetch",
+      "hyp_word": "",
+      "ref_context": "give me a moment to fetch your products your crocs unisex",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 747,
+      "index_hyp": 202,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "me a moment to fetch your products your crocs unisex navy",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 748,
+      "index_hyp": 202,
+      "ref_word": "products",
+      "hyp_word": "",
+      "ref_context": "a moment to fetch your products your crocs unisex navy blue",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 749,
+      "index_hyp": 202,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "moment to fetch your products your crocs unisex navy blue bioband",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 750,
+      "index_hyp": 202,
+      "ref_word": "crocs",
+      "hyp_word": "",
+      "ref_context": "to fetch your products your crocs unisex navy blue bioband clogs",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 751,
+      "index_hyp": 202,
+      "ref_word": "unisex",
+      "hyp_word": "",
+      "ref_context": "fetch your products your crocs unisex navy blue bioband clogs will",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 752,
+      "index_hyp": 202,
+      "ref_word": "navy",
+      "hyp_word": "",
+      "ref_context": "your products your crocs unisex navy blue bioband clogs will be",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 753,
+      "index_hyp": 202,
+      "ref_word": "blue",
+      "hyp_word": "",
+      "ref_context": "products your crocs unisex navy blue bioband clogs will be delivered",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 754,
+      "index_hyp": 202,
+      "ref_word": "bioband",
+      "hyp_word": "",
+      "ref_context": "your crocs unisex navy blue bioband clogs will be delivered on",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 755,
+      "index_hyp": 202,
+      "ref_word": "clogs",
+      "hyp_word": "",
+      "ref_context": "crocs unisex navy blue bioband clogs will be delivered on or",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 756,
+      "index_hyp": 202,
+      "ref_word": "will",
+      "hyp_word": "",
+      "ref_context": "unisex navy blue bioband clogs will be delivered on or before",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 757,
+      "index_hyp": 202,
+      "ref_word": "be",
+      "hyp_word": "",
+      "ref_context": "navy blue bioband clogs will be delivered on or before 12th",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 758,
+      "index_hyp": 202,
+      "ref_word": "delivered",
+      "hyp_word": "",
+      "ref_context": "blue bioband clogs will be delivered on or before 12th july",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 759,
+      "index_hyp": 202,
+      "ref_word": "on",
+      "hyp_word": "",
+      "ref_context": "bioband clogs will be delivered on or before 12th july please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 760,
+      "index_hyp": 202,
+      "ref_word": "or",
+      "hyp_word": "",
+      "ref_context": "clogs will be delivered on or before 12th july please tell",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 761,
+      "index_hyp": 202,
+      "ref_word": "before",
+      "hyp_word": "",
+      "ref_context": "will be delivered on or before 12th july please tell me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 762,
+      "index_hyp": 202,
+      "ref_word": "12th",
+      "hyp_word": "",
+      "ref_context": "be delivered on or before 12th july please tell me is",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 763,
+      "index_hyp": 202,
+      "ref_word": "july",
+      "hyp_word": "",
+      "ref_context": "delivered on or before 12th july please tell me is there",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 764,
+      "index_hyp": 202,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "on or before 12th july please tell me is there anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 765,
+      "index_hyp": 202,
+      "ref_word": "tell",
+      "hyp_word": "",
+      "ref_context": "or before 12th july please tell me is there anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 766,
+      "index_hyp": 202,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "before 12th july please tell me is there anything else i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 767,
+      "index_hyp": 202,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "12th july please tell me is there anything else i can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 768,
+      "index_hyp": 202,
+      "ref_word": "there",
+      "hyp_word": "",
+      "ref_context": "july please tell me is there anything else i can help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 769,
+      "index_hyp": 202,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "please tell me is there anything else i can help you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 770,
+      "index_hyp": 202,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "tell me is there anything else i can help you with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 773,
+      "index_hyp": 204,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "there anything else i can help you with we currently cannot",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 774,
+      "index_hyp": 204,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "anything else i can help you with we currently cannot accommodate",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 775,
+      "index_hyp": 204,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "else i can help you with we currently cannot accommodate changes",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 776,
+      "index_hyp": 204,
+      "ref_word": "we",
+      "hyp_word": "",
+      "ref_context": "i can help you with we currently cannot accommodate changes to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 777,
+      "index_hyp": 204,
+      "ref_word": "currently",
+      "hyp_word": "",
+      "ref_context": "can help you with we currently cannot accommodate changes to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 778,
+      "index_hyp": 204,
+      "ref_word": "cannot",
+      "hyp_word": "",
+      "ref_context": "help you with we currently cannot accommodate changes to the delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 779,
+      "index_hyp": 204,
+      "ref_word": "accommodate",
+      "hyp_word": "",
+      "ref_context": "you with we currently cannot accommodate changes to the delivery time",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 780,
+      "index_hyp": 204,
+      "ref_word": "changes",
+      "hyp_word": "",
+      "ref_context": "with we currently cannot accommodate changes to the delivery time the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 781,
+      "index_hyp": 204,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "we currently cannot accommodate changes to the delivery time the fastest",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 782,
+      "index_hyp": 204,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "currently cannot accommodate changes to the delivery time the fastest available",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 783,
+      "index_hyp": 204,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "cannot accommodate changes to the delivery time the fastest available delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 784,
+      "index_hyp": 204,
+      "ref_word": "time",
+      "hyp_word": "check",
+      "ref_context": "accommodate changes to the delivery time the fastest available delivery option",
+      "hyp_context": "delivery address details you can check the delivery address in the"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 786,
+      "index_hyp": 206,
+      "ref_word": "fastest",
+      "hyp_word": "",
+      "ref_context": "to the delivery time the fastest available delivery option is always",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 787,
+      "index_hyp": 206,
+      "ref_word": "available",
+      "hyp_word": "",
+      "ref_context": "the delivery time the fastest available delivery option is always chosen",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 789,
+      "index_hyp": 207,
+      "ref_word": "option",
+      "hyp_word": "",
+      "ref_context": "time the fastest available delivery option is always chosen for your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 790,
+      "index_hyp": 207,
+      "ref_word": "is",
+      "hyp_word": "",
+      "ref_context": "the fastest available delivery option is always chosen for your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 791,
+      "index_hyp": 207,
+      "ref_word": "always",
+      "hyp_word": "",
+      "ref_context": "fastest available delivery option is always chosen for your order if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 792,
+      "index_hyp": 207,
+      "ref_word": "chosen",
+      "hyp_word": "",
+      "ref_context": "available delivery option is always chosen for your order if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 793,
+      "index_hyp": 207,
+      "ref_word": "for",
+      "hyp_word": "",
+      "ref_context": "delivery option is always chosen for your order if you have",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 794,
+      "index_hyp": 207,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "option is always chosen for your order if you have any",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 795,
+      "index_hyp": 207,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "is always chosen for your order if you have any more",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 796,
+      "index_hyp": 207,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "always chosen for your order if you have any more questions",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 797,
+      "index_hyp": 207,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "chosen for your order if you have any more questions feel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 798,
+      "index_hyp": 207,
+      "ref_word": "have",
+      "hyp_word": "address",
+      "ref_context": "for your order if you have any more questions feel free",
+      "hyp_context": "you can check the delivery address in the orders section of"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 800,
+      "index_hyp": 209,
+      "ref_word": "more",
+      "hyp_word": "",
+      "ref_context": "order if you have any more questions feel free to ask",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 801,
+      "index_hyp": 209,
+      "ref_word": "questions",
+      "hyp_word": "",
+      "ref_context": "if you have any more questions feel free to ask im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 802,
+      "index_hyp": 209,
+      "ref_word": "feel",
+      "hyp_word": "",
+      "ref_context": "you have any more questions feel free to ask im really",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 803,
+      "index_hyp": 209,
+      "ref_word": "free",
+      "hyp_word": "",
+      "ref_context": "have any more questions feel free to ask im really sorry",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 804,
+      "index_hyp": 209,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "any more questions feel free to ask im really sorry but",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 805,
+      "index_hyp": 209,
+      "ref_word": "ask",
+      "hyp_word": "",
+      "ref_context": "more questions feel free to ask im really sorry but im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 806,
+      "index_hyp": 209,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "questions feel free to ask im really sorry but im unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 807,
+      "index_hyp": 209,
+      "ref_word": "really",
+      "hyp_word": "",
+      "ref_context": "feel free to ask im really sorry but im unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 808,
+      "index_hyp": 209,
+      "ref_word": "sorry",
+      "hyp_word": "",
+      "ref_context": "free to ask im really sorry but im unable to assist",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 809,
+      "index_hyp": 209,
+      "ref_word": "but",
+      "hyp_word": "",
+      "ref_context": "to ask im really sorry but im unable to assist with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 810,
+      "index_hyp": 209,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "ask im really sorry but im unable to assist with cancellation",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 811,
+      "index_hyp": 209,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "im really sorry but im unable to assist with cancellation requests",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 812,
+      "index_hyp": 209,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "really sorry but im unable to assist with cancellation requests directly",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 813,
+      "index_hyp": 209,
+      "ref_word": "assist",
+      "hyp_word": "",
+      "ref_context": "sorry but im unable to assist with cancellation requests directly you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 814,
+      "index_hyp": 209,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "but im unable to assist with cancellation requests directly you can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 815,
+      "index_hyp": 209,
+      "ref_word": "cancellation",
+      "hyp_word": "",
+      "ref_context": "im unable to assist with cancellation requests directly you can cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 816,
+      "index_hyp": 209,
+      "ref_word": "requests",
+      "hyp_word": "",
+      "ref_context": "unable to assist with cancellation requests directly you can cancel your",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 817,
+      "index_hyp": 209,
+      "ref_word": "directly",
+      "hyp_word": "",
+      "ref_context": "to assist with cancellation requests directly you can cancel your order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 818,
+      "index_hyp": 209,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "assist with cancellation requests directly you can cancel your order through",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 819,
+      "index_hyp": 209,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "with cancellation requests directly you can cancel your order through the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 820,
+      "index_hyp": 209,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "cancellation requests directly you can cancel your order through the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 821,
+      "index_hyp": 209,
+      "ref_word": "your",
+      "hyp_word": "",
+      "ref_context": "requests directly you can cancel your order through the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 822,
+      "index_hyp": 209,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "directly you can cancel your order through the myntra app by",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 823,
+      "index_hyp": 209,
+      "ref_word": "through",
+      "hyp_word": "",
+      "ref_context": "you can cancel your order through the myntra app by going",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 824,
+      "index_hyp": 209,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "can cancel your order through the myntra app by going to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 825,
+      "index_hyp": 209,
+      "ref_word": "myntra",
+      "hyp_word": "",
+      "ref_context": "cancel your order through the myntra app by going to the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 826,
+      "index_hyp": 209,
+      "ref_word": "app",
+      "hyp_word": "",
+      "ref_context": "your order through the myntra app by going to the orders",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 827,
+      "index_hyp": 209,
+      "ref_word": "by",
+      "hyp_word": "",
+      "ref_context": "order through the myntra app by going to the orders section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 828,
+      "index_hyp": 209,
+      "ref_word": "going",
+      "hyp_word": "",
+      "ref_context": "through the myntra app by going to the orders section and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 829,
+      "index_hyp": 209,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the myntra app by going to the orders section and selecting",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 833,
+      "index_hyp": 212,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "going to the orders section and selecting the order you wish",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 834,
+      "index_hyp": 212,
+      "ref_word": "selecting",
+      "hyp_word": "",
+      "ref_context": "to the orders section and selecting the order you wish to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 835,
+      "index_hyp": 212,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "the orders section and selecting the order you wish to cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 836,
+      "index_hyp": 212,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "orders section and selecting the order you wish to cancel if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 837,
+      "index_hyp": 212,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "section and selecting the order you wish to cancel if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 838,
+      "index_hyp": 212,
+      "ref_word": "wish",
+      "hyp_word": "",
+      "ref_context": "and selecting the order you wish to cancel if you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 839,
+      "index_hyp": 212,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "selecting the order you wish to cancel if you need further",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 840,
+      "index_hyp": 212,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "the order you wish to cancel if you need further assistance",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 842,
+      "index_hyp": 213,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "you wish to cancel if you need further assistance feel free",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 843,
+      "index_hyp": 213,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "wish to cancel if you need further assistance feel free to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 844,
+      "index_hyp": 213,
+      "ref_word": "further",
+      "hyp_word": "",
+      "ref_context": "to cancel if you need further assistance feel free to ask",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 845,
+      "index_hyp": 213,
+      "ref_word": "assistance",
+      "hyp_word": "",
+      "ref_context": "cancel if you need further assistance feel free to ask you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 846,
+      "index_hyp": 213,
+      "ref_word": "feel",
+      "hyp_word": "",
+      "ref_context": "if you need further assistance feel free to ask you can",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 847,
+      "index_hyp": 213,
+      "ref_word": "free",
+      "hyp_word": "",
+      "ref_context": "you need further assistance feel free to ask you can cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 848,
+      "index_hyp": 213,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "need further assistance feel free to ask you can cancel individual",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 849,
+      "index_hyp": 213,
+      "ref_word": "ask",
+      "hyp_word": "",
+      "ref_context": "further assistance feel free to ask you can cancel individual items",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 850,
+      "index_hyp": 213,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "assistance feel free to ask you can cancel individual items within",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 851,
+      "index_hyp": 213,
+      "ref_word": "can",
+      "hyp_word": "",
+      "ref_context": "feel free to ask you can cancel individual items within an",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 852,
+      "index_hyp": 213,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "free to ask you can cancel individual items within an order",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 853,
+      "index_hyp": 213,
+      "ref_word": "individual",
+      "hyp_word": "",
+      "ref_context": "to ask you can cancel individual items within an order through",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 854,
+      "index_hyp": 213,
+      "ref_word": "items",
+      "hyp_word": "",
+      "ref_context": "ask you can cancel individual items within an order through the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 855,
+      "index_hyp": 213,
+      "ref_word": "within",
+      "hyp_word": "",
+      "ref_context": "you can cancel individual items within an order through the myntra",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 856,
+      "index_hyp": 213,
+      "ref_word": "an",
+      "hyp_word": "",
+      "ref_context": "can cancel individual items within an order through the myntra app",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 857,
+      "index_hyp": 213,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "cancel individual items within an order through the myntra app just",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 858,
+      "index_hyp": 213,
+      "ref_word": "through",
+      "hyp_word": "",
+      "ref_context": "individual items within an order through the myntra app just go",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 862,
+      "index_hyp": 216,
+      "ref_word": "just",
+      "hyp_word": "",
+      "ref_context": "order through the myntra app just go to the order section",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 863,
+      "index_hyp": 216,
+      "ref_word": "go",
+      "hyp_word": "",
+      "ref_context": "through the myntra app just go to the order section select",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 864,
+      "index_hyp": 216,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the myntra app just go to the order section select the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 865,
+      "index_hyp": 216,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "myntra app just go to the order section select the specific",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 866,
+      "index_hyp": 216,
+      "ref_word": "order",
+      "hyp_word": "",
+      "ref_context": "app just go to the order section select the specific item",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 867,
+      "index_hyp": 216,
+      "ref_word": "section",
+      "hyp_word": "",
+      "ref_context": "just go to the order section select the specific item you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 868,
+      "index_hyp": 216,
+      "ref_word": "select",
+      "hyp_word": "",
+      "ref_context": "go to the order section select the specific item you wish",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 869,
+      "index_hyp": 216,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "to the order section select the specific item you wish to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 870,
+      "index_hyp": 216,
+      "ref_word": "specific",
+      "hyp_word": "",
+      "ref_context": "the order section select the specific item you wish to cancel",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 871,
+      "index_hyp": 216,
+      "ref_word": "item",
+      "hyp_word": "",
+      "ref_context": "order section select the specific item you wish to cancel and",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 872,
+      "index_hyp": 216,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "section select the specific item you wish to cancel and follow",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 873,
+      "index_hyp": 216,
+      "ref_word": "wish",
+      "hyp_word": "",
+      "ref_context": "select the specific item you wish to cancel and follow the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 874,
+      "index_hyp": 216,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "the specific item you wish to cancel and follow the cancellation",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 875,
+      "index_hyp": 216,
+      "ref_word": "cancel",
+      "hyp_word": "",
+      "ref_context": "specific item you wish to cancel and follow the cancellation process",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 876,
+      "index_hyp": 216,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "item you wish to cancel and follow the cancellation process if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 877,
+      "index_hyp": 216,
+      "ref_word": "follow",
+      "hyp_word": "",
+      "ref_context": "you wish to cancel and follow the cancellation process if you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 878,
+      "index_hyp": 216,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "wish to cancel and follow the cancellation process if you need",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 879,
+      "index_hyp": 216,
+      "ref_word": "cancellation",
+      "hyp_word": "",
+      "ref_context": "to cancel and follow the cancellation process if you need help",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 880,
+      "index_hyp": 216,
+      "ref_word": "process",
+      "hyp_word": "",
+      "ref_context": "cancel and follow the cancellation process if you need help with",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 881,
+      "index_hyp": 216,
+      "ref_word": "if",
+      "hyp_word": "",
+      "ref_context": "and follow the cancellation process if you need help with anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 882,
+      "index_hyp": 216,
+      "ref_word": "you",
+      "hyp_word": "",
+      "ref_context": "follow the cancellation process if you need help with anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 883,
+      "index_hyp": 216,
+      "ref_word": "need",
+      "hyp_word": "",
+      "ref_context": "the cancellation process if you need help with anything else let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 884,
+      "index_hyp": 216,
+      "ref_word": "help",
+      "hyp_word": "",
+      "ref_context": "cancellation process if you need help with anything else let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 885,
+      "index_hyp": 216,
+      "ref_word": "with",
+      "hyp_word": "",
+      "ref_context": "process if you need help with anything else let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 886,
+      "index_hyp": 216,
+      "ref_word": "anything",
+      "hyp_word": "",
+      "ref_context": "if you need help with anything else let me know im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 887,
+      "index_hyp": 216,
+      "ref_word": "else",
+      "hyp_word": "",
+      "ref_context": "you need help with anything else let me know im sorry",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 888,
+      "index_hyp": 216,
+      "ref_word": "let",
+      "hyp_word": "",
+      "ref_context": "need help with anything else let me know im sorry but",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 889,
+      "index_hyp": 216,
+      "ref_word": "me",
+      "hyp_word": "",
+      "ref_context": "help with anything else let me know im sorry but im",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 890,
+      "index_hyp": 216,
+      "ref_word": "know",
+      "hyp_word": "",
+      "ref_context": "with anything else let me know im sorry but im unable",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 891,
+      "index_hyp": 216,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "anything else let me know im sorry but im unable to",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 892,
+      "index_hyp": 216,
+      "ref_word": "sorry",
+      "hyp_word": "",
+      "ref_context": "else let me know im sorry but im unable to share",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 893,
+      "index_hyp": 216,
+      "ref_word": "but",
+      "hyp_word": "",
+      "ref_context": "let me know im sorry but im unable to share delivery",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 894,
+      "index_hyp": 216,
+      "ref_word": "im",
+      "hyp_word": "",
+      "ref_context": "me know im sorry but im unable to share delivery address",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 895,
+      "index_hyp": 216,
+      "ref_word": "unable",
+      "hyp_word": "",
+      "ref_context": "know im sorry but im unable to share delivery address details",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 896,
+      "index_hyp": 216,
+      "ref_word": "to",
+      "hyp_word": "",
+      "ref_context": "im sorry but im unable to share delivery address details if",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 897,
+      "index_hyp": 216,
+      "ref_word": "share",
+      "hyp_word": "",
+      "ref_context": "sorry but im unable to share delivery address details if theres",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 898,
+      "index_hyp": 216,
+      "ref_word": "delivery",
+      "hyp_word": "",
+      "ref_context": "but im unable to share delivery address details if theres anything",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 899,
+      "index_hyp": 216,
+      "ref_word": "address",
+      "hyp_word": "",
+      "ref_context": "im unable to share delivery address details if theres anything else",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 900,
+      "index_hyp": 216,
+      "ref_word": "details",
+      "hyp_word": "",
+      "ref_context": "unable to share delivery address details if theres anything else you",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 945,
+      "index_hyp": 260,
+      "ref_word": "i",
+      "hyp_word": "",
+      "ref_context": "really apologize for the inconvenience i am unable to make changes",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "12th",
+      "hypothesis": "12"
+    },
+    {
+      "reference": "time",
+      "hypothesis": "check"
+    },
+    {
+      "reference": "have",
+      "hypothesis": "address"
+    }
+  ],
+  "deletion_words": [
+    "hey",
+    "im",
+    "ray",
+    "from",
+    "myntra",
+    "here",
+    "to",
+    "assist",
+    "you",
+    "shall",
+    "we",
+    "proceed",
+    "further",
+    "in",
+    "hindi",
+    "or",
+    "english",
+    "great",
+    "can",
+    "i",
+    "help",
+    "you",
+    "today",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "tracking",
+    "your",
+    "order",
+    "could",
+    "you",
+    "please",
+    "provide",
+    "me",
+    "the",
+    "product",
+    "name",
+    "please",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "to",
+    "fetch",
+    "your",
+    "products",
+    "your",
+    "crocs",
+    "unisex",
+    "navy",
+    "blue",
+    "bayaband",
+    "clogs",
+    "will",
+    "be",
+    "delivered",
+    "on",
+    "or",
+    "before",
+    "12th",
+    "july",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "we",
+    "currently",
+    "cannot",
+    "accommodate",
+    "changes",
+    "to",
+    "the",
+    "delivery",
+    "time",
+    "the",
+    "fastest",
+    "available",
+    "delivery",
+    "option",
+    "is",
+    "always",
+    "chosen",
+    "for",
+    "your",
+    "order",
+    "if",
+    "you",
+    "have",
+    "any",
+    "more",
+    "questions",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "im",
+    "really",
+    "sorry",
+    "but",
+    "im",
+    "unable",
+    "to",
+    "assist",
+    "with",
+    "cancellation",
+    "requests",
+    "directly",
+    "you",
+    "can",
+    "cancel",
+    "your",
+    "order",
+    "through",
+    "the",
+    "myntra",
+    "app",
+    "by",
+    "going",
+    "to",
+    "the",
+    "orders",
+    "section",
+    "and",
+    "selecting",
+    "the",
+    "order",
+    "you",
+    "wish",
+    "to",
+    "cancel",
+    "if",
+    "you",
+    "need",
+    "further",
+    "assistance",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "you",
+    "can",
+    "cancel",
+    "individual",
+    "items",
+    "within",
+    "an",
+    "order",
+    "through",
+    "the",
+    "myntra",
+    "app",
+    "just",
+    "go",
+    "to",
+    "the",
+    "order",
+    "section",
+    "select",
+    "the",
+    "specific",
+    "item",
+    "you",
+    "wish",
+    "to",
+    "cancel",
+    "and",
+    "follow",
+    "the",
+    "cancellation",
+    "process",
+    "if",
+    "you",
+    "need",
+    "help",
+    "with",
+    "anything",
+    "else",
+    "let",
+    "me",
+    "know",
+    "im",
+    "sorry",
+    "but",
+    "im",
+    "unable",
+    "to",
+    "share",
+    "delivery",
+    "address",
+    "details",
+    "you",
+    "can",
+    "check",
+    "the",
+    "delivery",
+    "address",
+    "in",
+    "the",
+    "order",
+    "section",
+    "of",
+    "the",
+    "myntra",
+    "app",
+    "if",
+    "theres",
+    "anything",
+    "else",
+    "you",
+    "need",
+    "help",
+    "with",
+    "we",
+    "are",
+    "currently",
+    "unable",
+    "to",
+    "support",
+    "changes",
+    "to",
+    "the",
+    "delivery",
+    "address",
+    "once",
+    "an",
+    "order",
+    "is",
+    "placed",
+    "if",
+    "you",
+    "have",
+    "any",
+    "other",
+    "questions",
+    "or",
+    "need",
+    "further",
+    "assistance",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "i",
+    "really",
+    "apologize",
+    "for",
+    "the",
+    "inconvenience",
+    "im",
+    "unable",
+    "to",
+    "make",
+    "changes",
+    "to",
+    "the",
+    "delivery",
+    "address",
+    "at",
+    "this",
+    "time",
+    "if",
+    "theres",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "with",
+    "or",
+    "if",
+    "you",
+    "want",
+    "to",
+    "speak",
+    "with",
+    "another",
+    "agent",
+    "for",
+    "further",
+    "assistance",
+    "just",
+    "let",
+    "me",
+    "know",
+    "to",
+    "initiate",
+    "a",
+    "return",
+    "on",
+    "the",
+    "myntra",
+    "app",
+    "open",
+    "the",
+    "myntra",
+    "app",
+    "and",
+    "go",
+    "to",
+    "the",
+    "order",
+    "section",
+    "then",
+    "select",
+    "the",
+    "item",
+    "you",
+    "want",
+    "to",
+    "return",
+    "tap",
+    "on",
+    "return",
+    "choose",
+    "a",
+    "reason",
+    "for",
+    "return",
+    "provide",
+    "any",
+    "required",
+    "details",
+    "and",
+    "finally",
+    "submit",
+    "the",
+    "return",
+    "request",
+    "if",
+    "need",
+    "any",
+    "more",
+    "help",
+    "just",
+    "let",
+    "me",
+    "know",
+    "im",
+    "experiencing",
+    "technical",
+    "difficulties",
+    "please",
+    "try",
+    "again",
+    "later",
+    "hey",
+    "delivery",
+    "address",
+    "details",
+    "if",
+    "theres",
+    "anything",
+    "else",
+    "you",
+    "need",
+    "help",
+    "with",
+    "we",
+    "are",
+    "currently",
+    "unable",
+    "to",
+    "support",
+    "changes",
+    "to",
+    "the",
+    "delivery",
+    "address",
+    "once",
+    "an",
+    "order",
+    "is",
+    "placed",
+    "if",
+    "you",
+    "have",
+    "any",
+    "other",
+    "questions",
+    "or",
+    "need",
+    "further",
+    "assistance",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "i",
+    "really",
+    "apologize",
+    "for",
+    "the",
+    "inconvenience",
+    "im",
+    "unable",
+    "to",
+    "make",
+    "changes",
+    "to",
+    "the",
+    "at",
+    "this",
+    "time",
+    "if",
+    "theres",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "with",
+    "or",
+    "if",
+    "you",
+    "want",
+    "to",
+    "speak",
+    "with",
+    "another",
+    "agent",
+    "for",
+    "further",
+    "assistance",
+    "just",
+    "let",
+    "me",
+    "know",
+    "to",
+    "initiate",
+    "a",
+    "return",
+    "on",
+    "the",
+    "myntra",
+    "app",
+    "open",
+    "the",
+    "myntra",
+    "app",
+    "and",
+    "go",
+    "to",
+    "the",
+    "order",
+    "section",
+    "then",
+    "select",
+    "the",
+    "item",
+    "you",
+    "want",
+    "to",
+    "return",
+    "tap",
+    "on",
+    "return",
+    "choose",
+    "a",
+    "reason",
+    "for",
+    "return",
+    "provide",
+    "any",
+    "required",
+    "and",
+    "finally",
+    "submit",
+    "the",
+    "return",
+    "request",
+    "if",
+    "you",
+    "need",
+    "any",
+    "more",
+    "help",
+    "just",
+    "let",
+    "me",
+    "know",
+    "im",
+    "experiencing",
+    "technical",
+    "difficulties",
+    "please",
+    "try",
+    "again",
+    "later",
+    "hey",
+    "im",
+    "rey",
+    "from",
+    "myntra",
+    "here",
+    "to",
+    "assist",
+    "you",
+    "shall",
+    "we",
+    "proceed",
+    "further",
+    "in",
+    "hindi",
+    "or",
+    "english",
+    "great",
+    "how",
+    "can",
+    "i",
+    "help",
+    "you",
+    "today",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "tracking",
+    "your",
+    "order",
+    "could",
+    "you",
+    "please",
+    "provide",
+    "me",
+    "the",
+    "product",
+    "name",
+    "please",
+    "give",
+    "me",
+    "a",
+    "moment",
+    "to",
+    "fetch",
+    "your",
+    "products",
+    "your",
+    "crocs",
+    "unisex",
+    "navy",
+    "blue",
+    "bioband",
+    "clogs",
+    "will",
+    "be",
+    "delivered",
+    "on",
+    "or",
+    "before",
+    "12th",
+    "july",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "help",
+    "you",
+    "with",
+    "we",
+    "currently",
+    "cannot",
+    "accommodate",
+    "changes",
+    "to",
+    "the",
+    "delivery",
+    "fastest",
+    "available",
+    "option",
+    "is",
+    "always",
+    "chosen",
+    "for",
+    "your",
+    "order",
+    "if",
+    "you",
+    "more",
+    "questions",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "im",
+    "really",
+    "sorry",
+    "but",
+    "im",
+    "unable",
+    "to",
+    "assist",
+    "with",
+    "cancellation",
+    "requests",
+    "directly",
+    "you",
+    "can",
+    "cancel",
+    "your",
+    "order",
+    "through",
+    "the",
+    "myntra",
+    "app",
+    "by",
+    "going",
+    "to",
+    "and",
+    "selecting",
+    "the",
+    "order",
+    "you",
+    "wish",
+    "to",
+    "cancel",
+    "you",
+    "need",
+    "further",
+    "assistance",
+    "feel",
+    "free",
+    "to",
+    "ask",
+    "you",
+    "can",
+    "cancel",
+    "individual",
+    "items",
+    "within",
+    "an",
+    "order",
+    "through",
+    "just",
+    "go",
+    "to",
+    "the",
+    "order",
+    "section",
+    "select",
+    "the",
+    "specific",
+    "item",
+    "you",
+    "wish",
+    "to",
+    "cancel",
+    "and",
+    "follow",
+    "the",
+    "cancellation",
+    "process",
+    "if",
+    "you",
+    "need",
+    "help",
+    "with",
+    "anything",
+    "else",
+    "let",
+    "me",
+    "know",
+    "im",
+    "sorry",
+    "but",
+    "im",
+    "unable",
+    "to",
+    "share",
+    "delivery",
+    "address",
+    "details",
+    "i"
+  ],
+  "insertion_words": []
+}

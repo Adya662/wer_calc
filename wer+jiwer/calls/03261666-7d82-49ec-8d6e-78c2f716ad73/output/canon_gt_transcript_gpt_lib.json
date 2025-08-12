@@ -1,0 +1,40 @@
+{
+  "canonical_transcript": "hey i am rey from theek hai main aapki kaise madad namaste main aapke order ke sath kaise aage madad kar sakti hun main aapke order ka status check karne mein help kar sakti hun kripya product ka naam ya brand name bata sakte hain namaste main aapke order ke sath kaise aage madad kar sakti hun bilkul main aapke product ka status check karne mein aapki madad kar sakti hun kripya mujhe product ka naam ya brand name bata sakte hain namaste main aapke order ke sath kaise aage madad kar sakti hun bilkul main aapki madad kar sakti thoda intezar kijie main aapke products la rahi hun kya aap atun brand ke black net dress ke bare mein puch rahe hain aapka atun black net dress 8 july ya usse pehle deliver kar diya jayega kripya bataiye kya main aapki kisi aur cheez mein madad kar sakti hun kya aap kisi any agent se baat karna chahte hain jo aapki behtar madad kar sake simulating human transfer simulating human transfer",
+  "entities": [
+    {
+      "index": 3,
+      "value": "rey",
+      "type": "PERSON"
+    },
+    {
+      "index": 68,
+      "value": "atun",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 72,
+      "value": "black net dress",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 78,
+      "value": "atun black net dress",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 80,
+      "value": "8 july",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 98,
+      "value": "simulating human transfer",
+      "type": "OTHER"
+    },
+    {
+      "index": 101,
+      "value": "simulating human transfer",
+      "type": "OTHER"
+    }
+  ]
+}

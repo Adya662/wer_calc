@@ -1,0 +1,520 @@
+{
+  "wer": 0.16025641025641027,
+  "insertions": 42,
+  "deletions": 6,
+  "substitutions": 2,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 94,
+      "index_hyp": 94,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "the biotique morning nectar nourish and hydrate skin moisturizer and the",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 140,
+      "index_hyp": 139,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "your fabinaliv kids silver toned and brown cartoon character printed automatic",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 146,
+      "index_hyp": 144,
+      "ref_word": "",
+      "hyp_word": "3",
+      "ref_context": "",
+      "hyp_context": "brown cartoon character printed automatic 3 fold umbrella is being processed"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 146,
+      "index_hyp": 145,
+      "ref_word": "threefold",
+      "hyp_word": "fold",
+      "ref_context": "brown cartoon character printed automatic threefold umbrella is being processed and",
+      "hyp_context": "cartoon character printed automatic 3 fold umbrella is being processed and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 156,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "will be delivered by today please tell me is there anything"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 157,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "be delivered by today please tell me is there anything else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 158,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "delivered by today please tell me is there anything else i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 159,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "by today please tell me is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 160,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "today please tell me is there anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 161,
+      "ref_word": "",
+      "hyp_word": "anything",
+      "ref_context": "",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 162,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 163,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "me is there anything else i can help you with your"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 164,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "is there anything else i can help you with your bayotik"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 165,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "there anything else i can help you with your bayotik morning"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 166,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "anything else i can help you with your bayotik morning nectar"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 157,
+      "index_hyp": 167,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with your bayotik morning nectar nourish"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 172,
+      "ref_word": "",
+      "hyp_word": "nourish",
+      "ref_context": "",
+      "hyp_context": "with your bayotik morning nectar nourish hydrate visibly flawless skin moisturizer"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 173,
+      "ref_word": "",
+      "hyp_word": "hydrate",
+      "ref_context": "",
+      "hyp_context": "your bayotik morning nectar nourish hydrate visibly flawless skin moisturizer 120ml"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 174,
+      "ref_word": "",
+      "hyp_word": "visibly",
+      "ref_context": "",
+      "hyp_context": "bayotik morning nectar nourish hydrate visibly flawless skin moisturizer 120ml is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 175,
+      "ref_word": "",
+      "hyp_word": "flawless",
+      "ref_context": "",
+      "hyp_context": "morning nectar nourish hydrate visibly flawless skin moisturizer 120ml is being"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 176,
+      "ref_word": "",
+      "hyp_word": "skin",
+      "ref_context": "",
+      "hyp_context": "nectar nourish hydrate visibly flawless skin moisturizer 120ml is being processed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 177,
+      "ref_word": "",
+      "hyp_word": "moisturizer",
+      "ref_context": "",
+      "hyp_context": "nourish hydrate visibly flawless skin moisturizer 120ml is being processed and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 178,
+      "ref_word": "",
+      "hyp_word": "120ml",
+      "ref_context": "",
+      "hyp_context": "hydrate visibly flawless skin moisturizer 120ml is being processed and will"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 179,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "visibly flawless skin moisturizer 120ml is being processed and will be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 180,
+      "ref_word": "",
+      "hyp_word": "being",
+      "ref_context": "",
+      "hyp_context": "flawless skin moisturizer 120ml is being processed and will be delivered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 181,
+      "ref_word": "",
+      "hyp_word": "processed",
+      "ref_context": "",
+      "hyp_context": "skin moisturizer 120ml is being processed and will be delivered by"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 182,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "moisturizer 120ml is being processed and will be delivered by today"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 183,
+      "ref_word": "",
+      "hyp_word": "will",
+      "ref_context": "",
+      "hyp_context": "120ml is being processed and will be delivered by today please"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 184,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "is being processed and will be delivered by today please tell"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 185,
+      "ref_word": "",
+      "hyp_word": "delivered",
+      "ref_context": "",
+      "hyp_context": "being processed and will be delivered by today please tell me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 186,
+      "ref_word": "",
+      "hyp_word": "by",
+      "ref_context": "",
+      "hyp_context": "processed and will be delivered by today please tell me is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 187,
+      "ref_word": "",
+      "hyp_word": "today",
+      "ref_context": "",
+      "hyp_context": "and will be delivered by today please tell me is there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 188,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "will be delivered by today please tell me is there anything"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 189,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "be delivered by today please tell me is there anything else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 190,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "delivered by today please tell me is there anything else i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 191,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "by today please tell me is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 192,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "today please tell me is there anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 193,
+      "ref_word": "",
+      "hyp_word": "anything",
+      "ref_context": "",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 194,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 195,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "me is there anything else i can help you with got"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 196,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "is there anything else i can help you with got it"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 197,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "there anything else i can help you with got it please"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 198,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "anything else i can help you with got it please let"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 161,
+      "index_hyp": 199,
+      "ref_word": "",
+      "hyp_word": "with",
+      "ref_context": "",
+      "hyp_context": "else i can help you with got it please let me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 195,
+      "index_hyp": 234,
+      "ref_word": "",
+      "hyp_word": "they",
+      "ref_context": "",
+      "hyp_context": "agent will call you once they are close to your location"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 195,
+      "index_hyp": 235,
+      "ref_word": "theyre",
+      "hyp_word": "are",
+      "ref_context": "agent will call you once theyre close to your location if",
+      "hyp_context": "will call you once they are close to your location if"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 233,
+      "index_hyp": 273,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "referring to deconstruct vitamin c and ferulic acid serum let me",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 249,
+      "index_hyp": 288,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "you your deconstruct vitamin c and and ferulic acid serum for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 250,
+      "index_hyp": 288,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "your deconstruct vitamin c and and ferulic acid serum for brighton",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 257,
+      "index_hyp": 294,
+      "ref_word": "20",
+      "hyp_word": "",
+      "ref_context": "acid serum for brighton skin 20 ml is being processed and",
+      "hyp_context": ""
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "threefold",
+      "hypothesis": "fold"
+    },
+    {
+      "reference": "theyre",
+      "hypothesis": "are"
+    }
+  ],
+  "deletion_words": [
+    "and",
+    "and",
+    "and",
+    "and",
+    "and",
+    "20"
+  ],
+  "insertion_words": [
+    "3",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "nourish",
+    "hydrate",
+    "visibly",
+    "flawless",
+    "skin",
+    "moisturizer",
+    "120ml",
+    "is",
+    "being",
+    "processed",
+    "and",
+    "will",
+    "be",
+    "delivered",
+    "by",
+    "today",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "with",
+    "they"
+  ]
+}

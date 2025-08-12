@@ -1,0 +1,145 @@
+{
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english great how can i help you today i apologize but i'm here to assist you with your mintra orders and returns how can i help you with those today got it could you please tell me the product name or brand name that you returned so i can check the status for you please give me a moment to fetch your products please give me a moment to fetch your products i found a product that matches your description are you referring to the shtori plus size reflective detail tshirt it sounds like you're referring to the shtori plus your shtori plus size reflective detail tshirt is expected to be picked up by 7 july subject to quality check please tell me is there anything else i can help you with great is there is there anything else i can help you with your shtori plus size reflective detail tshirt is expected to be picked up by 7 july subject to quality check please tell me is there anything else i can help you with could you please tell me the product name or brand name of the item you're referring to that is out for delivery please give me a moment to fetch your products i see a few recent orders are you referring to the puma women royalcat comfort softride sliders i understand could you check if it might be the aaghnya women floral print mandarin collar flared sleeve shirt style top that is out for delivery your aaghnya women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow please tell me is there anything else i can help you with i can definitely help with all of your items let's handle them one by one to make sure we don't miss any details could you please confirm if the other product might be the istyle can top your istyle can top is out for delivery today the delivery attempt started at 1044 am you can expect it by end of day need to reach your delivery partner find their contact on the my orders page in your mintra app please tell me is there anything else i can help you with your istyle can top is out for delivery today the delivery attempt started at 1044 am you can expect it by end of day please tell zarur main hindi mein bata sakti hoon aapka istyle can top aaj delivery ke liye bahar hai delivery ka prayas subah das bajkar chavalis minute par shuru hua ise aaj ke ant tak aap tak pahunchane ki ummeed hai kya hi there how can i continue hi there how can i continue to help you with your order yes i shared the status for your aaghnya women floral print mandarin collar flared sleeve shirt style top and your istyle can top if there's anything more you'd like to know please let me know",
+  "entities": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "mintra",
+      "type": "ORG"
+    },
+    {
+      "index": 32,
+      "value": "mintra",
+      "type": "ORG"
+    },
+    {
+      "index": 80,
+      "value": "shtori plus size reflective detail tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 86,
+      "value": "shtori plus",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 88,
+      "value": "shtori plus size reflective detail tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 98,
+      "value": "7 july",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 108,
+      "value": "shtori plus size reflective detail tshirt",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 118,
+      "value": "7 july",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 139,
+      "value": "puma women royalcat comfort softride sliders",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 145,
+      "value": "aaghnya women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 149,
+      "value": "aaghnya women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 159,
+      "value": "tomorrow",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 174,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 178,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 184,
+      "value": "1044 am",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 188,
+      "value": "end of day",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 194,
+      "value": "my orders page",
+      "type": "OTHER"
+    },
+    {
+      "index": 198,
+      "value": "mintra app",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 202,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 208,
+      "value": "1044 am",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 212,
+      "value": "end of day",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 216,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 226,
+      "value": "aaj",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 230,
+      "value": "subah das bajkar chavalis minute",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 234,
+      "value": "aaj ke ant tak",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 251,
+      "value": "aaghnya women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    }
+  ]
+}

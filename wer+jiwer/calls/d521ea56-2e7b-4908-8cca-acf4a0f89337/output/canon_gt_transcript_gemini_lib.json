@@ -1,0 +1,95 @@
+{
+  "canonical_transcript": "hello this is priya from elevate now am i speaking with sanjana kumar i noticed youve been quiet are you still there great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are i understand your hesitation based on your bmi of 290 its clear your body is sending signals about how its handling weight and metabolism right now at this pre obesity stage many experience low energy levels and slow metabolism due to iron and vitamin d deficiency making it harder to stay active and burn fat efficiently a nano plan focuses on addressing these issues first so your body naturally boosts metabolism and accelerates fat loss would you like to discuss how this personalized plan can help you achieve your weight loss goals have you tried any other weight loss programs before if yes did the youre in the right place it includes a blood test doctor consultation and a session with a senior health coach unless you have specific questions about these can i explain how these offerings can help you achieve your weight loss goals no worries let me briefly explain how each part of the nano plan can help the blood test identifies underlying issues like insulin resistance or hormonal imbalances then a senior obesity specialist will explain how these affect your health and weight finally our health coach will create a personalized plan tailored just for you now would you like to know about the pricing and how it compares to other programs the nano plan is priced at rupees 1799 which is designed to be affordable this includes the blood test doctor consultation and personalized health coaching compared to other weight loss services which can total up to rupees 6000 our plan offers a significant value would you like to proceed with this plan we have partnerships with labs throughout most parts of india including delhi through partners like redcliffe tata 1 mg and others this ensures that we can provide our services conveniently in your area would you like to proceed with the payment i can send you the payment link on your registered mobile number absolutely i understand the need to be sure our nano plan is crafted after helping over 5000 users across india its a scientifically backed approach with personalized insights from our expert team including doctors with over 200 years of combined experience this ensures that you receive a tailored road map to address your specific weight loss challenges let me know if theres anything else youd like to know youre welcome ill be here if you have any more questions or need assistance in the future goodbye and have a great day i noticed youve been quiet are you still there",
+  "entities": [
+    {
+      "index": 10,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 12,
+      "value": "elevate now",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 18,
+      "value": "sanjana kumar",
+      "type": "PERSON"
+    },
+    {
+      "index": 36,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 94,
+      "value": "290",
+      "type": "OTHER"
+    },
+    {
+      "index": 100,
+      "value": "pre obesity",
+      "type": "OTHER"
+    },
+    {
+      "index": 186,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 304,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 384,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 388,
+      "value": "rupees 1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 428,
+      "value": "rupees 6000",
+      "type": "MONEY"
+    },
+    {
+      "index": 460,
+      "value": "india",
+      "type": "GPE"
+    },
+    {
+      "index": 462,
+      "value": "delhi",
+      "type": "GPE"
+    },
+    {
+      "index": 466,
+      "value": "redcliffe",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 468,
+      "value": "tata 1 mg",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 510,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 518,
+      "value": "india",
+      "type": "GPE"
+    },
+    {
+      "index": 538,
+      "value": "200 years",
+      "type": "DATE"
+    }
+  ]
+}

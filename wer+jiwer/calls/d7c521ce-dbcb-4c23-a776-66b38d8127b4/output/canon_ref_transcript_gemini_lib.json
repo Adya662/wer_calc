@@ -1,0 +1,105 @@
+{
+  "canonical_transcript": "hey i am ray from mintra here to assist you shall we proceed further in hindi or english hi there how can i assist you with your mintra order today alright i can check the status of your order for you could you please tell me the product name or the brand name of the item youre referring to please give me a moment to fetch your products thoda intazaar kijiye main aapke products la rahi hun i see two orders in your list related to your input one is the biotique morning nectar nourish hydrate skin moisturizer and the other is the fabinaliv kids silver toned umbrella which one would you like me to check the delivery status for first alright i will check the delivery status for both items starting with the umbrella your fabinaliv kids silver toned brown cartoon character printed automatic 3 fold umbrella is being processed and will be delivered by today please tell me is there anything else i can help you with your bayotik morning nectar nourish hydrate visibly flawless skin moisturizer 120ml is being processed and will be delivered by today please tell me is there anything else i can help you with got it please let me know what you need help with further delivery times can depend on various factors but your orders are scheduled for delivery today the delivery agent will call you once they are close to your location if you have any specific concerns i can assist you further your biotique moisturizer is already scheduled for delivery today regarding we construct i believe you may be referring to deconstruct vitamin c ferulic acid serum let me check its delivery status for you your deconstruct vitamin c ferulic acid serum for brighten skin 20ml is being processed and will be delivered by today please tell me is there anything else i can help you with thank you for your kind words well be sending you a quick feedback form via sms your input would really help us improve thank you for choosing mintra have a great day",
+  "entities": [
+    {
+      "index": 5,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 8,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 24,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 27,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 33,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 92,
+      "value": "biotique morning nectar nourish hydrate skin moisturizer",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 106,
+      "value": "fabinaliv kids silver toned umbrella",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 147,
+      "value": "fabinaliv kids silver toned brown cartoon character printed automatic 3 fold umbrella",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 159,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 185,
+      "value": "bayotik morning nectar nourish hydrate visibly flawless skin moisturizer 120ml",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 200,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 250,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 285,
+      "value": "biotique moisturizer",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 289,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 295,
+      "value": "we construct",
+      "type": "OTHER"
+    },
+    {
+      "index": 303,
+      "value": "deconstruct vitamin c ferulic acid serum",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 320,
+      "value": "deconstruct vitamin c ferulic acid serum for brighten skin 20ml",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 335,
+      "value": "today",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 366,
+      "value": "sms",
+      "type": "OTHER"
+    },
+    {
+      "index": 381,
+      "value": "mintra",
+      "type": "ORGANIZATION"
+    }
+  ]
+}

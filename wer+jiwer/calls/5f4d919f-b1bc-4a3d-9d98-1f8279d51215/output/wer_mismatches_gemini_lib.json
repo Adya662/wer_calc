@@ -1,0 +1,162 @@
+{
+  "wer": 0.03201970443349754,
+  "insertions": 4,
+  "deletions": 3,
+  "substitutions": 6,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 5,
+      "index_hyp": 5,
+      "ref_word": "now",
+      "hyp_word": "",
+      "ref_context": "this is priya from elevate now am i speaking with pearl",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 99,
+      "index_hyp": 98,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "issues and create a personalized road map for sustainable weight loss",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 100,
+      "index_hyp": 98,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "and create a personalized road map for sustainable weight loss would",
+      "hyp_context": "issues and create a personalized roadmap for sustainable weight loss would"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 148,
+      "index_hyp": 146,
+      "ref_word": "",
+      "hyp_word": "got",
+      "ref_context": "",
+      "hyp_context": "better fit for your needs got it since its been a"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 148,
+      "index_hyp": 147,
+      "ref_word": "",
+      "hyp_word": "it",
+      "ref_context": "",
+      "hyp_context": "fit for your needs got it since its been a while"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 201,
+      "index_hyp": 201,
+      "ref_word": "a",
+      "hyp_word": "our",
+      "ref_context": "your weight loss goals first a blood test identifies key issues",
+      "hyp_context": "your weight loss goals first our blood test identifies key issues"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 300,
+      "index_hyp": 300,
+      "ref_word": "",
+      "hyp_word": "all",
+      "ref_context": "",
+      "hyp_context": "consultation and health coach session all in one package how does"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 300,
+      "index_hyp": 301,
+      "ref_word": "",
+      "hyp_word": "in",
+      "ref_context": "",
+      "hyp_context": "and health coach session all in one package how does that"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 300,
+      "index_hyp": 302,
+      "ref_word": "allinone",
+      "hyp_word": "one",
+      "ref_context": "consultation and health coach session allinone package how does that sound",
+      "hyp_context": "health coach session all in one package how does that sound"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 316,
+      "index_hyp": 318,
+      "ref_word": "road",
+      "hyp_word": "",
+      "ref_context": "plan youll receive a personalized road map created by the health",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 317,
+      "index_hyp": 318,
+      "ref_word": "map",
+      "hyp_word": "roadmap",
+      "ref_context": "youll receive a personalized road map created by the health coach",
+      "hyp_context": "plan youll receive a personalized roadmap created by the health coach"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 328,
+      "index_hyp": 329,
+      "ref_word": "his",
+      "hyp_word": "this",
+      "ref_context": "tailored to your unique needs his is included in the plan",
+      "hyp_context": "tailored to your unique needs this is included in the plan"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 356,
+      "index_hyp": 357,
+      "ref_word": "ake",
+      "hyp_word": "take",
+      "ref_context": "to begin your journey absolutely ake your time to consider it",
+      "hyp_context": "to begin your journey absolutely take your time to consider it"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "a",
+      "hypothesis": "our"
+    },
+    {
+      "reference": "allinone",
+      "hypothesis": "one"
+    },
+    {
+      "reference": "map",
+      "hypothesis": "roadmap"
+    },
+    {
+      "reference": "his",
+      "hypothesis": "this"
+    },
+    {
+      "reference": "ake",
+      "hypothesis": "take"
+    }
+  ],
+  "deletion_words": [
+    "now",
+    "road",
+    "road"
+  ],
+  "insertion_words": [
+    "got",
+    "it",
+    "all",
+    "in"
+  ]
+}

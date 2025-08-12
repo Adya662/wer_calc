@@ -1,0 +1,235 @@
+{
+  "canonical_transcript": "hey i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today i apologize but im here to assist you with your myntra orders and returns how can i help you with those today could you please tell me the product name or brand name that you returned so i can check the status for you please give me a moment to fetch your products please give me a moment to fetch your products i found a product that matches your description are you referring to the story plus size reflective detail tshirt it sounds like youre referring to the story great is there anything else i can help you with our story plus size reflective detail tshirt is expected to be picked up by 7 july subject to quality check please tell me is there anything else i can help you with could you please tell me the product name or brand name of the item youre referring to that is out for delivery i see a few recent orders are you referring to the puma women royal cat comfort soft ride sliders i understand could you check if it might be the agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery your agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow please tell me is there anything else i can help you with i can definitely help with all of your items lets handle them one by one to make sure we dont miss any details could you please confirm if the other product might be the i style can top your istyle can top is out for your istyle can top is out for delivery today the delivery attempt started at 1044 am you can expect it by end of day zaroor main hindi mein bata sakti hun aapka i style can top aaj delivery ke liye bahar hai hi there how can i continue to help you with your order yes i shared the status for your agnia women floral print mandarin collar flared sleeve shirt style top and your istyle can top if theres anything more youd like to know please let me know yes i shared the status for your agnia women floral print mandarin collar flared sleeve shirt style top and your istyle can top if theres anything more youd like to hey i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today i apologize but im here to assist you with your myntra orders and returns how can i help you with those today got it could you please tell me the product name or brand name that you returned so i can check the status for you please give me a moment to fetch your products please give me a moment to fetch your products i found a product that matches your description are you referring to the story plus size reflective detail tshirt it sounds like youre referring to the story great is there anything else i can help you with our story plus size reflective detail tshirt is expected to be picked up by 7 july subject to quality check please tell me is there anything else i can help you with could you please tell me the product name or brand name of the item youre referring to that is out for delivery i see a few recent orders are you referring to the puma women royal cat comfort soft ride sliders i understand could you check if it might be the agnia women floral print mandarin collar flared sleeve shirt style top that is out for delivery your agnia women floral print mandarin collar flared sleeve shirt style top will be delivered on or before tomorrow please tell me is there anything else i can help you with i can definitely help with all of your items lets handle them one by one to make sure we dont miss any details could you please confirm if the other product might be the i style can top your istyle can top is out for your istyle can top is out for delivery today the delivery attempt started at 1044 am you can expect it by end of day please tell me zaroor main hindi mein bata sakti hun aapka i style can top aaj delivery ke liye bahar hai delivery ka prayas subah 1044 minute par shuru hua ise aaj ke ant tak aap tak hi there how can i hi there how can i continue to help you with your order yes i shared the status for your agnia women floral print mandarin collar flared sleeve shirt style top and your istyle can top if theres anything more youd like to know please let me know yes i shared the status for your agnia women floral print mandarin collar flared sleeve shirt style top and your istyle can top if theres anything more youd like to",
+  "entities": [
+    {
+      "index": 4,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 28,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 31,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 48,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 102,
+      "value": "story",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 140,
+      "value": "story",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 165,
+      "value": "story",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 188,
+      "value": "7 july",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 232,
+      "value": "puma women royal cat comfort soft ride sliders",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 255,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 280,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 280,
+      "value": "tomorrow",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 326,
+      "value": "i style can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 331,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 337,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 355,
+      "value": "1044 am",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 380,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 387,
+      "value": "i style can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 430,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 456,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 487,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 513,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 545,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 548,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 565,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 568,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 585,
+      "value": "myntra",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 640,
+      "value": "story",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 678,
+      "value": "story",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 703,
+      "value": "story",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 726,
+      "value": "7 july",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 770,
+      "value": "puma women royal cat comfort soft ride sliders",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 793,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 818,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 844,
+      "value": "i style can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 849,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 855,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 873,
+      "value": "1044 am",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 901,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 908,
+      "value": "i style can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 949,
+      "value": "1044",
+      "type": "DATE/TIME"
+    },
+    {
+      "index": 994,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 1020,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 1051,
+      "value": "agnia women floral print mandarin collar flared sleeve shirt style top",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 1078,
+      "value": "istyle can top",
+      "type": "PRODUCT"
+    }
+  ]
+}

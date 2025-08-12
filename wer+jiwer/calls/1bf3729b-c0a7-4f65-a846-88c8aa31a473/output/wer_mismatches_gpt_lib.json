@@ -1,0 +1,120 @@
+{
+  "wer": 0.03937007874015748,
+  "insertions": 6,
+  "deletions": 2,
+  "substitutions": 2,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 0,
+      "ref_word": "",
+      "hyp_word": "hey",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 1,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 0,
+      "index_hyp": 2,
+      "ref_word": "",
+      "hyp_word": "am",
+      "ref_context": "",
+      "hyp_context": "hey i am ray from mintra here to"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 152,
+      "index_hyp": 155,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "with your myntra orders or return related queries could you please",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 153,
+      "index_hyp": 155,
+      "ref_word": "related",
+      "hyp_word": "returnrelated",
+      "ref_context": "your myntra orders or return related queries could you please let",
+      "hyp_context": "with your mintra orders or returnrelated queries could you please let"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 187,
+      "index_hyp": 189,
+      "ref_word": "return",
+      "hyp_word": "",
+      "ref_context": "with your myntra orders or return related queries could you let",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 188,
+      "index_hyp": 189,
+      "ref_word": "related",
+      "hyp_word": "returnrelated",
+      "ref_context": "your myntra orders or return related queries could you let me",
+      "hyp_context": "with your mintra orders or returnrelated queries could you let me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 254,
+      "index_hyp": 255,
+      "ref_word": "",
+      "hyp_word": "simulating",
+      "ref_context": "",
+      "hyp_context": "who can assist you better simulating human transfer"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 254,
+      "index_hyp": 256,
+      "ref_word": "",
+      "hyp_word": "human",
+      "ref_context": "",
+      "hyp_context": "can assist you better simulating human transfer"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 254,
+      "index_hyp": 257,
+      "ref_word": "",
+      "hyp_word": "transfer",
+      "ref_context": "",
+      "hyp_context": "assist you better simulating human transfer"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "related",
+      "hypothesis": "returnrelated"
+    },
+    {
+      "reference": "related",
+      "hypothesis": "returnrelated"
+    }
+  ],
+  "deletion_words": [
+    "return",
+    "return"
+  ],
+  "insertion_words": [
+    "hey",
+    "i",
+    "am",
+    "simulating",
+    "human",
+    "transfer"
+  ]
+}

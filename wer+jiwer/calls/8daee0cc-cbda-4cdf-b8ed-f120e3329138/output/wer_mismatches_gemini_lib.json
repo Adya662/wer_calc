@@ -1,0 +1,396 @@
+{
+  "wer": 0.11212121212121212,
+  "insertions": 29,
+  "deletions": 4,
+  "substitutions": 4,
+  "mismatches": [
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 54,
+      "ref_word": "",
+      "hyp_word": "stailkast",
+      "ref_context": "",
+      "hyp_context": "to fetch your products your stailkast ex revolt men opaque casual"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 55,
+      "ref_word": "",
+      "hyp_word": "ex",
+      "ref_context": "",
+      "hyp_context": "fetch your products your stailkast ex revolt men opaque casual shirt"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 56,
+      "ref_word": "",
+      "hyp_word": "revolt",
+      "ref_context": "",
+      "hyp_context": "your products your stailkast ex revolt men opaque casual shirt is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 57,
+      "ref_word": "",
+      "hyp_word": "men",
+      "ref_context": "",
+      "hyp_context": "products your stailkast ex revolt men opaque casual shirt is being"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 58,
+      "ref_word": "",
+      "hyp_word": "opaque",
+      "ref_context": "",
+      "hyp_context": "your stailkast ex revolt men opaque casual shirt is being processed"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 59,
+      "ref_word": "",
+      "hyp_word": "casual",
+      "ref_context": "",
+      "hyp_context": "stailkast ex revolt men opaque casual shirt is being processed and"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 60,
+      "ref_word": "",
+      "hyp_word": "shirt",
+      "ref_context": "",
+      "hyp_context": "ex revolt men opaque casual shirt is being processed and will"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 61,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "revolt men opaque casual shirt is being processed and will be"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 62,
+      "ref_word": "",
+      "hyp_word": "being",
+      "ref_context": "",
+      "hyp_context": "men opaque casual shirt is being processed and will be delivered"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 63,
+      "ref_word": "",
+      "hyp_word": "processed",
+      "ref_context": "",
+      "hyp_context": "opaque casual shirt is being processed and will be delivered by"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 64,
+      "ref_word": "",
+      "hyp_word": "and",
+      "ref_context": "",
+      "hyp_context": "casual shirt is being processed and will be delivered by 21"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 65,
+      "ref_word": "",
+      "hyp_word": "will",
+      "ref_context": "",
+      "hyp_context": "shirt is being processed and will be delivered by 21 august"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 66,
+      "ref_word": "",
+      "hyp_word": "be",
+      "ref_context": "",
+      "hyp_context": "is being processed and will be delivered by 21 august please"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 67,
+      "ref_word": "",
+      "hyp_word": "delivered",
+      "ref_context": "",
+      "hyp_context": "being processed and will be delivered by 21 august please tell"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 68,
+      "ref_word": "",
+      "hyp_word": "by",
+      "ref_context": "",
+      "hyp_context": "processed and will be delivered by 21 august please tell me"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 69,
+      "ref_word": "",
+      "hyp_word": "21",
+      "ref_context": "",
+      "hyp_context": "and will be delivered by 21 august please tell me is"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 70,
+      "ref_word": "",
+      "hyp_word": "august",
+      "ref_context": "",
+      "hyp_context": "will be delivered by 21 august please tell me is there"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 71,
+      "ref_word": "",
+      "hyp_word": "please",
+      "ref_context": "",
+      "hyp_context": "be delivered by 21 august please tell me is there anything"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 72,
+      "ref_word": "",
+      "hyp_word": "tell",
+      "ref_context": "",
+      "hyp_context": "delivered by 21 august please tell me is there anything else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 73,
+      "ref_word": "",
+      "hyp_word": "me",
+      "ref_context": "",
+      "hyp_context": "by 21 august please tell me is there anything else i"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 74,
+      "ref_word": "",
+      "hyp_word": "is",
+      "ref_context": "",
+      "hyp_context": "21 august please tell me is there anything else i can"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 75,
+      "ref_word": "",
+      "hyp_word": "there",
+      "ref_context": "",
+      "hyp_context": "august please tell me is there anything else i can help"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 76,
+      "ref_word": "",
+      "hyp_word": "anything",
+      "ref_context": "",
+      "hyp_context": "please tell me is there anything else i can help you"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 77,
+      "ref_word": "",
+      "hyp_word": "else",
+      "ref_context": "",
+      "hyp_context": "tell me is there anything else i can help you with"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 78,
+      "ref_word": "",
+      "hyp_word": "i",
+      "ref_context": "",
+      "hyp_context": "me is there anything else i can help you with sure"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 79,
+      "ref_word": "",
+      "hyp_word": "can",
+      "ref_context": "",
+      "hyp_context": "is there anything else i can help you with sure how"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 80,
+      "ref_word": "",
+      "hyp_word": "help",
+      "ref_context": "",
+      "hyp_context": "there anything else i can help you with sure how else"
+    },
+    {
+      "operation": "insert",
+      "index_ref": 54,
+      "index_hyp": 81,
+      "ref_word": "",
+      "hyp_word": "you",
+      "ref_context": "",
+      "hyp_context": "anything else i can help you with sure how else can"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 54,
+      "index_hyp": 82,
+      "ref_word": "style",
+      "hyp_word": "with",
+      "ref_context": "to fetch your products your style sure how else can i",
+      "hyp_context": "else i can help you with sure how else can i"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 93,
+      "index_hyp": 121,
+      "ref_word": "style",
+      "hyp_word": "",
+      "ref_context": "repeat that for you our style cast x revolt men opaque",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 94,
+      "index_hyp": 121,
+      "ref_word": "cast",
+      "hyp_word": "stailkast",
+      "ref_context": "that for you our style cast x revolt men opaque casual",
+      "hyp_context": "repeat that for you your stailkast ex revolt men opaque casual"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 106,
+      "index_hyp": 133,
+      "ref_word": "21st",
+      "hyp_word": "21",
+      "ref_context": "is scheduled for delivery by 21st august let me know if",
+      "hyp_context": "is scheduled for delivery by 21 august let me know if"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 148,
+      "index_hyp": 175,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "quiet are you still there all right please let me know",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 149,
+      "index_hyp": 175,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "are you still there all right please let me know how",
+      "hyp_context": "quiet are you still there alright please let me know how"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 165,
+      "index_hyp": 191,
+      "ref_word": "the",
+      "hyp_word": "",
+      "ref_context": "item is out for delivery the city the delivery partner will",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 166,
+      "index_hyp": 191,
+      "ref_word": "city",
+      "hyp_word": "",
+      "ref_context": "is out for delivery the city the delivery partner will call",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 255,
+      "index_hyp": 279,
+      "ref_word": "",
+      "hyp_word": "the",
+      "ref_context": "",
+      "hyp_context": "to the orders section select the currently exchanges can only be"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "style",
+      "hypothesis": "with"
+    },
+    {
+      "reference": "cast",
+      "hypothesis": "stailkast"
+    },
+    {
+      "reference": "21st",
+      "hypothesis": "21"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    }
+  ],
+  "deletion_words": [
+    "style",
+    "all",
+    "the",
+    "city"
+  ],
+  "insertion_words": [
+    "stailkast",
+    "ex",
+    "revolt",
+    "men",
+    "opaque",
+    "casual",
+    "shirt",
+    "is",
+    "being",
+    "processed",
+    "and",
+    "will",
+    "be",
+    "delivered",
+    "by",
+    "21",
+    "august",
+    "please",
+    "tell",
+    "me",
+    "is",
+    "there",
+    "anything",
+    "else",
+    "i",
+    "can",
+    "help",
+    "you",
+    "the"
+  ]
+}

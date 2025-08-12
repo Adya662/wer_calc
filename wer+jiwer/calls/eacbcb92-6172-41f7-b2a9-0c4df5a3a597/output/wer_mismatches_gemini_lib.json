@@ -1,0 +1,123 @@
+{
+  "wer": 0.021321961620469083,
+  "insertions": 1,
+  "deletions": 6,
+  "substitutions": 3,
+  "mismatches": [
+    {
+      "operation": "delete",
+      "index_ref": 17,
+      "index_hyp": 17,
+      "ref_word": "english",
+      "hyp_word": "",
+      "ref_context": "proceed further in hindi or english english please got it how",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 19,
+      "index_hyp": 18,
+      "ref_word": "please",
+      "hyp_word": "",
+      "ref_context": "in hindi or english english please got it how can i",
+      "hyp_context": ""
+    },
+    {
+      "operation": "insert",
+      "index_ref": 97,
+      "index_hyp": 95,
+      "ref_word": "",
+      "hyp_word": "mid",
+      "ref_context": "",
+      "hyp_context": "boys camouflage printed relaxed fit mid rise joggers has already been"
+    },
+    {
+      "operation": "replace",
+      "index_ref": 97,
+      "index_hyp": 96,
+      "ref_word": "midrise",
+      "hyp_word": "rise",
+      "ref_context": "boys camouflage printed relaxed fit midrise joggers has already been delivered",
+      "hyp_context": "camouflage printed relaxed fit mid rise joggers has already been delivered"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 155,
+      "index_hyp": 154,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "to check talking about jack and jones junior products please give",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 336,
+      "index_hyp": 334,
+      "ref_word": "all",
+      "hyp_word": "",
+      "ref_context": "youd like to start with all right let me check for",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 337,
+      "index_hyp": 334,
+      "ref_word": "right",
+      "hyp_word": "alright",
+      "ref_context": "like to start with all right let me check for the",
+      "hyp_context": "youd like to start with alright let me check for the"
+    },
+    {
+      "operation": "delete",
+      "index_ref": 373,
+      "index_hyp": 370,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "your order list from jack and jones junior let me confirm",
+      "hyp_context": ""
+    },
+    {
+      "operation": "delete",
+      "index_ref": 384,
+      "index_hyp": 380,
+      "ref_word": "and",
+      "hyp_word": "",
+      "ref_context": "1 of the items jack and jones junior boys jogger mid",
+      "hyp_context": ""
+    },
+    {
+      "operation": "replace",
+      "index_ref": 429,
+      "index_hyp": 424,
+      "ref_word": "25th",
+      "hyp_word": "25",
+      "ref_context": "has already been delivered on 25th june do you need any",
+      "hyp_context": "has already been delivered on 25 june do you need any"
+    }
+  ],
+  "substitution_pairs": [
+    {
+      "reference": "midrise",
+      "hypothesis": "rise"
+    },
+    {
+      "reference": "right",
+      "hypothesis": "alright"
+    },
+    {
+      "reference": "25th",
+      "hypothesis": "25"
+    }
+  ],
+  "deletion_words": [
+    "english",
+    "please",
+    "and",
+    "all",
+    "and",
+    "and"
+  ],
+  "insertion_words": [
+    "mid"
+  ]
+}

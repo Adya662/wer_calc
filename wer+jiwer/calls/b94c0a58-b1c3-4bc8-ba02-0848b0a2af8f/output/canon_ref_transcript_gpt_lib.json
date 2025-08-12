@@ -1,0 +1,150 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with niketa great i noticed you were checking out our nano plan but didn't complete the payment i'd love to understand what motivated you to consider our program and what your weight loss goals are the nano plan is designed to be efficient and flexible it starts with a blood test followed by a detailed doctor consultation which typically lasts thirty to fortyfive minutes from there you'll have a personalized session with a senior health coach the timing for these sessions is based on your availability the goal is to provide you with a comprehensive understanding and a personalized roadmap for your weight loss journey would you like to know more about the detailed offerings of the nano plan the nano plan is designed to be i noticed you've been quiet are you still there great so the nano plan includes a blood test doctor consultation and a session with a senior health coach these services are tailored to help you achieve your weight loss goals effectively now would you like me to explain how these offerings can help you specifically with your weight loss journey the blood test targets specific parameters linked to weight gain such as insulin resistance and hormonal imbalances this is followed by a consultation with an obesity specialist doctor who explains your results and their impact on your health finally a senior health coach will create a personalized weight loss plan tailored just for you now that we've covered the offerings would you like me to discuss the pricing information alright if there's anything specific you'd like to know or if you have any doubts feel free to ask i'm here to help you understand how the nano plan can benefit you the doctor consultation in the nano plan is a onetime session designed to provide you with detailed insights and a personalized weight loss roadmap if you're interested in ongoing support you might consider our longerterm programs after experiencing the nano plan would you like to know more about these options alright if you have any other questions or need further clarification feel free to ask i'm here to help the personalized diet plan provided by the health coach in the nano plan is tailored to your specific needs and goals it's designed to guide you over a period but the frequency of updates or changes would depend on your progress and preferences if you need regular updates our longerterm programs might be more suitable would you like more information on that great if you have any more questions or need assistance with anything else just let me know i'm here to help the nano plan is priced at rupees one thousand seven hundred ninetynine offering a comprehensive set of services that typically cost much more individually you have the option to pay either in full or partially this plan provides a costeffective way to access personalized weight loss insights and guidance do you have any more questions or would you like to proceed with the payment process alright if you're ready to proceed with the payment or have any other questions in the future feel free to reach out goodbye and have a great day",
+  "entities": [
+    {
+      "index": 5,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevatenow",
+      "type": "ORG"
+    },
+    {
+      "index": 13,
+      "value": "niketa",
+      "type": "PERSON"
+    },
+    {
+      "index": 22,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 68,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 98,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 102,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 119,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 134,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 139,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 157,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 159,
+      "value": "doctor consultation",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 163,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 183,
+      "value": "blood test",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 199,
+      "value": "insulin resistance",
+      "type": "OTHER"
+    },
+    {
+      "index": 202,
+      "value": "hormonal imbalances",
+      "type": "OTHER"
+    },
+    {
+      "index": 208,
+      "value": "obesity specialist doctor",
+      "type": "PERSON"
+    },
+    {
+      "index": 221,
+      "value": "senior health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 238,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 263,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 282,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 307,
+      "value": "longerterm programs",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 316,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 334,
+      "value": "health coach",
+      "type": "PERSON"
+    },
+    {
+      "index": 338,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 365,
+      "value": "longerterm programs",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 383,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 391,
+      "value": "rupees one thousand seven hundred ninetynine",
+      "type": "MONEY"
+    },
+    {
+      "index": 405,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    }
+  ]
+}

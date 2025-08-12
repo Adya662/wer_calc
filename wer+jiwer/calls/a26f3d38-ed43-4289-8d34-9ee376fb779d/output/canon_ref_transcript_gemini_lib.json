@@ -1,0 +1,130 @@
+{
+  "canonical_transcript": "hey i am ray from myntra here to assist you shall we proceed further in hindi or english great how can i help you today i can help you track your order could you please tell me the product name or brand name i understand your concern to locate the exact status of your order i need the product name or brand name from your order could you please share that with me please give me a moment to fetch your products it seems there are multiple items in your order could you please tell me which item you are referring to for example is it the plum face serum jockey gym towel bigen beard color kalenji running shorts or sirona period panties could you clarify the item youre asking about for instance is it related to the plum face serum jockey gym towel bigen beard color kalenji running shorts or sirona period panties this will help me locate your order accurately i understand you might be finding it difficult to specify the product name do you want to speak with another agent who can alright could you confirm if you are referring to the plum face serum jockey gym towel bigen beard color kalenji running shorts or sirona period panties this will help me provide the correct details your plum 10 niacinamide brightening face serum with rice ferment extract licorice 50ml is scheduled to arrive by end of day today please tell me is there anything else i can help you with yes your order is scheduled to be delivered by the end of today this means anytime before the end of the day regardless of the current time is there anything else i can assist you with i really apologize but i am unable to share the delivery address however you can double check the delivery address in the myntra app under your order details let me know if theres anything else i can assist you with to create a return for your order you can follow these steps directly on the myntra app open the app go to the orders section select the item you want to return tap return choose a reason for the return provide the required details and then submit the return request let me know if you need further assistance sure to create a return for your order follow these steps 1 open the myntra app 2 go to the orders section 3 select the item you want to return 4 tap on return 5 choose a reason for the return and provide the required details 6 submit the return request if youd like me to explain any step again let me know alright in the second step once you open the myntra app look for the orders section this is usually located at the bottom menu of the app tap on orders and youll see a list of all the items youve purchased from there select the specific item you want to return if youre unsure let me know and ill guide you further thats great please let me know if theres anything else i can help you with i apologize for the confusion earlier since youre sure about the item you can proceed directly to the next step in the myntra app tap on the orders section select your item and then choose the return option is there anything else youd like me to clarify or assist with i really apologize for the inconvenience its possible that the return window might have expired or there may be some restrictions on the item do you want to speak with another agent who can assist you better regarding this issue",
+  "entities": [
+    {
+      "index": 4,
+      "value": "ray",
+      "type": "PERSON"
+    },
+    {
+      "index": 6,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 15,
+      "value": "hindi",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 19,
+      "value": "english",
+      "type": "LANGUAGE"
+    },
+    {
+      "index": 78,
+      "value": "plum face serum",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 81,
+      "value": "jockey gym towel",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 84,
+      "value": "bigen beard color",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 87,
+      "value": "kalenji running shorts",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 91,
+      "value": "sirona period panties",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 101,
+      "value": "plum face serum",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 104,
+      "value": "jockey gym towel",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 107,
+      "value": "bigen beard color",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 110,
+      "value": "kalenji running shorts",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 114,
+      "value": "sirona period panties",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 152,
+      "value": "plum face serum",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 155,
+      "value": "jockey gym towel",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 158,
+      "value": "bigen beard color",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 161,
+      "value": "kalenji running shorts",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 165,
+      "value": "sirona period panties",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 176,
+      "value": "plum 10 niacinamide brightening face serum with rice ferment extract licorice 50ml",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 262,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 298,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 360,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 452,
+      "value": "myntra",
+      "type": "ORG"
+    },
+    {
+      "index": 554,
+      "value": "myntra",
+      "type": "ORG"
+    }
+  ]
+}

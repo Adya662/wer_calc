@@ -1,0 +1,105 @@
+{
+  "canonical_transcript": "hello this is priya from elevatenow am i speaking with nidhi great i noticed you were checking out our nano plan but didnt complete the payment id love to understand what motivated you to consider our program and what your weight loss goals are based on your bmi of 3111 its clear your body is sending signals about how its handling weight and metabolism right now were genuinely excited to support your goals and the nano plan is designed to work with your bodys current state to make weight loss easier and more effective would you like to discuss a personalized plan to address these challenges and achieve sustainable weight loss great have you tried any weight loss programs before if yes did they work for you and did those programs work for you or were there challenges you faced with them i understand and thats quite common weve designed the nano plan to specifically address those challenges by getting to the root cause of weight gain let me tell you about what the nano plan offers it includes a blood test doctor consultation and a session with a senior health coach would you like me to explain how these can help you achieve your weight loss goals sure the blood test will help us understand key metabolic issues like insulin resistance or vitamin deficiencies that might be affecting your weight then a doctor specializing in obesity will go over your results in detail to create a personalized roadmap tailored to your needs finally a senior health coach will guide you with lifestyle changes that fit your specific conditions now that weve covered the offerings do you want me to explain the pricing information the nano plan costs rupees 1799 this includes the blood test doctor consultation and a health coach session all at a fraction of the market price its designed to be affordable while providing premium services how does that sound to you im glad to hear that now that weve talked about everything i think the nano plan can be really helpful for you to achieve your weight loss goals would you like to proceed with the payment process great here are your payment options you can either make a full payment of rupees 1799 upfront or opt for a partial payment of rupees 499 now and the remaining rupees 1399 at the time of blood sample collection ill send both payment links to your whatsapp on your registered mobile number do you have any more doubts or questions perfect ill send the payment links to your whatsapp shortly if you have any doubts in the future feel free to reach out goodbye and have a great day i noticed youve been quiet are you still there i noticed youve been quiet are you still there i noticed youve been quiet are you still there since i havent heard from you ill end the call now goodbye",
+  "entities": [
+    {
+      "index": 4,
+      "value": "priya",
+      "type": "PERSON"
+    },
+    {
+      "index": 7,
+      "value": "elevatenow",
+      "type": "ORGANIZATION"
+    },
+    {
+      "index": 12,
+      "value": "nidhi",
+      "type": "PERSON"
+    },
+    {
+      "index": 18,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 50,
+      "value": "3111",
+      "type": "OTHER"
+    },
+    {
+      "index": 112,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 240,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 344,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 407,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 408,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 475,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 538,
+      "value": "nano plan",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 584,
+      "value": "1799",
+      "type": "MONEY"
+    },
+    {
+      "index": 585,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 605,
+      "value": "499",
+      "type": "MONEY"
+    },
+    {
+      "index": 606,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 622,
+      "value": "1399",
+      "type": "MONEY"
+    },
+    {
+      "index": 623,
+      "value": "rupees",
+      "type": "MONEY"
+    },
+    {
+      "index": 645,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    },
+    {
+      "index": 682,
+      "value": "whatsapp",
+      "type": "PRODUCT"
+    }
+  ]
+}
